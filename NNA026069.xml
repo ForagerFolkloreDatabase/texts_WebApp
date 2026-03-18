@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Meat-Mother and the Caribou and Moose</title>
+        <editor role="collector">James Teit</editor>
+        <editor role="narrator">Tuu:ʼts ('strong rocks')</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NNA026069</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Teit, James A. (1919/21): Tahltan Tales. In: The Journal of American Folk-Lore 32(124), 198-250; 34(133/134), 223-253, 335-356. Quot. pp. 231-232.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA28403">Tahltan</name>
+          <date notAfter="1915" notBefore="1912" type="recorded">Recorded sometime between 1912 and 1915.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>The Meat-Mother watches her children the game, and also the people. When people do not follow the taboos, and do not treat <pb n="232"/>animals rightly, the latter tell their mother; and she punishes the people by taking the game away for a while, or by making it wild, and then the people starve. When she sees good people starving for want of game, she sends game to them, and they are made happy. This accounts for the great migrations of caribou. Sometimes Meat-Mother takes the caribou back, and keeps them with her for a year or two, because of something bad that people have done in some place. Then people have hard work hunting, and often starve. Then she takes pity on them, and tells the caribou to migrate there again. The caribou are her favorite children. The Moose children are the most apt to tell their mother of any disrespect shown them: therefore people have to be very careful as to how they treat moose.</p>
+    </body>
+  </text>
+</TEI>

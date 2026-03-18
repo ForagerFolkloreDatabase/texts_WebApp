@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Grizzly-Bear Twins; or, The Origin of The Grizzly-Bear Death-Song</title>
+        <editor role="collector">James Teit</editor>
+        <editor role="narrator">Tuu:ʼts ('strong rocks')</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NNA033451</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Teit, James A. (1919/21): Tahltan Tales. In: The Journal of American Folk-Lore 32(124), 198-250; 34(133/134), 223-253, 335-356. Quot. pp. 338-339.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA28403">Tahltan</name>
+          <date notAfter="1915" notBefore="1912" type="recorded">Recorded sometime between 1912 and 1915.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <note>Compare No. 59. Some informants claim that this story is properly the latter part of it. See Thompson (Teit, JE 8: 378, 379). The Tahltan claim that they did not sing songs at the death of a Bear, but that the Nass and Upper Skeena Indians did; and they think the story comes from there or farther south.</note>
+      </p>
+      <p>Once a woman was taken away by a grizzly bear and became his wife. She bore twins, and after a year she returned home with her children, who were half bear. They had some hair growing between the shoulders and around the wrists. The people often had games of playing bear, both children and elders. Some of them dressed in bear-skins, and the others hunted them, carrying sticks and wooden knives. When a person acting bear was overtaken, he stood up and fought. The Grizzly children were asked by the other children to play. They said, "We want you to show us how your father does." The Bear children asked their mother's permission, but she would not consent. Many times the cubs were asked, but their mother always refused. One day, however, she gave them their bear-skins. She also said, "I shall play bear too." As soon as the three put on their skins, they looked like real bears. They ran uphill into a hole, and the people acting hunters chased them. The Indians shouted, "Hoh!" as men do when they want a bear to come out of his hole. The three bears came out of the hole and attacked the people. They killed most of them, and the others ran away. Then the grizzly bears went into the mountains and never came back. As they went along, they sang a mourning-song known as "The Grizzly-Bear Song," because they were sorrowful for having killed their relatives. The people heard them singing, and learned the song.</p>
+      <p><pb n="339"/>This is said to have happened on the Upper Nass or Upper Skeena River: therefore, among the tribes to the south, hunters sing these mourning-songs for a bear whenever they kill one. The Grizzly twins were just like ordinary Indian children before they put on their bear-skins (and were born as such).</p>
+    </body>
+  </text>
+</TEI>

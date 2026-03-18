@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mink and the Crab Women</title>
+        <editor role="collector">Franz Boas</editor>
+        <editor role="narrator">Ēʼwŭltǃāla</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NNA023717</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Boas, Franz (1928): Bella Bella Texts. New York: Columbia University Press (Columbia University Contributions to Anthropology, 5). Quot. pp. 6-9.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA29022">Bellabella</name>
+          <date when="1897" type="recorded">Recorded in 1897.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>Then he was taken into the canoe by the women, / The women were going to dig clams. Then Mink stole / the clams that the women had gathered. Then / they went home.</p>
+      <p>It was morning again and the women went again digging clams. The Warriors [the wolves] came and took / Mink. [Mink]was taken along and they paddled away with him. / They paddled in front of the place where they were digging. The Crab Women asked / the Warriors "Who is your captive?" / said the Crab Women. "This is Mink," said the Warriors. "Kill him. / He is stealing our clams." / They paddled away with Mink. "I call you, / Northwest Wind," said / Mink. Northwest Wind began to blow. "Hold your paddles on your knees Warriors," said Mink. Then / they were paddling among snags [?]. "Back water, warriors, / my abalone nose ornament fell into the water!" / Mink dived and cut open / a sea slug. He took out the intestines and turned back again aboard the canoe of the Warriors. Then he jumped again on the end of the logs / which lay over the water. He went into the mink hole. / The Warriors went ashore and worked with their spears pushing them into the mink hole, Then they smelled of the smell of Mink, / but he had put the intestines / of the sea slug on the end of the spear. "Let us stop now. There is a smell of Mink, <pb n="9"/>his intestines came out." / They stopped and he was left. / The Warriors paddled away. Mink came out and / danced. "Old gụts of a sea slug is what you got, O Warriors," he said as he was dancing on the end of / the log. Then they just. left him. /</p>
+      <p>Mink returned. He came to the digging place, / "What did you say, Crab Women?"-"Save your captive, warriors, is what I said." Thus said the Crab Women, "You are the right one; / said Mink, "Kill your captive, / Warriors, I heard you say. / What is your word now? I will stab you in the back," / said Mink. Then he worked with a digging stick. They were stabbed in the back by Mink. Therefore / crabs are always stabbed in the back. / That is the end.</p>
+    </body>
+  </text>
+</TEI>

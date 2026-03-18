@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Black Grouse</title>
+        <editor role="collector">Glafira Makarina Vasilevich</editor>
+        <editor role="narrator">Kambagir A.</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NEE003445</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0">CC BY-NC-SA</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Däbritz, Chris Lasse/Gusev, Valentin/Stoynova, Natalia (2024): INEL Evenki Corpus. Version 2.0. Publication date 2024-12-31. Archived at Universität Hamburg. https://hdl.handle.net/11022/0000-0007-FE38-D. In: The INEL corpora of indigenous Northern Eurasian languages. https://hdl.handle.net/11022/0000-0007-F45A-1. Quot. p. s.p..</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CEE15803">Evenki</name>
+          <date notAfter="1929" notBefore="1928" type="recorded">Recorded sometime between 1928 and 1929.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>Earlier the black grouse had no name. Once the black grouse and the owl went to God, they were about to complain about each other.  They came to God, they began to complain about each other; the black grouse said: "The owl always catches me."  The owl said: "I never catch the black grouse, the black grouse is caught by the black grouse-hawk(?)."  The black grouse was heavily ashamed, it fell into the snow, until(?) it was covered by snow. Therefore it now has started to crawl  in the snow. God said: "Wild black grouse." So his name became "black grouse".</p>
+    </body>
+  </text>
+</TEI>

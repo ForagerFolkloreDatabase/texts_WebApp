@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Grouse-Girl (The Grouse-wife or The Mysterious Housekeeper)</title>
+        <editor role="collector">Frank Alfred Golder</editor>
+        <editor role="narrator">Nicoli Medvednikoff</editor>
+        <editor role="narrator">Mrs. Reed</editor>
+        <editor role="narrator">Corneil Panamaroff</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NNA031266</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Golder, Frank Alfred (1903): Tales from Kodiak Island. In: The Journal of American Folk-Lore 16(60/61), 16-31, 85-103. Quot. pp. 87-90.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA27722">Koniag Alutiiq</name>
+          <date notAfter="1903" notBefore="1900" type="recorded">Recorded sometime between 1900 and 1903.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>Two men, the older lame and unattractive, the younger sound and handsome, lived by themselves in a barrabara [native home], far from other human beings. When they arose in the morning, they drank some oil – to keep hunger away the rest of the day - and then went out hunting; one to the hills, and the other to the beach. In the evening one returned with seal meat, while his partner brought bear meat. Many years they lived in this manner without seeing or even knowing that other people existed.</p>
+      <p>After the usual breakfast one morning, the older man went to the <pb n="88"/>beach to hunt, and the younger man to the hills, and in the evening both returned loaded with seal and bear meat respectively. By rubbing together two sticks of wood, they soon had a fire over which they cooked some meat, and, after eating, put on their parkas [native dress] and sat outside on the barrabara, with their faces toward the sea. While sitting there, a grouse appeared and lit on the barrabara, near the younger man, and commenced pecking. "Why does the grouse come here?" the man asked, and pushed her away. She flew up, but returned a moment later to the place occupied before. Seeing her there again, the handsome fellow said to the other one, "What is the matter with the bird? Her home is on the hills, and yet she is bothering here." He drove her off, but she, not discouraged, came back to him. "What does she want?" he exclaimed impatiently, and forced her away rather roughly. When she descended the fourth time, it was by the side of the lame man who took her in his hand, began stroking her, and finally decided to keep her as his pet. Before retiring, the lame man made a nest for the bird near him, and then all turned in for the night.</p>
+      <p>The next morning the men went hunting as usual. As they approached the barrabara in the evening, they were greatly surprised to see smoke coming out of it, and on entering to find it clean, a warm supper waiting for them, and a pair of new torbarsar [shoes made of sealskin] garters hanging over the lame man's bed. "Somebody has been here to-day," said the younger man; and although they looked outside and inside, they found no one. The grouse was on her nest, her head hidden under her drooping wings, and looked altogether tired. Perceiving her condition, the lame man remarked, "The bird has had nothing to eat or drink the whole day; she must be both hungry and thirsty."</p>
+      <p>This little excitement did not prevent them from enjoying their supper, nor did it disturb their sound sleep during the night; and the next morning they proceeded with their daily occupation. As the evening before, they found their home in order, the meat cooked, and a pair of new torbarsars hanging where the garters hung the day previous. The grouse was on her nest, her head under the drooping wings, but no one else was to be found, although they searched a long time. After eating their supper, the older man fed and played with the grouse, and then they all went to sleep.</p>
+      <p>On account of the stormy weather, the several days following the men remained at home. During that time the bird tried once more to gain the good grace of the handsome man, but he treated her roughly, and would not let her come near him, and she avoided him after this. The first favorable day the two men went in different directions to hunt. As soon as the younger man was out of sight, <pb n="89"/>the lame man squatted down, saying, "I will watch to-day and see who cleans and cooks for us, and makes torbarsars for me." Slowly and cautiously he crawled back quite close to the barrabara, and waited. The morning passed without giving him a clue, but towards evening he saw smoke coming out of the smoke hole. He crept still closer, and heard footsteps within. While he lay there, guessing who it might be, a young and beautiful girl stepped out. Her face was white, hair and eyebrows black, the parka was of white grouse feathers, and the leggings of the fur seal torbarsars were white with various trimmings. He gazed at her, and when she went in, he followed her, watched her a moment at her work, and then seized her. "Ai-Ai-Y-a-h!" she exclaimed. "You scared me. Let me go." Instead he drew her fondly to him, and when he did so, her face reddened with blushes.</p>
+      <p>"I will not let you go," he said; but when he noticed a grouse skin on the nest, he freed her, and although she begged to have the skin back, he took it outside, and hid it.</p>
+      <p>The handsome man was both scared and amazed, but he asked no questions. Since it was customary for a newly married man to stay at home with his wife for a certain time, it was a long time before the old man went out hunting again. When he did so, he always returned before his partner, and generally found a pair of torbarsars or some other present waiting for him; but the younger man found nothing.</p>
+      <p>Though the younger man asked no questions, and knew not who the girl was and where she came from, he did a great deal of thinking. It puzzled him to know why the girl preferred a lame, old man to him a young, handsome man. She did not like him, he knew, for she never made anything for him, while the lame man had presents forced on him. He finally decided to take matters in his own hands, and make the girl his wife. One night, when the married couple were asleep, he arose and killed the lame man. Going back to his bed, he called to the girl to leave her dead husband, and be his wife. This she refused to do. "You cannot go away from here," he said; "you will have to be my wife."</p>
+      <p>"I will never be your wife," she answered; and getting up, she searched for the grouse skin among her husband's things, and found it in his tool bag. This she hid under her parka. When he called her again, saying, "Come, you are my wife," she replied, "I came here to be your wife, but you did not take me. Three times I came to you, and three times you chased me away. The last time you hurt me. I will not be your wife now." While speaking, she pulled out the grouse skin, shook it three times, and, when she had finished, <pb n="90"/>pulled it on herself, and flew out through the smoke hole, leaving the young, sound, and handsome man wifeless and partnerless.</p>
+    </body>
+  </text>
+</TEI>

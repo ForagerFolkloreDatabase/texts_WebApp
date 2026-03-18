@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Tales of Quarrels, Murder, and War (#10)</title>
+        <editor role="collector">James S. Mutch</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NNA024983</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Boas, Franz (1901): The Eskimo of Baffin Land and Hudson Bay. From notes collected by George Comer, James S. Mutch, and E. J. Peck. New York: AMNH (Bulletin of the American Museum of Natural History, 15,I). Quot. pp. 292-293.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA27903">Baffin Island Inuit</name>
+          <date notAfter="1899" notBefore="1883" type="recorded">Recorded sometime between 1883 and 1899.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>{292} Near Kimaksoo there once lived a very tall man whose name was Seacolearseawetto. He had a sister who was also very tall. He took her for his wife, as there was no other woman tall enough for him. His kayak was larger than any other. Common seal-skins were not large enough to cover it, so that ground-seals had to be used for this purpose. His float was a ground-seal skin.</p>
+      <p>He went sealing or whaling, no matter how strong the wind was blowing. When he killed a whale during a storm, he would fasten his float or drag to the whale, and let the wind and waves drive it ashore.</p>
+      <p>He never went on the ice until he was certain that it was thick enough to carry his weight. When the other men began to go sealing, the ice was still far too thin for him. In the evening, when the men returned with their seals, he took from them what he thought he would need. It was his habit to ask them to show their hands, and in this way he could tell if they had caught seals; for when a man cuts a seal, he washes the blood off his hands with snow or with water; or he scrapes it off with a knife, and licks off what is left with his tongue. The people were used to his ways, and did not mind his choosing their best seals.</p>
+      <p>When the ice was strong enough to bear the tall, heavy man, he went sealing with the others. Whenever he was unsuccessful, he took some of the seals caught by his companions. Finally they resented this imposition, and decided to kill him by means of a ruse. They agreed to go sealing again, and to sleep all night on the ice. Seacolearseawetto said, "I have never staid out over night. I cannot go into a small snow house on the ice." They replied, "Do as we do. The first time we sleep in a small snow house, we fasten our legs together at the ankles, the knees, and just above the knees, and we fasten our hands behind our backs with the sealing-line. Later on it is easy to adjust one's self to the small space." Finally they persuaded him to join them. At night he fastened his legs together, and his companions fastened his hands behind his back. Then he went to sleep. When they were quite certain that he was {293} sound asleep, they all fell on him with their knives and tried to kill him. He awoke, and broke his fastenings, but their knives had gone too deep. He was too weak to harm them, and died.</p>
+      <p>Then the men returned to the shore. When the first man reached the camp, Seacolearseawetto's wife asked, "Is my husband dead, that he has not come?" - "No, he is not dead," they replied. "He is with the others, who have many seals, and he has taken some of the seals from them." When the others arrived, she asked them, "Where is my husband? Is he dead?" They said, "No, he is not dead. He has many seals, and cannot travel quickly." She said to them again and again, "My husband is surely dead, else he would have been here by this time." They continued to answer, "He is coming, and will be here soon."</p>
+    </body>
+  </text>
+</TEI>

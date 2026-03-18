@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Origin of Death</title>
+        <editor role="collector">James S. Mutch</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NNA024882</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Boas, Franz (1901): The Eskimo of Baffin Land and Hudson Bay. From notes collected by George Comer, James S. Mutch, and E. J. Peck. New York: AMNH (Bulletin of the American Museum of Natural History, 15,I). Quot. p. 173.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA27903">Baffin Island Inuit</name>
+          <date notAfter="1899" notBefore="1883" type="recorded">Recorded sometime between 1883 and 1899.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>There were a great many Eskimo on Midliqjuaq. There were also a great many people in all the other places. At that time there had never been a death. There were but few islands, which, were floating about. They did not touch the bottom of the sea. The people on Midliqjuaq came to be so numerous that the island became top-heavy, and turned over. Thus a great many of the people were killed. Along time after this event had happened the waters began to recede, and the islands went aground. These were the first deaths; and ever since that time, man has continued to die. At the time when the waters receded, a whale was left ashore, and walruses were left at Lake Netchillik.</p>
+    </body>
+  </text>
+</TEI>

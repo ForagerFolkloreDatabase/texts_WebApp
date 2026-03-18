@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Story of Three Girls</title>
+        <editor role="collector">George Comer</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NNA025038</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Boas, Franz (1901): The Eskimo of Baffin Land and Hudson Bay. From notes collected by George Comer, James S. Mutch, and E. J. Peck. New York: AMNH (Bulletin of the American Museum of Natural History, 15,I). Quot. pp. 317-319.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA27803">Kivallirmiut</name>
+          <date notAfter="1901" notBefore="1897" type="recorded">Recorded sometime between 1897 and 1901.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>Three girls were at play near the beach. When they saw a whale blowing, one of them said jokingly, "I will take the Whale for. my husband." The second one looked up and saw a large Eagle. She said, "I will take the Eagle for my husband." The third one, pointing to a large Bowlder, said, "I will take the Bowlder for my husband." While saying so, she went up to the Bowlder and put her hands on top of it, but she was not able to take them off again.</p>
+      <p>The Eagle came down and carried the girl to his nest on a high cliff, and the Whale carried off the third one to an island. The Whale gave the bones of his body to the girl to build a house, and she became able to live in the water or on the land, wherever she pleased. One day the father and the brothers of this girl came in their boat to an island. When she saw them coming, she told her husband that she wished to go to the island. The Whale, who was afraid that he might lose her, fastened a line round her, and then let her go, holding the other end of the line. After she reached the island, she took the line off and tied it to one of her buckles, to which her father gave the power to speak. Soon the Whale shouted {318} and asked her, "Are you ready to come back?" The Buckle replied, "After a little while." The Whale called again. Again the Buckle replied, "I cannot come yet." Then the Whale became angry, and hauled in the line; and when he saw there was only a buckle attached to it, he flew into a rage, swam ashore, tore the house down, and put the bones back into his body. But in his fury he forgot to take his breast-bone and hip-bone. Meanwhile the father and the brother, who had taken away the young woman, had a long start, but the Whale set out in pursuit. After a while he was drawing near. Then the father of the young woman told her to throw her boots into the sea. When the Whale came, he stopped and struck them with his tail until they fell to pieces. Then he continued his pursuit. When he came near, she threw her jacket into the sea. Again the Whale stopped and struck the jacket until it was torn. In this way they succeeded in getting away from their pursuer. When the Whale pursued them again, she threw another piece of her clothing into the water. Again the Whale stopped and struck it with his tail. When all her clothes were thrown away, they found themselves close to the shore. They pulled the boat over a reef, and soon landed. The Whale, in his hot pursuit, did not notice the reef, and stranded. When the tide went out, the people killed him without difficulty.</p>
+      <p>The father and the brothers of the second girl, who had been carried away by the Eagle, also set out to rescue her. Whenever the Eagle was away caribou-hunting, she was working on a line made of sinews of caribou's legs. When she saw her father and her brothers coming, she told the Eagle that there were a great many caribou in a certain place far away. The Eagle believed her, and flew away to hunt the caribou. Then she finished the line, which was now long enough to reach down to the water. She let it down, and her father and her brothers took hold of the end. She climbed down, was taken into the boat, and they returned home. When the Eagle came home and found that she was gone, he flew to the village and tried to recover her. He broke the window of her father's house with his wings, but {319} her father shot him with an arrow and killed him. The people point out the Eagle's cliff up to the present day. They say that the people used to cut off pieces from the line until it was out of reach.</p>
+      <p>The third girl, who had married the Bowlder, was unable to let go, and so gradually turned into stone. But the people used to bring her food as long as there was any life left in her. This stone is also pointed put to children.[[See No. 34, p. 217.]]</p>
+    </body>
+  </text>
+</TEI>

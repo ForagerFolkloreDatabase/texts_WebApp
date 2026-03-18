@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Spirit of the Dancing-House</title>
+        <editor role="collector">George Comer</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NNA025044</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Boas, Franz (1901): The Eskimo of Baffin Land and Hudson Bay. From notes collected by George Comer, James S. Mutch, and E. J. Peck. New York: AMNH (Bulletin of the American Museum of Natural History, 15,I). Quot. pp. 331-332.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA27803">Kivallirmiut</name>
+          <date notAfter="1901" notBefore="1897" type="recorded">Recorded sometime between 1897 and 1901.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>The people had abandoned a village, and had built another one near by. One night two men went to the dancing-house in the old village; and while one remained outside, the other one started to enter. While he was passing in, he said, "Where are the people who dance?" As he stooped to enter through the doorway, he saw afoot. He said, "I see a foot." Then he touched it with his hand, and felt the leg, saying, "I feel the leg." Then he said, "I feel the thigh;" and creeping in farther, he said, "I feel the body, I feel the arm, I feel the head." Then he felt for the hair, but there was none; and he said, "I do not feel any hair." At this moment the spirit tried to take hold of him, saying at the same time, "I have no hair;" but at that moment the man jumped through the window and {332} made his escape. He told his companion what had happened to him, and from this time on he was a great angakok.[[See Boas, Central Eskimo, p. 636.]]</p>
+    </body>
+  </text>
+</TEI>

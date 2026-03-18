@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Tales of Bear-Hunters (#3)</title>
+        <editor role="collector">James S. Mutch</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NNA024964</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Boas, Franz (1901): The Eskimo of Baffin Land and Hudson Bay. From notes collected by George Comer, James S. Mutch, and E. J. Peck. New York: AMNH (Bulletin of the American Museum of Natural History, 15,I). Quot. p. 263.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA27903">Baffin Island Inuit</name>
+          <date notAfter="1899" notBefore="1883" type="recorded">Recorded sometime between 1883 and 1899.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>One autumn Kulwa was hunting caribou near Qivitung, when he saw a bear quite close by. He hit it with an arrow. The bear turned to attack Kulwa, who ran away. While he was running, he slipped and fell. Then the bear suddenly turned around and ran towards the edge of the water, looking back every now and then. Kulwa was just raising himself when the bear looked back for the first time. He pursued it, and might have caught up with it had it not jumped into the water and swam a short distance to a cake of ice, on which it died. The ice drifted away, and Kulwa was unable to get the bear.</p>
+    </body>
+  </text>
+</TEI>

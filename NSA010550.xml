@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Stealing of the Fire (version 1)</title>
+        <editor role="collector">Alfred Métraux</editor>
+        <editor role="narrator">Pedro</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NSA010550</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Métraux, Alfred (1939): Myths and Tales of the Matako Indians (The Gran Chaco, Argentinia). In: Ethnological Studies/Etnologiska Studier 9, 1-127. Quot. p. 52.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CSA39401">Wichí</name>
+          <date when="1933" type="recorded">Recorded in 1933.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>In olden times the jaguar was the sole owner of fire. He would give some of it away only if presents were given him in return. The people would take fish to him and in exchange the jaguar gave them fire with which to cook. Once a rat with a flattened head, the sičúrn, tried to steal some fire. He dug his way into the earth until he was underneath the hearth of the jaguar. The jaguar had been watching his fire and he saw the rat just as he was about to take an ember. He struck the rat on the head and that is why it is flat now. Another rat succeeded in stealing an ember. This rat has a black spot on his neck. He was lucky enough to get close to the fire without being seen. He picked up an ember and ran off holding it against his neck. He still has a burnt spot there, the mark of the fire. Using the inside of a cactus as tinder he lighted a big fire and then he distributed it. That is why all men have fire.</p>
+    </body>
+  </text>
+</TEI>

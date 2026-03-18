@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>[The Talking Dog and the Forest-Devil]</title>
+        <editor role="collector">Petr Suvorov</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NEE004751</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Schiefner, Anton (2025): Yukaghir and Tungusic tales. Trans. for the Forager Folklore Database (FFDB Documents). Quot. p. 3.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CEE15401">Yukaghir</name>
+          <date when="1861" type="recorded">Recorded in 1861.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>Many people live, I know not, from where they came; with them is a puppy. It speaks like a human. Unto them came a forest-devil from far away, it screams, "Humans, bring me across." They tell him, "Downstream is a ford, go over there!" The forest-devil went there; the humans went away, made the dog a grass hut. Near them under the mountain is a dam, there lies a fishing trap. The forest-devil came to where the humans live, asked the speaking dog, "Where are the humans?" The dog said to him, "The humans have gone away." "I wish to eat," said the forest-devil to the dog, "go, check the fishing trap." The dog said to him, "Go, check yourself." The forest-devil went, caught many fish with the trap, swallowed everything. Satiated he lay down in the grass yurt to sleep, fell fast asleep, the puppy placed firewood beneath and burned the hut, with it the forest-devil burned. The belly burst, a big bang went out. The humans lived well on this.</p>
+    </body>
+  </text>
+</TEI>

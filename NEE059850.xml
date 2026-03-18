@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>How Dyoa Pretended to be Dead</title>
+        <editor role="collector">Natalia Mitrofanovna Tereshchenko</editor>
+        <editor role="narrator">Palchin Nikolay Sergeevich</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NEE059850</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0">CC BY-NC-SA</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Shluinsky, Andrey/Khanina, Olesya/Wagner-Nagy, Beáta (2024): INEL Enets Corpus. Version 1.0. Publication date 2024-11-30. https://hdl.handle.net/11022/0000-0007-FE1D-C. Archived at Universität Hamburg. In: The INEL corpora of indigenous Northern Eurasian languages. https://hdl.handle.net/11022/0000-0007-F45A-1 Quot. p. s.p..</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CEE15008">Forest Enets</name>
+          <date when="1962" type="recorded">Recorded in 1962.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>Dyooa became a dead man. There live Dyooa and Nibiyu. Their Bunelya lives with them. Bunelya is Dyooa's son.  Dyooa's tent is on the bank of a river. There are a lot of fish in this river. Dyooa gets fish from the river and makes it dry. He puts dried caviar into a bast box.  He stores dried fish and caviar for the winter food. Dyooa has a lot of dried fish and caviar.  One day Dyooa fell ill. He is seriously ill. Before he died, he said to Nibiyu and to Bunelya.  If I die, leave me caviar in my tomb tent.  A few days later Dyooa died. They put bast box of caviar into Dyooa's tomb tent.  After Dyooa died, Bunelya and Nibiyu are two who live there. Bunelya plays with a bow.  Donât walk near the dead Dyooa, said Nibiyu, he died suffering, he will bewitch you.  When Bunelya plays during the day, he plays near Dyooa and always keeps looking at Dyooa.  Dyooa from time to time is sitting in his tomb tent, eats caviar and says to Bunelya.  Bunelya, ha-ha! When Bunelya comes home in the evening, he says Nibiyu.  Nibiyu, it seems, Dyooa is alive, he is sometimes sitting in his tomb tent, he eats caviar and says to me, âBunelya, ha-ha!â.  But I had said to you, donât walk near Dyooa, he is a person who died suffering, Nibiyu said, donât walk there anymore.  When Bunelya goes there, Dyooa is always  like that. Dyooa is not dead, Bunelya thinks, he has cheated us.  Later, Dyooa, Iâll do something to you, as well. One day, when Dyooa was behaving that way, Bunelya cried near  Dyooa. Nibiyu, where have you gone? Seven polar bears will now be swimming across the river.  What are we going to do, they are now going to pull out the dead old man who died suffering. Quickly give me my bow!  Having heard this, Dyooa broke his tomb tent, came out of his coffin and shouted.  Bunelya, where, where are they coming from? Dyooa revived and ate all the caviar.</p>
+    </body>
+  </text>
+</TEI>

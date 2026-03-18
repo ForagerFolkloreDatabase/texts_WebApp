@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Story about Adlet and Tornit</title>
+        <editor role="collector">James S. Mutch</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NNA024916</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Boas, Franz (1901): The Eskimo of Baffin Land and Hudson Bay. From notes collected by George Comer, James S. Mutch, and E. J. Peck. New York: AMNH (Bulletin of the American Museum of Natural History, 15,I). Quot. pp. 212-213.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA27903">Baffin Island Inuit</name>
+          <date notAfter="1899" notBefore="1883" type="recorded">Recorded sometime between 1883 and 1899.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>A man and his wife were travelling about in winter in the country of the Iglumiut. One day they saw a number of dwellings. The man said to his wife, "I will go and see what kind of people are living there." He went to the huts, and looked through the window-opening. Then he saw a great many boys and girls playing in the house. They were Adlet. The man went to the door, snatched up a knife, and killed all the children except one boy, who escaped, ran to the parents of the children, and told them what had happened. The Adlet were all assembled in their dancing-house. Then they ran to the door of the hut in which all the children had been murdered, and tried to enter through the door and the window. When the man saw them coming, he made a rush, and succeeded in escaping. Although the Adlet are fleet of foot, the man was still fleeter. After he had run for some time, a gale arose, and the snow began to drift. Then the Adlet gave up the pursuit and returned home. Some of them were frozen to death in the gale. When the woman saw her husband being pursued, she ran away in the opposite direction, and kept on for some time. Then she turned to join her husband. On the third day they met again. The woman said to her husband, "I was afraid you might have been killed." But he told her what had happened, and how he made his escape.</p>
+      <p>They travelled on for some time, and came to a place where there were several dwellings. The man said to his wife, "Let us see who is living here;" but before he reached the snow houses, he saw the people coming out of them. They were real men. Then they both went down to meet them, and the man said, "I was not sure whether you were men or Adlet." Now he told them of his adventures. The people invited them into their houses; and when night came, they all went to sleep. But the man and his wife were unable to sleep because of large lice which tormented them. On the following day he told the people that it was too hot in the house for his wife's health, and he built a house for himself. There they {213} lived some time, and the man went hunting with the other people. Finally they decided to move on.</p>
+      <p>They travelled for many days. Then they came to a large stone house. A tuneq and his wife were living there. The tuneq was hunting walrus. He was so strong that he could haul a whole walrus up to the shore as a man hauls up a small seal. He kept his walrus in a large stone cache. When, after a while, the visitor expressed the wish to continue his travels, the tuneq advised him to stay until the end of the summer, since the heat and the mosquitoes would kill him if he should venture out. Then he told the man that he was storing all this walrus-meat for summer use, since it was impossible to leave the hut in the summer on account of the heat and the mosquitoes.</p>
+      <p>The visitor remained with the tuneq for some time; but finally he became tired of staying in the house, and insisted on going caribou-hunting, if only for a single day. The tuneq warned him, saying, "It is still too warm. The mosquitoes will kill you." The man took his advice and staid at home. After some time, however, he became impatient again, and, notwithstanding the tuneq's warning, he insisted on going out. The tuneq said, "I do not want you to die; the mosquitoes are dreadful, they will certainly kill you;" but the man replied, "I will only go for a single day. I will kill them with my stick." About this time it was nearly autumn. The man went out, saying that he would just try, and if he found it too hot, he would return at once. Evening came, but he did not return. They waited day after day, but he did not come. When it began to be cold, the tuneq went out and searched all over the country for his friend. Finally he found him dead. He had his stick in his hand, and many mosquitoes were lying dead beside him, but they had sucked out all his blood. Then the tuneq went home and told the woman how her husband had died.</p>
+    </body>
+  </text>
+</TEI>

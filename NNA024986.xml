@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Tales of Caribou-Hunters (#4)</title>
+        <editor role="collector">James S. Mutch</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NNA024986</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Boas, Franz (1901): The Eskimo of Baffin Land and Hudson Bay. From notes collected by George Comer, James S. Mutch, and E. J. Peck. New York: AMNH (Bulletin of the American Museum of Natural History, 15,I). Quot. p. 271.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA27903">Baffin Island Inuit</name>
+          <date notAfter="1899" notBefore="1883" type="recorded">Recorded sometime between 1883 and 1899.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>A man named Kudlang and his son were out caribou-hunting near Ugdjuktung, in Saumia. When they came to a lake, they saw a caribou standing in the water on the opposite side, throwing the water about with its antlers. On coming nearer, they were much surprised to hear the noise it was making, dashing its antlers against the rocks. They stopped, and after some consideration Kudlang told his boy that he would try to shoot the caribou. He crept up to it, and when near enough tried to shoot it; but the cap of his gun snapped. The caribou did not notice him, on account of the noise it was making when striking the rocks. Then it went back to the pond and threw the water about. Meanwhile the man had put another cap on his gun; and when he was near enough, he fired. The caribou stopped, and, on seeing Kudlang, started to attack him. The man ran around the bowlders in order to escape it. Finally the caribou ran right up to a bowlder, struck it with its head, and fell down dead. Then Kudlang called the boy to come. He said to him, "This is not a caribou. It smells quite different. Its hind-quarters are bare, and its antlers are worn off from striking against the bowlders." They took off the skin, cut it open, and in its stomach found great tufts of moss that had not been chewed. The flesh tasted bad, although the fat looked very nice. They covered the k flesh up and went home.</p>
+    </body>
+  </text>
+</TEI>

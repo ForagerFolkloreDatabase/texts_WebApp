@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Bunched Stars</title>
+        <editor role="collector">Christiaan Cornelis Uhlenbeck</editor>
+        <editor role="narrator">Joseph Tatsey</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NNA037498</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Uhlenbeck, Christiaan C. (1912): A New Series of Blackfoot Texts from the Southern Peigans Blackfoot Reservation, Teton County, Montana. With the help of Joseph Tatsey collected and published with an English translation. Amsterdam: Müller (Verhandelingen der Koninklijke Akademie van Wetenschappen te Amsterdam, Afdeeling Letterkunde, NS 13,I). Quot. pp. 112-113.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA31305">Piegan</name>
+          <date when="1911" type="recorded">Recorded in 1911.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>Long ago the ancient Peigans were all camping together. It was in the spring of- the year, they were running buffalo [that means: <pb n="113"/>they were driving the buffalo over the cliffs]. There were some boys, [who] told their fathers: Give us skins of yellow calves for robes. And those men were running buffalo, they killed them, and they came back with the pieces of the carcases. When they came, they had not got skins for their children. These boys went by themselves. They did not go with all the [other children]. They said to one another: It is bad, that our fathers did not get skins for robes for us. They were offended. One said: Let us go away. And another one said: We shall have no place to go. And one said: Where shall we go? And another one said: Let us go on high. Our people will then know from it, that when there are yellow calves, they will not see us. Since that time [literally: now] the Bunched Stars [the Pleiades] are there in the fall of the year. In the spring the Bunched Stars are not seen, [for] then there are yellow calves.<note>Cf. Wissler-Duvall mbi 71 sq., and Mc Clintock ont 490.</note></p>
+    </body>
+  </text>
+</TEI>

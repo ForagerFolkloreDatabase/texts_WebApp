@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Stories about Adlet (#2)</title>
+        <editor role="collector">James S. Mutch</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NNA024907</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Boas, Franz (1901): The Eskimo of Baffin Land and Hudson Bay. From notes collected by George Comer, James S. Mutch, and E. J. Peck. New York: AMNH (Bulletin of the American Museum of Natural History, 15,I). Quot. pp. 204-206.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA27903">Baffin Island Inuit</name>
+          <date notAfter="1899" notBefore="1883" type="recorded">Recorded sometime between 1883 and 1899.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>The Adlet had a camp in Aggo. One day a man and his wife who had been caribou-hunting reached their village. They wished to see who was living there, and went to the door of one of the huts. They found an old blind man guarding the hut while the people were off hunting. When the strangers entered the hut and closed the door, the old man howled like a dog that is afraid of another dog, and said, "I smell a man." The hunter replied, "Yes, we are men." Then the Adla asked, "Have you a knife?" The hunter replied, "I have a knife, but I do not intend to do any harm to you." Then the Adla felt relieved, and he invited them to sit down by his side. The hunter and his wife saw that there were also two women in the house. They were the wives of the old Adla's sons. The old Adla said, "I cannot see very well. I thank you very much for not harming me with your knife. My two sons are out sealing. They always come home before the others. They {205} live in this hut. They asked me to watch it while they are away. I shall ask them to protect you against the other Adlet. They are their chiefs." When the sons arrived, their father told them that there were strangers in the house, - a man and a woman. He said, "They might have killed me and your wives, since we were not able to defend ourselves. They do not intend to harm any one." When the Adlet came home, one son took his stand in the doorway, while the other stood on the floor of the house. The people knew at once by the smell that people had arrived at the village. They were howling like dogs when they know their meal is ready. They were told, however, that they must not enter the hut, so they returned to their own homes. On the following day the Adlet went off again sealing. In the evening they returned, and the two sons again protected the people against the other Adlet; but there was hardly any noise that night. Finally the Adlet became accustomed to them, and they even went hunting together.</p>
+      <p>One day the old man told the husband, "If you love your wife, and if you pity her, you must do as follows: 'As soon as she begins to menstruate, see to it that you take her out to all further huts. Then the departed men, when they will have brought the caribou-skin where she lies will copulate with her. Thus all the impure blood will be driven out.'" He obeyed, and with the help of the old Adla's sons he led her around all the huts, until all the ichor was expelled. Finally she was so weak that her husband had to carry her along; but, since all the bad blood was now out of her body, she became, after she had recovered, exceedingly strong and fleet of foot.</p>
+      <p>Then the old man told the woman to run a race with their dogs. He told her to run around a high hill and back again They started, and in a short time were out of sight. It was not long before they were seen again returning, and both the dogs and the woman arrived at the same time. She was able to run as fast as a caribou. One day, when the man and the Adlet returned from hunting, the two sons of the old Adla said that they were surprised that the man could not run as fast as they did. Then the old Adla told them to take him to {206} a lake. He took off his boots, and let him sit with his legs in the water up to the knees, until his legs became numb. Then they took him out of the water, and the two sons of the old Adla cut a piece out of his instep about as long as the width of a hand; and they pressed out some blood and some white matter. Very soon the wounds healed up. Then the man was able to run as fast as the Adlet. Some time passed, when one day the old man said to the hunter and to his wife, "You are thinking about going to your home." - "Yes," replied the man. When the two sons of the Adla heard of this, they were sorry. They gave them the dogs with which the woman had raced around the hill, saying, "When you reach the sea, and catch your first ground-seal, cut it up into a rope and let the dogs bring it back." Then the man and the woman started. After some time they came to a place where they saw some people who seemed to be very fierce. They were afraid, and ran away pursued by these people. When the man grew tired, he rode on the back of one of the dogs. His wife was able to run as fast as a caribou. In this manner they easily escaped. Soon they saw the people return to their huts. In time they reached their own country. Then the man went hunting, and as soon as he caught a ground-seal, he cut it up into a rope and wound it around the dogs' necks. Some time after this, when out caribou-hunting, he met some of the Adlet. They told him that the dogs had brought the ground-seal to their home. The man and the woman thanked the Adlet for having made them strong, and fleet of foot.</p>
+    </body>
+  </text>
+</TEI>

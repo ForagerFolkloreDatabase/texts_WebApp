@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Old Man of the Volcano</title>
+        <editor role="collector">Frank Alfred Golder</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NNA031228</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Golder, Frank Alfred (1909): Eskimo and Aleut Stories from Alaska. In: The Journal of American Folk-Lore 22(83), 10-24. Quot. pp. 11-14.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA27722">Koniag Alutiiq</name>
+          <date notAfter="1909" notBefore="1900" type="recorded">Recorded sometime between 1900 and 1909.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>On the eastern side of a river was situated a populous village; on the western bank there was but one barabara in which lived an old couple with their son. The old people were feeble, and did not think they had long to live; they therefore asked their son to go over to the village and get married. He did as he was bidden, crossed over, married, and came back with a wife. Not long after this event the father and mother died, leaving the young couple alone. At the end of the first year of the marriage a daughter was born, who, after being bathed two or three times, began to talk. Another year passed, and a little boy came to the family. As the children grew up the father became very fond of them, particularly of the boy, who very often went down to the beach to meet him as he returned from his work. For in order to provide for his little family, the father went out daily in his boat to hunt for sea animals and birds, and always came back well loaded.</p>
+      <p><pb n="12"/>But one day the man came home with little game and looking very sad. His wife asked the cause of his unhappiness, and he answered roughly that seals were scarce. From that day on, the poor woman could not depend with any regularity on his home-coming. Sometimes he would not put in an appearance until late in the night, and frequently he stayed away two or three days together. He brought so little game that the family had barely enough to live on. When at home, he was dejected and could hardly be made to talk. His wife's questions were generally cut short by brutal answers.</p>
+      <p>Things kept going from bad to worse, and the climax was reached when the man disappeared altogether. Days and weeks passed without bringing any tidings of his whereabouts. In looking over a basket filled with various objects, the woman came across the head and claws of an eagle which had been given her when she was a girl. These she shook and worked on until she made a large eagle's skin, which she put on herself and flew away to find her husband, who, she feared, was starving or lying ill somewhere. She flew a long time, and came to the outskirts of a large village, alighting near a barabara alongside of which bubbled a spring to which the women came for water. From where she was, the eagle could see a bidarka with her husband in it coming towards the shore. At the same time her attention was drawn to a young woman running to the spring to fetch some water, and, after leaving it in the hut, hurrying down to the beach to greet her faithless husband. Following her rival, the eagle swooped down on the man, and, snatching him in her claws, flew with him into the clouds, from whence she dropped him into the sea.</p>
+      <p>From this tragedy the eagle flew home to her children, whom she found safe. To the boy she gave a feather and a pebble to eat, which he did. Up to this time all those who had gone up the river failed to return, no one knowing just what had become of them. The boy, when he grew up, told his mother that he had made up his mind to go upstream. She tried in vain to dissuade him from his enterprise by pointing out the dangers and citing cases of strong and brave hunters who had lost their lives in the undertaking. Seeing that he was determined, she yielded, and gave him to take with him a needle and this advice, "If you are in trouble, think of the feather; should no help come from that, remember the pebble; and if very hard pressed, make use of the needle." The next morning he got into his boat and paddled upstream until he came to a cave into which the tide was setting with such force that he was unable to keep out of it. In the cave he felt a current of warm air and saw a smooth beach, on which he pulled up his bidarka. Pretty soon afterwards he became aware of some one approaching, and great was the boy's fright when he saw near him a large old man breathing fire. There was, however, no harm done him, except that the old man asked him to follow. They marched into the interior, passing through dark and hot <pb n="13"/>places, gradually ascending to lighter and cooler atmosphere, until they stood on the summit of a mountain whose sides sheered straight down into the sea. "If you wish to live with me," said the old man, "you must jump off this bluff;" and with this he gave him a push, and the boy felt himself going down, down. He thought of his mother's advice about the feather, and by doing so became a feather and was carried by the wind back to the top of the mountain. There he resumed his human shape, and went back to his boat and proceeded in his ascent of the river, coming to a bay partly inclosed by steep black walls. In the distance, at the head of the bay, a barabara was visible, and thither the boy pulled and landed. He went in and found a very stout old woman and a young girl, who began to weep when she saw him.</p>
+      <p>"Why do you weep?" said the old woman. "Who is dead or drowning at sea?" - "I am not drowned. I died neither on land nor on sea," answered the boy. "If you are alive, come in; but if dead, stay out." - "I am alive," he replied, and went in.</p>
+      <p>When a few questions had been asked and answered, the old woman proposed that the young couple should marry, which was done. The young wife did not love her husband, and begged the old woman to have him killed for fresh meat, but the latter put her off by saying that he was not fat enough. At last the old woman consented to have him killed, and for this purpose told him to go to the top of the hill, to the home of her brother, and there take a bath. He suspected treachery, and was on the lookout.</p>
+      <p>At the top of the hill a stout old man waited for him to take him to the bath-house, and urged him to hurry with his bathing, for he had a hot roasted codfish waiting for him. When the boy went in, the old man closed up all openings and poured hot oil on the heated rocks in order to smother him; but the boy changed himself into a pebble, and remained so until the door was opened and fresh air blew in. On seeing him come out unharmed, the old man exclaimed, "Ah, you are different from the others!" After having eaten his roasted fish, the old man proposed to the young one to take a run along the edge of the cliffs. This proposition was accepted on condition that the old man take the lead. They started off; and when they reached a steep and dangerous place, the boy shoved his companion off, and he disappeared out of sight. From here he returned home, where he found his wife sitting near the fire and the old woman soundly asleep. His wife he called outside and shot her with the needle his mother gave him, and then he shot the old woman with the same weapon.</p>
+      <p>Having had enough adventure, he started down the stream to where his mother was; and to her and others he related all that had happened to him. The chief of the village was so delighted that he gave him his daughter in marriage. After that time no harm came to those who went <pb n="14"/>upstream; but they must not approach the cave at flood-tide, for they will be drawn in.</p>
+      <p>Each volcano has a master. He breathes fire, and he it was who met the boy in the cave. This old man of the volcano does not like rivals, and kills all who come in his way.</p>
+    </body>
+  </text>
+</TEI>

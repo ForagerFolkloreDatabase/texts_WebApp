@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Dyoa Cheating a Shaman</title>
+        <editor role="collector">V. A. Susekov</editor>
+        <editor role="collector">Ya. A. Glukhy</editor>
+        <editor role="narrator">Palchin Nikolay Sergeevich</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NEE059730</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0">CC BY-NC-SA</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Shluinsky, Andrey/Khanina, Olesya/Wagner-Nagy, Beáta (2024): INEL Enets Corpus. Version 1.0. Publication date 2024-11-30. https://hdl.handle.net/11022/0000-0007-FE1D-C. Archived at Universität Hamburg. In: The INEL corpora of indigenous Northern Eurasian languages. https://hdl.handle.net/11022/0000-0007-F45A-1 Quot. p. s.p..</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CEE15008">Forest Enets</name>
+          <date when="1980" type="recorded">Recorded in 1980.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>Dyooa. After that, Dyooa pushed his bark boat into the river again. Dyooa swims along the river <note>[ShA:] The word metaduj appearing in SB2005 is absent in the original publication GS1982 and anyway is not clear.</note>with a song, only the sound of singing is heard. Whether he went for a long time or little - he just looks ahead, a tent is visible in front of him again.<note>[ShA:] Ablative case form mÉkoz is syntactically unclear here.</note> Dyooa went to the tent that was on the bank of the river. Dyooa dragged his boat up, after he dragged his boat, he went to the tent.  As he opened the door to the tent, there was an old lady and a guy in the tent again.  Dyooa said to the old woman: "Old woman, I can't find a tent to live.<note>[ShA:] In GS1982, вродеаðа instead of ((…)).</note>If I live with you, will it be bad?" The old woman said: "Why will it be bad? We are just looking for a  friend, our man, so let's live." Dyooa started to live with the old woman. Dyooa  went outside, he likes to fish alone. Dyooa started fishing, and the old woman dries the fish, it's her permanent work.  The old woman, when she dries the fish, collects fish caviar separately, in a separate place, in a barrel.  The old woman, while Dyooa was hunting, collected two or more butts of fish <note>[ShA:] The prolative form kadʼaaɔn looks syntactically strange.</note>caviar into barrels. Dyooa said after a while: "Old woman, I think I am sick now, I am sick, I think", - he said. Dyooa is lying on  his bed, groaning. After a while, he said to the old woman: "People say that somewhere, they say, there are shamans.  The shaman, - he says, - you would bring me, maybe he will cure me."<note>[ShA:] The structure of iz(o)buta is unclear.</note> Maybe the old woman was gone for long, at some point she brought the shaman. This old woman then made the shaman to practice the shaman's rite. Only groans are heard from Dyooa. Dyooa looked after a while - this shaman  is a strong, a well-dressed man. The shaman's dressing has a fringe - squirrel tails, sable  tails, sable skin, squirrel skin. So Dyooa jumped up, took out his hammer, after he took out his hammer, I don't know, he took out his ax.  When he hit the shaman with the butt of the ax, again the shaman's legs only twitch.  He took off all the clothes of this shaman. Dyooa said: "Here, I was not sick, I'll take your clothes for myself."  Dyooa after that after a while Dyooa got sick again. They probably took the shaman somewhere,  probably buried him. Dyooa is very sick, Dyooa died. They buried  Dyooa in a tomb tent. They put Dyooa's prey, his fish caviar, into his tomb tent. After some time, Bunelya said to the old woman: "Dyooa, it seems, has not died, it seems, he is alive." Bunelya says to the old  woman: "Dyooa says, "Bunelya, ha-ha". I see between the sticks of the tomb tent that Dyooa has all his teeth in caviar.'.  The old woman said: "Bunelya, do not go near the dead Dyooa, he will seem to you."  Bunelya said: "I will frighten Dyooa." After some time, Bunelya went to the  deceased Dea. In the same way, Dyooa said: "Bunelya, ha-ha." Bunelya thinks: "I'll frighten you now."<note>[ShA:] The word Бихунынь present in SB2005 is absent in GS1982.</note> Bunelya said after a while: "Dyooa, from the other side of river, seven bears descended into the water." Bunelya said: "They will eat the dead Dyooa, they will eat Dyooa's the fish caviar." Dyooa jumped up, got  afraid, split his tomb tent into two parts. Dyooa said: "Bunelya, where, where?" Dyooa was alive, it turns out. So, Dyooa is like that.</p>
+    </body>
+  </text>
+</TEI>

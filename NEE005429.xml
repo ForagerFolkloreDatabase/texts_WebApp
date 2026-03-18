@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Fox and Women</title>
+        <editor role="collector">Glafira Makarina Vasilevich</editor>
+        <editor role="narrator">Kaplin Ilya</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NEE005429</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0">CC BY-NC-SA</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Däbritz, Chris Lasse/Gusev, Valentin/Stoynova, Natalia (2024): INEL Evenki Corpus. Version 2.0. Publication date 2024-12-31. Archived at Universität Hamburg. https://hdl.handle.net/11022/0000-0007-FE38-D. In: The INEL corpora of indigenous Northern Eurasian languages. https://hdl.handle.net/11022/0000-0007-F45A-1. Quot. p. s.p..</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CEE15803">Evenki</name>
+          <date when="1931" type="recorded">Recorded in 1931.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>Three women are going by boat, they have three bags of dried meat. A fox shouted: "Women, take me into the boat."  They took it. While driving the fox said: "Seat me into the boat, cover [me]. Seeing mountains and rivers, I will tell the names of the river and the mountain while sleeping.  It fell asleep.  "Which river can be seen there?", they asked. "Bag strings, bag strings!" Driving, they  asked: "Which river can be seen there?" "Bridle, bridle!" Then they still went on.  "Fox, which river can be seen?" "[Of] lice, [of] lice! Land", it said, "I want to pee!"  They landed, the fox went to pee. Peeing it laughed and shouted: "Hahaha, I have eaten up the whole dried  meat." There the women started to chase him with sticks. The fox climbed up  onto a tree. They lit it up. The fox said to the fire: "Don't eat [me] completely, let a sleeve's length behind."  The fire let a sleeve's length behind. Since then the tail of the fox is [as long as] a sleeve.</p>
+    </body>
+  </text>
+</TEI>

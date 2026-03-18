@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A Young Man in Search of a Wife</title>
+        <editor role="collector">John W. Chapman</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NNA040072</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Chapman, John W. (1914): Tenʼa Texts and Tales from Anvik, Alaska. With Vocabulary by Pliny Earle Goddard. Leyden: Brill &amp; New York: Stechert (Publications of the American Ethnological Society, 6). Quot. pp. 59-60.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA28601">Deg Xitʼan</name>
+          <date notAfter="1903" notBefore="1887" type="recorded">Recorded sometime between 1887 and 1903.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>A young man is paddling along. As if expecting to hear something, he turns his head and listens. Hark! Some one is singing. It is a woman singing. "Ya-xa-nna," she says, they say. Thereupon he disembarks. A woman stands on the beach. She has long hair, which she is washing in the current, and she is singing. He goes quietly up to her and catches her by the waist. "I'm not human, I'm not human!" says the woman. The man shuts his eyes tight [as she struggles]. There is nothing but a birch lying in the water, the current flowing among its branches. The man is holding the birch. Angrily he got into his canoe and paddled off. Again he paddled along, and turned his head as though he expected to hear something, and listened. Hark! There is singing again, like another woman. "Another, the same as [the one who sang] just now!" he thinks. "Good enough!" he thinks. "Is it a woman, for sure, that is making this noise?" he thinks. Again he sees some one singing under the bushes. "A-ha-yu-ha-ha," she says, they say. He gets <pb n="60"/>out of the canoe. What a beautiful woman [he sees], girded with a deer-tooth belt, gathering willow-bark! He grasps her waist. "I'm not human, I'm not human!" she says.</p>
+      <p>He let her go. "Seems to me you are human, you make so much noise with your songs," [said he.] She bounded away in the shape of a rabbit. Angrily he went off in his canoe. Again he listens. There is shouting. In the direction from which it comes he disembarks. Under the bushes he goes. What a crowd of people are here! They are playing ball upon the beach. What fine-looking people, men and women together! He keeps [out of sight] in the grass, [and] looks at them. "If they throw [push?] a woman upon me," thinks he, "I will catch her." At length they push one upon him. In a twinkling he catches her. He jumps up. "I'm not human, I'm not human!" says the woman, [as] she struggles. He lets her go. A Canada goose, she runs screaming away. The players became geese [and] flew away. Angrily the man got into his canoe. He went on, and again he listened. He hears a sound of men's voices [and] disembarks. Back toward those who were speaking he went, under the bushes. There is a pond. Here are many men in the water, [and] some one is conjuring, - a big man, a huge old man, a shaman, in an otter-skin parka. "Right here," says he, "it seems that you are now to perish." - "Nevertheless," said they, "notwithstanding what you have told us, let us settle here." Out of the grass bounds that young man. Down to the side of the shaman he bounds. The shaman became an otter. He dove and swam around; and all the men dove in the form of animals, - mink and muskrats and divers and loons, - and staid down at the bottom, while the young man became a hawk and flew off.</p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Old Shaman</title>
+        <editor role="collector">Valentina Vladimirovna Shilova</editor>
+        <editor role="narrator">Turutina Polina Gilevna</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NEE059865</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0">CC BY-NC-SA</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Budzisch, Josefina/Wagner-Nagy, Beáta (2024): INEL Nenets Corpus. Version 1.0. Publication date 2024-12-31. https://hdl.handle.net/11022/0000-0007-FE37-E. Archived at Universität Hamburg. In: The INEL corpora of indigenous Northern Eurasian languages. https://hdl.handle.net/11022/0000-0007-F45A-1. Quot. p. s.p..</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CEE15002">Forest Nenets</name>
+          <date when="2002" type="recorded">Recorded in 2002.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>Old shaman. There once lived an old man on the edge of a lake with underground springs. He had a wife and a daughter.  One day he came to the tent. The wife is crying, but the daughter is not  in the tent. He says to the wife: "Where is the daughter?" The wife replies: âThe Khanty army came.  They took our daughter with them." The old man was old. Not at  all the same as when he was young. Just like that, he will not be able to win back the daughter from the Khanty. And now the tale is heading towards the Khanty.   The Khanty are returning to their lands. They float on the lake with underground springs. Further in the direction of the river Khadyam go on foot. They crossed this distance on foot, and their leader said: "Let's rest here, drink tea." They got up, lit a fire, boiled tea, drank.  After they drank tea, they began to gather, suddenly looked back. A hawk was seen.  Above them, it began to fly in circles. Like an arrow of lightning rushed down. And he pierced  right into the chest of the leader of the troops, flew right through. After that, in the direction from which he flew, he went. The leader fell  dead on his back. They are looking: There is no breath.  The servants were afraid of him. They think: âWhat is the best thing to do?â  They sent the girl home. They say to her: "Go home along the shore of the lake."  The Khanty's heart sank into their heels. The girl came home. The old man, in  his usual form, was afraid to win back the girl. Therefore, in the form of a hawk, he  frightened the entire army and, with the help of shamanism, won back his daughter.</p>
+    </body>
+  </text>
+</TEI>

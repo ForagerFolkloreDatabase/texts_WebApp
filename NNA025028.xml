@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Origin of the Black Bear</title>
+        <editor role="collector">George Comer</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NNA025028</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Boas, Franz (1901): The Eskimo of Baffin Land and Hudson Bay. From notes collected by George Comer, James S. Mutch, and E. J. Peck. New York: AMNH (Bulletin of the American Museum of Natural History, 15,I). Quot. pp. 307-308.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA27803">Kivallirmiut</name>
+          <date notAfter="1901" notBefore="1897" type="recorded">Recorded sometime between 1897 and 1901.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>Once upon a time there were a brother and a sister. Their parents were dead. The girl, who had grown up to be a woman, had not obeyed the laws of the tribe, and had made herself offensive to the other people: therefore they did not allow her to stay in the village, and she had to live by herself in an old hut. She had no clothing, and hair began to grow all over her body. Her brother used to go to see her, {308} because he was very fond of her. One day the girl said to her brother, "I think I shall be transformed into a black bear [agdlaq]. When you move to another place, take a number of sticks and place them around your hut, so that I may recognize it. I am going to devour the other people." The people began to move away, because they were much afraid of the woman, whose body by this time was completely covered with hair. When they made the new village, the woman's brother put the sticks around his house, as he had been told by his sister. After a short time she attacked the people and devoured all of them except her brother.[[See No. 5, p. 171.]]</p>
+    </body>
+  </text>
+</TEI>

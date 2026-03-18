@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Heavenly Girl</title>
+        <editor role="collector">Valentina Vladimirovna Shilova</editor>
+        <editor role="narrator">Turutina Polina Gilevna</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NEE059893</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0">CC BY-NC-SA</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Budzisch, Josefina/Wagner-Nagy, Beáta (2024): INEL Nenets Corpus. Version 1.0. Publication date 2024-12-31. https://hdl.handle.net/11022/0000-0007-FE37-E. Archived at Universität Hamburg. In: The INEL corpora of indigenous Northern Eurasian languages. https://hdl.handle.net/11022/0000-0007-F45A-1. Quot. p. s.p..</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CEE15002">Forest Nenets</name>
+          <date when="2002" type="recorded">Recorded in 2002.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>Heavenly girl. One day a woman began to pray. She says: âGreat Num, give my son to the sun, and Iâll do it somehow.  Otherwise, during this month all the people from seven tents have died out". The heavenly  girl heard this prayer, her heart suddenly jumped up, she took pity, her tears fell like snow on the ground.  The praying woman looked up and saw: white fiery sparks fell to the ground.  These fiery sparks turned into white paint when they flew down. This paint spread all over the earth. They fell on a  birch, the birchbark suddenly turned white. If it hits a person, it will be cleansed, but it fell on my son - he was cleansed.  The woman fell flat on one side and a baby beside her is crying.  Those seven tents all hit. After that, only Up Pyak remained.  The place where everything happened is on this side of the Siberian Ridges, probably somewhere between Vyngapur and Noyabrsk, on that side.  This is a dangerous land. It was there that all the inhabitants of the seven tents of Pyakov died from the epidemic.  Only one boy survived. His name seems to be Up, Vaisei Pyak's father.  After the grandmother prayed, Vaisei became a big person. After that, Piakov was born.   Up had seven sons, and Vaisei had seven sons.  Jetzt heiÃt der jÃ¼ngste Sohn nur noch Solu.</p>
+    </body>
+  </text>
+</TEI>

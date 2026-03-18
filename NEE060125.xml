@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A Long Tale with Song Fragments</title>
+        <editor role="collector">Konstantin Nikolaevich Rychkov</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NEE060125</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0">CC BY-NC-SA</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Däbritz, Chris Lasse/Gusev, Valentin/Stoynova, Natalia (2024): INEL Evenki Corpus. Version 2.0. Publication date 2024-12-31. Archived at Universität Hamburg. https://hdl.handle.net/11022/0000-0007-FE38-D. In: The INEL corpora of indigenous Northern Eurasian languages. https://hdl.handle.net/11022/0000-0007-F45A-1. Quot. p. s.p..</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CEE15803">Evenki</name>
+          <date when="1913" type="recorded">Recorded in 1913.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <note>[StN]: R's translation is different; here and below -- no "" (it is difficult to recognize borders of direct speech)</note>
+        <note>[StN]: unclear, not sure in translation (white?)</note>
+        <note>[StN]: Éha?</note>
+        <note>[StN]: cf. R's translation? where is neg?</note>
+        <note>[StN]: translation -</note>
+        <note> not sure</note>
+        <note>[StN]: unclear! nuÅ¡ulanÄin - one word?</note>
+        <note>[StN]: unclear</note>
+        <note>[StN]: kazanin?</note>
+        <note>[StN]: 3SG or 3PL? || </note>
+        <note>[StN]: 3SG or 3PL?</note>
+        <note>[StN]: É£uÄaktu?</note>
+        <note>[StN]: daÉ£Äal - frozen cvb~adv?</note>
+        <note>[StN]: unclear! "?" or "!"?</note>
+        <note>[StN]: unclear; translation - see below</note>
+        <note>[StN]: </note>
+        <note>unclear! where is neg: ÉÄ? Ðº Ð»Ð°Ð±Ð°Ð·Ñ Ð¸Ð»Ð¸ Ð¾Ñ Ð»Ð°Ð±Ð°Ð·Ð°?</note>
+        <note>[StN]: unclear</note>
+        <note>[StN]: cvb?</note>
+        <note>[StN]: verb daÉ£apÄu?</note>
+        <note>[StN]: clearly ÑËlÑÐ°- error?</note>
+        <note>[StN]: who?</note>
+        <note>[StN]: why daddy (logically: from the girl to the </note>
+        <note>bear) - error?</note>
+        <note>[StN]: dakÄuÅ¡ - unclear</note>
+        <note>[StN]: unclear, what is -kildi?</note>
+        <note>[StN]: unclear</note>
+        <note>[StN]: ÆjÉk -- ?</note>
+        <note>[StN]: unclear</note>
+        <note>[StN]: ?</note>
+        <note>[StN]: da/b/É£da- why "b"?</note>
+        <note>[StN]: unclear meaning; non-trivial COND be-construction</note>
+        <note>[StN]: not sure, R's translation is different</note>
+        <note>[StN]: R's </note>
+        <note>translation is different: is this a frozen expression 'to stay/stand up with three people'?</note>
+        <note>[StN]: gasa- 'crane' (-li might be a "poetic" meaningless morpheme)</note>
+        <note>[StN]: R's translation is different; maybe also 'pour money'</note>
+        <note>[StN]: unclear, R's translation is different</note>
+        <note>[StN]: RubaÅ¡kawutpi -- a strange form</note>
+        <note>[StN]: DS cvb? </note>
+        <note>[StN]: unclear: Iliptina -- ?</note>
+        <note>[StN]: -ptin?</note>
+        <note>[StN]: acc-all?</note>
+        <note>[StN]: lit. his rib</note>
+        <note>[StN]: unclear!</note>
+        <note>[StN]: cvb</note>
+        <note>[StN]: two nights (see above) or two people (in R's translation)</note>
+        <note>[StN]: 3sg poss suffix?</note>
+        <note>[StN]: 3pl poss suffix?</note>
+        <note>[StN]: acc?</note>
+        <note>[StN]: 10 in R's translation</note>
+        <note>[StN]: cvb</note>
+        <note>[StN]: -ja -- ?</note>
+        <note>[StN]: attr-instr?</note>
+        <note>[StN]: cvb</note>
+        <note>[StN]: unclear (dawajal -- maybe dÉwÉj- 'song')</note>
+        <note>[StN]: R's</note>
+        <note> translation is different</note>
+        <note>[StN]: unclear: R's translation is different</note>
+      </p>
+    </body>
+  </text>
+</TEI>

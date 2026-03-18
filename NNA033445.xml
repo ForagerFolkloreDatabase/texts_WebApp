@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Man Who Fooled the Cannibal Giant</title>
+        <editor role="collector">James Teit</editor>
+        <editor role="narrator">Tuu:ʼts ('strong rocks')</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NNA033445</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Teit, James A. (1919/21): Tahltan Tales. In: The Journal of American Folk-Lore 32(124), 198-250; 34(133/134), 223-253, 335-356. Quot. pp. 351-352.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA28403">Tahltan</name>
+          <date notAfter="1915" notBefore="1912" type="recorded">Recorded sometime between 1912 and 1915.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <note>Compare Kaska (JAFL 30: 429-441).</note>
+      </p>
+      <p>Some men were disputing as to the powers of cannibals and giants. One of them maintained that giants were not clever. They had mosquito brains:<note>Compare No. 71.</note> therefore they could easily be deceived. He claimed that giants and cannibals and mosquitoes were all related, parts of the same flesh. They all had the same instinctive desire to attack, kill, and eat people; but nevertheless they were all foolish. This man said he would show the others how foolish giants really were. He would try them. He stripped off all his clothes, and stood naked near a trail that giants frequented, in an open place, where people could see a long way. A giant saw him, and came stealthily towards him. The man stood perfectly rigid and motionless. The giant came up and felt of him, saying to himself, "He is just like game." He smelled of his mouth, privates, and anus. He smelled of him all <pb n="352"/>over. He lifted his eyelids, and opened his mouth. He said again, "He is just like game, but he does not act like game. It is funny that he should be here now. Not long ago there was nothing standing here." He wondered. He went away some distance and watched the man, but the man never moved. He went farther away and watched. Then he came back and examined the man again. At last he made up his mind that the object could not be game, and departed. When the giant was out of sight, the man put on his clothes and went home. This is why, if a hunter sees game at a distance lying or standing and motionless, he is sometimes deceived, and mistakes the game for something else. When one does this, other people joke him or make fun of him by saying, "You are just the same as a giant," or "You have mosquito brains."</p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Cannibals</title>
+        <editor role="collector">Alanson Skinner</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NNA027202</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Skinner, Alanson (1911): Notes on the Eastern Cree and Northern Saulteaux. New York: AMNH (Anthropological Papers of the American Museum of Natural History, 9,I). Quot. pp. 114-115.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA28030">Eastern Cree</name>
+          <date when="1909" type="recorded">Recorded in 1909.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>Once there was an old man and his son who used to go about killing and eating people. At last, they came to one family who was very poor and was starving. Then the young man said, "Father, I'll stay here and go off and hunt for the people. We will fatten them up and kill them." His father said it was well. The young man hunted for three days and all the deer's meat he got he gave to those people. He stayed with them for a week. One day, he went off and found his father. He told him he had seen a big tent full of people which he had not entered. His father said, "We will go to-morrow morning to see them." The young man told the people he was living with that they were to eat heartily and grow fat. "We will come once a week to see you and how you are getting along."</p>
+      <p>They went away then, the father and son, and camped close to the big tent. They did not approach it until night when everyone was asleep. Then they killed half of the people and ate them. The rest escaped. The two cannibals stayed at the same place. The man they left kept on eating and drying the meat they gave him. Once a week the old cannibal visited him and saw that he and his wife and children were growing fat.</p>
+      <p>Now the man became afraid. He continued to dry meat as before, but he dug a hole under the snow for he knew that the cannibals were fattening him in order to kill him. The next week, the old man came. "You are getting fat now," he said. "Next week my son and I will visit you again." "All night, I'll be here," said the man and all that week he collected dry meat and wood and snow to make water. Then he barricaded the door with brush. He took in his drum and sang and thumped all night praying for bad weather. The very first morning a heavy snow-storm fell covering his fort completely. The next night the man conjured again for rain to make a hard crust over the snow. It came, and then he conjured for more snow drifts. Again, the snow fell and he was covered over as hard as a rock where he was hidden. The time for the next visit of the cannibals was now at hand. When they came they could not find him.</p>
+      <p>The old cannibal dug a hole in the snow to seek them for he knew from his medicine that they must be near by. He could not find them although <pb n="115"/>he and his son were right over their victims. Then the cannibal people left the place and went off in the opposite direction. The Indians stayed in the snow until the spring thaws released them. The cannibals soon found another family where there were two grownup sons whose medicine was very strong. These two sons knew before the cannibals came that they were approaching and one hid on the river bank and the other in the brush. Sure enough, the two cannibals came in the night along the river. "There are strangers coming," he called out. At once the cannibal and his son fell on the snow and lay there hidden intending to make an unexpected attack late that night. They were surprised for they did not think anyone was waiting for them. Then the other brother went out and both went to see the two cannibals. They said to the strangers, "You are just in time to help us chisel beaver." Then the old man said, "I am too old to chisel beaver but my son can go with you, I'll stay in the tent." So then the three went to a lake. There were no beaver there at all. They all sat on the edge of the lake.</p>
+      <p>The youngest brother said, "Let us make a big hole in the ice in the middle of the lake. Then we will have a wrestling match, and whoever gets worsted, will be thrown into the hole and drowned. They had no axes or anything but a sharpened caribou leg bone tied on a stick for a chisel. The two brothers began to chisel and the cannibal sat and looked on. "Make it big, narrow and long, just the length of a man, so that when you throw a man, he'll just go in," said he. The two Indians did as they were told. Then the two brothers said slyly to each other, "Who'll try him first?" "I will," said the youngest. "You can't master him," said the older. "I will try any way," said the younger. "We are all ready now," said they to the cannibal at last. The young cannibal jumped up. The younger brother tried twice to throw the cannibal but could not put him in the hole. "Let me try," said the older. So they threw the cannibal in the hole and the younger brother struck him with his ice chisel as he went down and he was killed. Then they went back. They had a war club. The old man was sitting with his tegs crossed. They struck his legs and broke them with a single blow. Then they said, "We have killed your son." Then they killed him too.</p>
+    </body>
+  </text>
+</TEI>

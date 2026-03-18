@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The First Women (version 2)</title>
+        <editor role="collector">Alfred Métraux</editor>
+        <editor role="narrator">Pedro</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NSA010537</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Métraux, Alfred (1939): Myths and Tales of the Matako Indians (The Gran Chaco, Argentinia). In: Ethnological Studies/Etnologiska Studier 9, 1-127. Quot. pp. 51-52.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CSA39401">Wichí</name>
+          <date when="1933" type="recorded">Recorded in 1933.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>Once upon a time men lived without women. The women lived by themselves and were savages. They came and plundered the crops raised by men. The men wanted to know who was responsible for the damage done to their crops. They asked a parrot to watch the crops for them. The parrot sat on the top of a tree and he saw the women coming down from the sky. Instead of calling the men he said nothing and as a joke threw a piece of wood at them. The women saw him and invited him down to play with them. He accepted and the women caught him and pulled his tongue out replacing it with a piece of coal.</p>
+      <p>A gallinazo (vulture, Cathartes foetens) was chosen to watch the fields next. He promised to inform them by whistling as soon as he saw the women. The vulture concealed himself among the leaves of a tree and when he saw the women he whistled. The men, who were hidden at a distance, ran <pb n="52"/>up to their fields and tried to catch the women. They buried themselves in the ground in an effort to escape, but the armadillo said he would dig them out. He dug out one after another. The men took them. The same thing happened each time he pulled a woman out of the ground. In the end, angry because he could not keep a wife for himself, he put out the eye of a woman and made her so ugly that no one wanted her. From that time on men have had women.</p>
+      <p>The wild women had toothed vulvas. A bird saw then eating corn with their vulvas. He warned the people, but Tawkxwax, the Trickster, would not believe him and slept with one of the women, who cut his penis. Tawkxwax took a bone and put it in place of his lost organ. He then went in pursuit of the woman and found her just as she was crouching to light a fire. He threw a stone between her legs and broke the teeth of her vagina. From that time on men have had sexual intercourse with women without being mutilated.</p>
+    </body>
+  </text>
+</TEI>

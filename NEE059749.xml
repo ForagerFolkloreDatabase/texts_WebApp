@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A Loon</title>
+        <editor role="collector">Daria Spiridonovna Bolina</editor>
+        <editor role="narrator">Bolina Spiridon Petrovich</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NEE059749</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0">CC BY-NC-SA</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Shluinsky, Andrey/Khanina, Olesya/Wagner-Nagy, Beáta (2024): INEL Enets Corpus. Version 1.0. Publication date 2024-11-30. https://hdl.handle.net/11022/0000-0007-FE1D-C. Archived at Universität Hamburg. In: The INEL corpora of indigenous Northern Eurasian languages. https://hdl.handle.net/11022/0000-0007-F45A-1 Quot. p. s.p..</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CEE15008">Forest Enets</name>
+          <date when="1991" type="recorded">Recorded in 1991.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>A loon. This was a very long time ago. Once upon a time there lived an old loon. This old loon was so rich that the horizon was not visible  under the sun from his tent because of great quantity of reindeer.  A lot of poor people lived near this rich old loon: they didn't have reindeer, they didn't have good food, they didn't have anything.  People went to the old loon to ask for reindeer many times, but this greedy old  man never gave anything to anyone. None of the people went to <note>[ShA:] I assume that </note>visit this old loon: this old loon could not give anything to people.<note>Ð¼ÑÐ½Ð·Ð·Ð°Ã§Ñ instead of Ð¼ÑÐ·Ð·Ð°Ã§Ñ is a mistake.</note> Once the old loon roamed. The weather was so hot that reindeer's brains were boiling. There are a lot of mosquitoes and a lot of gnats at this time. These reindeer are thirsty, a river is still far away.  But the old loon does not want to stop, he does not want to make a smoke for his reindeer, on the contrary, he hurries them up with a pole.  Suddenly, what happened to these reindeer? So  they ran back, so they trampled their master. The reindeer ran back to the river, nothing can stop them.  Hardly alive, the old loon crawled to the lake a few days later.  The reindeer have gone far away, after all, they went to look for a good master.  This reindeer came to a poor people, the poor people gave them water and lit a smoke for them.<note>[ShA:] I assume ÑÐ½ÑÐ¸Ð³ is a mistake, there is no such a form.</note> The man, the old loon, since then he has remained on the shore of the lake, he lives on the shore of the lake.<note>[ShA:] The standard form should be enÄel, not enÄer (enÄer is not expected in a text from a speaker of this </note> No one needs him, he can't walk, his wings are broken, his wings are trampled by <note>generation).</note><note>[ShA:] The form taduj is unexpected.</note>reindeer. Sometimes in summer people hear the cry of this old loon: "Iii -iii-iii-iii." They say it's an old loon feels sorry for his reindeer and cries.</p>
+    </body>
+  </text>
+</TEI>

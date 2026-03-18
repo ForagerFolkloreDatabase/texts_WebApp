@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Tale of the Stone Girl</title>
+        <editor role="collector">Waldemar Jochelson</editor>
+        <editor role="narrator">Aleksey Dolganoff</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NEE022729</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Jochelson, Waldemar (1924): The Yukaghir and the Yukaghirized Tungus. 3 vols. Leiden: Brill &amp; New York: Stechert 1910/26 (Memoirs of the American Museum of Natural Hisory, 13; Publications of the Jesup North Pacific Expedition, 9,I-III), pt. II. Quot. pp. 270-274.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CEE15401">Yukaghir</name>
+          <date notAfter="1902" notBefore="1895" type="recorded">Recorded sometime between 1895 and 1902.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>Once upon a time, there was an old man. He was married and had two daughters. In a shamanistic trance he had thrown a third daughter, the oldest one, into the water when she was a small child.</p>
+      <p>The old man and his wife died. There remained in the house his two girls. Once the elder sister went out for wood, leaving at home her younger sister. When she came back, she did not find the younger sister. She began to cry. But soon the younger sister came in. "Why are you crying?", asked she. The elder sister answered, "Because I had lost you." They went to sleep. The next morning, the elder sister went out again for wood, but before leaving the house she tied her younger sister with a thong to a house post. When she came back, she found only the knotted thong on the post, - her younger sister was not there.</p>
+      <p>Opposite their house, across the river, there rose a high rocky mountain. The elder girl went to look for her sister. She descended to the river. When she came to the bank, the ice on the river cracked the whole width of the river, as far as the rocky bank opposite. The girl reached the foot of the rock and heard her younger sister crying from the middle of it. She said to the rock, "Give back my younger sister!" Then a human voice resounded from inside the rock, "My friend, I shall not give back your sister. Like you, I am also a woman, but don't step near to me; I am not like a human being, you will be afraid." The girl answered, "I shall not go away; give back my younger sister!" The girl looked at the rock and saw the one who had spoken looking out from the rock. Her nose was of stone, her eyes were big stones.</p>
+      <p>The woman with stone ears, rising from the rock, looked at the girl. She was blinking with her stone eyes. Then the rock split in two. The girl was frightened. The stone-woman said to her, "I did not wish to take your younger sister. Your father threw your elder sister into the river. While swimming in this river she became a shaman and in one of her shamanistic performances she gave me your younger sister. Go away, I shall not give her back to you."</p>
+      <p>The human girl went down the river crying. She was walking along the river for a long time. Suddenly, she looked up and saw human dwellings. She went to them and heard the beating of a drum. A woman with open hair came out of one of the houses. She took the visitor by her hand and led her into the house. The open-haired woman was married. Her husband had a younger brother. She made the girl sit near her brother-in-law. The open-haired woman said to the girl, "You do not know me?" The girl said, "No, I do not know you." Then the open-haired woman said, "I <pb n="274"/>am your elder sister whom long ago our father, in a shamanistic trance, threw into the river. I am that one." Then the youth married the girl. Thus they lived.</p>
+    </body>
+  </text>
+</TEI>

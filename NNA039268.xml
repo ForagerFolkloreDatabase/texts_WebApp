@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Creation (version 1)</title>
+        <editor role="collector">John W. Chapman</editor>
+        <editor role="narrator">anonymous</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NNA039268</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Chapman, John W. (1914): Tenʼa Texts and Tales from Anvik, Alaska. With Vocabulary by Pliny Earle Goddard. Leyden: Brill &amp; New York: Stechert (Publications of the American Ethnological Society, 6). Quot. pp. 8-10.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA28601">Deg Xitʼan</name>
+          <date notAfter="1911" notBefore="1887" type="recorded">Recorded sometime between 1887 and 1911.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <note>The accounts so far received have been meagre, and until recently very indefinite and unsatisfactory; but lately a man of about sixty years of age, living on the Shageluk, gave a clear account of the tradition, which he said he had obtained from his grandfather. He was emphatic on the point that he had not received it from his parents, but from his grandfather, as the tradition which was current before the Russians came. | This man's testimony is important for several reasons. He himself is an intelligent man, for one of his race, and one whom the Indians themselves greatly respect. His brother is the principal shaman of his village; and the family have always maintained the old traditions, and upheld the system of feasts. This man has lately become an inquirer into Christian doctrine, and is making comparisons between the new and the old religions. His account of the native tradition deserves especial consideration, because it confirms nearly everything which I have heretofore ascertained to be generally taught as of ancient tradition. In some particulars which were new to me, as the order of creation of the animals and man, confirmation has since been received from an independent source. | As to the differentiation of the Creator and the Raven, confirmation was found, subsequently to the discovery of the tradition, in the work of Mr. Bogoras (American Anthropologist, vol. 4, p. 640). On the same page is found something similar to the account of the Raven having thrown the figures of animals in different directions, although in Mr. Bogoras's account this is the act of the Creator. As he says, however, that in some versions this is the act of the Raven, this incident also may be considered to have received full corroboration. An interesting point, which has not been corroborated, is the punishment of certain crimes in the fire, in the life of the future. This of course suggests a foreign origin; but, on the other hand, the punishment of suicides by hanging is abundantly corroborated by the consensus of the testimony of the old people. I give the tradition above.</note>
+      </p>
+      <p>There was some one above who made the world. They do not name him, but speak of him as being above. He was upon the world that he made, and did all the various works that men were to do. The natives say nothing of <pb n="9"/>his resting upon the seventh day, as the Christians do. The first of the creatures that he made was a porcupine, the next a white bear, the third was a man, and the fourth a brown bear. After that, he made all other things, and then went up to heaven, and there he remains; and there is no heaven higher than the one where he is.</p>
+      <p>But there was on the earth another man, the Raven, who remained, and changed many things; so that what was originally intended to be good became perverted. He made wooden images, and flung them in different directions, and told them to come to life and do whatever they pleased. Originally men did not die in the same way as they do now, but passed into the spirit state and back again. The Raven changed that by making a trail for the dead people to take, and since then they do not return. When the spirit enters upon this path, it has to camp for four nights before it reaches its destination. At the end of each day, it finds a camp-fire burning. This fire burns perpetually. The path leads to some place near the sources of the Yukon River. There is a story of a young man who went up the river as far as he could go, but was warned by the people there that he should go back; for they told him that if he kept on, he would come to a portage that the souls of the dead took, and that if he were to enter on that portage and hear any sounds, he would never be able to return. So he was afraid to continue, and went back. There is also another story of a young woman who was snatched up, and found herself among the dead; but she made her escape and returned to her own people. While she was among the dead, she was sustained by the offerings of her friends, who supposed her to be dead; and it is from that time that the feast for the dead began. At this feast, clothing and food are formally given to some one who represents <pb n="10"/>the dead person, and it is supposed that this turns to the benefit of the one who is gone. In general, the happiness of those who are gone is affected by the conduct of those related to them, who are still living. If these are generous and kindly, the dead will be kindly received by those who have gone before.</p>
+      <p>As to the actions of those who are still on the earth influencing their own future existence, the souls of all, both bad and good, start on the same path, but the paths separate. Those who were unkind, and wantons, whether men or women, go to a kind of kashime, where they are tortured perpetually in the fire. Those who have hanged themselves go to a place where they remain suspended in the wind. The good go to a place where they have no more trouble.</p>
+    </body>
+  </text>
+</TEI>

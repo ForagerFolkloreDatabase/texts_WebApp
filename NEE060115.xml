@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Old Woman and Robbers</title>
+        <editor role="collector">Larisa Mejerovna Brodskaya</editor>
+        <editor role="narrator">Champogir Ivan</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NEE060115</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0">CC BY-NC-SA</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Däbritz, Chris Lasse/Gusev, Valentin/Stoynova, Natalia (2024): INEL Evenki Corpus. Version 2.0. Publication date 2024-12-31. Archived at Universität Hamburg. https://hdl.handle.net/11022/0000-0007-FE38-D. In: The INEL corpora of indigenous Northern Eurasian languages. https://hdl.handle.net/11022/0000-0007-F45A-1. Quot. p. s.p..</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CEE15803">Evenki</name>
+          <date when="1965" type="recorded">Recorded in 1965.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>This was very long ago. There lived many [people in a] camp. Those people wandered off from where they had  stayed shortly. They reached their [new] camp. One woman said: "I forgot one thing in our old tent".  When she was going, on her way on a precipice seven men were lying.  The woman passed by as if the didn't see anything. How the men were lying, so they remained there.  The woman, having found her item, went back along her way. The men, which she had  seen, are lying like they had been lying. Again she passed them by. Having come  to her tent, she told her relatives: "When going on our way I saw seven men lying on a tussock(?)".  Her relatives didn't believe: "Where should so many robbers come from?" The woman and her husband  prepared [themselves] in the deepest night. They broke half of their chum and wandered off. At night the robbers came and killed all people.<note>[DCh]: Function of imperative is not clear here.</note> If they had believed what the woman had said, they [=the robbers] wouldn't have done so.</p>
+    </body>
+  </text>
+</TEI>

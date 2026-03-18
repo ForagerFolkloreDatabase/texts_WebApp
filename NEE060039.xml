@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A Woman</title>
+        <editor role="collector">Glafira Makarina Vasilevich</editor>
+        <editor role="narrator">Kaplin Ilya</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NEE060039</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0">CC BY-NC-SA</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Däbritz, Chris Lasse/Gusev, Valentin/Stoynova, Natalia (2024): INEL Evenki Corpus. Version 2.0. Publication date 2024-12-31. Archived at Universität Hamburg. https://hdl.handle.net/11022/0000-0007-FE38-D. In: The INEL corpora of indigenous Northern Eurasian languages. https://hdl.handle.net/11022/0000-0007-F45A-1. Quot. p. s.p..</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CEE15803">Evenki</name>
+          <date when="1931" type="recorded">Recorded in 1931.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>A human met [other] people with daughters, with girls.  [They are] many; he made his camp.  They  started to make a match, he asked to exchange their girl [for her].  They talked, they exchanged.  Having taken the woman the man went off.  The woman was stinky.  The husband goes out, the wife goes after him, she eats  his excrements.  Those people wandered off, they made their camp, they stayed shortly, at night they started to  shamanize.  The man's sister(?) is living with them.  There came two girls, they told the  woman: "I'll play with knucklebones". "Where will I go?" "Well, they are shamanizing, they want <note>[DCh]: Not clear why converb form here. </note>to kill you". The woman put on her shoes at night, she said: "I want to pee, I'll go to pee".  The woman ran, close to her way a bent tree is standing.  She climbed onto  the bent tree.  There she was sitting.  They started to look for her, she is not at home.  Who told [it] to her, the foolish  children.  There they killed both children.  They searched for the woman with kindlings,  with fires, they couldn't find [her]. They came back home.  The woman ran off, she climbed down to the ground, she went  along the path.  She came to the place, where she had married, she went along the trace of the elder brother.  She ran and ran, she  caught up her elder brother.  "Well, you gave me to good people, they wanted to sacrifice me."  Her elder brother killed his wife.  He flayed her face, he left her(?) at home.  When wandering he sent the sister  [further], he himself watched who would chase her.  They chased her, when they found the [dead] girl, they were happy  [and] roasted her on a spit.  The father ate the woman.  "The heart feels(?) [that] she is ours,  apparently", he said.  The other said: "What a clever man, he left us the dead one".</p>
+    </body>
+  </text>
+</TEI>

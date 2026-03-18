@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Wind-Maker</title>
+        <editor role="collector">Christiaan Cornelis Uhlenbeck</editor>
+        <editor role="narrator">Joseph Tatsey</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NNA037494</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Uhlenbeck, Christiaan C. (1912): A New Series of Blackfoot Texts from the Southern Peigans Blackfoot Reservation, Teton County, Montana. With the help of Joseph Tatsey collected and published with an English translation. Amsterdam: Müller (Verhandelingen der Koninklijke Akademie van Wetenschappen te Amsterdam, Afdeeling Letterkunde, NS 13,I). Quot. p. 64.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA31305">Piegan</name>
+          <date when="1911" type="recorded">Recorded in 1911.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>Long ago there was a chief, [who] camped on Cut-bank river. In the morning the wind did not blow. He went to the mountains. On a butte there were pine-trees. There he sat in the shade. From there he looked about over the country. He was looking to the mountains. He suddenly saw, there was a person, [who] walked up towards him. He [that person] came near him. He saw him [that person]. There was hair all over his body. Only from his knees down he did not have any hair. He had split hoofs. His ears were big and long. He [that person] stood by him. And he [the chief] began to pray to him. Then he [that person] did not do him any harm. Then [that person] turned away from him. As he started to go away, he shook his ears. Then immediately the wind blew hard. And as he shook his ears harder, the wind blew harder. That [chief] was the only one, [who] saw the Wind-maker. He [that chief] was called Big-snake.<note>Cf. Grinnell blt 259, Mc Clintock ont 60 sqq.</note></p>
+    </body>
+  </text>
+</TEI>

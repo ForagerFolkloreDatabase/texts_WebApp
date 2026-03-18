@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Witch (Origin of Death)</title>
+        <editor role="collector">Angelina Ivanovna Kuzmina</editor>
+        <editor role="narrator">Kunina Rita</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NEE059673</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0">CC BY-NC-SA</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Brykina, Maria/Orlova, Svetlana/Wagner-Nagy, Beáta (2021): INEL Selkup Corpus. Version 2.0. Publication date 2021-12-31. https://hdl.handle.net/11022/0000-0007-F4D9-1. Archived at Universität Hamburg. In: The INEL corpora of indigenous Northern Eurasian languages. https://hdl.handle.net/11022/0000-0007-F45A-1. Quot. p. s.p..</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CEE15004">Northern Selkup</name>
+          <date notAfter="1969" notBefore="1965" type="recorded">Recorded sometime between 1965 and 1969.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>A witch. There lived an old man and his wife. He and his wife had a son. The son went outdoors and began to paint his reindeer <note>[OSV:] "iralÊ¼ mÉ¨qÃ¤Ëqi" - "spouses".</note>sledge.  The old man said so: âThe witch will come to youâ.  The son <note>[OSV:] </note>did not pay attention.  He kept painting.  He caught the reindeer, harnessed them to the sledge. He left.<note>"nÊ¼ennÃ¤ ÉsÉ¨qo" - "to stop doing something". </note> He was going on the sledge.  The witch was running.  She came up to the man and started to scratch his face.  And she  says so: âMy husband, my husband!â  She climbed onto the manâs sledge.  They came home.  She came into the tent.  She is scratching the old man's face: âGrandfather, grandfather!â She is scratching the old woman's face: âGrandmother, grandmother!â The people were very much annoyed with the witch.  They gathered to discuss how to kill the witch.  So they decided to push her into the fire. <note>[OSV:] "Ä±llÃ¤ qÃ¤ttÉ¨qo" - "to kill".</note><note>[OSV:] "pinqo" - "to put", here it has the meaning "to </note> The old woman hung a big cauldron with fish guts on the fire.  She started to cook.  âGood daughter, <note>decide".</note><note>[OSV:] In the adjective "mÉ¨ÌtÉ¨nÉ¨lÊ¼" "-n" can be interpreted as the Plural marker but for adjectives ending with "-nÉ¨lÊ¼" a further research is needed.</note>stir the cauldron!â The woman keeps sitting. âWitch, you are obedient. Stir in the cauldron.â The witch ran.  She tried to hardly stir the cauldron, but it was too far.  âThe fire will eat me."  The old man says so.  âCome up closer." No sooner the witch came up to the fireplace as she fell into the fire.  While falling she said so.  âAfter me people will die.â</p>
+    </body>
+  </text>
+</TEI>

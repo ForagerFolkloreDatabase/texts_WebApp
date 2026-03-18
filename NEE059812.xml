@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A Lazy Person</title>
+        <editor role="collector">János Pusztay</editor>
+        <editor role="narrator">Bolina Darya Spiridonovna</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NEE059812</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0">CC BY-NC-SA</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Shluinsky, Andrey/Khanina, Olesya/Wagner-Nagy, Beáta (2024): INEL Enets Corpus. Version 1.0. Publication date 2024-11-30. https://hdl.handle.net/11022/0000-0007-FE1D-C. Archived at Universität Hamburg. In: The INEL corpora of indigenous Northern Eurasian languages. https://hdl.handle.net/11022/0000-0007-F45A-1 Quot. p. s.p..</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CEE15008">Forest Enets</name>
+          <date when="1970" type="recorded">Recorded in 1970.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>A lazy girl. There lived a girl with her mother. The girl was lazy. The mother would say:  "Ayoga, bring some water!" Ayoga would say: "I'll fall into the water." The mother: "Hold on to the  bush!" She: "I will scratch my hands." Once her mother said: "Knead dough!"  Ayoga said to this: "I will get my hands dirty." The mother kneaded the douigh herself. Then the mother said:<note>[ShA:] The form nÉxiluta- is put, as such a verb exists.</note><note>[ShA:] KÉleÅa is an unexpected form.</note> "Ayoga, bake the bread!" The girl said to this: "I'll burn my hands!" The mother: "Put a  mitten on!" The girl: "The mitten will burn." The mother baked the bread herself. She sat down to  drink tea but did not call her daughter. The girl cried: "Why didn't you call me?" The mother said: "The bread is <note>[ShA:] INCH in leurujzÊ as a tool for deriving a verb from a noun is rather unexpected.</note>hot, you will burn your hands". Ayoga, "I will put on a mitten." The mother: "The mitten will  break off." Ayoga: "I will sew the mittens." The mother didn't give the bread and said: "Such a lazy person should not eat."<note>[ShA:] Maybe ÉmudÊ¼, not oomodÊ¼ (no chance to check without the audio recording).</note> The girl cried out, she ran to the shore. There she saw her face in the water and said: "My face is nice." Suddenly she fell down into the water. She became  a goose. She cries: "Ayoga, ga, ga, ga!"</p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Woodpecker</title>
+        <editor role="collector">Aleksandr Chapixovich Logany</editor>
+        <editor role="narrator">Pyak Vasiliy Lemevich</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NEE059880</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0">CC BY-NC-SA</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Budzisch, Josefina/Wagner-Nagy, Beáta (2024): INEL Nenets Corpus. Version 1.0. Publication date 2024-12-31. https://hdl.handle.net/11022/0000-0007-FE37-E. Archived at Universität Hamburg. In: The INEL corpora of indigenous Northern Eurasian languages. https://hdl.handle.net/11022/0000-0007-F45A-1. Quot. p. s.p..</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CEE15002">Forest Nenets</name>
+          <date when="2002" type="recorded">Recorded in 2002.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>Woodpecker. In the woods, in a dense forest, live an old man and an old woman. Whether they had a short or  long life, they had no children, nothing. One day, the man says to the old woman: "Well, our house has gone bad, we should move to  the other side of the river." His wife says: "What the heck, we'll manage in our new  apartment," says his wife. "How do we get to the other side of the river?  We don't have a boat. Our tent, how do we get our garbage to the other side?" Her husband says:  "Unpack our tent and drag our things to the river, whatever you need. And I'm going to the  coastal forest." The husband left and took the axe with him. He went into the woods on the coast. Whether he has been in the coastal forests for a short or long time, his old wife sits by the river and waits the whole time.  And she sees her husband swimming downstream in a new boat and rowing with an oar.  Then he stopped and said, "So, you're loading your stuff into the boat, and I feel like my back hurts, I'm going to take a little break."  Uh, then the man did that, lay down, the sun warmed him, sleep came to him, suddenly he fell asleep.  Grandma moves his leg a little: "Husband, get up!  He can't sleep anymore!" Her husband doesn't move, he is fast asleep.  He must be very tired. While she was sitting there, a witch appeared from somewhere.  She said, "Well, Grandma, you've been sitting on the riverbank for a long time." She says: "Why am I awake? My grandfather fell asleep and we had to go to the other side of the river, but I couldn't wake him up."  The witch says: "Let me take your things to the other side in the boat while your old man sleeps.  I'll take them to the other side of the river, come back  from there and pick you up." The grandmother thinks and says: "What's wrong with that, take my things away."  Well, here's what the witch did: she got on the boat, and her boat almost sank, so she  filled it with all sorts of things. Suddenly the witch went downstream,  along the stream. On the way there, the grandmother says: "Don't go far."  She said: "The current is fast, the current carried me along. There's a  landing stage not far away on the other side of the river." And she went with the current. Whether it was a long or a short  journey, she was finally tired. She sees a woodpecker sitting on a sandbank.  Resting or doing something. He said, "Witch, little woman, you're very pretty," - he said, "I'm very tired, I have a headache, you should put  me on a boat."  The witch thought about it, put the bow of the boat there and said, "Well, sit down."  He says, the woodpecker says, "What a burden I will have."  "Sit down." This woodpecker was sitting on the bow of the boat, a wild bird doesn't even have weight.  And so our friends drove off, the witch went back downstream.  Regardless of whether it is a long or a short journey. While she was sailing, the woodpecker did the following: He hit the bow of the boat with his nose.  The bow of the boat was punctured and the boat began to fill with water.  He says: "Do you think there's no water in our boat?" The witch says: "Oh yes, water has  appeared in it." The woodpecker says: "Let's go ashore now, what's happened to the bottom of our boat?  It's the way it wants to be filled." The witch quickly turned  the boat towards the shore, they just made it to land and almost drowned. The witch  says: "Let's put things aside, I wonder what's broken, the boat is new."  She threw her things on the ground, tipped the boat over and saw that the bottom of the boat had been punctured.  She said: "There must have been a bracing here, it fell out and our boat was punctured."  The woodpecker said: "I will make a stick, a round stick without branches.  And you, witch, do that, go into the taiga, look for tree resin, I'll smear this stick to fill the hole with resin, then it won't fall out again."  The witch  waddled out into the taiga. The woodpecker quickly plugged the hole with a stick, probably threw the things back into the boat, pulled the boat into the river  and started rowing against the current.  The witch came running from there, from the taiga. What's going on, the woodpecker  swam back against the current. She said, "Well wait, you stole my boat, turned  out to be a thief, poor man, if I catch you, don't think well."  The woodpecker paddled and paddled, then swam to the old woman and the old man.  He says: "Well, I drove that witch's boat against the current; it turns out she stole it downstream.  She sank," he said, "your boat, your things, and now you're going to the other side of the river."  The two old people  rejoiced and kissed the woodpecker. The old woman said, "What would I give you for such joy?"  She took a needle bag, got a red cloth and made him a red hat.  She says: "This red hat must be worn." And the old man went to his bag, took  out his things, found a pair of red pants and said, "Take these red pants," he said, "as a gift, live long, live short."  Then the old man  and the old woman must have moved to the other side of the river and built their house, it must be near the river, and they must live in it.  And that was it.</p>
+    </body>
+  </text>
+</TEI>

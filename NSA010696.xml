@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Magic Pregnancy (version 3)</title>
+        <editor role="collector">Alfred Métraux</editor>
+        <editor role="narrator">Pedro</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NSA010696</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Métraux, Alfred (1939): Myths and Tales of the Matako Indians (The Gran Chaco, Argentinia). In: Ethnological Studies/Etnologiska Studier 9, 1-127. Quot. pp. 56-57.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CSA39401">Wichí</name>
+          <date when="1933" type="recorded">Recorded in 1933.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>The chuña<note>Bird, Chunga burmeisteri.</note> was a man. He took some sperm and molded it to look like salt, then put it on a path. A young woman going along the path saw this white stuff and thinking it was salt started to lick it. She became pregnant. Later on she gave birth to a boy. No one, not even the mother of the child, knew who the father was. In order to determine the father of the child, the girl's father made <pb n="56"/>a little bow with arrows and asked all the men of the country to present it to the child. The man from whom the child would accept the bow would be his father. More than a hundred men gathered to present the bow to the child but he would take it from no one. At last the chuña appeared and the child took the bow from him without hesitating. When the people of the village discovered that the chuña was the father of the child they got angry and wanted to kill him, but the chuña married the woman.</p>
+      <p>As soon as the child recognized his father, the people rushed toward the bird to kill him. He did not know how to defend himself, but his wife gave him a sling and with this he defeated his enemies. During the fight he threw a stone which struck the neck of the potsax. This bird was so badly hurt that the blood spurted out of the wound and after it dried the neck of the bird had turned black and it had remained so ever since. The ʟokotax bird was struck by a stone which tore off his scalp and to this day he is bald. The yulo (wutnax) was struck in the eyes and now his eyes are circled by a red band. The istiwintáx bird was hit on the nose and his nose has remained swollen and red. The tok bird was wounded in the breast. The woodpecker was hurt on the head. Although the chuña was the victor of the battle a bird (neče), very like the chuña, succeeded in making his nose bleed and that is why the chuña's beak is red.</p>
+    </body>
+  </text>
+</TEI>

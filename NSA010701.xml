@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Man among the Spirits</title>
+        <editor role="collector">Alfred Métraux</editor>
+        <editor role="narrator">Pedro</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NSA010701</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Métraux, Alfred (1939): Myths and Tales of the Matako Indians (The Gran Chaco, Argentinia). In: Ethnological Studies/Etnologiska Studier 9, 1-127. Quot. pp. 44-45.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CSA39401">Wichí</name>
+          <date when="1933" type="recorded">Recorded in 1933.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>A man was caught by the hoɂnat-ʟele. He remained with them for more than a year. When he returned he found himself in the middle of fields. He married a woman-spirit and lived the life of the spirits. Once he went with his wife to fetch honey out of a tree, which according to his wife, was full of it. It was midnight and as the man could not see, his wife pulled his eyelashes out and gave him hers so that he could see in the darkness. To dig out the honey the woman-spirit used an iron implement like a cutlass. She <pb n="45"/>stuck it into the tree, which immediately opened and let the honey flow out. When the honey stopped flowing she removed the iron and the wood closed without leaving a scar. The hoɂnat-ʟele sleep during the day and work at night. They have their sexual intercourse during the day. The man could not get accustomed to the life they led because he was unable to sleep during the day. The houses of the spirits-of-the-earth are like long corridors.</p>
+    </body>
+  </text>
+</TEI>

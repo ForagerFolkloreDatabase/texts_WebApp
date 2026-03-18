@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Bird Man</title>
+        <editor role="collector">Stolyarova Alla Konstantinovna</editor>
+        <editor role="narrator">Porbin Katamu Kondakovich</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NEE059709</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0">CC BY-NC-SA</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Dulson Catalogue. In: INEL -  Grammars, Corpora and Language Technology for Indigenous Northern Eurasian Languages (https://www.slm.uni-hamburg.de/en/inel.html), https://inel.corpora.uni-hamburg.de/portal/kataloge/dulson/#en. Quot. p. s.p..</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CEE15006">Nganasan</name>
+          <date when="1971" type="recorded">Recorded in 1971.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>He has a tent. He has a wife. He has a child, a boy. They three live in the tent. There is a neighbourâs tent. Neighbourâs tent â is of mouse-oldman. The mouse-oldman has a wife.  He has a daugther. The son of the bird-oldman keeps coming all the time to the daugther of the mouse-oldman and plaits her hair. And if they plait his hair, then the son of the bird-oldman comes to the daughter of the mouse-oldman by night, as well. The bird-oldman sees his son, and he goes to the mouse-oldman to do the matchmaking. Finally he took her away. The children have moved away, they live together. They live like so, until the snow comes. The bird-oldman says: It seems, I'm going to freeze. I will freeze. Where is my land? The summer passed, and I will fly away, it seemsâ. Mouse-oldman (says): âWhat are you going to do with your son and daughterâ? âHow can she reach my land? If she had wings, she would flyâ. âOur children have started to live togetherâ. âWho would separate them?â âHow can I carry the child of the mouse-oldman?â âHave to carry her some-how.â The wife of the bird-oldman, being sorry for her son, started to cry. âHow would my child reach that far away land?ââIf she had wings, she would fly.â âI wonât let my child go.â âWhy canât the son of the bird-oldman (his child) be left here? âLet him try for one year.â âPerhaps he does not die.â The bird-oldman says: âAll right, my son would stay.â âLet him stay on the plain.â âIt is cold-cold-cold, tomorrow we are leaving.â In the morning, the bird-oldman left, and he left his son. In autumn, the son of the bird-oldman and the daughter of mouse-oldman sleep together. She awoke. The son of the bird-oldman is still sleeping. So he is sleeping, but his wife is stronger. The daughter of the mouse nibbled at him, gnawed him clean.<note>why is the girl in lative?</note>NEE059709</p>
+      <p>He has a tent. He has a wife. He has a child, a boy. They three live in the tent. There is a neighbourâs tent. Neighbourâs tent â is of mouse-oldman. The mouse-oldman has a wife.  He has a daugther. The son of the bird-oldman keeps coming all the time to the daugther of the mouse-oldman and plaits her hair. And if they plait his hair, then the son of the bird-oldman comes to the daughter of the mouse-oldman by night, as well. The bird-oldman sees his son, and he goes to the mouse-oldman to do the matchmaking. Finally he took her away. The children have moved away, they live together. They live like so, until the snow comes. The bird-oldman says: It seems, I'm going to freeze. I will freeze. Where is my land? The summer passed, and I will fly away, it seemsâ. Mouse-oldman (says): âWhat are you going to do with your son and daughterâ? âHow can she reach my land? If she had wings, she would flyâ. âOur children have started to live togetherâ. âWho would separate them?â âHow can I carry the child of the mouse-oldman?â âHave to carry her some-how.â The wife of the bird-oldman, being sorry for her son, started to cry. âHow would my child reach that far away land?ââIf she had wings, she would fly.â âI wonât let my child go.â âWhy canât the son of the bird-oldman (his child) be left here? âLet him try for one year.â âPerhaps he does not die.â The bird-oldman says: âAll right, my son would stay.â âLet him stay on the plain.â âIt is cold-cold-cold, tomorrow we are leaving.â In the morning, the bird-oldman left, and he left his son. In autumn, the son of the bird-oldman and the daughter of mouse-oldman sleep together. She awoke. The son of the bird-oldman is still sleeping. So he is sleeping, but his wife is stronger. The daughter of the mouse nibbled at him, gnawed him clean.<note>why is the girl in lative?</note></p>
+    </body>
+  </text>
+</TEI>

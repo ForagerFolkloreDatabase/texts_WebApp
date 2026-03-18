@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Raven Cycle - Raven Loses His Nose</title>
+        <editor role="collector">James Teit</editor>
+        <editor role="narrator">Tuu:ʼts ('strong rocks')</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NNA026057</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Teit, James A. (1919/21): Tahltan Tales. In: The Journal of American Folk-Lore 32(124), 198-250; 34(133/134), 223-253, 335-356. Quot. pp. 224-225.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA28403">Tahltan</name>
+          <date notAfter="1915" notBefore="1912" type="recorded">Recorded sometime between 1912 and 1915.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <note>This story is said to be told by the Tlingit, and probably came from them. See RBAE 31 : 684 (Haida, Loucheux, Nass, Tlingit, Tsimshian).</note>
+      </p>
+      <p>The people had lines set in the sea, but they could catch no fish. Their bait and even their hooks and lines disappeared. One night some of them watched by sitting in their canoes and holding the lines in their hands. One of them felt something, jerked his line quickly, and caught Raven in the nose, for it was he who had been eating the bait. The people pulled the line up into the canoe so quickly, that Raven did not have time to disengage his nose; and, as he did not want the people to get him, he pulled back and broke off his nose. The people found they had caught some one's nose, but they did not know to whom it belonged. They took it to their village and gave it to one of their chiefs, who was a wise and wealthy man. Every one went to his house to see it, but none recognized it.</p>
+      <p><pb n="225"/>Raven put on a lump of pitch for a nose and then, shaped and colored it, and then pulling his hat down over his face, went to the village. He entered the first house. The people said, "You are a stranger" and he answered, "Yes, I have come from a different place." They asked from what country and why he had come. He answered, "Oh! I have come from a distant country because I heard something." They asked him what he had heard. He said, "I heard you caught something." They answered, "Yes." He said, "I hear it is a very strange thing. I want to see it. I have come a long way to see this curious thing." They directed him to the next house. Thus he went through all the houses, asking and being answered in the same way. At last he entered the chief's house. There were many people there. The chief showed him the nose, and asked him if he could recognize it. He held it in his hand, and examined it very thoroughly and slowly, at the same time making remarks expressive of his wonder at the curious object. At a moment when the people's attention was diverted, he flew up with it through the smoke-hole, and, sitting down on the high branches of a tree, he put it on. This is why the raven's nose now has a mark as if it had been broken off.</p>
+    </body>
+  </text>
+</TEI>

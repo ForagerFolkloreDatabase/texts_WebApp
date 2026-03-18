@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Fox and Burbot</title>
+        <editor role="collector">Glafira Makarina Vasilevich</editor>
+        <editor role="narrator">Putugir Av.</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NEE060089</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0">CC BY-NC-SA</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Däbritz, Chris Lasse/Gusev, Valentin/Stoynova, Natalia (2024): INEL Evenki Corpus. Version 2.0. Publication date 2024-12-31. Archived at Universität Hamburg. https://hdl.handle.net/11022/0000-0007-FE38-D. In: The INEL corpora of indigenous Northern Eurasian languages. https://hdl.handle.net/11022/0000-0007-F45A-1. Quot. p. s.p..</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CEE15803">Evenki</name>
+          <date when="1931" type="recorded">Recorded in 1931.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>Earlier the fox was black, big as a wolf. The fox went along the shore of the river; going it met a burbot that was living at the shore  of the river. The fox said to the burbot: "Let us run a race in the river reach."  "Well, let's race", the burbot said, "just wait a bit for me. I'll come here soon, wait a bit for me!"  The burbot went off. The burbot went to its relatives and said: "When the fox is shouting, answer [him] in the front."  So the burbot persuaded all its relatives. It was not long and the burbot came to the  place where the fox was, and it said to the fox: "Well, let's run a race!" "Go", the fox said.  The burbot plunged [into the water], and there it was. The fox was running. Having crossed one river reach, the fox shouted:  "Burbot!" "Hoj, hoj!", the burbot answered behind him. The fox was happy and said  [=thought]: "I am running [away]." The fox ran, it ran far, it stopped and shouted: "Burbot!"  That one at the river reach answered: "Hoj!" The fox ran at full power, it ran through a river reach, it crossed a cape, it ran down to the river, it shouted to the  burbot. Again that one [the burbot] answered there at the river reach. The burbot didn't swim, it stayed there. The was ran, it ran until it became red brown.  Until now it has become red brown, it has become clever and smart.</p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Story of Bundoola (version 1)</title>
+        <editor role="collector">Andrew Mackenzie</editor>
+        <editor role="narrator">Bimmoon</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NIP027950</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Mackenzie, Andrew (1874): Specimens of Native Australian Languages. In: The Journal of the Anthropological Institute of Great Britain and Ireland 3(2), 247-264. Quot. pp. 256-257.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CIPS0560">Dharumba</name>
+          <date when="1872" type="recorded">Recorded in 1872.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>I go fishing, I am going to spear fish; my canoe, my fish spear. What a fine calm sea. I'll paddle over there to the surf at the rocks. I'll go to the bush, the sea is too rough. I'll paddle out to sea again. Let us run away, because bad, nasty fish [are what he gives you, understood]. Let us run away, children, we'll leave him when he goes out far. He follows them. Where are you? hilloa! I hear them over there, I must go thither. There they are, the Southerners, says he, that's our brother-in-law coming. Let us go, let us make the spear ready; all ready; you are good marksman, you wait here, because this is the path that the kangaroo takes his road. Let us go, brother-in-law, you'll see you wife's country, you'll see the great precipice. Bundoola's wife belongs to that place. You come close to the edge, you stop here. They shove him over a good way; kill him dead. Rope, you catch hold of the rope, vine. He comes up the long way to the top. Cut the rope, serve you right, you dead now. This was at Banboro. I'll go home to my place, this place is too rough. I'll go and try another place. I'll go a little further. This is the good habitation. I'll stop here at Bundarwa.</p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A Hare and a Wolverine</title>
+        <editor role="collector">Irina Petrovna Sorokina</editor>
+        <editor role="narrator">Palchina Lidiya Nikolaevna</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NEE059771</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0">CC BY-NC-SA</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Shluinsky, Andrey/Khanina, Olesya/Wagner-Nagy, Beáta (2024): INEL Enets Corpus. Version 1.0. Publication date 2024-11-30. https://hdl.handle.net/11022/0000-0007-FE1D-C. Archived at Universität Hamburg. In: The INEL corpora of indigenous Northern Eurasian languages. https://hdl.handle.net/11022/0000-0007-F45A-1 Quot. p. s.p..</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CEE15008">Forest Enets</name>
+          <date when="1985" type="recorded">Recorded in 1985.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>A hare and a wolverine. A hare ran along a road. An old wolverine ran towards him. "Where did you come from, hare?<note>[ShA:] Normally, kuniz (ABL) should be </note> "I walked off-road for several days. My legs hurt, my head hurts, I have no strength.<note>here, not LOC.</note><note>[ShA:] Normally, I would expect nixu-jq, e.g. lit. my force.</note> I am going back." The wolverine said: "Don't go. If you go back, you'll fall into a trap <note>[ShA:] N'iz is completely unexpected as the 2sg imperative form; typically,the expected future form is kan(u)t (irregular).</note>on the road. Surely, a man has already installed a trap. Don't go back, go forward.  If you go along a new road, you will find something, you will not be killed, you will not fall into a trap."<note>[ShA:] Normall, not n'iz, but n'id' is the expected form of 2sg.md.</note> Their roads diverged in different directions. The hare did not follow the advice and went back. He thought that he had not obeyed the old wolverine before and had lived well. "Why should she teach me now?"<note>[ShA:] Normally, tÉxo is intransitive.</note>He went back. In the evening, Wolverine goes home. "Oh, what is lying there?" The hare lies across the <note>[ShA:] No no is attested </note>road, eyes closed, mouth open. He died, he became completely cold.<note>anywhere for open.</note> He fell into a trap. Only his ears are visible. The wolverine feels sorry for the hare.<note>[ShA:] The syntax is completely unexpected and presumably follows Russian pattern. Normally it should be </note> The wolverine thought: "He did not listen the old woman, so he died."<note>bigudÊ¼i nÊ¼abakuÄa sÉÅaza.</note></p>
+    </body>
+  </text>
+</TEI>

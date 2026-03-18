@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Old Man and the Spring-Birds</title>
+        <editor role="collector">Christiaan Cornelis Uhlenbeck</editor>
+        <editor role="narrator">Joseph Tatsey</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NNA037517</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Uhlenbeck, Christiaan C. (1912): A New Series of Blackfoot Texts from the Southern Peigans Blackfoot Reservation, Teton County, Montana. With the help of Joseph Tatsey collected and published with an English translation. Amsterdam: Müller (Verhandelingen der Koninklijke Akademie van Wetenschappen te Amsterdam, Afdeeling Letterkunde, NS 13,I). Quot. pp. 195-198.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA31305">Piegan</name>
+          <date when="1911" type="recorded">Recorded in 1911.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>There was the Old Man, he was travelling about again. He entered a forest of big trees in this country here. He saw, there were spring-birds [literally: summer-birds]. When they said "Spring-bird", then their eyes would fall out. There was a tree, it was a very dry tree [i. e, a <pb n="196"/>dead tree], they [their eyes] would fall cleanly in it. When they said "Back in, spring-bird", then they would fall cleanly back again to them. He went towards them crying [and saying]: Oh, oh, let me do in that way. They told him: Now, my elder brother, it is not important. Once [a day] we say it in forests of big trees, [when] we are happy. Then he went away. He had just gone out of sight. Over there was a big tree. He said "Spring-bird", [and then] his eyes fell cleanly out [on the tree]. Then he said again "Back in, spring-bird", [and] then his eyes fell back in again. Then he went away. There in a forest of big trees he came again to a tree. He said again "Spring-bird", [and then] his eyes cleanly fell out [on the tree]. He kept on saying "Back in, spring-bird", [but] they did not fall back in again. He had no eyes any more.</p>
+      <p>Then he went away. He went on the prairie. He stood about, making signs. There was a woman, she saw him. She said: He is making signs to me. She went over to him. She came to him. She asked him: Why do you make signs to me? He told her: You might lead me about, the germs of the snow [supposed to be the cause of snowblindness] have eaten my eyes. She said to him: Yes. He told her: Take me over to that river there, let Us make a shelter there. Then he <pb n="197"/>had a hold of her. He was taken into the forest by her. Then they began to make a shelter. He was told by that woman: There are buffalo coming this way. He said to her: Here is my arrow. Only hold it towards these buffalo. Then say: Now. [She pointed the arrow at the buffalo, and then he shot.] He killed- one of them. Then they had something to eat. The Old Man told her: I give you these buffalo-hoofs, don't let them go [i.e. don't lose them], you will have no child. [He said this, fooling her, because he wanted, that she should have on her something that rattled, that he might know, where she was.] Where her shoulders came together [i.e. between her shoulders], there he tied them. After a short while he said to that woman: Look on my head for lice for a while. She had looked a long time on his head, [and then] he fell asleep. Then she lifted the cover from his eyes. Then she saw, [that] he had no eyes. She gently laid his head down [from her lap]. Then she got up. She went out. Then he woke up. He asked her: What are you going to do? Then she went away running. He chased her. He nearly caught her. That woman then knew: He hears these hoofs, that is why he nearly catches me. Then she broke them loose. She got near, where [the river] was deepest. She threw them to the bank [of <pb n="198"/>the river]. When the Old Man heard them, then [thinking, that the woman was there, he went in that direction, and] fell over the bank. And that woman made her escape from him [literally: and then he saved that woman]. He himself had a hard time to get out of the water.</p>
+      <p>Then he went on again. He came to a round hill. He said: Yes, this is that round hill [literally: his round hill]. There was a coyote, [that] came to him. He [that coyote] would make him smell his claw with a rotten toe. [The Old Man] would sav: Yes, this is that old corralling-place. Then he was known by [the coyote], that he could not see. Then [the coyote] would stand in front of him. [The Old Man] then would tread on him. He would say to [the coyote]: Yes, I see you. Then he caught him. He put one of [the coyote's] eyes in [his own socket]. Then he himself could see. He was one-eyed. He said to [the coyote]: I will give it back to you again. Then he could see. He then went back to the forest of big trees. There on that tree were his eyes, they were still there. Then he took them. Then he put them back [in his sockets]. He gave that coyote his eye back. That is the way, that it was told.<note>Cf. Grinnell blt 153 sq., Wissler-Duvall mbi 29 sq., Dorsey-Kroeber ta 50 sqq., Lowie a 117 sqq., Lowie ns 272 sq.</note></p>
+    </body>
+  </text>
+</TEI>

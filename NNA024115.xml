@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Itiqtaujaq</title>
+        <editor role="collector">Edmund James Peck</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NNA024115</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Boas, Franz (1901): The Eskimo of Baffin Land and Hudson Bay. From notes collected by George Comer, James S. Mutch, and E. J. Peck. New York: AMNH (Bulletin of the American Museum of Natural History, 15,I). Quot. pp. 333-340.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA27903">Baffin Island Inuit</name>
+          <date notAfter="1901" notBefore="1896" type="recorded">Recorded sometime between 1896 and 1901.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>{337} There was a man named Itiqtaujaq who had no wife, and because he wanted a wife he went in search of one. Some children [young people] were staying in a tent while their mothers were away in a boat. Itiqtaujaq, during his wanderings, saw this tent, and on going to the door of the same, a lad came out. Itiqtaujaq then said to the lad, "Let one of the most beautiful girls come out." The lad went in and delivered Itiqtaujaq's message; but one of the girls said, "What does {338} he call himself? Who is he?" The lad answered, "He told me to say that he is called Netsiasuase." The girl, not knowing a man so called, did not heed his request; and the lad, having no message to deliver, did not go out to Itiqtaujaq. Itiqtaujaq now journeyed on again, and came to another land. Here he saw some women walking with bare feet in a lake [by its side]. Hiding himself so that they might not know of his presence, he went towards them and took their boots. When they knew that their boots were taken, they asked for them, saying, "Give me my boots." He gave some their boots, but he kept the boots of one [said to have been the most beautiful one]; and when she asked for her boots, he said to her, "I will have thee for a wife." - "No," she said; but he said to her, "I will give thee thy boots if thou consentest to be my wife." - "Bring my boots," she kept on calling out. "I will have thee for a wife," he kept on saying. At last, when she consented, he gave her boots to her. She then became his wife. She conceived and brought forth a child, and they had a son.</p>
+      <p>Now, when this child grew up, the people caught a whale; and while they were cutting up the whale, the women were taking away pieces of the whale-meat. Itiqtaujaq's wife, who was nice and clean, was displeased because her husband threw some meat on her garments. Being displeased, she went away by the seashore, weeping. Now, there was a lot of feathers by the shore. She picked these up and put them between her finger-joints, and both she and her son then flew away. When the Eskimo saw her fly away, they said, "Itiqtaujaq's wife is flying away." Because they said so, Itiqtaujaq followed after her, singing, in this manner, -</p>
+      <p>"Away there, away there! I am ever inclined to walk to the hole of heaven, to the land of the birds. What is this that appears? Is it not a great kettle which is boiling rapidly? Now, this kettle can in no wise be passed by going around it, so through the boiling scalding meat I stepped from piece to piece, and so I passed on.</p>
+      <p>Away there, away there! I am ever inclined to walk to the hole of heaven, to the land of the birds. Now, what is this which appears again? It is a great lamp which is burning brightly. Now, this lamp can in no {339} wise be passed by going around it, but only by stepping on the burning pieces of blubber did I pass on.</p>
+      <p>Away there, away there! I am ever inclined to walk to the hole of heaven, to the land of the birds. Now, what are these which appear? Two great monsters which are eating their own flesh, and only by rushing between them, and actually losing portions of my coat-tails, did I pass these by.</p>
+      <p>Away there, away there! I am ever inclined to walk to the hole of heaven, to the land of the birds. Now, what are these which appear? Two large flat stones which close quickly together, but I just passed between them with the greatest difficulty, as the end of my coat-tails were cut off by the closing stones.</p>
+      <p>Away there, away there! I am ever inclined to walk to the hole of heaven, to the land of the birds. Now, who is that who appears down there? It is Eqaluqdjuq, who is busily engaged in making fishes."</p>
+      <p>Now it is related that before Eqaluqdjuq knew of the other man's coming, he [Itiqtaujaq] went to him. When he reached Eqaluqdjuq, he [Eqaluqdjuq] said to him, "From where, from what direction, didst thou come to me?" Itiqtaujaq answered, "Just close from thy side I reached thee." It is related of Eqaluqdjuq that he said to Itiqtaujaq, "If thou hadst approached me from my front [in the direction of my face], I would certainly have chopped thee with my axe." [The Eskimo say that Eqaluqdjuq had a distorted face, and would not allow anyone to approach him from the front.] It is also said of Eqaluqdjuq that he made fish by chopping up wood, and when he cast the pieces of wood into the water, they came to life [turned into fish]. It is also related that Itiqtaujaq asked Eqaluqdjuq if he knew where his wife was. "She is on the small islands down there" [said Eqaluqdjuq], "on that small island the tents on which look like a lot of stones. Now go to them, embarking on the end of a fish's tail and shutting thine eyes."</p>
+      <p>So he embarked, having the fish's tail for a canoe. While he was going to the islands, [out of curiosity] he just opened his eyes [a little way], and he was almost capsized. When the paddle of his canoe touched the land, he opened his eyes {340} [wide], and saw his son. "Let thy mother come down to the beach," he said, "for I have arrived." The son then went up to his mother, and said, "My father has come; go thou down to the shore." But the mother answered, "Is this thy father who I thought would not come, the one we left far away?"</p>
+      <p>When the son went down again [the woman was pregnant and was ashamed to go], he [Itiqtaujaq] went up, but his former wife had a husband. This husband said, "Bring that great box up here which is full of feathers." He then put the quills between his finger-joints, and both he and his neighbors flew away. When his wife also began to fly away, Itiqtaujaq cut her with a knife and wounded her, and a great number of eggs kept falling down.</p>
+    </body>
+  </text>
+</TEI>

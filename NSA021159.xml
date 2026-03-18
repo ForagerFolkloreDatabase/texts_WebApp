@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The White Stone of Can-a-iul</title>
+        <editor role="collector">Roberto Dabbene</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NSA021159</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Dabbene, Roberto (2025): Two Yahgan and Four Ona Myths. Trans. for the Forager Folklore Database (FFDB Documents). Quot. pp. 7-8.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CSA39101">Ona</name>
+          <date when="1902" type="recorded">Recorded in 1902.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>Can-a-iul, like, Coan-yi-pej, had the reputation of being a great shaman.</p>
+      <p>Many years ago (as many as the hands of ten men) he went on a journey with some companions to the country of the Yahgan [Sloggett Bay] and saw many of these Indians eating the flesh of a whale that had been stranded on the beach. The Ona, also wishing to eat, left their weapons and approached the Yahgan with signs of peace. But the latter, seeing them without weapons, when they were near them, attacked them with their slingshots and harpoons and killed them all.</p>
+      <p>Coan-yi-jul also fell, pierced by harpoons, but it seemed like his head did not want to die like his body.</p>
+      <p>The Yahgan then cut it off and with astonishment they saw that head begin to jump and walk. Reaching the edge of the forest, it turned around and burst out laughing.</p>
+      <p>All those who saw and heard it then died.</p>
+      <p>The head continued on its way to Punta S. Diego and from there, passing Cape Penas, it headed north to Rio Grande. It went so swiftly that it caught up with the guanacos, which it killed. Today the head is transformed into a white stone that can be seen near Mount Olivia. Sometimes it goes on a journey through the hills and all who come across it get sick and die.</p>
+    </body>
+  </text>
+</TEI>

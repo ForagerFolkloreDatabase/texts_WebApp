@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Story of the Ants</title>
+        <editor role="collector">James Teit</editor>
+        <editor role="narrator">Tuu:ʼts ('strong rocks')</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NNA026120</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Teit, James A. (1919/21): Tahltan Tales. In: The Journal of American Folk-Lore 32(124), 198-250; 34(133/134), 223-253, 335-356. Quot. pp. 237-238.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA28403">Tahltan</name>
+          <date notAfter="1915" notBefore="1912" type="recorded">Recorded sometime between 1912 and 1915.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>Two brothers were married to two sisters.<note>It is not clear that these people were ants, but it would seem so.</note> The husbands hunted every day, and brought home plenty of caribou-meat. When they <pb n="238"/>came home, they always listened before entering the lodge. One night, when they were listening, a squirrel made a noise, as squirrels do in the evening-time. The younger sister said, "He makes a noise just like the one I make." The elder one said to her, "Don't say that! Our husbands might become suspicious." Next day moved camp, the elder couple travelling some distance ahead. They came to a place where there was a very large ant's nest in rotten wood. The man pushed his wife into the nest; and the ants went all through her, coming out at her ears, nose, mouth, and eyes.<note>Compare the end of No. 56, "The Girl who was stolen by Owl," p. 253.</note> The man then went on and made camp. When the younger sister arrived, she inquired for her sister, but the man never answered. Then she thought that he must have killed her. On the following day the men went hunting, each going his own way. The brother who had killed his wife then came back to camp, and wanted to have connection with his sister-in-law, saying, "Let us go to a hidden place! " The woman hid a knife in her bosom and went with him. When they embraced, she said, "I must be on top: I always do that way." He agreed, and she suddenly pulled out the knife and cut his throat. That night she killed her husband [the other brother] in the same way. This why ants have red heads now,<note>The connection is not clear; but probably their heads are red because they were beheaded, and their heads bloody.</note> and bite people.</p>
+    </body>
+  </text>
+</TEI>

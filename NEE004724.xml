@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>[The Tale of the Cunning Bunny]</title>
+        <editor role="collector">Gerhard von Maydell</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NEE004724</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Schiefner, Anton (2025): Yukaghir and Tungusic tales. Trans. for the Forager Folklore Database (FFDB Documents). Quot. pp. 19-23.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CEE15802">Lamut</name>
+          <date notAfter="1871" notBefore="1835" type="recorded">Recorded sometime between 1835 and 1871.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>Once there was an old woman and she had a bunny as a son. During the lifetime of her husband she had an abundance of all things, but after his death she became so poor that she had nothing to eat. Regardless of all expostulations of the mother, Bunny lived out in the open according to his rabbit nature. Aside from this son the old woman possessed a bony knife, which Bunny tried to elicit from her. "What do you need the knife for?" said the mother, "you are still too small to go on the hunt." Smiling, the bunny retorted, "How can you know that? Maybe I will yet bring something back from the hunt." Thus, Bunny lived outside for quite some time with his bony knife.</p>
+      <p>One day all food had run out and they had nothing to eat. At this, good fortune came to the bunny. A young wolf walked by in front of their house. Bunny walked towards him, greeted him and suggested they play something; the one who could bring the other to the ground should receive the bony knife and cut open the belly of the other. At first Wolfy did not want to get involved with such a jocular game, yet reconsidered and, since he assumed that victory would definitely come to him, agreed. Of course the wolf threw the rabbit to the ground <pb n="20"/>and already wanted to take the knife to slice open his belly. But Bunny spoke to him, "Are you out of your mind! Did you really think that I suggested this game in all seriousness! And secondly, why do you want to take my life?" Wolfy then did not feel like immediately finishing him off, rather he wanted to toy with him a little longer and then strangle him; so he started to roll around with him and to play, Bunny however reached, as soon as it was on top of the little wolf, for his bony knife. The little wolf now began to plead for his part to bunny to spare him, this one however gave him the reply, "Why, brother, should I spare you? I have long been nearly faint from hunger." With these words Bunny killed the little wolf and dragged it home to his mother. Then Bunny lived excellently with his mother for a time; both consumed the fatty meat of the little wolf after they had cut the little wolf into pieces and cooked a part of it. At this time the mother of the bunny wanted to hide the head of the little wolf in the pantry, Bunny, however, told her to put it up in the courtyard. The mother warned him it would not be good, one could easily see the head, yet Bunny did not let up. Some time later, when they had completely finished with the wolf, the mother of the little wolf found the head of her little son after much searching, came to Bunny and asked who perhaps could have killed her son. Proudly Bunny replied, "I killed him." At first the she-wolf would not believe it, yet Bunny threatened to also finish her off. Here she opined that she could surely finish him quicker. "Perhaps," replied Bunny, "if you come with your rout." At this audacity the she-wolf earnestly recoiled and went to get <pb n="21"/>her rout. Returning home she persuaded the bear, along with some foxes and wolves, and came to kill Bunny. However, before they entered, the bear spoke to his host, "How we will kill him! His pantries are well locked and how then will we come to a little fat? It is better if we let us be fed first and only then kill him!" As soon as Bunny saw the host, he straightaway gave his mother the message to immediately leave the hut, else she would be in danger; he sent her for fat in the pantry, but meanwhile he himself stepped out the door and welcomed his enemies. The bear considered it his duty to ask for the fat of the killed little wolf, but Bunny bade them enter and promised to then get the fat from the pantry. When the guests had all entered, Bunny locked the door and threw his entire stash of fat through the roof onto the hearth below, the fat caught fire in the fireplace and, as the hut was without window and he had also closed the opening above the hearth, all the guests became their prey after much clamoring. Thus, Bunny once again began to live excellently with his mother, each day they cooked fatty meat.</p>
+      <p>Bunny's mother had a wealthy brother, who lived nearby. One day his meat ran out and he asked his sister. She promised him this, yet because the meat could not pass through the door, she wanted to reach it to him through the chimney hole and told him to let down a rope through it. When he had done this and she told him to pull, he pulled and pulled the rope, but it tore suddenly, the brother fell from the roof and was harmed. Because of this he became angry, did not take the meat and went home, with the words that they would soon all die because of <pb n="22"/>this. As long as there was still meat left, they lived well and in abundance, but soon the meat ran out and they started to starve. Then the mother sent Bunny to the brother to ask him for meat. But when Bunny came and began to ask, the uncle began to chiefly make accusations about that he had not been given meat when he had run out, but then he began to insult his sister and told how she had given birth to the bunny. This was too much for the bunny, he went away without having received anything, smashed his nose voluntarily along the way, let his blood freeze in the snow and brought it to his mother. When the mother asked what he had brought, he told her the uncle had already eaten all the meat, there was only blood left over and this he sent her. The mother immediately got started with making a porridge; as soon as she had eaten this, she died on the spot. Bunny dressed her in her best dress and carried off the dead mother on the sled. Soon he found the tracks of rich people, who had just ridden the same path; he went after them and quite soon espied their yurt. In sight of this he halted, took his mother from the sled and stood her on her feet near the sled, he however went towards the yurt. The host was informed that someone had come who was a bunny. The host thought that it must be a good person if able to transform into a bunny, and that he himself must welcome him. This he did and led Bunny into the yurt; meat was immediately cooked for him and they began to wait on him, but Bunny did not eat and said that another hungry travel companion was present. The host wanted to go himself, yet Bunny said that his companion suffered from nervousness, that he might fall <pb n="23"/>and come to harm. At this the old man sent his two daughters. These stepped out of the yurt and saw a stately dressed woman. They called to her, there came no reply. Thereupon they came up closer, took hold of the woman's hands and wanted to pull her into the yurt. Yet the old woman fell over. Bunny jumped out of the yurt and said they had killed his wife. As compensation he demanded from the old man his two daughters. The old man gave him both daughters and, additionally, each daughter twenty reindeer as dowry. Bunny came home, buried his mother and lived very well for a long time with his two wives. But when all the reindeer were consumed, the women began to set traps for grouse and rabbits; just that no rabbits wanted to get caught in them. There one said to the other, "Why aren't any rabbits getting into our traps? Perhaps because our husband is a rabbit." At this the other told her to be silent and said, their husband might hear their talk and be angry about it. When they went out the next day to check the traps, they found a rabbit already in the first one, brought it home, cooked it and ate it. Thereupon they waited a long time for their husband, he tarried and tarried. Only then did they have the thought that the caught rabbit might have been their husband. They did not live there much longer, but went by foot back to their father.</p>
+    </body>
+  </text>
+</TEI>

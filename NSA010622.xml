@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Tawkxwax and the Wild Pigs</title>
+        <editor role="collector">Alfred Métraux</editor>
+        <editor role="narrator">Pedro</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NSA010622</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Métraux, Alfred (1939): Myths and Tales of the Matako Indians (The Gran Chaco, Argentinia). In: Ethnological Studies/Etnologiska Studier 9, 1-127. Quot. pp. 22-23.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CSA39401">Wichí</name>
+          <date when="1933" type="recorded">Recorded in 1933.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>The skunk (tūxwanáx) made a drum and organized a great feast to which he invited all the wild pigs. They danced in a circle, as the Indians do, with Tawkxwax in the center. When they got very excited the skunk lost some of their fur. The people noticed the terrible odor, but they did not know where it was coming from. A little later on the skunk began to whirl round and round by himself and some of his fur fell off. The odor killed all of the wild pigs present at the feast. More than a hundred pigs were killed in this manner. All the people of the skunk's village were called in to help him skin the wild pigs. After they were skinned he distributed the meat to his people and gave Tawkxwax <pb n="23"/>a young pig. Tawkxwax was not satisfied with his share and decided to show the people that he too could kill wild pigs with his hair. He made a drum and invited the pigs. When he was dancing he let his hair fall, but his hair had no odor and furthermore, the hogs had become distrustful. They ran away with the exception of a young pig which Tawkxwax killed with his club. He left the pig lying on the ground and went to his village to tell them he had killed many pigs and invite them to come and help him carry them. The people went with him but they found only the young pig. Tawkxwax looked very surprised and said that he could not explain the disappearance of the pigs; they must have come to life and run away leaving only the young pig. To prove his story he showed them the footprints of the hogs. He was then known as a great hunter.</p>
+    </body>
+  </text>
+</TEI>

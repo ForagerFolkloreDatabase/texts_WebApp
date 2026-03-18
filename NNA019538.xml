@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>X̣wāʼx̣was (version 1)</title>
+        <editor role="collector">Franz Boas</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NNA019538</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Boas, Franz (1910): Kwakiutl Tales. New York: Columbia University Press &amp; Leyden: Brill (Columbia University Contributions to Anthropology, 2). Quot. pp. 471-472.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA29010">Kwakwakaʼwakw</name>
+          <date notAfter="1910" notBefore="1858" type="recorded">Recorded sometime between 1858 and 1910.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <note>See Franz Boas, Indianische Sagen von der Nord-Pacifischen Küste Amerikas, p. 147; see also p. 83 of this volume.</note>
+      </p>
+      <p>Xwāʼxwas was the ancestor of the G·īʼg·ilgam. When the Deluge came, he assumed the form of a salmon and went into the lake at the foot of the mountain Xaʼwolē, at the upper part of Nimkish Lake. When the Deluge subsided, he landed at Flat Place [Ōdzâʼᵋlîs]. There he lived all by himself. After some time, Kunōʼᵋsila came down in the form of the thunder-bird and joined him. Xwāʼxwas built a house. He prepared the posts and put them up, and then he made the beams, but he did not know how to raise them. Kunōʼᵋsila took them up in his talons and placed them on top of the beams. The name of Xwāʼxwas's house was Only-House-on-Prairie [ᵋnᴇʼmsgᴇmdzâʼᵋlas]. In front of his house is a rock which was called Thunder-Bird Place [Kuʼnᵋwas]. This is the place where Kunōʼᵋsila used to have his salmon-trap, and where he caught birds in snares.</p>
+      <p>After some time Xwāʼxwas became sick. He had a sore [aʼmtaᵋ], which increased in size, and which could <pb n="472"/>not be cured. Finally he died. This disease was inherited in his family, so that it finally became their crest. All the members of his family are liable to die of the same disease.</p>
+    </body>
+  </text>
+</TEI>

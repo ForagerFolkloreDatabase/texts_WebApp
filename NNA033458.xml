@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Etēʼtuatā and Big-Toad of Teslin</title>
+        <editor role="collector">James Teit</editor>
+        <editor role="narrator">Tuu:ʼts ('strong rocks')</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NNA033458</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Teit, James A. (1919/21): Tahltan Tales. In: The Journal of American Folk-Lore 32(124), 198-250; 34(133/134), 223-253, 335-356. Quot. pp. 345-346.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA28403">Tahltan</name>
+          <date notAfter="1915" notBefore="1912" type="recorded">Recorded sometime between 1912 and 1915.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <note>This is said to have happened not long ago, and therefore the Indians do not consider it to be a mythological tale belonging to ancient times.</note>
+      </p>
+      <p>Once at a place near Teslin Lake called Ekāʼtzᴇtziñ,<note>Said to mean something similar to saying "poked and caught pole." See JAFL 32: 221 and preceding story.</note> where there is now a waterfall, a gigantic toad had his house. This toad was the guardian of a Teslin man called Etēʼtuatā. His son knew that his father had Ēʼdistā, or Big-Toad, for his guardian, but thought it was only the spirit of the monster. He did not believe that any really existed, and he scoffed when people said they were afraid to go near the place where the toad lived. One day he was hunting with his father near the place, and said to him, "Where is this place that people are afraid to go to?" After his father had pointed out the <pb n="346"/>locality, he proposed that they should go there, but his father would not consent. The son then told his father he did not believe the stories told about that place, and wanted to see for himself. At last his father said, "Well, if you are not afraid, let us go!" He made the lad get a very long slender pole and carry it. When they came to the place, which was at the head of a small lake south of Teslin Lake, his father took the pole and pushed it down through the soft mud until it was nearly out of sight. Soon something moved, and took hold of the pole. The boy was sitting near by; and his father said to him, "Ēʼdistā has taken hold now. Don't run!" He pulled at the pole, and the toad came up. As soon as the lad saw its huge head emerging slowly out of the mud, he tried to run away. He ran only a short distance, when the influence from the toad reached him; and he became spell-bound, and could go no farther. His father said to Toad, "I want you to leave here, so that people may have a trail passing here. You must go away, or I shall kill you." Toad agreed. When he left his house [or the burrow that he had occupied], the ground caved in, and left a hole through which the water poured out; and since then there has been a waterfall at this place.</p>
+    </body>
+  </text>
+</TEI>

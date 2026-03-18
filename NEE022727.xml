@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Tale of a Mythical Old Man</title>
+        <editor role="collector">Waldemar Jochelson</editor>
+        <editor role="narrator">Aleksey Dolganoff</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NEE022727</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Jochelson, Waldemar (1924): The Yukaghir and the Yukaghirized Tungus. 3 vols. Leiden: Brill &amp; New York: Stechert 1910/26 (Memoirs of the American Museum of Natural Hisory, 13; Publications of the Jesup North Pacific Expedition, 9,I-III), pt. II. Quot. pp. 251-252.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CEE15401">Yukaghir</name>
+          <date when="1901" type="recorded">Recorded in 1901.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>There was an old woman. Once when she was sitting in her house, she saw that soot was falling down through the chimney of her fire-place. The old woman looked up and saw that a Mythical Old Man was sitting on top of the chimney and that he lowered down his large penis which reached the edge of the fire-place. The old woman went out and said to the Mythical Old Man, "Old Man, let us go to a better place." The Mythical Old Man answered, "It is the real truth what you say." The old woman went ahead. While walking, she saw the entrance to a fox's lair. The old woman threw off her trousers and lay down on her back over the hole. When the Mythical Old Man came, she said to him, "Old Man, let us lie together and copulate." The Mythical Old Man put his penis into the hole of the fox's lair. Then the old woman said to herself, "He pierced the fox's lair so that his penis is standing up from another passage of the lair." She said, "Old Man, look, a warrior has come." The Mythical Old Man seized his bow and looked. He saw that something was standing up. He flew an arrow, and he hit his own penis. The Mythical Old Man died there. The old woman got up, put on her dress, and said, "Know it, now you will be dead." She went back home. She came to her house and lives there to this time. The end.</p>
+    </body>
+  </text>
+</TEI>

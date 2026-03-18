@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Old Man and the Bear</title>
+        <editor role="collector">Konstantin Nikolaevich Rychkov</editor>
+        <editor role="narrator">Kiril</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NEE060119</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0">CC BY-NC-SA</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Däbritz, Chris Lasse/Gusev, Valentin/Stoynova, Natalia (2024): INEL Evenki Corpus. Version 2.0. Publication date 2024-12-31. Archived at Universität Hamburg. https://hdl.handle.net/11022/0000-0007-FE38-D. In: The INEL corpora of indigenous Northern Eurasian languages. https://hdl.handle.net/11022/0000-0007-F45A-1. Quot. p. s.p..</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CEE15803">Evenki</name>
+          <date when="1912" type="recorded">Recorded in 1912.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>Hurchungo [from the clan] Kambagir [and] his three sons are separating. He says: "Let's meet here!" The old man went to  hunt wild reindeers, having gone he got lost. The old woman is waiting for three days, [he is] not there. Then the sons came, their  father is not there. They(?) found their mother and said: "How many days the father is not there?"<note>[DCh]: The form "amindun" is quite unclear; the analysis 'father-DAT/LOC-3SG' would also be possible, but would not fit </note> They went to search. They found his tied up riding reindeer. Then they started to follow its trace.<note>the clause's syntax.</note> Then they found a bear. It had been digging, making its house (?). Then they found [out]: A human was  there, a bear was there. The human has died, the bear has died. It had broken(?) his legs.<note>[KAY]: Probably the verb 'mulku' implies that there </note> Then it broke(?) one hand, one eye, he died. The bear,<note>should be blood when somebody is wounded.</note> they are looking(?) [at it], he [=the human] had broken its hind leg. He had loaded eight bullets. He had shot eight  times. They [= the bullets(?)] tore off both eyes.</p>
+    </body>
+  </text>
+</TEI>

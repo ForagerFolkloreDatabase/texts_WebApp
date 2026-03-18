@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A War</title>
+        <editor role="collector">Irina Petrovna Sorokina</editor>
+        <editor role="narrator">Yamkin Kirill Danilovich</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NEE059741</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0">CC BY-NC-SA</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Shluinsky, Andrey/Khanina, Olesya/Wagner-Nagy, Beáta (2024): INEL Enets Corpus. Version 1.0. Publication date 2024-11-30. https://hdl.handle.net/11022/0000-0007-FE1D-C. Archived at Universität Hamburg. In: The INEL corpora of indigenous Northern Eurasian languages. https://hdl.handle.net/11022/0000-0007-F45A-1 Quot. p. s.p..</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CEE15008">Forest Enets</name>
+          <date when="1969" type="recorded">Recorded in 1969.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>War. It's an old story. The Nenets came to our people from the lower place, from the Yamal disrict.<note>[ShA:] I cannot be sure in my interpretation of ÑÐ°ÑÑ, but no other ideas.</note>They came to us to make war. They came from there, they came for war. Our people, our rich people had many reindeer. The Nenets people heard that there were many reindeer in this place. That is why they wanted to fight. We defeated them.<note>[ShA:] ÐÐ°Ð·Ð°Ð½ÐµÐ¾ÑÑ is not clear, I am not sure in my </note> Our people heard that they were coming from the Nenets land to fight with us. When they heard such a conversation, they put all tents together.<note>interpretation.</note> The made a fence out of big sticks. When they made that fence, they moved there their tents, having set up the tentsâ¦  The tents of these were on the shore of the lake.  The name of the lake is Turuchedo. After they have gathered the tents, they sent one person to Bukhucha. They sent one <note>[WNB:] The Lake Turucheda (Tuoruote) is near Potapovo.</note><note>[WNB:] The hill Bakhucha is near Potapovo, it means 'observation point'.</note>person to a hill, to Bukhucha. That person left, he left on a clear day. One of his reindeer is the female  reindeer Kaleo. His another reindeer is a rather big castrated bull. The female reindeer Kaleo is low, and its corps is long.  He left alone. He got there. He climbed up Bukhucha, tied his sledge and looked.  The fog is seen far away. He saw them, they are coming. And he sat down on the sledge, started to work, he is making handles of arrows.  He is working and looking. I see, they are coming here. I am ready, I have tied the rein well.<note>[ShA:] I assume -z at the end being a mistake.</note> I have meshes in my sledge, I sat down well and stretched these meshes.  He sat down well onto the sledge in order not to fall down. I prepared my reindeer pole and see that they have come here.  They came up here, they started to block me and surround me. I am still sitting, I am still waiting for them. When  they blocked me, fog from people appeared, I pulled my rein, I took my reindeer pole and rode. They didn't see me through the fog. They thought that they had closed the hill. I went down to Yenisey and looked back.  They gathered in the place where I was. I am not at that place, I left already. They saw him at the  Yenisey, only his fog [exhalation] can be seen. They followed the trail of my runners down to the Yenisey. I didn't see them anymore. I reached the rise  of the road, the outermost reindeer stretched out, fell down and died. I didn't think for a long  time, I cut off the headband with a knife, I also cut off the harness. I went with one reindeer, I tied the harness.  I got home. I told everything that I saw. Everyone went there. They saw the dead reindeer.<note>[ShA:] ÐÐ°Ð±Ð° looks cery strange,</note> We thought his heart was robust. They skinned this reindeer, bled its blood and went through this blood.<note> the word order is strange either.</note><note>[WNB:] SIP: Before the battle, there was a custom to ride on a sledge through blood to</note> They blessed the runners.<note> victory, to a successful campaign.</note>They went there from the lake. They were preparing for a day. After they have prepared, they started to fight the next day.  They were fighting for several days. They don't fight at night, they start in the morning. They stop in the evening, they fight  again in the morning. At first the forces were equally, but then Nenets people begin to attack. One Enets  person, a rich old man, raised a son himself. He raised an orphan child. He started  sending him. He prepared him, gave him a bow with arrows. He gave him iron clothing, an iron parka. He took  his shaytan out of his sledge. He said: "When your heart moves, then you will start stretching your bow, one will not hear it."  That old man sent his son he had raised himself. His son put on  an iron parka and went to fight. I arrived, the people are fighting. I went ahead and started to shoot.  After I started shooting, no arrow went in vain.  My heart has risen, I don't feel where it will jump out. That day I killed many  people. The next day I also left. I reached the place and immediately went ahead. I've already come very close.<note>[ShA:] I reconstruct the sentence and cannot be sure without access to the recording.</note> I started killing many people. They started going back. The same evening their  chief said:"That's enough, let's stop fighting." They heard their chief and stopped.  The others all stopped, one person stayed. He said: "Kill me completely." My brothers are killed, why did you leave me  alone to live. They coaxed him, they took him away with them. We stopped fighting at all. We will cut down the larch on both  sides, on the one side we will chop, on the other you chop. From now on, we will never fight with each other in our lives.<note>[WNB:] SIP: As a sign of reconciliation, the former adversaries, according to Samoyedic customs, had to cut one tree from both sides.</note></p>
+    </body>
+  </text>
+</TEI>

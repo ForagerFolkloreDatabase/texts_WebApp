@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Yayali, the Giant (version 2)</title>
+        <editor role="collector">Edward Winslow Gifford</editor>
+        <editor role="narrator">William Fuller</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NNA032998</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Gifford, Edward Winslow (1917): Miwok Myths. Berkeley, CA: University of California Press (UCLA Publications in American Archaeology and Ethnology 12,VIII). Quot. p. 334.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA29914">Miwok\Central Sierra Miwok</name>
+          <date notAfter="1914" notBefore="1913" type="recorded">Recorded sometime between 1913 and 1914.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>"Where are you, grandchild? Where are you, grandchild? Where are you? Where are you? Yes. Yes. I am lost. Where are you? This way. Where are you, grandchild? Someone comes. Look out. Get ready. Prepare yourself, for Yayali comes."</p>
+      <p>The people broke cones from the tops of the pine trees and bundled these together. As Yayali started to climb the declivity where the people had taken refuge, they set fire to the bundles of pine cones and threw them into Yayali's burden basket. They threw the burning cones into the basket. Yayali became so hot that he tumbled. "Which way shall I fall?" he asked. They told him to fall to the north.</p>
+      <p>
+        <note>The Giant met his death near Columbia, Tuolumne County. The informant has seen white rocks near Columbia, reputed to be the bleached bones of the Giant.</note>
+      </p>
+    </body>
+  </text>
+</TEI>

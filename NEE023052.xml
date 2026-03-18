@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Sex of the Two Luminaries</title>
+        <editor role="collector">Basil Hall Chamberlain</editor>
+        <editor role="narrator">Ishanashte</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NEE023052</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Chamberlain, Basil Hall (1888): Aino Folk-Tales. With Introduction by Edward B. Tylor. Privately printed for the Folk-Lore Society. Quot. p. 23.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CEE15701">Ainu</name>
+          <date when="1886" type="recorded">Recorded in 1886.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>Formerly it was the female luminary that came out at night. But she was so greatly shocked at the immoralities which she saw going on out of doors among the grass, that she exchanged with the male luminary, who, being a man, did not care so much. So now the sun is a female deity, and the moon is a male deity. But surely the sun must be often shocked at what she sees going on even in the daytime, when the young people are in the open among the grass.</p>
+    </body>
+  </text>
+</TEI>

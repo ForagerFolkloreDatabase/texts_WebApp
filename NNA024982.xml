@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Tales of Quarrels, Murder, and War (#9)</title>
+        <editor role="collector">James S. Mutch</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NNA024982</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Boas, Franz (1901): The Eskimo of Baffin Land and Hudson Bay. From notes collected by George Comer, James S. Mutch, and E. J. Peck. New York: AMNH (Bulletin of the American Museum of Natural History, 15,I). Quot. pp. 290-291.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA27903">Baffin Island Inuit</name>
+          <date notAfter="1899" notBefore="1883" type="recorded">Recorded sometime between 1883 and 1899.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>{290} There once lived at Kutsaw, in the region of Kingnait, a powerful man by the name of Kunikjwak. Nearer the head of Kingnait lived another man by the name of Pudlookshine.[[Compare No. 81, p. 305.]] Once upon a time Kunikjwak's son abducted Pudlookshine's wife. Pudlookshine was afraid to take her back, for he feared that Kunikjwak, being so powerful, would assist his son. However, he went to visit his wife occasionally. Pudlookshine's sister lived at Aggagidjen.</p>
+      <p>One day Kunikjwak's son went home with a seal. He was just cutting it up, when Pudlookshine arrived at the door of his snow house. Kunikjwak saw Pudlookshine, and said to him, "They tell me you want to kill some one." Kunikjwak's son remarked, "Indeed!" Kunikjwak repeated this falsehood. Then his son rushed out to attack Pudlookshine, who stood still until he saw the young man running towards him with a knife; then he fled, running round the hut, and round a boat that stood near by. After a while he grew tired and stopped. At the same time he thrust out his knife backward over his shoulder. Kunikjwak's son could not stop himself, and rushed into the sharp knife, which pierced his heart. Then Pudlookshine ran away as fast as he could, following one of the sealing-tracks.</p>
+      <p>Kunikjwak and one of his friends harnessed their dog-teams and went in pursuit. After Pudlookshine had gone some distance, he jumped from one track to another, and then covered himself over with snow. As it was night, and the snow was falling heavily, he thought his pursuers might pass by without seeing him.</p>
+      <p>Kunikjwak had fallen somewhat behind the sledge of his friend. They had been on Pudlookshine's track for some time, and were expecting to see him soon. Kunikjwak began to fear that his friend might rush forward, and kill Pudlookshine before he himself had a chance to tell him what he wanted to do. Therefore he called out to him, saying that he did not want him to kill their enemy, but that he wished to cut off his limbs one by one.</p>
+      <p>{291} They travelled on and on. Suddenly one of the dogs scented Pudlookshine. It jumped sideways, but for some reason became frightened and ran along with the rest of the team. So they did not find Pudlookshine, and went home.</p>
+      <p>Then Pudlookshine arose and proceeded to Aggagidjen, where his sister was living. When he arrived there, he told his friends all his adventures. His brother-in-law promised to protect him, and he lived there for a long time.</p>
+      <p>One summer Kunikjwak had caught a whale at a place not far from Aggagidjen, and was flensing it. Pudlookshine and his brother-in-law were a short distance away. As the sky was clear, and they were in the direct rays of the sun, they were not seen at first by the whalers. But when Kunikjwak discovered them, he ordered his friends to stop. He said, "Wait until we kill those two; then we will come back and cut up the rest." They stopped cutting, launched their boats, and went to Aggagidjen.</p>
+      <p>Now, Pudlookshine had built a line of stone forts along the shore. The landing-place was quite narrow and close to the forts. He was standing behind one of these forts when the boat approached the shore. When it had almost landed, he went down towards the shore, and then walked back to where his brother-in-law was lying behind the stone wall. Kunikjwak cried out to Pudlookshine, "You ran away the last time I saw you, and now you are off again." Pudlookshine replied, "I am not going to run away," but he disappeared behind the stone wall. The crew of the boats ran up quickly. They did not see Pudlookshine's brother-in-law, who shot the men with his bow and arrows as soon as they appeared on the stone wall. Then Pudlookshine and his brother-in-law went down to the boat. Kunikjwak met them on the beach, and tried to crush Pudlookshine with his bow; but the latter cut him across his belly with a knife, so that his bowels fell out. Kunikjwak went to his boat and lay down in it. His crew pushed off, and they went home, leaving their dead on shore.</p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Land of Darkness</title>
+        <editor role="collector">Edward William Nelson</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NNA003133</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Nelson, Edward W. (1899): The Eskimo about Bering Strait. In: Eighteenth Annual Report of the Bureau of American Ethnology. Washington: Government Printing Office, part I, 1-518. Quot. pp. 511-514.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA27807">Kaviagmiut</name>
+          <date notAfter="1881" notBefore="1877" type="recorded">Recorded sometime between 1877 and 1881.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>Very long ago there lived on Aziak (Sledge) island a man with his wife and little son. The husband loved his wife very much, but was so jealous of her that frequently without cause he treated her very badly. After a time the wife became so unhappy that she preferred to die rather than live with him longer. Going to her mother, who lived near by, she related all her troubles. The old woman listened to the complaints and then told her daughter to take a sealskin and rub it with the excrement of three ptarmigans and three foxes; then to fill a wooden dish with food and with her child upon her back to go and meet her husband, and perhaps all might be well with her.</p>
+      <p>Doing as she was directed, she went down to the shore to meet her husband. When he came within hearing, however, he began to scold and abuse her as usual, telling her to go home at once and he would give her a beating as soon as he got there. When the poor woman heard this she ran to the edge of a low bluff overhanging the sea, and <pb n="512"/>as her husband drew his kaiak upon the shore she cast her sealskin into the water and leaped after it. Her husband saw this with alarm, and ran quickly to the top of a hill to see what had become of his wife. He saw her sitting upon the extended sealskin, which was supported at each corner by a bladder, floating rapidly away from the shore, for when the woman leaped into the sea, the sealskin she threw in had suddenly opened out and a float appeared at each corner. This caught her upon its surface and held her up safely. Very soon after she began to float away a storm arose and night shut her from her husband's sight, and he went home scolding angrily, blaming every one but himself for his loss.</p>
+      <p>On and on floated the woman, seated on the magic sealskin, and for several days no land could be seen. She used all her food, but still she floated on until it became unbroken night. After a time she became so exhausted that she fell asleep, and was awakened by several sharp shocks and could hear the waves breaking on a pebbly shore. Realizing this, she began to try to save herself; so she stepped from the sealskin and was greatly pleased to find herself standing on a beach made up of small rounded objects, into which her feet sank ankle deep at every step.</p>
+      <p>These round objects made her curious, so she stopped and picked up two handfuls of them, putting them in her food dish, after which she went slowly on into the deep blackness. Before she had gone far she came to a house, and, feeling along its side, found the entrance and went in. The passageway was dimly lighted by an oil lamp, showing many deerskins piled on one side, and on the other were pieces of flesh and bags of whale and seal oil. When she entered the house there were two oil lamps burning, one on each side of the room, but no one was at home. Over one of the lamps hung a piece of seal fat, and over the other a piece of reindeer fat, from which the oil dropped and fed the flames, and in one corner of the room was a deerskin bed.</p>
+      <p>She entered and sat down, waiting for what would come to her. At last there was a noise in the entrance way, and a man said, "I smell strange people." Then the man came into the room, frightening the woman very badly, for his face and hands were coal black. He said nothing, but crossed the room to his bed, where, after stripping the upper part of his body, he took a tub of water and washed himself. The woman was relieved to see that his chest was as white as her own. While sitting here she saw a dish of some cooked flesh suddenly placed inside the door by an unseen person, from which the man helped his guest and then took his own meal. When they had done eating he asked her how she came there, and she told him her story. He told her not to feel badly, and went out and brought in a number of deerskins, telling her to make clothing from them for herself and her child, for she had kept her child safely upon her back all the time. When she told him that she had no needle, he brought her one of copper, <pb n="513"/>which pleased her very much, for until then she had never seen any but bone needles.</p>
+      <p>For some time they lived thus, until at last the man told her that as they were living alone it would be better for her to become his wife, to which she agreed. The husband then told her not to go outside the house, and they lived quietly together.</p>
+      <p>While her little boy was playing about one day, he cried out suddenly with delight, and when the woman looked at him she saw that he had spilled the things which she had put in her dish when she stepped on the shore. Examining them, she found they were large, handsome, blue beads.<note>Beads of this kind are still highly prized by the Eskimo of this coast.</note></p>
+      <p>In time she gave birth to a fine boy, of which her husband was very fond, telling her to be very careful of him. In this way they lived for several years, and in time the boy she had brought with her became a youth. His foster father made him a bow and arrows, and when the boy had killed some birds with them he was allowed to accompany him when hunting. One day the boy killed and brought home two hares, which, like all the animals and birds in this country, were coal black. They were skinned and left outside, and shortly after, freshly cooked and steaming, they were placed just inside the door in a wooden dish, as was always done with their food. The woman noticed for the first time that when the dish was pushed inside the door it was held by two hands.</p>
+      <p>This remained in her mind until she became suspicious that her husband was not faithful to her. Finally he saw that something troubled her; he asked what it was, and she told him. After sitting and thinking for a short time he asked her if she did not wish to go back to her friends, to which she replied that there was no use in wishing for anything that she could not do. So he said, "Well, listen to my story, I am from Unalaklit, where I had a handsome wife whom I loved, but who had a very bad temper, which troubled me so much that I lost heart and was in despair, and from being a good and successful hunter I could no longer succeed. One day I was paddling in my kaiak far out at sea, filled with heavy thoughts, when a great storm broke upon me and I was unable to return to the shore. The high wind forced my kaiak through the water so fiercely that at last I lost consciousness and remembered no more until I found myself lying bruised and lame upon the shore where you, too, were cast. Beside me was a dish of food, of which I ate, and feeling strengthened, I arose, thinking that the food must have been placed there by some one, and started to search for the people, but could find no one. While my wants were still supplied with food every time I became hungry, the thick darkness hid everything from me; but I could find no people, and when my eyes became accustomed to the unbroken darkness, so that I could see a little, I built this house and since then I have lived here, being cared for by the inua who, as you have seen, serves my food, This inua usually <pb n="514"/>takes the form of a large jelly fish, and although I go hunting it is this being that secures my game for me. I became accustomed to the darkuess after a time, but the exposure to the continual blackness has made my face and hands as you see, and that is the reason why I told you not to go outside."</p>
+      <p>Her husband then told her to follow him, and he led her into the entrance way of the storeroom, which was full of furs, and then he opened a door into another room full of fine furs of the rarest kinds. He then told her to take the ear tips from these skins and put them into her dish with the beads she had found on the shore, and she did so. Then the man said, "You wish to see your old home and I also wish to see my friends, and we will part. Take your boy upon your back, shut your eyes, and take four steps." She did as he told her, and so soon as she had opened her eyes she was obliged to close them, for they were dazzled by the bright sunshine about her. When her eyes became used to the light, she looked about and was greatly surprised to see her old home close by. She went at once to her mother's storehouse and placed in it her wooden dish containing the beads and ear tips she had brought with her. Then she entered the house and was received with great joy, and the news of her return quickly spread through the village. Very soon her former husband came in and she saw with pity that his eyes were red and inflamed from constant weeping for her. He asked her to forgive him for being so harsh, and promised if she would return to him as his wife that he would always treat her kindly. When she had considered this for a long time she finally consented, and for a time she lived happily with him. At length, however, his old habits returned and his wife became unhappy.</p>
+      <p>Her son became a young man and his mother showed him the beads she had brought from the land of darkness, and also a great pile of rich furs, for every ear tip she had brought back with her had now become a full-size skin. These she gave to her son and then went away and was never seen again by her people. Her son afterward became a headman of the village from his success as a hunter and the wealth of furs and beads given him by his mother.</p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Mayamah</title>
+        <editor role="collector">K. Langloh Parker</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NIP028737</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Parker, K. Langloh (1896): Australian Legendary Tales. Folk-Lore of the Noongahburrahs as Told by the Piccaninnies. With Introduction by Andrew Lang. Illustrations by a Native Artist, and Specimen of the Native Text. London: Nutt &amp; Melbourne: Melville, Mullen &amp; Slade. Quot. pp. 50-51.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CIPD0270">Yuwaalaraay</name>
+          <date notAfter="1895" notBefore="1875" type="recorded">Recorded sometime between 1875 and 1895.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>The blacks had all left their camp and gone away to attend a borah. Nothing was left in the camp but one very old dog, too old to travel. After the blacks had been gone about three days, one night came their enemies, the Gooeeays, intending to surprise them and kill them.</p>
+      <p>Painted in all the glory of their war-paint came the Gooeeays, their hair tied in top-knots and ornamented with feathers and kangaroos' teeth. Their waywahs of paddy, melon, and kangaroo rat skins cut in strips, round their waists, were new and strong, holding firmly some of their <rs ref="g:GIP0247.016">boomerangs</rs> and woggoorahs, which they had stuck through them.</p>
+      <p>But prepared as they were for conquest, they found only a deserted camp containing naught but one old dog. They asked the old dog where the blacks were gone. But he only shook his head. Again and again they asked him, and again and again he only shook his head. At last some of the black fellows raised their spears and their <rs ref="g:GIP0247.100">moorillahs</rs> or <rs ref="g:GIP0247.108">nullah-nullahs</rs>, saying:</p>
+      <p>"If you do not tell us where the blacks are gone, we shall kill you."</p>
+      <p><pb n="51"/>Then spoke the old dog, saying only: "Gone to the borah."</p>
+      <p>And as he spoke every one of the Gooeeays and everything they had with them was turned to stone. Even the waywahs round their waists, the top-knots on their heads, and the spears in their hands, even these turned to stone. And when the blacks returned to their camp long afterwards, when the borah was over, and the boys, who had been made young men, gone out into the bush to undergo their novitiate, each with his solitary guardian, then saw the blacks, their enemies, the Gooeeays, standing round their old camp, as if to attack it. But instead of being men of flesh, they were men of stone - they, their weapons, their waywahs, and all that belonged to them, stone.</p>
+      <p>And at that place are to be found stones or mayamahs of great beauty, striped and marked and coloured as were the men painted.</p>
+      <p>And the place of the mayamah is on one of the mounts near Beemery.</p>
+    </body>
+  </text>
+</TEI>

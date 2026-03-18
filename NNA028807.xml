@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Long Night</title>
+        <editor role="collector">Harry Hull St. Clair</editor>
+        <editor role="narrator">Tom Hollis</editor>
+        <editor role="narrator">Jim Buchanan</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NNA028807</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Frachtenberg, Leo J. (1913): Coos Texts. New York: Columbia University Press &amp; Leyden: Brill (Columbia University Contributions to Anthropology, 1). Quot. pp. 134-135.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA29402">Coos</name>
+          <date when="1903" type="recorded">Recorded in 1903.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p><pb n="135"/>Once in the summer it got evening, and day never came. And they all awoke as if it had been day-time. However, it continued to be dark like that. They did not know it when evening came. Now they would get sleepy and go to bed again. And when evening [would come], they would chop wood by [the reflection of a] light. Hunger almost killed all of them. They could not hunt anywhere, and they could not spear fish, [on account of] the darkness.</p>
+      <p>For ten days [it was] very dark. It seemed as if the sun had gone south; that was the reason they could not see it. [To their] surprise, they again saw the sun come out right there. The sun rose from the south. Now the sun had returned. Right above them the sun stopped, just as during mid-day.</p>
+      <p>[For] one [whole] day the sun was caused to be there, She did not go anywhere, and evening did not come. Then she took a start. Very slowly she travelled, and disappeared again where she always goes out of sight. The next day she came out from the east, the sun. She always comes out from there. So afterwards everybody was glad. All kinds of food living in the water came ashore. So they picked up the food and divided it around, Now they were thinking thus: "Some one must have given us this food."</p>
+    </body>
+  </text>
+</TEI>

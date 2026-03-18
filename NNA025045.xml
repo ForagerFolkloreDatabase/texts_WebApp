@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Owl and the Bear</title>
+        <editor role="collector">George Comer</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NNA025045</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Boas, Franz (1901): The Eskimo of Baffin Land and Hudson Bay. From notes collected by George Comer, James S. Mutch, and E. J. Peck. New York: AMNH (Bulletin of the American Museum of Natural History, 15,I). Quot. p. 332.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA27803">Kivallirmiut</name>
+          <date notAfter="1899" notBefore="1897" type="recorded">Recorded sometime between 1897 and 1899.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>Once upon a time an Owl was watching the hole of a Lemming, when a Bear came near. The Owl said to the Bear, "Why are you always walking about"</p>
+      <p>The Bear. Why are you always standing by the side of the Lemming hole?</p>
+      <p>The Owl [angrily]. Why don't you keep yourself clean?</p>
+      <p>The Bear. Neither you nor your children can turn your eyes in your head.</p>
+      <p>The Owl. Your eyes are green, and look like fire.</p>
+      <p>The Bear [advancing towards the Owl]. Stop where you are, and I'll sit down with you.</p>
+      <p>The Owl, however, was afraid that the Bear might kill him, and flew a little ways off. Then the Bear pretended to be dead. When the Owl saw this, he came nearer and nearer, and, when he was close to the Bear, the latter caught him in his mouth and killed him.</p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Mink (Mink and the Sun)</title>
+        <editor role="collector">Franz Boas</editor>
+        <editor role="narrator">Ēʼwŭltǃāla</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NNA022936</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Boas, Franz (1928): Bella Bella Texts. New York: Columbia University Press (Columbia University Contributions to Anthropology, 5). Quot. pp. 2-7.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA29022">Bellabella</name>
+          <date when="1897" type="recorded">Recorded in 1897.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>Mink worked at his arrows. He was going / to play fighting with Blue Jay. / Now he shot. They shot back and forth with their arrows. / Mink shot and he just hit. Then tried Blue Jay to shoot but missed. Then / Blue Jay became angry, / because he missed the aim. He just became furious and he spoke abusingly, / ''You bad one, you have no father!" Thus mink was told by / Blue Jay. Then Mink cried. He was crying, "Heēʼ". He said while he was going, "Heēʼ". Thus he cried walking while, / he was going to his mother. /</p>
+      <p>"I was told by Blue Jay that I have no father," / said he as he was entering at his mother's. / Clay-on-her-Thighs was the name of his mother. "What was the word he said to you? Have you no sense? Is not he your father, / Walking-from-End-to-End-Through-the-World, The-Only-One-Who-Walks-Through-the-World; Shining-From-One-End-to-the-Other?" / thus Mink was told by his mother. "Go on, go out for a while, / try to go to see your father. Go ask Hăʼnʟǃēkunas [Archer] / to shoot up to our sky that you may go up there to your father."</p>
+      <p>Then he went to ask Archer. / Archer came and he began to shoot. He shot up to the sky and his arrow stuck in the <pb n="5"/>sky. He just did so again / and the second arrow stuck in the nock [of the first arrow]. He shot again and / it was the same way, it just stuck in the nock of the one arrow. / Then he just did sọ again with one arrow. Then four times his arrows stuck together. They were almost down to the ground / the four arrows. Then he put his bow between and it came down to the ground. / "Go on, climb up and go to / your father, Mink!" he was told. Then Mink climbed up. /</p>
+      <p>He arrived outside the house of his father. The youngest one of the children of / Sun came out. "What is Mink doing there / outside of our house?"- "Go and ask him / why he came." Then he went. He was asked, / "Why did you come here?" He was told, "I was told I should come to see my father. Then Mink said, / "I have for my father The-One-Who-Walks-From-End-to-End-Through-The-World. - "Oh call him. / Indeed I have a son. I just felt long ago / of his mother. Then she became pregnant." / Then he entered the house of the Sun. "Come, my dear, you will take the place of [change feet with] your father. Now he will take a rest." / They adorned him with / his father's ornaments, the sun mask / of his father was put on him. He was warned, "Do not walk / too fast else the world will get brittle."</p>
+      <p>He almost [did not] move. Mink went. He almost / [did not] move; at sunrise he moved slowly. Then he was moving a little faster. / He was moving still faster, and the world began to burn. / The world began to burn. The world was burning, and now it was burnt. / They went after him and took off his ornaments. "Was my word to you that you should go fast?", he was told. / He was thrown down from the sky and he came down [and fell] into the water. <pb n="7"/>Women were going there. / The women said, "What is the matter with Mink?" / - "Pff. I have been asleep on the water for a long time," said / Mink. He just had been dead when he came down falling from the sky.</p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>How Reindeer Appeared</title>
+        <editor role="collector"> anonymous</editor>
+        <editor role="narrator">Palchin Nikolay Sergeevich</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NEE059776</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0">CC BY-NC-SA</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Shluinsky, Andrey/Khanina, Olesya/Wagner-Nagy, Beáta (2024): INEL Enets Corpus. Version 1.0. Publication date 2024-11-30. https://hdl.handle.net/11022/0000-0007-FE1D-C. Archived at Universität Hamburg. In: The INEL corpora of indigenous Northern Eurasian languages. https://hdl.handle.net/11022/0000-0007-F45A-1 Quot. p. s.p..</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CEE15008">Forest Enets</name>
+          <date when="1990" type="recorded">Recorded in 1990.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>How the reindeer appeared. Say, that. Now we say, a reindeer. Now we have reindeer, an Enets <note>[ShA:] A title of a published text, not correspondence in the recording.</note>cannot be without reindeer: if there are reindeer, one will live, if there are no reindeer, one will go by foot.  Still, no one lives like that. Walking by foot, how much can you do?  One man once said: "It's bad, apparently, without reindeer. In the future, there will be many people wandering along the ground.  Well, somehow, they say. People say, there are reindeer <note>[ShA:] -z in Ébuxoaz is not clear.</note>somewhere. It's not bad for me to look for reindeer, obviously," â he says. Another  friend of his had a reindeer that he was raising. The other one said to his friend: "This reindeer is not male"; their tent was on a bank of a river, he said, the  reindeer is caught from wild reindeer, while it was wandering.  A friend said to him: "Why didn't  you catch more?" And the other one said: "Only one is caught, only this one, when I caught it, it  was a red little calf, a calf who sucked the udder."  He said: "I raised this  reindeer this way, wishing for reindeer or wishing such a life."  He says: "I caught a red calf, fed it fish soup and raised this deer."  His male  was very big, and his antlers were branched. The other one said: "Anyway,  it was you who took it, who caught it.  But, â he said, â many reindeer are good to be found, where did he from?"  And the other one said â¦ "Two." Another said:'I find and catch what walks on the ground."<note>[ShA:] Recording is not clear at the place of â¦.</note> "You catch it, â the other one said, âit is caught by you," â he said to his mate.  (â¦). "It is caught by you," â he said.<note>[ShA:] This part of the recording is unclear.</note> "Yes, â the other one said, â it is found by me on the earth." He said: "it would be good to go along the earth with it from  now on, with reindeer." Let them walk around the surface of the earth.  "Some of us, â he says, â some people will use it as a source of life, from now on let it be called a âdeerâ, if you want, â he says, â let it be used for life, yes."   The person who had one friend reindeer said to his mate: "Probably, now you want to have reindeer".  The other one said: "If they were any, of course I want, of course I want reindeer." The person who had reindeer said: "If you want  reindeer, come early morning tomorrow.  "Reindeer, â he says, â I will get you, from now on, if we live, if we start going along the earth, it is bad without reindeer, without them.   We will find some reindeer".  What's the other one? In his mind he wants reindeer.  This Dyonayku said: "From now on it will be like this: if you bring a reindeer, bring it, get it, so the people who go along the earth will use it as a source for their lives: they will eat its meat, and it  will carry its master", â so he taught his friend.   The second thought to himself: "How is it, where will he get the reindeer from?"<note>[ShA:] I am not sure in the glossing of koxuruz ÉbuxoÉz Ézideza.</note> Well, in his mind he wants reindeer. Speaking in Russian, he thinks, let me also have one, as for him, he has one. He has many male reindeer, as many as he does not have reindeer. He wants reindeer, the other one said, let me go to Dyonayku's place.<note>[ShA:] In fact, the sense is not completely clear.</note> And Dyonayku has a tent like this: he is a poor man, who lives on a bank of a river, his  tent's cover is made from grass.  So he reached Dyonayku's tent. And the other one, what was his name, well,  he said to his friend, he says to Dyonayku: "Tomorrow, he said, we will find reindeer, we will ask".  Well, where are the reindeer from â¦ The other one says, he says: "Who will give  you the reindeer now?" He glances at his friend's male reindeer.  It is good, after all. The next morning, early morning, Dyonayku came to his friend's <note>[ShA:] The sentence is absent in the recording, but maybe the some </note>tent. His friend has already got up, it is not known whether he slept or <note>staff was deleted from the recording (such practice existed with radio transmissions), so I decided to keep it in its variant got from the printed source.</note><note>[ShA:] The sentence is absent in the recording, but maybe the some </note>not. So he said to Dyonayku: "Let's go outside."<note>staff was deleted from the recording (such practice existed with radio transmissions), so I decided to keep it in its variant got from the printed source.</note> They went outside from the tent. So he, so Dyonaykuâ¦  The sun has already risen, after all. The sun is visible. "Now look very well, â he said, â I will ask reindeer for you." Then he lifted the lap of his clothing towards the sun, <note>[ShA:] The form Ækel instead of Æker is unexpected.</note>probably he urinated, and there is also a song in this fairytale: "Ah, ah, ah." It takes place the whole day long, yes. At some point he says, the other sees: "Under the sun, â he said, â the earth cannot be seen. The reindeer move to the place where we are standing. They completely surrounded the grass tent", â he said. And this  one, Dyonayku, said: "You said: I want reindeer, the reindeer have come, take the reindeer from here, from now on these reindeer will disperse all over the earth.   Let it be one male reindeer, it is not one male reindeer.<note>[ShA:] Æda is an unexpected form, normally Éza.</note> It's good after all. People will have a lot of reindeer, people will live well from now on.<note>[ShA:] Æker sÉjza nÊ¼iuÊ ÅaÊ is expected.</note><note>[ShA:] The recording is not clear, but does not match with the published text.</note>And Dyonayku's speech is just a cry, he drives reindeer away with a stick in order that they go far away from the tent.  So this is how Dyonayku called the reindeer and even domesticated them. And if Dyonayku did not domesticate  reindeer, there would be no reindeer, Enets people would live without reindeer, would eat something.  So Dyonayku tamed them and domesticated them. So even Russians eat our reindeer's meat <note>[ShA:] An unclear short fragment follows </note>now.<note>in the recording.</note></p>
+    </body>
+  </text>
+</TEI>

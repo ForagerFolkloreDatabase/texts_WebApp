@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Woman without a Nose</title>
+        <editor role="collector">Frank Alfred Golder</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NNA031230</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Golder, Frank Alfred (1909): Eskimo and Aleut Stories from Alaska. In: The Journal of American Folk-Lore 22(83), 10-24. Quot. pp. 15-16.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA27710">Aleut</name>
+          <date notAfter="1909" notBefore="1900" type="recorded">Recorded sometime between 1900 and 1909.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>At the head of a long bay lived a man and his wife apart from other human beings, of whose existence they were hardly aware. Every pleasant morning the man went hunting, returning in the evening with a bidarka [large skin boat] full of seal-meat. One day, however, he failed to come back at the usual time. This made the woman uneasy, and she kept a look-out for him; and when he finally appeared, he had only one small seal. To the numerous questions of the wife he merely replied, "The seals are scarce, and I have to go far to get them." She believed him. The next day he was again late, and had the same hard-luck story to tell. He looked worried, ate little, and refused to talk. Occasionally he would be gone two and three days at a stretch, returning with but little game. Finally he told his wife that he was ill and about to die, and made her promise that when that sad day should come, she would dress him up as if he were going hunting, and leave him with his boat and weapons in the open air. A few days after this conversation she found him dead, and she faithfully carried out her promise. In the evening, being exhausted from much weeping and hard work, she went into the hut and fell asleep. When she woke up, neither husband, nor bidarka, nor weapons were to be seen, but on the beach she discovered tracks made by her husband in carrying the boat to the water. "Ai, Ai, Y-a-h. This is why he died, and <pb n="16"/>asked to be buried in this manner!" For a whole day and night she sat as if stupefied, trying in vain to solve the mystery. After the first shock was over, she did the best she could to adjust her life to the new conditions and accept the inevitable. But one day while she was cutting grass, a little bird perched itself on a bush near her and repeated three times, "Mack-la-cluili woani." The woman listened attentively, and concluded that the bird meant for her to go in search of her husband. She hurried home to put on her torbasas [soft skin shoes] and belt, and set out. Over hills and valleys she walked before she came in sight of a bay, where she noticed a man in a bidarka fishing, and she suspected him of being her husband. Not far from her was a hut, to which she directed her footsteps; and on going in, she saw a woman around the fire cooking seal-meat. A better look at the woman disclosed the fact that her face was quite flat; there was not even a sign of a nose. Yet she sniffed the air and said, "Fati. I smell a human being. Where did it die, on sea or on land?" - "I died neither on sea nor on land," said the new-comer, "but came to find my husband." On the floor was a large knife, which the visitor picked up unperceived, and, watching her chance, attacked the noseless woman and cut her head off. Her body was carried outside, the head replaced, and she was made to look as natural as possible. This done, the deserted wife hid near by to await the coming of her faithless husband. As he approached, he called, "I am coming!" but receiving no reply, he shouted again, "I am coming!" Still no reply. A third time, "I am coming! Are you angry again to-day? I did not go anywhere." When he pulled up his bidarka, he spoke again, "Why are you angry? Here I am." He went up to his mistress, and, on touching her, the head fell off. Just then his wife appeared, and said, "This is how you died." He looked at her and then at the mistress, and began to weep. Turning his back on both of them, he got into his bidarka, pulled away a short distance from the shore, turned it over, and drowned himself.</p>
+    </body>
+  </text>
+</TEI>

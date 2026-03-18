@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Hermit</title>
+        <editor role="collector">James S. Mutch</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NNA024956</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Boas, Franz (1901): The Eskimo of Baffin Land and Hudson Bay. From notes collected by George Comer, James S. Mutch, and E. J. Peck. New York: AMNH (Bulletin of the American Museum of Natural History, 15,I). Quot. pp. 257-258.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA27903">Baffin Island Inuit</name>
+          <date notAfter="1899" notBefore="1883" type="recorded">Recorded sometime between 1883 and 1899.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>One day a man who lived in Saumia asked two girls to accompany him while he went sealing. Soon he found a seal-hole, and sat down to wait for the seal to rise. Meanwhile the girls went ashore to look for ptarmigan. While they were running about, they saw a hut at a place where they did not know any people were living. They approached and looked in at the doorway. On one side of the hut, at the rear, there was an elderly woman, and a man and a woman were sitting in the front. The other side of the hut was vacant. The old woman said to the girls, "Where do you come from?" They told her how they had happened to find the hut. Then the younger woman, who was sitting in front, gave them some soup to drink, and all partook of it. After some time the man said, "My name is Udlillowa. I have killed a man, and now I live with my family all alone. We do not wish to live with other people." The {258} younger woman looked as though she were suffering great pain. After a little while, the old woman said, "Will you be one of us? We are Naaquaran." Then the man asked, "Where is your home?" and the girls told him that they lived near by. They returned home, and told the people of their adventure. On the following day the girls tried to find the hut of the Naaquaran again; but when they reached the place, they found no one there.</p>
+    </body>
+  </text>
+</TEI>

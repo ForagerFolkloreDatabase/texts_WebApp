@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Old Woman Who Died of Shame</title>
+        <editor role="collector">Walter E. Roth</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NSA010015</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Roth, Walter E. (1915): An Inquiry into the Animism and Folk-Lore of the Guiana Indians. Extract from the Thirteenth Annual Report of the Bureau of American Ethnology, Washington: Government Printing Office. Quot. p. 381.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CSA36701">Warao</name>
+          <date notAfter="1913" notBefore="1906" type="recorded">Recorded sometime between 1906 and 1913.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>A very old woman once took her little grandson with her into the bush to gather honey. She looked up at a tree, and, seeing some bees coming in and out of a hole, told the boy she was going to climb it. Now, as these were biting [stinging] bees, she told him also that she intended blowing into the hole so as to keep the insects quiet. When, however, she reached a convenient height, and commenced blowing, she soon recognized that she was dealing with wasps, not bees. She got terribly stung, and in beating a hasty retreat, her foot slipped, her kuyu [apron-belt] caught on a small projecting branch, and she fell naked to the ground. Of course, she did not dare go home in that state, and so her grandson shot an arrow into the apron, hanging a long way up on the tree, and brought it down for her. They went back home, and the old woman told the child on no account to tell his parents what had happened, because she was so afraid of being laughed at. Thus it was that she always kept the little boy near her, lest he should talk about the incident. One day, however, the youngster slipped away to his father and mother, and told them of the old grandmother's adventure with the wasps, and how she had come down the tree without her clothes. They roared with laughter as the little boy mimicked the old woman's actions. The poor old soul heard them both laughing, and began to cry for very shame; and she cried so long that she died.</p>
+    </body>
+  </text>
+</TEI>

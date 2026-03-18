@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Thunder-Bird</title>
+        <editor role="collector">Christiaan Cornelis Uhlenbeck</editor>
+        <editor role="narrator">Joseph Tatsey</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NNA037495</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Uhlenbeck, Christiaan C. (1912): A New Series of Blackfoot Texts from the Southern Peigans Blackfoot Reservation, Teton County, Montana. With the help of Joseph Tatsey collected and published with an English translation. Amsterdam: Müller (Verhandelingen der Koninklijke Akademie van Wetenschappen te Amsterdam, Afdeeling Letterkunde, NS 13,I). Quot. pp. 65-66.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA31305">Piegan</name>
+          <date when="1911" type="recorded">Recorded in 1911.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>Long ago there was an old man, [who] was called Four-bears. When he was a young man, the Peigans were camping on Elk river. It was in summer. The long-time-rain had commenced. In the morning, when he went for the horses [to bring them in into the camp], he came to this river. He saw, there was a bird, [that] was sitting [near the edge of the water]. He walked towards it. When he was looking at it, then he knew, [that] the bird did not belong to this country. Its feathers were all of different colours, its bill was green-coloured, its legs were coloured the same. It had three claws. It would not open its eyes [literally: look]. He then took it. Then he took it home. When he entered, all the chiefs were invited. They all entered. The bird sat at the upper end of the lodge. He told these chiefs: Now, here is a bird, that you may look at it [to know], what it is. It was not known [nobody could tell what kind of bird it was]. After a long while Four-bears pushed it. When it opened its eyes [literally: looked], then it flashed lightning. The door lay open. It flew towards the door. When it opened its eyes [literally: looked] again, then it flashed lightning again. When it <pb n="66"/>flew, then the thunder roared. That way the thunder was seen.<note>Cf. Grinnell blt 259, Mc Clintock ont 425 sq.</note></p>
+    </body>
+  </text>
+</TEI>

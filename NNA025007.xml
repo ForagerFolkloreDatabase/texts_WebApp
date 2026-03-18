@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Tales of Quarrels, Murder, and War (#14)</title>
+        <editor role="collector">James S. Mutch</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NNA025007</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Boas, Franz (1901): The Eskimo of Baffin Land and Hudson Bay. From notes collected by George Comer, James S. Mutch, and E. J. Peck. New York: AMNH (Bulletin of the American Museum of Natural History, 15,I). Quot. pp. 297-298.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA27903">Baffin Island Inuit</name>
+          <date notAfter="1899" notBefore="1883" type="recorded">Recorded sometime between 1883 and 1899.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>In Akudnirn lived a married couple who were bringing up a young girl named Kutchaping and an orphan boy named Emataloo. The children frequently gambled together. When they became older, Kutchaping went to visit the girl's relatives at a distant place.</p>
+      <p>One day, when Emataloo was almost grown up, he said to his foster-father, "Let us try who is the stronger." They wrestled, and the man threw the boy. After some time the youth said again to his foster-father, "Let us try who is the stronger." Although the youth was by this time quite strong, he was not yet able to throw his father. He was now old enough to go sealing with the other men. After some time he again asked his foster-father to try his strength with him. They were now nearly equal in strength, but in their contest Emataloo did not show his full strength. At times the man and youth went, sealing together, and occasionally the father would say jestingly, "You who have the making of a man, come, see who is the stronger." One day they wrestled, and the boy threw his foster-father. Another time, when they reached home at night, the boy said, "You who are a man, come, and let us try who is the stronger." They wrestled, and Emataloo threw his father into the place where blubber and meat are kept. Then he cohabited with his foster-mother, whose name was Atalee. The foster-father did not dare to show his anger, because he feared the youth. Another day, when they came home from sealing, Emataloo {298} said again, as he was wont to do, "You who are a man, come and let us try who is the stronger." Again the boy threw the man, when Atalee jumped up, intending to help her husband, but the youth threw both of them into the place where blubber and meat were kept. The boy thought, "They had no mercy on me when I was weak: now that I am strong, I will have my revenge. The place for blubber and meat is good enough for them." Very often, when the men came home from sealing, he wrestled with his foster-father, threw him, and then cohabited with Atalee.</p>
+      <p>One day the youth told his foster-parents, that he intended to visit Kutchaping, and that he would pull off her clothes and tear her to pieces with a hook in the presence of all the people.</p>
+      <p>Emataloo grew stronger and stronger every year. One time when the men were out sealing, the ice broke up, and a number of hunters went adrift. Emataloo and many of his companions were lost, while his foster-father and a few others succeeded in reaching the shore.</p>
+    </body>
+  </text>
+</TEI>

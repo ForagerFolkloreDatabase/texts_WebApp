@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Story of Nori, the Snake</title>
+        <editor role="collector">Alfred Cort Haddon</editor>
+        <editor role="narrator">Ned Waria</editor>
+        <editor role="narrator">Gizu</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NIP029567</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Haddon, Alfred Cort (1904): Folktales. In: Alfred Cort Haddon (ed.): Reports on the Cambridge University Expedition to Torres Strait. 6 vols. Cambridge: Cambridge Univerity Press, 1901-1935, vol. 5: Sociology, Magic and Religion of the Western Islanders, 9-120. Quot. pp. 62-64.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CIPY001T">Western Torres Strait Islanders</name>
+          <date notAfter="1898" notBefore="1888" type="recorded">Recorded sometime between 1888 and 1898.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>There was a tabu snake named Nori that lived in New Guinea, and in his journeyings in the bush he frequently saw a certain fine-looking young married woman named Bamurab, and he said, "If I get a chance by-and-by I'll catch this woman."</p>
+      <p>During several days a number of women were in the bush gathering leaves of the pandanus trees, and when they got home they sewed the split leaves together and made that kind of mat which is called kai. One day Bamurab wandered away from the other women as she wanted to get some more pandanus leaves, and before picking them she laid on the ground the bundle she had already gathered. The snake who was watching Bamurab crawled into the bundle. Bamurab added the fresh leaves to the bundle, tied all together and carried the bundle on her head.</p>
+      <p>All the women made up their bundles and putting them on their heads proceeded homewards; but the rope of Bamurab's bundle broke, as the snake had bitten it through. "That's new rope, why does it break like old rope?" exclaimed Bamurab, and she fastened the ends together.</p>
+      <p><pb n="63"/>She had gone only a short distance when the snake again bit the rope and the leaves fell to the ground. The other women had by this time gone on a long way as the snake had done this to make Bamurab stay behind. She thought she would make two bundles of the leaves and determined to leave one of them behind as the rope that was made from the fibre of the banana kept on breaking.</p>
+      <p>Bamurab then saw the big snake, whose eyes glittered like glass, and when she saw it she began to cry. Nori said, "You're my wife, every time I saw you I wanted you very badly, now I have caught you, you must go home with me." Nori took that woman to his place. Bamurab walked and Nori crawled. Nori's home was a small hole in the ground, and when they came there Nori crawled into it, but the woman said, "Nori, where shall I go, what am I to do?" "Oh! you come down," he replied. Then the woman fell down and crept inside the hole and the ground closed over. There was nothing inside that hole, there was not even a mat, only the bare earth.</p>
+      <p>Next morning the snake said, "I'm going to get some food for us both." He went out and caught a gururu bird and gave it to the woman. She refused it, and said, '' I can't eat raw birds," but he gave it back to her, saying, "You eat it."</p>
+      <p>The following morning the snake again went to look for a pigeon. As soon as he was gone the woman looked for an akul shell, and when she found one she began to scrape a passage through the earth so as to get away, she scraped and she scraped, at last she said, "I'll leave off now, I think Nori is coming." The snake returned and brought with him a Torres Straits pigeon [gainau], which he gave to the woman. She refused it, and said, "It belongs to you, I don't know how to eat it. You've brought me here to your house and you won't give me good food."</p>
+      <p>They slept. In the night Nori waggled his tail. Bamurab felt it jump and said, "Go away, you're a snake and not a man." The snake put some red paint down the centre of his forehead and nose and took a seed rattle [goa]<note>I do not understand the significance of this.</note> and went back again.</p>
+      <p>Next morning Nori went to look for a pigeon. As soon as he had gone, Bamurab took the akul and again dug with it, and repeatedly sang, "Nori, Nori, Nori, Nori, Bamurab, Sidauram." Intimating that Nori had taken her [Bamurab], and calling her husband Sidauram by name.</p>
+      <p>The husband had come every day to look for his lost wife. In the evening before he turned back to go home he made a mark, and the next morning he went a little further. At last he heard a voice calling and he said, "What bird is it that makes that noise?" Then he listened again and came closer. "That's my wife right enough," he cried, and listened this and that way and looked around. At last he heard whence the sound proceeded and he called out, "Bamurab, where have you got to?" "Oh! Nori, a big snake, caught me in the road. I've been scraping away the earth all the time. I think it's thin now. You dig too." Sidauram got a stick and broke through the earth and Bamurab came out of the hole and the two of them ran away.</p>
+      <p>The woman said, "Very good, you take me across to Dauan;" and she told all the people of her village to make large houses on high piles so that the big snake could not climb up.</p>
+      <p><pb n="64"/>Sidauram took Bamurab across to the island of Dauan, where she had a number of relations. Two Nagalaig [sea-eagle], [hawks], two Waumer [or Womer, the frigate-bird], two Aub [a small hawk], two Kisulaig [a hawk-like bird], two Kwoie [also a hawk], all were her uncles, and Bamurab said to them, "I've come to see you. You must stand by and kill that snake. You must watch him coming, he will wear a dri" [white feather headdress].</p>
+      <p>The tabu snake went to the village where Sidauram and Bamurab lived and looked in every house, but all the people said that Bamurab was not there, she had gone to all her "fathers" at Dauan.</p>
+      <p>Nori, the tabu, swam to Dauan, his head, which he kept well out of the water, was surrounded by a fine dri.</p>
+      <p>When they saw the snake right in the middle of the channel the two Aub flew high up in the air and then swooped down, but they were frightened of the snake and merely skimmed the water, and flew back and said to the two Waumer, "We think you had better try." The Waumer flew high up in the air and swooped down. Bamurab looked and cried, "Those four fellows can't catch that snake."</p>
+      <p>The two Kisulaig then flew high up in the air and swooped down and one of them caught the snake's tail and the other seized its neck, but as soon as the snake moved its body they let it go again.</p>
+      <p>The two Kwoie then flew high up in the air and swooped down and one of them caught the snake's tail and the other seized its neck, but they were small birds, and not strong enough, so they had to let the snake go.</p>
+      <p>At last the turn of Nagalaig came, and by this time the tabu was close to the shore. The Nagalaig flew very high into the air and as soon as they had swooped down one of them caught the snake's tail and the other seized its neck, as soon as the snake moved its body their claws came through and they had a firm grip. They flew with the snake a long way up in the air. They soared and they soared. They killed that snake, it died up in the air and they let it drop before Bamurab, and she cut it in pieces and threw the head on Dauan<note>I think this is a totem myth. The natives of these places intermarry, and the Tabu is one of the five existing totem-kins in Saibai; but I did not discover that any of the birds were totems there (the frigate-bird is a totem in Mabuiag). Bamurab evidently was a Dauan woman who had married a native of Daudai.</note>, another piece she threw across to Saibai<note>See note after "Dauan" above.</note>, a small piece she flung across to Daudai<note>See note after "Dauan" above.</note>, another little bit she threw to Boigu<note>See note after "Dauan" above.</note>, and the tail she hurled across to Buru<note>See note after "Dauan" above.</note> [Mangrove I.].</p>
+    </body>
+  </text>
+</TEI>

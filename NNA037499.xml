@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Man Who Was Pitied by a Water-Bear</title>
+        <editor role="collector">Christiaan Cornelis Uhlenbeck</editor>
+        <editor role="narrator">Káinaikoăn</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NNA037499</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Uhlenbeck, Christiaan C. (1912): A New Series of Blackfoot Texts from the Southern Peigans Blackfoot Reservation, Teton County, Montana. With the help of Joseph Tatsey collected and published with an English translation. Amsterdam: Müller (Verhandelingen der Koninklijke Akademie van Wetenschappen te Amsterdam, Afdeeling Letterkunde, NS 13,I). Quot. pp. 114-120.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA31305">Piegan</name>
+          <date when="1911" type="recorded">Recorded in 1911.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>There was a man, [who] was always moving. He was pitied by a water-bear. He was told by him: Feed me with your children. When he was camped near, he went swimming early in the morning. [Each time] he took [one of] his children with him to the river. When he stopped [swimming], then he caught [one of] his children. Then he threw <pb n="115"/>them in the water. The water-bear jumped up already. He caught them. He then dived again in the water with them. Then the man would go home. When he entered, he would ask: Where is the boy? He was told by his wife [that means: by one of his wives]: You took him along with you. Why don't you know, where he is? He did the same thing to his three children. The water-bear was it [again], he fed with the youngest one. That woman [the younger wife] loved him [that boy] very much. She watched her husband. He went again swimming. She ran after him. She suddenly saw, that the water-bear jumped up. The man threw the child again in the water to the water-bear. He had killed all his children.</p>
+      <p>That woman went home crying. She said to her elder sister [the elder wife]: I saw our husband, what he was doing to our children [that means: I saw, what our husband was doing to our children]. She was told by her elder sister: Don't cry any more. We shall prepare to do away with him. That man entered. He said: Where is the child? He was told [by one of his wives]: I don't know him [that means: I don't know where he is]. That man said: I shall go and hunt. Over there he was hunting. The eldest woman asked her younger sister: What is it, you are pitied by? The younger one told her: <pb n="116"/>I am pitied by gophers. And you, and what are you pitied by? [The elder one said:] By moles. There on a hill [that man] liked to sit [literally: it was his liking to sit there]. There the women dug a hole. In the night they quit [digging a hole]. Their husband came home in the night. In the morning he hunted again. Then the women went to that hill. They again were digging a hole. It was getting thin on top.; There was a buffalo-head, there he used to sit on. In the evening he came back. [When] he had finished his meal, he went to the hill. [The women] prepared to take the things they needed with them. They looked out at him through a hole in the lodge. They said to him: Alas, alas, alas [meaning, that he was getting nearer and nearer to the place, where he would fall through]. He stood by [the buffalo-head]. He began to look about. Then he sat down. Then he fell through. And the women ran for escape.</p>
+      <p>He was yelling: Help me, help me. There was a wolf, he heard, there was a person calling for help. He said to the wolf: Pity me, pull me up. He was told by [the wolf]: Yes, I shall dig a hole. The wolf began to dig a hole. And after a long while, towards morning, the wolf quit [digging]. It was very thin, that he did not dig. The wolf howled "uuu", four times he howled [literally: four were his howlings]. <pb n="117"/>All the wolves came. The wolves, the coyotes, the kit-foxes, the foxes, the badgers, [all of them came to the wolf, and] said to him: Now, why did you invite us? He told them: Here is a person, I pity him very much. He [who] takes him out, he is to have him for a child. He is to have him travelling about with him. He [the wolf] told them: Now, start in to dig the holes. I will look at you, when all your tails are out of sight. He began to go around them. All their tails were out of sight. The wolf had already dug his hole. Then he entered [the hole]. He tried hard for a while, he caught him. He pulled him out. He told the others: You might wear your claws out for nothing. Now they all came out [of their holes]. All these wolves then went away.</p>
+      <p>That person then travelled about among the wolves. There was a young wolf [literally: a new-breast], [that] had just come. He said: There is a buffalo-corral. My companions were snared. And that person told his father, the wolf: Let us go over to that buffalo-corral. In the night they started. Then they came to the corral. He told the wolves: I shall go in first. I shall let down the snares. Then he entered [the corral]. Then he began to find out [literally: to know about] [how the snares were fixed]. They were all made out of raw-hides. He let them down. Then he went <pb n="118"/>out [of the corral]. He told his father: Now, let them all come in, that they might eat. Then they all entered the buffalo-corral. The wolves then began to eat the carcases. It was not good, what they had to eat [i.e. there was no plenty of good meat]. They just fought over it. And these people [the Peigans that were corralling] were happy, when they heard the wolves [thinking that many of them were snared]. In the morning all these wolves ran away. And the people all went over. They began to look at their snares. Then they saw them [the snares], that they were all lying there for nothing. Then they suspected them [the snares]. In the night he [the wolf-person] howled: Uuu, I was taken a captive by wolves. He said that, because his food was not good. What he had got to eat, was bad. The people said [to one another]: Put good food [in the corral], that we might know this one, who is howling.</p>
+      <p>[When] it was night again, they all [the wolves] ran [towards the corral]. That person said to his father, the wolf: I shall go in first. Then he entered. He began to look at the snares. He let them down. Then he began to know the food(s), the pemmican(s), the fat(s), the dried meat(s), the back-fat(s). He was happy over the food [he found there]. They all entered. Then they began to eat. They were <pb n="119"/>fighting and biting each other, because they were happy to get something to eat. In the beginning of the day they all ran out [to the prairie]. And [when] in the morning the people came again to look at their snares, they were all put down again. Then they knew, [that] it was a person, that treated the snares badly. The food, that was put there, was all eaten up. They said [to one another]: Now this coming night we shall watch it [the buffalo-corral].</p>
+      <p>In the night they sat all around this buffalo-corral. They all lay low [so that they could not be seen]. Then they saw among these wolves a person walking with them. There they all came up to [the corral]. That person entered. Then [the people] all walked in a circle [around him]. He began again to put down the snares. Then he was chased. He was caught. Here he was, he was just jumping about. He just clattered his teeth. His eyes were burning. He had turned into a wolf about his eyes. He had begun to have hair on his face. [Also] about his fingers he had turned into a wolf. He was taken home to the lodges. He entered [a lodge]. They all entered the same [lodge]. He was to tell the news. Then he was asked by the chief: How did you come to travel about among the wolves? He told him: Yes, my wives dug a hole for me. These wolves pulled me out. I told them: You <pb n="120"/>will have profit from me. I was the one, that let down the snares. I am used to these wolves. I shall not be a real person again. I have turned into a wolf now. Let me loose. Now I will not do harm any more to the buffalo-corrals. And now the boiling is ended.<note>Cf. Wissler-Duvall mbi 148 sqq. The latter part of this story corresponds to Dorsey-Kroeber ta 190 sqq.</note></p>
+    </body>
+  </text>
+</TEI>

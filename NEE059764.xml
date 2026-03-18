@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A Mouse and a Reindeer</title>
+        <editor role="collector">Irina Petrovna Sorokina</editor>
+        <editor role="narrator">Bolin Viktor (Vitaliy) Nikolaevich</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NEE059764</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0">CC BY-NC-SA</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Shluinsky, Andrey/Khanina, Olesya/Wagner-Nagy, Beáta (2024): INEL Enets Corpus. Version 1.0. Publication date 2024-11-30. https://hdl.handle.net/11022/0000-0007-FE1D-C. Archived at Universität Hamburg. In: The INEL corpora of indigenous Northern Eurasian languages. https://hdl.handle.net/11022/0000-0007-F45A-1 Quot. p. s.p..</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CEE15008">Forest Enets</name>
+          <date when="1969" type="recorded">Recorded in 1969.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>Mouse and. Male wild reindeer. So long ago. Once upon a time, once upon a time. A small mouse lived. In the middle of moss. Always in the middle of bushes. Along its path.  It runs about. In the autumn. Male wild reindeer's antlers already. They have them cleaned already. They cleaned them. They will have heat soon. So the wild male reindeer.  Stopped and. Started eating moss. It eats, eats moss. Having ran  about all the day long. The wild male reindeer got hungry. The moss so. So heartily.  He eats. And the mouse. Sees, the wild male reinder is huge.  Its antlers are already so. Red. It has just cleaned them. It eats with all is might. The mouse. The mouse along its path. Ran away.  It hid. The wild reindeer eats, eats. It tears the moss hardly.  And the mouse. It ate. And the mouse. Left through its intestines.  All its intestines. Of the wild male reindeer. All the intestines. It tore. The wild male reindeer is very fat. The surface of its back is like a board. Fat. Then he. It is bad in the belly. All the intestines.  The mouse tor. Its intestines. And the wild male reindeer.  Was standing, was standing. And fell down on his back. The mouse through its anus.  Through the wild reindeer's anus appeared. And cries. The animals of  the Earth, the animals of the Earth! Come here, come here! Some food for you I. Food for you.<note>[ShA:] Why 3PL, is not clear.</note> Food for you I. I obtained. The beetles, the mice.  The crows. The gulls, all. The animals. Came flying. And eat. And the animal. Now.  Went by. The animal. And the animal. Is hearing.  They eat. And the animal. Started eating the wild male reindeer.  The mouse all. All the animals. Feed, being small, alone. Small, alone.  The mouse all the animals. Fed. The end.</p>
+    </body>
+  </text>
+</TEI>

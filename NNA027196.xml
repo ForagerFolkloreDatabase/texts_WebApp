@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Känwéo and the Cannibals</title>
+        <editor role="collector">Alanson Skinner</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NNA027196</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Skinner, Alanson (1911): Notes on the Eastern Cree and Northern Saulteaux. New York: AMNH (Anthropological Papers of the American Museum of Natural History, 9,I). Quot. pp. 108-112.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA28030">Eastern Cree</name>
+          <date notAfter="1909" notBefore="1908" type="recorded">Recorded sometime between 1908 and 1909.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>There were once two brothers. They lived well, but not upon people. Nearby was a tribe called Wītīgo [Cannibal]. These people hunted in the ordinary manner but when they could, they killed and ate men. Once, in the summer, when the two brothers were traveling about together, they came upon the Cannibals first and were able to escape. Känwéo thought he would return and get the things he used for war, and prepare for battle. He returned and told his people they would have to get ready to fight or all be killed.</p>
+      <p>Känwéo began to conjure, and asked if he would be victorious if he went to war with the Cannibals. The spirits replied that if he had a mind to go he would be victorious. Känwéo at once got his people together. The <pb n="109"/>Cannibals always lived together. The people at once began to get their war spears and "sword arrows"<note>A "sword arrow" is one having a pointed pile, or head, set in the shaft</note> etc., together and started out,</p>
+      <p>Känwéo prepared to attack the Cannibals slyly not intending to let them know before he tackled them. There was a big hill there, just at the back of the place where the Cannibals were staying. Känwéo told his men to go up on top of this hill to watch first. He told the men, "We will watch to see when they are not ready and then we will attack them."</p>
+      <p>The next day the Cannibals began to build sweat houses and he said, "Now is the time to go down upon them slyly." None of the Cannibals had anything ready. Känwéo and his men ran down and began to spear them as they ran out of the sweat houses. Some of the Cannibals burned themselves on the hot stones. It was a dreadful fight. Some of them escaped. Of course, he did not kill the women and children. The great warrior, Känwéo, was driven back towards the water where the giants [the Cannibals were very large, they say] were attempting to escape by canoes. There were two or three attacking him, but he backed away and fell into a canoe. He thought he was finished, but he managed to get up and killed all those who were attacking him.</p>
+      <p>There was one old man, who was a chief, and his sons, among the cannibals. He was not killed and was escaping with his children in the canoe. Känwéo saw him and ran right out in the water to him and gripped the head of the canoe but the water was too deep and he could not hold it. His own canoe was hidden a long way off.</p>
+      <p>All the women and children of the Cannibals escaped. Whether there were any of Känwéo party killed is not known, but a great many of the Cannibal giants were killed. The Känwéo stopped and went back to his place again. He lived there with his brother and they went about as usual. One winter, his brother went off to hunt in another direction. The brothers came upon the Cannibals again and they killed him when they came on him unawares. They took his wife and children alive.</p>
+      <p>Next summer, where the brothers had appointed to meet, there was no sign of the brother and Känwéo learned from other Indians what had happened to his brother. Känwéo thought to have his revenge on account of his brother but he didn't know where the Cannibals were. Some time after that he thought to himself he would try and find out. It was winter and he was living alone with his family. One day he was off hunting. Before he went off that morning he told his wife he was sure to meet somebody that day. He put on his oldest and worst clothes and made himself very miserable looking. Right enough, he went off that day. He was looking for <pb n="110"/>beaver, trying to find where the beaver were. He took nothing with him except his chisel to bore the ice. He came to a place where there were beaver, where the beaver were lodging. He came to a beaver house and cuttings near by. He looked at the house and then went down to see if he could find the dam where they had shut up the creek.</p>
+      <p>As he was going along down the creek he saw someone coming up stream. He knew now this was the man he was expecting to see. This was the old man who had escaped from him two or three years before in the battle with the Cannibals. The old man was looking for beaver too, and had only his chisel with him. This was the same man who had killed his brother. Känwéo pretended he did not see the Cannibal and the Cannibal who saw Känwéo did likewise. They drew together, the Cannibal thinking he would knock Känwéo down and kill him before Känwéo saw him. Känwéo knew what the Cannibal was about to do and when he approached pushed him away, saying, "Don't you see me? Look out where you are going." The Cannibal lied, and said, "Oh, I did not see you." Then they began to talk like friends.</p>
+      <p>Känwéo told the old man he was looking for beaver, and the old man said he was doing the same. They had just met you see, at the dam, and Känwéo asked the old man, "Where are you thinking of going?" The old man replied that he thought of going where the beaver were. Känwéo told the old man that they would come there and chisel the beaver together the next day. The Cannibal said that he had three sons who would come along with him too. The great warrior Känwéo told the old man to tell his sons to cut sticks to stake in the river and when they were to carry the sticks down to the river they were not to wear their snowshoes but beat the path with their feet. After they had planned what they were going to do, they separated, and each went back to his own place.</p>
+      <p>When Känwéo came home, he had some dry beaver outside his tent and he took four in with him and told his wife to cook them. He said. "We must try to finish all that beaver to-night." He was making a feast so that he might be prosperous to kill his enemy. "We must try to finish these before daylight," he told her after they were cooked.</p>
+      <p>He told his family that he had met someone and they had planned to chisel beaver together. He told them they might come, but not with him. They began to feast. He told them if they managed to finish the feast they might be able to overcome the enemy.</p>
+      <p>Next morning, he got out his war tools, his spear, etc., and went off, his family following behind. He told them to make camp at a certain place that he would mark which was not close to where he was going to have the battle. Känwéo went there first, before the rest, where the beaver were. <pb n="111"/>He marked the creek where they were going to stake it in. Then he saw the old man coming with his sons. When the sons saw him they said to their father, "We are sure that man must be the one called Känwéo who used to fight with us." They were afraid, for they knew he had something against them as they had killed his brother and held his wife a prisoner.</p>
+      <p>Känwéo was in charge of the beaver. He told the young men where to go to cut the sticks. He told them to leave their snowshoes down by the creek and beat the path in their moccasins, so they would not make much noise. Then he said to the old man, "We'll chisel the ice, make a trench right across the ice to put down the sticks." Känwéo had a chisel with a blade at each end, that he could turn as he liked to see which chisel was sharpest. The old man was chiseling and Känwéo told him to make the hole big in one place in the middle of the river where they were to set the net. Känwéo would turn his chisel now and again to see which end was sharper.</p>
+      <p>Every time Känwéo would turn his chisel the old man was afraid and would jump. "You seem to be afraid," said Känwéo, "every time I turn my chisel." "Oh, no," said the old man, "I'm not afraid, but I very nearly slipped." At last, they had the hole big enough, and Känwéo told the old man to skim the ice out of the hole. The old man sat down on his knees to do this and Känwéo knew that the hole was big enough. All at once, when the old man was not thinking, Känwéo stabbed him in the back, with his chisel and threw him under the water. The old man managed, however, to give a shout as he was going under, and the young men, who were cutting sticks heard it. The old man struggled beneath the ice for a moment, and very nearly burst the ice through it was so thick. When Känwéo saw the old man was killed, he took his bow and arrow.</p>
+      <p>The young men came running to the creek when they heard their father call. Känwéo took his bow and arrow and shot at the young men when they tried to escape. He killed two when they were putting on their snowshoes, but the third got his snowshoes on. Känwéo, however, managed to shoot him before he got very far. The family of Känwéo soon came up and soon after came the Cannibal's family. When they heard that the old man was dead, they began to cry, but Känwéo did not harm them. At last, the old man's wife came up, but when she saw the others crying, she refused to believe her husband was dead, for she did not believe any one could overcome him.</p>
+      <p>Känwéo told her to come and see the old man's body which Känwéo had pulled to the hole they had made. He was not on the ice but his head was out of the water. Känwéo used his body as one of the stakes to shut <pb n="112"/>up the creek. Then the old woman believed and became angry. She attempted to make an end of Känwéo. She got her big ax off the sled and was going to kill him with that. Of course, Känwéo knocked her ax away, and he took her ax from her and knocked her down. He told her she had to die, and with the same ax with which she wanted to strike him he struck her and killed her.</p>
+      <p>Känwéo 's sister-in-law was there, a prisoner, and she wanted to come and live with him. She didn't want to stay with them any more. Känwéo would not allow her to come. "I've heard," he said, "you helped them kill your husband. I don't want to have anything more to do with you." He let the other go and she had to return with them. That is the end of this story.</p>
+    </body>
+  </text>
+</TEI>

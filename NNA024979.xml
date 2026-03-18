@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Tales of Quarrels, Murder, and War (#6)</title>
+        <editor role="collector">James S. Mutch</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NNA024979</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Boas, Franz (1901): The Eskimo of Baffin Land and Hudson Bay. From notes collected by George Comer, James S. Mutch, and E. J. Peck. New York: AMNH (Bulletin of the American Museum of Natural History, 15,I). Quot. pp. 285-286.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA27903">Baffin Island Inuit</name>
+          <date notAfter="1899" notBefore="1883" type="recorded">Recorded sometime between 1883 and 1899.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>Once upon a time there was a man at Padli named Kanatchea. His mother's name was Totlaving. He was always in bad humor, and would strike his wife almost every day. His mother was the only person who loved him. Kanatchea was a very good sealer, and he generally came home with a number of seals. Sometimes he would catch an old male seal, and would say to it, "Why do you come to me? I don't want to see your face. It reminds me too much of my own angry face." Then he would take the harpoon-point out of it, and put it back into the water.</p>
+      <p>One winter Kanatchea said to his mother, "Mother, what would you like to eat?" She replied, "I wish something that you cannot obtain now. I should like some berries." It was not the season in which berries are found. He harnessed up his team, and soon returned, bringing berries for his mother. Again he went hunting and caught a great many seals. One day he staid at home. Then he tied a pair of his wife's trousers in a knot, suspended them with a string from the tent-poles, and made them twirl around, and when the part between the legs became visible he would begin to laugh. Again he went sealing, and, as usual, caught a great many seals. Another evening he suspended a dog from the tent-poles. Then he asked his mother again, "What would you like to eat?" She replied, "Some whale-skin," which was also out of season at that time. He harnessed his dogs and went off, and soon returned, bringing some whale-skin. After some time he asked his mother again what she would like to eat, and she asked for salmon, although it also was out of season. He went off, and in the evening returned with quite a number of salmon.</p>
+      <p>In summer they staid at Akpan. There his mother died. Then he moved slowly from Akpan to Padli. It took four {286} days to reach the latter place. There he made a grave for his mother. After she was buried, he moved to Qivitung. He staid there, at a place named Ackerwallee. There he met his sister and her family. There were quite a number of people staying on both sides of the river. Sometimes his sister would come to visit his wife, and they would play to pass the time. One day they were trying to make fire with the fire-drill; and whenever the drill slipped and fell down, they would laugh. Kanatchea also tried his hand at making fire with the drill. When the drill slipped, he became very angry, took a knife, and cut one of his nephews. The children ran home, wading through the river, which was quite deep. Kanatchea pursued them. About this time the father of the children and his friends had assembled on the bank of the river, having heard of what had happened. They saw Kanatchea crossing; and when he had nearly reached the bank, they shot their arrows at him. He was not killed, but went back to his own hut. Then all the people went across to see if he was fatally wounded. When they came to the hut, they heard him groaning, and saw his dogs howling, and trying to rush in; but Kanatchea's wife kept them away. Then the people ordered her to allow the dogs to go in. As soon as she did so, the dogs rushed into the hut and devoured Kanatchea.</p>
+    </body>
+  </text>
+</TEI>

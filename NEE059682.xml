@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Bear</title>
+        <editor role="collector">Angelina Ivanovna Kuzmina</editor>
+        <editor role="narrator">Polina Lyuda</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NEE059682</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0">CC BY-NC-SA</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Brykina, Maria/Orlova, Svetlana/Wagner-Nagy, Beáta (2021): INEL Selkup Corpus. Version 2.0. Publication date 2021-12-31. https://hdl.handle.net/11022/0000-0007-F4D9-1. Archived at Universität Hamburg. In: The INEL corpora of indigenous Northern Eurasian languages. https://hdl.handle.net/11022/0000-0007-F45A-1. Quot. p. s.p..</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CEE15004">Northern Selkup</name>
+          <date when="1965" type="recorded">Recorded in 1965.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>A tale about a bear. Boys were playing outside. Once a bear came. He put the boys into a sack.<note>[OSV:] unclear verbal form "tÃ¼ÅÉ¨ntÉ¨".</note><note>ââ[OSV:] The form "ijalÊ¼attÉ¨m" has been </note> He brought it home and said to his wife. "Cook the boys!" The sack stood outdoors.<note>corrected into "ijalÊ¼atÉ¨m".</note> The boys ran away. One girl stayed. The bear brought the sack into the house.<note>[OSV:] unclear verbal form "qalÉ¨mÉ¨t" (stay-PST.NAR-INFER?-3SG.S?).</note> He said to his wife: "Cook the boys". The wife shook out the sack into the cauldron.<note>[OSV:] another possible interpretation: "Ä°jalÊ¼a Ä±llÉ¨ muÅ¡É¨rÃ¤tÉ¨": (child-DIM-NOM down be.cooking-TR-IMP2SG.O)</note><note>[OSV:] unclear function of the affix "-Ä±Ë" in the verbal form "qamtÉÄ±ËmpatÉ¨".</note>Only one girl fell into the cauldron. The wife got angry with her husband. She said: "Bring the girl home".  The bear brought the girl home.</p>
+    </body>
+  </text>
+</TEI>

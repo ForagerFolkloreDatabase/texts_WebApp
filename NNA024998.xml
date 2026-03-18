@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Woman Who Became a Raven</title>
+        <editor role="collector">Edmund James Peck</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NNA024998</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Boas, Franz (1901): The Eskimo of Baffin Land and Hudson Bay. From notes collected by George Comer, James S. Mutch, and E. J. Peck. New York: AMNH (Bulletin of the American Museum of Natural History, 15,I). Quot. pp. 303-304.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA27903">Baffin Island Inuit</name>
+          <date notAfter="1901" notBefore="1896" type="recorded">Recorded sometime between 1896 and 1901.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>The husband of a woman named Peqaq was angry with her. She left her home and went away, walking on the ice, {304} and weeping bitterly. Her husband followed her on his sledge; and when she saw him, she said, "Oh that I might become a raven!" She was turned into a raven, and flew to the top of an iceberg. Her husband drove along by the side of the iceberg, but, since he did not see his wife, he returned home.</p>
+      <p>As soon as the man had returned home, the raven flew away, and in the evening alighted on a rock near Niutang. The people were surprised, and said to each other, "What is that on top of the rock? Is it the moon?" - "No," said some, "it is a man." Now these people went to sleep, and while they were asleep the raven came down. She peeped through a hole in a tent and saw a man in the rear. She thought, "Oh that he might come out and ease himself!" She had hardly thought so, when the man put on his garments and went out to ease himself. The raven had resumed the shape of a woman; and when he saw her, he took her for his wife.</p>
+    </body>
+  </text>
+</TEI>

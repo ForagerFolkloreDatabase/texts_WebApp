@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Origin of Winds</title>
+        <editor role="collector">Edward William Nelson</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NNA003127</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Nelson, Edward W. (1899): The Eskimo about Bering Strait. In: Eighteenth Annual Report of the Bureau of American Ethnology. Washington: Government Printing Office, part I, 1-518. Quot. pp. 497-499.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA27736">Ikogmiut</name>
+          <date notAfter="1881" notBefore="1877" type="recorded">Recorded sometime between 1877 and 1881.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>In a village on the lower Yukon lived a man and his wife who had no children. After a long time the woman spoke to her husband one day and said, "I can not understand why we have no children; can you?" To which the husband replied that he could not. She then told her husband to go on the tundra to a solitary tree that grew there and bring back a part of its trunk and make a doll from it. The man went out of the house and saw a long track of bright light, like that made by the moon shining on the snow, leading off across the tundra in the direction he must take. Along this path of light he traveled far away until he saw before him a beautiful object shining in the bright light. Going up to it, he found that it was the tree for which he came in search. The tree was small, so he took his hunting knife, cut off a part of its trunk and carried the fragment home.</p>
+      <p>When he returned he sat down and carved from the wood an image of a small boy, for which his wife made a couple of suits of fur clothing in which she dressed it. Directed by his wife, the man then carved a set of toy dishes from the wood, but said he could see no use for all this trouble, as it would make them no better off than they were before. To this his wife replied that before they had nothing but themselves to talk about, but the doll would give them amusement and a subject of conversation. She then deposited the doll in the place of honor on the bench opposite the entrance, with the toy dishes full of food and water before it.</p>
+      <p>When the couple had gone to bed that night and the room was very dark they heard several low whistling sounds. The woman shook her husband, saying, "Do you hear that? It was the doll;" to which he agreed. They got up at once, and, making a light, saw that the doll had eaten the food and drank the water, and they could see its eyes move. The woman caught it up with delight and fondled and played with it for along time. When she became tired it was put back on the bench and they went to bed again.</p>
+      <p>In the morning, when the couple got up, they found the doll was gone. They looked for it about the house, but could find no trace of it, and, going outside, found its tracks leading away from the door. These tracks passed from the door along the bank of a small creek until a little outside the village, where they ended, as the doll had walked from this place on the path of light upon which the man had gone to find the tree.</p>
+      <p><pb n="498"/>The man and his wife followed no farther, but went home. Doll had traveled on along the bright path until he came to the edge of day, where the sky comes down to the earth and walls in the light. Close to where he was, in the east, he saw a gut-skin cover fastened over the hole in the sky wall, which was bulging inward apparently owing to some strong force on the other side. The doll stopped and said, "It is very quiet in here. I think a little wind will make it better." So he drew his knife and cut the cover loose about the edge of the hole, and a strong wind blew through, every now and then bringing with it a live reindeer. Looking through the hole, Doll saw beyond the wall another world like the earth. He drew the cover over the hole again and bade the wind not to blow too hard, but he said "Sometimes blow hard, sometimes light, and sometimes do not blow at all."</p>
+      <p>Then he walked along the sky wall until he came to another opening at the southeast, which was covered, and the covering pressed inward like the first. When he cut this cover loose the force of the gale swept in, bringing reindeer, trees, and bushes. Closing the hole again, he bade it do as he had told the first one, and passed on. In a short time he came to a hole in the south, and when the cover was cut a hot wind came rushing in, accompanied by rain and the spray from the great sea lying beyond the sky hole on that side.</p>
+      <p>Doll closed this opening and instructed it as before, and passed on to the west. There he saw another opening, and as soon as the cover was cut the wind brought in a heavy rainstorm, with sleet and spray, from the ocean. This opening was also closed, with the same instructions, and he passed on to the northwest, where he found another opening. When the cover to this was cut away a blast of cold wind came rushing in, bringing in snow and ice, so that he was chilled to the bone and half frozen, and he hastened to close it, as he had the others.</p>
+      <p>Again he went along the sky wall to the north, the cold becoming so great that he was obliged to leave it and make a circuit, going back to it where he saw the opening. There the cold was so intense that he hesitated for some time, but finally cut the cover away. At once a fearful blast rushed in, carrying great masses of snow and ice, strewing it all over the earth plain. He closed the hole very quickly, and haying admonished it as usual, traveled on until he came to the middle of the earth plain.</p>
+      <p>When he reached there he looked up and saw the sky arching overhead, supported by long, slender poles, arranged like those of a conical lodge, but made of some beautiful material unknown to him, Turning again, he traveled far away, until he reached the village whence he had started. There he circled once completely around the place, and then entered one after the other of the houses, going to his own home last of all. This he did that the people should become his friends, and care for him in case his parents should die.</p>
+      <p>After this Doll lived in the village for a very long time. When his <pb n="499"/>foster parents died he was taken by other people, and so lived for many generations, until finally he died. From him people learned the custom of wearing masks, and since his death parents have been accustomed to make dolls for their children in imitation of the people who made the one of which I have told.<note>The path of light mentioned in this tale is the galaxy, which figures in numerous Eskimo myth</note></p>
+    </body>
+  </text>
+</TEI>

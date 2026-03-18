@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Oongnairwah and Guinarey</title>
+        <editor role="collector">K. Langloh Parker</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NIP028739</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Parker, K. Langloh (1896): Australian Legendary Tales. Folk-Lore of the Noongahburrahs as Told by the Piccaninnies. With Introduction by Andrew Lang. Illustrations by a Native Artist, and Specimen of the Native Text. London: Nutt &amp; Melbourne: Melville, Mullen &amp; Slade. Quot. pp. 55-56.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CIPD0270">Yuwaalaraay</name>
+          <date notAfter="1895" notBefore="1875" type="recorded">Recorded sometime between 1875 and 1895.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>Oongnairwah , the diver, and Guinarey, the eagle hawk, told all the pelicans, black swans, cranes, and many others, that they would take their net to the creek and catch fish, if some of them would go and beat the fish down towards the net.</p>
+      <p>Gladly went the pelicans, black swans, and the rest to the creek. In they jumped, and splashed the water about to scare the fish down towards where Oongnairwah and Guinarey were stationed with their net. Presently little Deereeree, the wagtail, and Burreenjin, the peewee, who were on the bank sitting on a stump, called out, "Look out, we saw the back of an alligator in the water." The diver and eagle hawk called back, "Go away, then. The wind blows from you towards him. Go back or he will smell you."</p>
+      <p>But Deereeree and Burreenjin were watching the fishing and did not heed what was said to them. Soon the alligator smelt them, and he lashed out with his tail, splashing the water so high, and lashing so furiously, that all the fishermen were drowned, even Deereeree and <pb n="56"/>Burreenjin on the bank - not one escaped. And red was the bank of the creek, and red the stump whereon Deereeree and Burreenjin had sat, with the blood of the slain. And the place is called Goomade and is red for ever.</p>
+    </body>
+  </text>
+</TEI>

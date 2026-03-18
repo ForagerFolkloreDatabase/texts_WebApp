@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Two Inquisitive Men, Achayongch and Achgoyan</title>
+        <editor role="collector">Frank Alfred Golder</editor>
+        <editor role="narrator">Nicoli Medvednikoff</editor>
+        <editor role="narrator">Mrs. Reed</editor>
+        <editor role="narrator">Corneil Panamaroff</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NNA031253</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Golder, Frank Alfred (1903): Tales from Kodiak Island. In: The Journal of American Folk-Lore 16(60/61), 16-31, 85-103. Quot. pp. 19-21.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA27722">Koniag Alutiiq</name>
+          <date notAfter="1903" notBefore="1900" type="recorded">Recorded sometime between 1900 and 1903.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>There were two men; the name of one was Achayongch, the name of the other Achgoyan. They lived together, but spoke and looked at each other only when really compelled to do so. Anything happening at other places was known to them, and they generally went there to investigate. They went, looked, said not a word, did not a thing, and returned. One day, as they were sitting their barrabara [native home] around the fire, their backs toward each other, and eating shell-fish, Achgoyan pulled out a feather from his hair, threw it from him, and said, "Achayongch, what shall we do? There is a man living over there on the other side. He hunts every day with his sling."</p>
+      <p>Achayongch was silent for a while, then he scratched his ear, and said, "I do not know what is the matter with me. There is much whistling in my ear."</p>
+      <p>Silence for a long time; finally Achgoyan, pulling out another feather from his hair, and throwing it from him, said, "Achayongch, what shall we do? There is a man living over there on the other side. He hunts every day with his sling."</p>
+      <p>After scratching his ear, Achayongch replied, "I do not know what is the matter. There is much whistling in my ear."</p>
+      <p>A third time Achgoyan threw away a feather, saying, "There is a man living on the other side whose name is Plochgoyuli. He hunts every day with his 'plochgo' [sling]. We will go and see."</p>
+      <p><pb n="20"/>They set about preparing for the trip. On the canoe was piled the barrabara, the bugs and insects of the barrabara [they, being considered personal property, went with the house and person], the grave and remains of their wife. Achgoyan then thought that the canoe was sufficiently loaded; but on launching it was discovered too heavily loaded on one side; and in order to have it equally heavy on both sides, they dug up a little hillock, and put it on, and when they had filled hollow reeds with fresh water, started off.</p>
+      <p>Coming close to the other shore, they saw Plochgoyuli hunting ducks with his sling. He saw them too, knew the nature of their visit, and on that account threw rocks at them so as to destroy them. The first rock hit close to the canoe, and made Achgoyan, exclaim, "Ka! Ka! Ka! Ka! It nearly hit." The second rock hit still closer, and he exclaimed again, "Ka! Ka! Ka! Ka!" and as the rocks continued coming, they steered their canoe around, but not before Plochgoyuli had damaged the canoe. On returning home, all the things were replaced. A few days later they were sitting in the barrabara around the fire, their backs toward each other, eating shell-fish. Achgoyan pulled out a feather, and throwing it from him, said, "Achayongch, there is a man living on an island. He heats a bath, and catches codfish every day."</p>
+      <p>Achayongch scratched his ear, and replied, "I do not know what is the matter; but there is much whistling in my ear to-day."</p>
+      <p>A pause; then Achgoyan pulled out another feather, saying, "Achayongch, there is a man living on an island in the middle of the sea whose name is Petingyuwock. He heats a bath, and catches codfish every day."</p>
+      <p>"I do not know what is the matter; but there is much whistling in my ear to-day," answered Achayongch.</p>
+      <p>Silence for a long time; finally Achgoyan, pulling out a third feather, spoke up, "Achayongch, there is a man living on an island in the middle of the sea, whose name is Petingyuwock. He heats a bath, and catches codfish every day. Let us go and see."</p>
+      <p>They paddled off in the canoe, loaded with barrabara, bugs, grave, and hillock. On reaching the island, they beached the canoe, and went into the barrabara. An old man who was sitting there exclaimed, "Futi! where is the man-smell coming from?"</p>
+      <p>"We came to see because we heard that there is a man living here who heats a bath, and catches codfish every day."</p>
+      <p>"The bath is ready," said Petingyuwock, and Achayongch and Achgoyan went in to take a bath. While they were bathing, the old man tied together a lot of thin, dried kelp, which he had kept to make clothes, into a long rope, and fastened one end of it to the <pb n="21"/>canoe. That done, he roasted a codfish and gave it to the men when they came out of the bath. "There is a strong wind blowing. You had better hasten back," suggested the old man.</p>
+      <p>The men pushed off against a strong sea-breeze; and when quite a distance from the shore, the old man commenced pulling his end of the rope, gradually drawing them back, and when he had them close to the shore, asked them why they delayed, since the wind was freshening up every moment. A second time they started. This time they went about half way across before Petingyuwock, who was in the barrabara, began hauling in the rope until the canoe was on shore again. He then came out, and demanded to know why they did not go while there was yet time. The third time they paddled against such a strong breeze that with great difficulty headway was made at all. When half way across, the old man pulled again the rope, but the wind upset the canoe.</p>
+      <p>The grave of their wife became a porpoise. Achayongch and Achgoyan were cast on the shore, where they became two capes; and since then quiet and peace are unknown on capes; for the men were inquisitive.</p>
+    </body>
+  </text>
+</TEI>

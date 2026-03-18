@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A Lion's Story</title>
+        <editor role="collector">Wilhelm Heinrich Immanuel Bleek</editor>
+        <editor role="narrator">ǃKweiten-ta-ǁken</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NAF000385</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Bleek, Wilhelm H. I./Lloyd, Lucy C. (1911): Specimens of Bushman Folklore. London: Allen. Quot. pp. 258-261.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CAF00211">ǀXam</name>
+          <date when="1875" type="recorded">Recorded in 1875.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>The child cried there for "Bushman rice"; a lion hearing came to her, while she cried there; her parents lay asleep; she sat by them, sat crying.</p>
+      <p>And the lion heard, as she cried there, And the lion came to her, on account of it.</p>
+      <p>And she took out [some of] the grass<note>The narrator explained that the Bushmen sleep upon grass, which, in course of time, becomes dry.</note> upon which her parents were lying; because she had perceived the lion; the lion intended to kill [and] carry <pb n="261"/>off her parents; she set the lion on fire with it;<note>She set the lion's hair on fire.</note> the lion ran away; the bushes took fire.<note>As he ran through the bushes, they caught fire also.</note> Because the child had set the lion on fire.</p>
+      <p>And the child's mother afterwards gave her "Bushman rice" [because] she felt that the lion would have killed [them] if the child had not set the lion on fire with grass.</p>
+      <p>And the lion went to die on account of the fire. Because the fire had burned, killing it.</p>
+      <p>And the child's mother said: "Yes, my child, hadst thou not in this manner set the lion on fire we should have died. For thou didst set the lion on fire for us, for we should have died, hadst thou not set the lion on fire for us. Therefore it is, that we will break for thee an ostrich eggshell of "Bushman rice"; for, thou hast made us to live; we should have been dead, we should have died, hadst thou not set the lion on fire for us; hadst thou not, in this manner, set the lion on fire for us, we should have died."</p>
+    </body>
+  </text>
+</TEI>

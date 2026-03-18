@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>How Children Were Formerly Obtained</title>
+        <editor role="collector">James S. Mutch</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NNA024886</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Boas, Franz (1901): The Eskimo of Baffin Land and Hudson Bay. From notes collected by George Comer, James S. Mutch, and E. J. Peck. New York: AMNH (Bulletin of the American Museum of Natural History, 15,I). Quot. pp. 178-179.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA27903">Baffin Island Inuit</name>
+          <date notAfter="1899" notBefore="1883" type="recorded">Recorded sometime between 1883 and 1899.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>Akkalookjo and his wife Owmirneto were living at Kinerto. They had no children. One day Owmirneto went out early. She found a baby girl, which she took home and brought up as her own. When the child was almost grown up, Owmirneto found another baby girl, which she took and brought up as her own. When this child was almost grown up, she found a third one; and after a number of years, when the third also was almost grown up, she found a fourth one. All these she brought up. When the first girl was grown up, and able to look after a child herself, she went out early one morning, before her mother. She found a baby boy, whom she took home and brought up as her own child. When this boy was almost grown up, Owmirneto and the first and second girl whom she had found went about looking for children; and Owmirneto found another baby child. When this one was almost grown up, Owmirneto and the two girls whom she had found first were again looking for children. Her first daughter found another girl. About this time her third daughter began to look for children too, while Owmirneto had grown so old that she did not look for any more to bring up. About this time the third girl found a child; and when this one had grown up, the first girl found another one.</p>
+      <p>So far, the second girl had been unsuccessful, although she was very anxious to find a child. When the last one had grown up, the third daughter found a child, and so they lived on for many years. Finally they decided that the second girl should marry the boy which the first girl had found. Although she now had a husband, she still continued to look for children. Finally she found a chrysalis. She allowed it to suck the blood from her own body. Therefore she needed a vast amount of food, and she had to go to the houses of her neighbors to ask for it. Her husband was so young that he {179} did not go sealing yet. When she had eaten enough, she went home, and let the chrysalis suck her blood. While she was outside, she left the chrysalis in her stocking and in one of the legs of her trousers; and when she came back, it would suck the blood from various parts of her body.</p>
+      <p>The chrysalis was growing all the time, and now entirely filled the stockings and the trousers. The larger it grew, the Oftener she had to go and ask for food. Her husband staid in the house all the time. He sat on the bed and trimmed the lamps. It was very warm inside, and he sat without a shirt on. One day the chrysalis became hungry while the woman was away. It left its bed, and began to suck blood out of the man's side. It hurt him, and he threw it into the porch, where the dogs were. He heard them howling when they were bitten by the chrysalis. Very soon they stopped. They had killed it and devoured it. Its blood was spattered all over the porch and over their pelts. When the woman came back, she saw the blood, and asked her husband, "Is that the blood of the chrysalis?" She looked at her trousers, and found that the chrysalis had disappeared. Then her husband told her what had happened. He said, "That was not a human being. Why did you want to raise it?" She cried, went to bed, and soon she died.</p>
+    </body>
+  </text>
+</TEI>

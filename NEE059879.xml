@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Man of Kurilya</title>
+        <editor role="collector">Aleksandr Chapixovich Logany</editor>
+        <editor role="narrator">Pyak Vasiliy Lemevich</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NEE059879</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0">CC BY-NC-SA</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Budzisch, Josefina/Wagner-Nagy, Beáta (2024): INEL Nenets Corpus. Version 1.0. Publication date 2024-12-31. https://hdl.handle.net/11022/0000-0007-FE37-E. Archived at Universität Hamburg. In: The INEL corpora of indigenous Northern Eurasian languages. https://hdl.handle.net/11022/0000-0007-F45A-1. Quot. p. s.p..</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CEE15002">Forest Nenets</name>
+          <date when="2002" type="recorded">Recorded in 2002.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>A man of the chorale family. On some land of his own lived a man Kurilya. Together with his wife lived, they have a child Noho.   Their village adults, young men, ten young men herd guard. There is a girl, called simply  NgÃ¤ptku Ten Ne. Whether they live short or long, one day the father and mother said, "We're going to the big  cities now, we're going to do some shopping.  The skins of the animals they had killed were filled in the sledge. They left.  The father said: "We will be away for five days."  They left.  After their departure, NgÃ¤ptku Ten Ne was counting days.  And now came the fifth day. In the evening in the village of NgÃ¤ptku Ten Ne looks out again, looks out again, no  one comes. At last night came.  Night came on, one day she listens, some bells somewhere, the sound of the bells, you hear, coming closer. She just said: "I think the sparks are talking, I bet my mother will be."  The sparks seem to be talking, you can hear the sound of her bell.  And really came here, her father, passing by the tent, stopped there.  Her father has five young female reindeer in front of the sledge, it turns out. Well, the mother rides in the back, too.  There is snow dust flying from both sides of the skids. It turned out that her father was wounded, holding the front poles of the sledge with both hands, with blood pouring out between the  sticks. NgÃ¤ptku Ten Ne run there, she said to her father: "Father, what happened to you?  What kind of blood is that?  She said: "What happened to you?  In the big city we were shopping, when we drove back, closer to the river the Zyrians started shooting at us," he said,  "then run from this place to another place.  Anyway, the Zyrjans will come by our road." Then she ran to the tent, and her father's last breath must have been, so his breath was cut off.   She ran to the tent and put on her mask and said: "My child Noho, let's get dressed, why are you sitting, let's go."  She got dressed and said, "Let's clean up our mother's corpse."  On the ground, they put it down.  "Take my mother's harness, four reindeer with antlers that have front lobes.  And I'm going to use my father's sled of five young female reindeer. Uh, they turn their sleds around  quickly, head back to the big cities. Whether it was a long drive or a short drive.  Suddenly, a little ahead of them, they finally saw a forest on the banks of a river, a coastal forest on the banks of large rivers. Along the big river  with the spruces they drove.  The two talus promontories seem suspicious, bullets blown. Two Zyrian on either side shot at her,  she caught the bullets with her hands on the side where the bullets came out. And immediately from the left side of her father's sledge she snatched a  big bow and immediately shot from the bow, so there they fell down on their backs. To her child Noho, she  said: "Why are you sitting there? Along the sledge he ran and took  the rifles of the Zyrjans. And she took the second rifle ziryan. She said: "Come on, my child Noho, let's go  forward again. It will probably be bad now, tie your kumysh sleeves to the edges of the sled.  And you yourself behind the sledge drag." || Und du, hinter dem Schlitten, schleppst dich mit. Forward again, they went.  Whether it was a long drive or a short drive. Ahead again, the second big river with spruce trees on its banks showed up. As they drove closer,  two talus capes seemed suspicious. And indeed, from there passed, and immediately bullets flew from both sides.  And immediately, just like that time, from the holes where they came out, she caught them two bullets. Then she hit them on both sides  with her shotgun, and the attackers fell face up like that. To the child Noho, she said again: "You don't feel sorry for those ziryan rifles, take their rifles again."  They put it in their sledge and drove forward again.   Whether it was a long drive or a short drive. || ÐÐ¾Ð»Ð³Ð¾ Ð»Ð¸ ÐµÑ</p>
+      <p>Ð°Ð»Ð¸, ÐºÐ¾ÑÐ¾ÑÐºÐ¾ Ð»Ð¸ ÐµÑ</p>
+      <p>Ð°Ð»Ð¸.  All forward, again to the big river with spruce trees on its banks, they are about to approach.  The two talus capes seemed suspicious.  Bullets flew from both sides.  From the hole where they flew from, between her fingers, they  flew with a whistle, you can hear it. And she drove up there, fell forward to the nose of the sled, caught the sticks of her sled, and wanted to grab her rope, but did not catch it.  Then her rope must have fallen far away, on the skid of the sled.   Her rope under the skid, like a tethered one, snagged. The front deer to the left  immediately turned around, the front stag turned back around. In the direction of the land from whence they came, ran. When they reached the third coastal forest, we stopped. She said to her child Noho: Come on, get up quickly.  Now let's do it this way, they'll still say: this one, bleeding, is gone." They tied their reindeer with ropes to the noses of their sleds and waited for  them there.  And indeed, Zyryan reindeer with branchy antlers were there, and two men on a reindeer sled drove up.  They  came close, they ran over here: Oh, we got those two. And the other one was dragging inside his kumysh, it turns  out. After the Zyrians walked away, each of them jumped up and immediately shot each of them with a rifle.  From that time  on, I forgot where it even went. They were on their way back already. Well, that's enough for now.</p>
+    </body>
+  </text>
+</TEI>

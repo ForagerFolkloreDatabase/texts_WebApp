@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Koikoiusa</title>
+        <editor role="collector">Frank Alfred Golder</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NNA031250</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Golder, Frank Alfred (1909): Eskimo and Aleut Stories from Alaska. In: The Journal of American Folk-Lore 22(83), 10-24. Quot. pp. 18-20.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA27710">Aleut</name>
+          <date notAfter="1909" notBefore="1900" type="recorded">Recorded sometime between 1900 and 1909.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>A certain young man had three sisters, two brothers, a mother, and a father whose name was Koikoiusa. The last-named told this son that he wished him to marry, and that in the spring or summer he would take him to a village to get him a wife. In the meantime he made him a one-hatch bidarka [skin boat], and from the top of the barabara [native home] watched and trained the boy in the handling of it. Each day's practice made the boy more proficient, until the father felt that the boy could take care of himself, and gave him permission to go anywhere in the bay that he pleased, so long as he did not go outside of it and around the point.</p>
+      <p><pb n="19"/>Several days later, while the father was in the barabara, the boy decided to go around the point and take a peep and come right back before his father came out. When he had passed the forbidden line, he saw coming towards him a frightfully large bidarka, in which sat a monstrously huge man using the jaw-bones of a whale for paddles. The boy learned, but too late, why his father told him to keep in sight. This giant's name was Meechem Aleu. He was chief of a village, and killed every one that passed by there. Meechem Aleu seized the boy's bidarka, and asked, "Where are you going?" – "Where are you going?" the boy replied boldly. - "I live here." - "If you have a daughter, take me to her and I will marry her," said the young man. "Come with me! And if I have a daughter, you shall marry her." Telling him to take the lead, the giant came behind and drove his spear into the boy's back, killing him.</p>
+      <p>Koikoiusa, when he came out of the hut and could nowhere find his son, suspected what had happened. In the evening he put on his kamalayka [shirt made of intestines], got into his bidarka, and went to the village of the giant. Quietly landing and stealthily crawling to the barabara of Meechem Aleu, he listened; and this is what he heard the giant say to his men, "He came towards me; I pulled his bidarka to me and asked him where he was going. He replied by asking me the same question. I told him I lived here. The young fool then asked me if I had a daughter, to take him to her and he would marry her. This made me angry, and I told him to paddle ahead of me to the village, and if I had a daughter he should marry her. When we had gone a short distance, I threw the spear at him, the bidarka turned over, and down he went. The last I saw of him were the white soles of his torbasas [soft seal-skin shoes]."</p>
+      <p>This account amused the audience a great deal, but Koikoiusa wept bitterly. With his kamalayka he wiped the hot tears away, but they flowed on ‘until the folds of the kamalayka were full.’ A little later he heard the warriors leave Meechem Aleu's house, and the voice of the giant telling his two boys to go to sleep, but to be on the alert during the night; and if the wind changed, they were to go down to the beach and make fast the bidarkas.</p>
+      <p>When those inside had retired, Koikoiusa slipped quietly back to his boat, from which he took his sharp stone knife and the spear with the sharp stone point, and sneaked to the giant's home. They were all asleep, and did not hear him lift the grass mat, or notice him as he crawled through the door. Without waking any one, he went to where the boys slept and cut their heads off, and, tying them together by the hair, hung them right over Meechem Aleu, and went outside to see what would follow. Pretty soon he heard the giant call, "Hi, hi, hi! Wake up, boys! It is raining outside. I feel the drops on my face. Go and tie the bidarkas." When he had called two or three times and no one answered, he got up <pb n="20"/>and lighted the straw wick in his stone lamp. What he saw made him weep; and between sobs he repeated several times, "Ai-Ai-Yah. Koikoiusa has done this because I killed his boy."</p>
+      <p>Koikoiusa, who was listening, heard the words, and answered by coughing three times, which meant a challenge. He went to his bidarka and paddled for home. On the way he fished and caught a very large halibut, and, having selected a favorable spot, he landed and covered the fish with sand. He also sharpened some prongs and antlers which he found, and concealed them near the halibut. Meechem Aleu, whom he expected, soon afterwards made his appearance. When Koikoiusa saw him coming, he pulled off his parka [fur cloak] and stationed himself near the halibut in an attitude of defence. Koikoiusa, though powerful, was so small that he could barely reach to the breast of the giant; but this proved an advantage, for the giant was unable to get a good hold. The little man was quick, and by twisting and pushing he forced the big man to slip on the halibut. He fell with such force that the prongs and antlers penetrated his body, and before he could clear himself Koikoiusa cut his head off. From here Koikoiusa went back to his own village, and during the rest of his life he bewailed the sad fate of his son.</p>
+    </body>
+  </text>
+</TEI>

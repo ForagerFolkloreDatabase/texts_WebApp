@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Girl Who Went in Search of Her Lover (The Girl Who Killed the Cannibals)</title>
+        <editor role="collector">Frank Alfred Golder</editor>
+        <editor role="narrator">Nicoli Medvednikoff</editor>
+        <editor role="narrator">Mrs. Reed</editor>
+        <editor role="narrator">Corneil Panamaroff</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NNA031255</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Golder, Frank Alfred (1903): Tales from Kodiak Island. In: The Journal of American Folk-Lore 16(60/61), 16-31, 85-103. Quot. pp. 26-28.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA27722">Koniag Alutiiq</name>
+          <date notAfter="1903" notBefore="1900" type="recorded">Recorded sometime between 1900 and 1903.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>A terrible misfortune befell the people of a very large village. Of all the hunters that left the village not one ever came back, nor was it known what became of them. In that village lived a very beautiful girl, who loved and was beloved by a brave young hunter and joyfully consented to become his wife; but the parents objecting, the marriage never came off. The disappointed lover decided to drown his grief in hunting, and, although cautioned by the old men, insisted on going and went. A week, a month, passed, and when he did not return, he was given up as lost. Not so the girl; she could not believe him dead, and concluded to go and search for him.</p>
+      <p>Secretly she made preparations, and one night, when all the other villagers were sleeping, stole out quietly, and, taking her father's one-hatch bidarka [large skin boat] and kamalayka [waterproof shirt made of intestines], started off. After going some distance from the village, she ceased paddling, closed her eyes, and began to sing. She sang a verse, then opened her eyes, and on noticing that the bidarka was drifting with the current, shut her eyes again and continued singing. At the end of the second verse, she looked about again, and, seeing the bidarka drifting as before, only faster, closed her eyes and sang a long time. When she looked around the next time, the bidarka was going very, very fast. Becoming alarmed, she tried unsuccessfully to change its course. The speed of the boat increased each moment; and soon she heard the mighty roar of falling waters. Her life without her lover was not worth living, so closing her eyes, she resigned herself to her fate and awaited death. Very swiftly the boat rushed now; the roaring waters became dreadful; and her heart almost stopped beating when she felt herself going down, down, down, and suddenly coming to a standstill. She was not hurt, but could neither come out nor move. The bidarka was fast.</p>
+      <p>Dawn was approaching as she lay there, wondering what would become of her and what became of her lover. When it was broad daylight, she saw a bidarka, with one man in it, coming toward her. On coming closer, the man exclaimed, "Ha! Ha! I have another victim," and placed a bow and arrow, having a two-edged knife on the end, near him for immediate use. But as he came a little nearer, <pb n="27"/>he put back his weapons, saying to himself, "Seems to me that is a woman. No, it cannot be," he added a moment later, and picked up his bow and arrow again, only to replace them, and crying out, "If you are a woman, speak up, and I will not kill you; for I do not kill women." She assured him that she was a woman, and he came and took her out of the bidarka, seated her in his, and paddled off with her.</p>
+      <p>Reaching his home, a small barrabara [native home], and occupied by him alone, she noticed many human heads; and in one, not yet badly decomposed, she recognized her lover’s. She did not say a word, but swore vengeance. The man told her that he would have her for his wife, and ordered her to cook something for him to eat, which she did of deer and seal meat. At bedtime, he pointed to a corner of the barrabara, telling her to lie there, while he slept in the opposite corner. Although this arrangement seemed queer to her, she obeyed without questioning.</p>
+      <p>The following morning he led her to a little small barrabara, and showed her a number of headless human bodies. "These," said he, "I do not eat; but I have three sisters, living some distance from here, who eat human flesh only. It is for them that I killed these people. Each day I take one of these bodies to a different sister." He then lifted up a corpse, and, taking his bow and arrow, walked off. The girl followed him to the place where the road forked. One path led to the right, another to the left, and the third continued straight before her. Noticing which he took, she returned to the barrabara, and busied herself the rest of the day, removing two of the posts from one of the walls, and digging an underground passage out. All the dirt she removed and dumped into the sea, and cunningly concealed the passage. Towards evening she cooked supper, and when he returned, they ate it in silence and then retired; she in her corner and he in his.</p>
+      <p>After breakfast the next morning, he carried away another corpse. She, taking the bow and arrow which he left behind, followed him secretly. Where the road divided, he took the path to the left, while she followed the one in the middle. After keeping it for a while, she cut across to the left path, and by hurrying managed to reach the home of his sister and kill her before he came there. From there she ran to the homes of the other sisters, killing them, and then back to the barrabara. He, coming to his sister’s, and finding her dead, hastened to the homes of the other sisters, and finding them dead also, suspected the criminal, and determined to kill her.</p>
+      <p>She was sitting on the barrabara when he came. "You killed my sisters and I will kill you," he cried. He rushed for his bow and arrow, but they were not in their places, and when he discovered <pb n="28"/>them in her hands, he began begging them of her, promising to do her no harm. At first she refused, but he pleaded and promised until she, trusting in his promises, gave them to him. As soon as he had them, he shouted, "Now you shall die," and shot at her. But she, dropping through the smoke hole, was out of sight before the arrow could reach her; and while he was looking for the arrow, she crawled out through the underground passage, and perched herself anew on the barrabara. This sudden appearance was a mystery to him, since the door was closed. Again and again he shot at her, and each time she disappeared and appeared in the same mysterious manner. At last, seeing that he could not hurt her, he said, "Since I cannot kill you, take these, and kill me."</p>
+      <p>"I do not want to kill you," she said. "But I am afraid that you will kill me some day, when you think of my doings."</p>
+      <p>He swore never to hurt her, and she came down. They ate supper, and retired in the usual manner; but as he was about to fall asleep, she moved close to him, and commenced talking to him, keeping him awake the whole night. Five days and nights she tortured him in this way, giving him no opportunity to sleep. On the sixth day, in spite of all that she could do, he fell into a deep sleep. Although she pulled and pinched him, he could not be aroused. She then brought a block of wood from outside, and, placing it under his neck, cut his head off with a knife which she stole from one of his sisters.</p>
+      <p>In his bidarka she put his bow and arrow and knife, and, seating herself in it, started on her homeward journey by way of the falls. But the falls were there no more; for they existed through the evil power of the man, who was a shaman; and when he died, his influence ceased; the river flowed smoothly and steadily in the old channel. Her bidarka she found drifted on the beach, and after repairing and placing his weapons in it, paddled away, and in good time came home.</p>
+      <p>When the people of the village learned her adventures, and that she killed the shaman, they rejoiced exceedingly. The old men decreed that the shaman's weapons, which the girl had brought along, should be thrown on the garbage pile, where they would be polluted.</p>
+    </body>
+  </text>
+</TEI>

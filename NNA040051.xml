@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>How Raven Stole the Old Woman's Bear-Meat (version 2)</title>
+        <editor role="collector">John W. Chapman</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NNA040051</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Chapman, John W. (1914): Tenʼa Texts and Tales from Anvik, Alaska. With Vocabulary by Pliny Earle Goddard. Leyden: Brill &amp; New York: Stechert (Publications of the American Ethnological Society, 6). Quot. pp. 34-35.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA28601">Deg Xitʼan</name>
+          <date notAfter="1911" notBefore="1887" type="recorded">Recorded sometime between 1887 and 1911.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>There was once an old woman. She lived in a little house. One day she heard a great noise at her door. It was a big beast trying to get in. The old woman got her hammer and awl, and she struck the beast and killed it. Then she brought it into the house and cooked it, and there was plenty of meat and fat on it. She put it all into her cache, except the entrails; and she was cooking these, when she heard some one coming. It was the Raven, and the old woman told him to come in. They ate the entrails, and afterward the old woman told the Raven to get some wood for her. She gave him a pair of fish-skin mittens and a fish-skin parka and fish-skin boots. As he was going out, he ate one of the mittens; and while he was in the woods, he ate the other, as well as the boots and the parka. Then he got some wood and came back to the house. The wood was wet, and the old woman threw it all out again; and at that the Raven came in, and she asked him where all the clothing was that she had lent him. He said that it had been very hot, and that he had left the things on a tree and had forgotten all about them. She told him to go and get them, and he refused. Then she went into the woods to get them herself, and the Raven stole all the fat that she had put into her cache, and fouled the floor of the cache with his excrement. When the old woman came back, he had made a ball of the fat, and was playing with it. The old woman asked him where he got the fat; and he said, "You gave it to me this morning." <pb n="35"/>She was angry, and said, "I did not give you that this morning." Then she went to look at her cache, and saw what he had done, and that the fat was gone. This made her angry, and she got her hammer and awl. When she went in, she told the Raven that she was going to cut his hair, but she hid the hammer and awl under her parka; and when she came up as if to cut his hair, she drove the awl into his head with a blow of the hammer, and killed him. Then she pounded him to a pulp with her hammer, and put him into a bowl, and put him into a hole in the ice, and went into her house again. As she sat in her house, she heard a noise at the door. There were three women, and they had three little babies on their backs. They came in, and asked where the Raven was. She said, "I don't know where he went." But they did not believe her, and they began to fight with her, and dragged her down to the hole in the ice and fought with her there; but she forced one of them into the water, and then another, and then the other, and then she went back to her house.</p>
+    </body>
+  </text>
+</TEI>

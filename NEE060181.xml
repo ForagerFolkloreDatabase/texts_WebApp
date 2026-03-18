@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Swan</title>
+        <editor role="collector">Konstantin Nikolaevich Rychkov</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NEE060181</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0">CC BY-NC-SA</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Däbritz, Chris Lasse/Gusev, Valentin/Stoynova, Natalia (2024): INEL Evenki Corpus. Version 2.0. Publication date 2024-12-31. Archived at Universität Hamburg. https://hdl.handle.net/11022/0000-0007-FE38-D. In: The INEL corpora of indigenous Northern Eurasian languages. https://hdl.handle.net/11022/0000-0007-F45A-1. Quot. p. s.p..</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CEE15803">Evenki</name>
+          <date notAfter="1909" notBefore="1900" type="recorded">Recorded sometime between 1900 and 1909.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>The swan. Long ago there was an old raven. The old raven had a daughter, a very good daughter.  The girl was more beautiful than the sun. Once the girl saw a swan.  Having seen [her] the swan said to its father: "I saw the raven's daughter.  The girl is more beautiful than the sun! I want the raven's daughter!  I'll take that girl!" The father listened, having listened he said to his son: "Don't take the raven's daughter, it'll be bad!"  The son said to the father: "I'll take that girl!  The girl is good, though! It won't be bad!" The father didn't say a single word, he was silent. The son went off, he went to the raven's tent.  He reached the raven's tent. Having come there he said: "Hey, old raven! Give(?) me your daughter!  I love your daughter very much!"  The old raven was happy about(?)  the good son-in-law. Then he said: "Take my daughter!  Invite all your relatives to the wedding!" On the third day all relatives of the swan came to the wedding to the raven's tent.  They laid the table for the guests. They put meat soup on  the table. The swan sat down together with the daughter. The father-in-law said: "Eat, my good guests!"  The guests are sitting, they are looking, they don't eat the food. Only the raven is eating.  The food was very rotten. The son-in-law pecked once, having pecked he puked.  Then he said: "How will I eat your food? Your food is very rotten!"  So the swan said and flew off. With a wing he threw the food [from the table], then he flew off.  After that the swan said: "Nobody [of you] take a raven's girl! The ravens  ate badly! I was [there], I smeared my feet(?) and my beak, now [they are] black, one won't wash it off."  So the swan said.</p>
+    </body>
+  </text>
+</TEI>

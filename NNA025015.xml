@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Owl and the Lemming</title>
+        <editor role="collector">George Comer</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NNA025015</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Boas, Franz (1901): The Eskimo of Baffin Land and Hudson Bay. From notes collected by George Comer, James S. Mutch, and E. J. Peck. New York: AMNH (Bulletin of the American Museum of Natural History, 15,I). Quot. pp. 319-143.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA27803">Kivallirmiut</name>
+          <date notAfter="1899" notBefore="1897" type="recorded">Recorded sometime between 1897 and 1899.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>An Owl saw a Lemming feeding just outside of his hole. He flew down and perched at the entrance of the hole, and then said to the Lemming, "Two dog-teams are coming!" This frightened the Lemming so that he came up close to the hole, pretending that he would rather be eaten by the Owl than caught by the dogs. He said, "I am very fat, and you can have a good meal. Take me! If you wish to celebrate before eating me, I will sing while you dance." The Owl agreed, drew himself up, and the Lemming began to sing while the Owl danced. When dancing, the Owl looked up to the sky and forgot about the Lemming. While he was moving about, he spread his legs far apart, and then the Lemming ran between them into his hole. The Owl called to him to come out again, saying the dog-teams had passed by. But the Lemming's wife told her husband not to go, but to throw some dirt into the Owl's face, which he did.[[See No. 36, p. 219.]]</p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Tales of Bear-Hunters (#9)</title>
+        <editor role="collector">James S. Mutch</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NNA024942</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Boas, Franz (1901): The Eskimo of Baffin Land and Hudson Bay. From notes collected by George Comer, James S. Mutch, and E. J. Peck. New York: AMNH (Bulletin of the American Museum of Natural History, 15,I). Quot. pp. 266-267.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA27903">Baffin Island Inuit</name>
+          <date notAfter="1899" notBefore="1883" type="recorded">Recorded sometime between 1883 and 1899.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>One winter the floe-edge was distant one day's drive from Qivitung. Some Eskimo, while driving along, saw three bears on the ice. As the snow was hard and smooth, the sledges went along very fast. On one of the sledges were a father and his son. The bears were still so far away that they could hardly be seen. Then the father said to his boy, "Run ahead of the sledges and try to catch the bears!" The father knew that his son was very fleet of foot and a very good bear-hunter. The son started, and ran ahead of the sledges; but soon his speed slackened, and the sledges overtook him. Then his father shouted to him, "Run faster, my boy!" Thus admonished, the boy made another effort, and ran past the sledges until he overtook the first sledge; but then he began to fall back again, and his father admonished him again, saying, "When you are older, you will not be able to learn how to run. Learn while you are young." Again the boy made a start, but soon fell behind again. When he was near his father's sledge, he asked his father to throw his harpoon to him. The father did so. The boy took it up, and then ran away sideways from the sledges; and when some distance away, he ran ahead. Now he passed the sledges like a flying duck, and in a very short time caught up with the bears. When they saw the single boy coming up, they all attacked him; but when they tried {267} to bite and strike him, he jumped over them. Thus he kept the bears pursuing him for some time. Meanwhile the sledges were coming nearer. They saw the bears attacking the boy. But before the sledges had time to come up to him, he killed one bear with his spear, and then the second and the third one in the same way. The people said to him, "What did you do to your knees to learn to run so fast?" The boy replied, "My knees are light." Then they all went home, and the men told their wives how the boy had killed the bears.</p>
+    </body>
+  </text>
+</TEI>

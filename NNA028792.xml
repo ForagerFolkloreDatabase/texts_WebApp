@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Origin of Death</title>
+        <editor role="collector">Leo J. Frachtenberg</editor>
+        <editor role="narrator">Jim Buchanan</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NNA028792</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Frachtenberg, Leo J. (1913): Coos Texts. New York: Columbia University Press &amp; Leyden: Brill (Columbia University Contributions to Anthropology, 1). Quot. pp. 42-45.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA29402">Coos</name>
+          <date when="1909" type="recorded">Recorded in 1909.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>They two were cousins, and lived together. Both of them were married, and both had little boys.</p>
+      <p>One morning the child [of one of them] became sick. It was sick a long time; then it died. It made [the father] feel sorry when it died. So they buried it.</p>
+      <p>The next morning he did not eat. He was watching the [dead] child. On the fourth morning he went to his cousin. "Halloo, cousin! You are thinking? What is your opinion? Should my child come back in five days?" Thus he spoke. "Not so, cousin. You just eat, and you will feel happy." Thus he spoke to him. He had nothing to say to [this]. He was simply thinking, "I shall surely get even with you."</p>
+      <p>Indeed, not very long [afterwards] his [the other man's] <pb n="45"/>child became sick. It was not sick long, when it died. He was very sorry when his child died. Indeed, he was thus talking, when he wanted his child to come back. So he went there. "Halloo, cousin! Indeed, our two children ought to come back. Our two children ought to come back in five days." Thus he said to him. "Not so, cousin. You just eat, and you will feel happy." Thus he was talking. "I intended that our two children should come back; however, you did not want it so. Now, indeed, whenever people die, they shall never come back, because you did not want it so. You were right, indeed, in talking to me thus." Thus he was thinking. He was right [when] he said this.</p>
+      <p>In five days [people] would have surely come back, if he had said so. It would have been good if [those] who died could have come back after five days. So far [the story] goes. In this wise, people relate the story.</p>
+    </body>
+  </text>
+</TEI>

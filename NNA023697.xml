@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>G·āʼloyakǔnēᵋ (G·āʼloyakŭmēᵋ)</title>
+        <editor role="collector">Franz Boas</editor>
+        <editor role="narrator">Samuel Jackson</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NNA023697</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Boas, Franz (1928): Bella Bella Texts. New York: Columbia University Press (Columbia University Contributions to Anthropology, 5). Quot. pp. 120-123.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA29022">Bellabella</name>
+          <date when="1923" type="recorded">Recorded in 1923.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>G·āʼloyakŭnēᵋ came down, being prayed to by his attendant, / [G·āʼloyakŭnēᵋ]. Then Gǃ·ēʼlakᵘlaqsa sang and danced for him. Then <pb n="123"/>Dasɛnāʼlag·iᵋlakᵘ was sitting on a tree. He was not like a man. He went and sat down on top / of a salmon trap. His wings were those of a big eagle. / His face was that of a man and his feet were those of a man. There were two gulls and the Swan. The Swan did not go down, he just stayed where he was, / sitting on the right hand side of the river at the place called Laʼtstsa. / Now Dasɛnāʼlag·iᵋlakᵘ was sitting on top of / the salmon trap. He was going to be chief. Then he heard / Haiʼałilaqsa. Now she went around to the right side and came down. Again she was sitting on the salmon trap. Then she turned to the right side sitting. There was her child Laiʼstax·sīla. / Then he raised his head in the cradle. Then he whistled. / He started easily from the beach again and went / back to heaven. She turned to the right going up. Then four young women came down again, and / they were playing shuttle-cock. Now they were playing. / They were playing shuttle-cock just below on the beach from the one who was sitting on the salmon trap. / The four young women did not go away. Then / it was night and then it was daylight, and unexpectedly a house was there in the morning and also his trap. His trap came down at the same time. Then he became a man / and he became the owner of the house. Then / he went in. It was not the same kind of a house. / The posts were grizzly bears. At the one side in the rear of the house stood a / box. Then he opened it and became a man. Then he obtained the name Qǃōmᴇᵋnakᵘlag·flis, when he first / became a chief. Then he gave a potlatch and at that time he took the great / name Wāk·as. Therefore he became a chief. He finished potlatching. After he had given the last potlatch his name was / ʟāʟiāsiʼla.</p>
+    </body>
+  </text>
+</TEI>

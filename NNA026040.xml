@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Raven Cycle - Raven and Kanuʼgu</title>
+        <editor role="collector">James Teit</editor>
+        <editor role="narrator">Tuu:ʼts ('strong rocks')</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NNA026040</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Teit, James A. (1919/21): Tahltan Tales. In: The Journal of American Folk-Lore 32(124), 198-250; 34(133/134), 223-253, 335-356. Quot. pp. 212-213.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA28403">Tahltan</name>
+          <date notAfter="1915" notBefore="1912" type="recorded">Recorded sometime between 1912 and 1915.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <note>See RBAE 31 : 666 (Comox, Haida, Nass, Tlingit, Tsimshian).</note>
+      </p>
+      <p>Now Raven returned to the coast the same way he had come, and took up his abode near Wrangell. He lived for a time there. He thought, "My work is finished, and I have managed to arrange everything better for the people." He went in his canoe out to sea, and there met Kanuʼgu. He took hold of Kanuʼgu's canoe and conversed with him. Raven said to him, "You are a very old man. How old are you?" Kanuʼgu said that he did not know. Raven said, "Well, I am very old too. Do you remember very long ago, when all the rocks were rotten? " Kanuʼgu said, "Well, you must be older than I am, for I do not remember that."</p>
+      <p>Kanuʼgu then put on his hat, and a dense fog came on. Raven tried to reach the shore, but paddled around in circles. He then called out to Kanuʼgu, "Brother-in-law, you are older than I am." Kanuʼgu was following him in the fog, but Raven did not know it. Kanuʼgu took off his hat; and the fog lifted, and the weather became <pb n="213"/>clear again. Kanuʼgu said to Raven, "You have fooled people so much, that I thought I would fool you by making fog." Raven said, "I have fooled people, but always made things easier and better for the people. I stole water from you but for the benefit of the people." Kanuʼgu said, "Yes, what you have done has been of benefit to the people. It is good that you did these things. You obtained light, and this has been good for me as well as for others." Now Kanuʼgu and Raven separated. The latter is said to have gone out to sea, and is said to live on a rock or island somewhere far away out in the ocean to the west. Kanuʼgu is said to live in the same place.</p>
+    </body>
+  </text>
+</TEI>

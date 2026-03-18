@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Chulugdi</title>
+        <editor role="collector">Glafira Makarina Vasilevich</editor>
+        <editor role="narrator">Kaplin Ilya</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NEE060037</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0">CC BY-NC-SA</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Däbritz, Chris Lasse/Gusev, Valentin/Stoynova, Natalia (2024): INEL Evenki Corpus. Version 2.0. Publication date 2024-12-31. Archived at Universität Hamburg. https://hdl.handle.net/11022/0000-0007-FE38-D. In: The INEL corpora of indigenous Northern Eurasian languages. https://hdl.handle.net/11022/0000-0007-F45A-1. Quot. p. s.p..</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CEE15803">Evenki</name>
+          <date when="1931" type="recorded">Recorded in 1931.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>There lived a very short [= small(?)] man. In early spring, in mid-spring (at the time of the last harsh) he was wandering. He made a camp, he went to make a  camp. The one-footed Chulugdi had made a camp. That man came to him then.  The one-footed one remarked his path (?), he hit the road to that man's yurt (?). His wife <note>[GVY:] This sentence is not fully clear.</note>came, she wandered there. The man made a yurt, half of the yurt he covered. Chulugdi  quickly threw his axe in order to kill him. The man loaded half of his yurt on a reindeer, half of the yurt he left [there].  He was about to wander along the path, he came back, together with Chulugdi he sat at the bonfire.  In the evening the man went to the yurt to overnight, he crossed a river, having chopped [ice on] the road, for that [that one] will sink.  On that side of the path he saw the tramp, he heard a word, [that one] goes: "It may be far, it may be close, taj-tu, taj-tu!"  Having come to the river, he sank at the chopped [place].  When he had sunk, [the man] came, covered the path with snow, and started again to watch. Chulugdi's wife <note>[DCh]: Is it really </note>followed him, the husband's traces. "Did they eat his liver?", she says, she came to the river, she sank.<note>allative case? And if, why?</note><note>[DCh]: Verb form "buÄakadÊ¼adÊ¼á»Åa-wu" is not clear; 3PL should be "-tin" with future tense.</note> The man drowned both of them, he deceived [them].</p>
+    </body>
+  </text>
+</TEI>

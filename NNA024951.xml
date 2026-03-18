@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Tales of Angakut (#3)</title>
+        <editor role="collector">James S. Mutch</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NNA024951</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Boas, Franz (1901): The Eskimo of Baffin Land and Hudson Bay. From notes collected by George Comer, James S. Mutch, and E. J. Peck. New York: AMNH (Bulletin of the American Museum of Natural History, 15,I). Quot. pp. 243-244.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA27903">Baffin Island Inuit</name>
+          <date notAfter="1899" notBefore="1883" type="recorded">Recorded sometime between 1883 and 1899.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>Owleyjen and Akuto lived near Padli. Once upon a time, while hunting caribou, they met some people who were also hunting, and they all made houses for the night. Owleyjen was the first to finish his house. He and his friend had no lamp with which to cook their food. Therefore he said, "Shall we not get a lamp and oil from the other hunters?" And Akuto replied, "Yes." Then Owleyjen, who was an angakok, wished that the fire-drill of the hunters would not work. These people tried very hard to make fire with their fire-drill; but they used up the drill without having any success. Finally they said to one another, "These two {244} hunters may have a piece of wood with which we may be able to make fire." One of them went to see Owleyjen, and said to him, "We have been trying to make fire here. Our fire-drill is used up. Have you a piece of wood?" Owleyjen replied, "If you will give me a lamp and oil, I will make fire for you." The man returned, and took a lamp and oil to Owleyjen's hut; and as soon as he brought it, Owleyjen said, "I want them to trim their lamps right." The people tried again to make fire, and their fire-drills worked at once. The man who had brought Owleyjen the lamp and the oil now brought him also a light, saying that they had succeeded in obtaining fire. Owleyjen and Akuto laughed at their success in obtaining a lamp and oil. The following morning they returned the lamp and went home.</p>
+      <p>Some time in the spring these people met again. The women were sewing a cover on a kayak. While they were at work, one of them lost her needle, which fell down into the moss, and they were unable to find it. Then Owleyjen came up to them while they were looking for the needle. He asked, "What are you looking for?" And when he heard that one of the women had lost her needle, and was told that it had fallen down at some point, he asked to be allowed to look for it. He walked off some distance and lay down on the ground. He looked through his hands, but not towards the ground, and said, "I see it over there!" The people were surprised because he was able to see it. Then he walked slowly towards them. As soon as he reached the spot where the needle was, he fell down and picked up a handful of moss. Then he went slowly back to the kayak, and shook the needle out of the moss on to the cover.</p>
+    </body>
+  </text>
+</TEI>

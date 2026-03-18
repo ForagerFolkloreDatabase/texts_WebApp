@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Hares and Wolverine</title>
+        <editor role="collector">Glafira Makarina Vasilevich</editor>
+        <editor role="narrator">Kima Shomircha</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NEE060065</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0">CC BY-NC-SA</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Däbritz, Chris Lasse/Gusev, Valentin/Stoynova, Natalia (2024): INEL Evenki Corpus. Version 2.0. Publication date 2024-12-31. Archived at Universität Hamburg. https://hdl.handle.net/11022/0000-0007-FE38-D. In: The INEL corpora of indigenous Northern Eurasian languages. https://hdl.handle.net/11022/0000-0007-F45A-1. Quot. p. s.p..</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CEE15803">Evenki</name>
+          <date when="1930" type="recorded">Recorded in 1930.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>The wolverine ate the mother of the hares, then it came into their tent.  The hares put rotten wood under the blanket, strewed earth into the shoes,  climbed onto the horizontal pole [of the tent].  The wolverine came, it trampled [on the blanket]  saying: "The hares' lungs are whistling!"  The hares said: "Grandfather, what  are you doing?"  The wolverine looked up, the hares strewed earth into the wolverine's eyes, then they disappeared.   They went home to the old woman.  The old woman is not at home, she had gone hunting.  They ate the old woman's  fat, they hid in the kettle.  The old woman came in the evening, she lit a fire.  All her  belongings were workers.  "Firewood, come here, fire, burn!"  The wood itself  came, the fire lit itself. "Basket(?), go and fill up with water".  The basket(?) filled itself with  water.  "Kettle, come here!"  The kettle couldn't come.  It made only "king".  The old woman got angry, she took a door stick and hit the kettle.  The hares began to laugh, they climbed out of the kettle.   The old woman said: "Guys, why did you hide?  I am bored [when being] alone.  Guys, live at my place!"   They started living [there].  She bagged bears, she brought the bears [tied to] her belt.   The hares became bigger and said: "We are bored, we'll go hunting, give us a spear".   They asked the old woman, how she is shouting.  "Bear, hither, hither!"   The hares reached the old path, they sat down and shouted for the bear.   The bear came, they saw [it], being frightened they ran off leaving the spear.  They came back to the  grandmother and said: "Terrible, we left back your spear!"  The grandmother said: "I told you [that it] is a terrible beast!"   The grandmother went after [the spear].  Again the hares wanted to roam saying "we are bored".   The old woman showed [the way]: "Go there, there is [a path] formed like a hoof and [a path] formed like a sleeping bag."   The hares went off, they came to the bifurcation.  The elder sister forgot: "Grandmother said that we should follow the  path formed like a sleeping bag".  "No, grandmother said that we should follow [the path] formed like a hoof".  The elder sister said: "Let's fight, who wins, if you win, we'll follow [the path] formed like a hoof, if I [win], [we'll follow the path] formed like a sleeping bag". <note>[DCh]: Form "dabdid'ap" is not really clear. </note> They started fighting, the elder one won.  They followed [the path] formed like a sleeping bad, they came to a hut, the hut surrounded them in the darkness.  "Let's charm [it]!"  The younger sister said: "As  big as a fur, as big as a pine needle".  The elder sister said: "Let me become a pine cone!"   One of them became as small as a pine needle, she slipped out of the house through a chink.  The elder one became a pine cone, only head went out, she  got stuck with her shoulders.  The younger started to pull her head, she tore off the head and carried it away.   Having got tired she left the head on a log.  She looked back, the elder sister is crying.   She took the elder sister's head again, she went on, she hung [it] on a tree which was hit by a lightning.  She  looked back, the elder sister began to laugh, there she left [it].  The elder sister said: "My little one, if the shoelace come <note>[DCh]: The sense of the last clause is unclear. </note>loose, don't worry, somewhere it'll respond (?)".  The little one came, the string got <note>[DCh]: The sense of the direct </note>loose, she worried: "When the elder sister is crying, the strings get loose (?)". <note>speech is quite unclear. </note> A frog responded.  She went to the frog, she began to live with the frog.  The frog suggested to visit relatives.  "Hare, let's visit relatives".  "I have no relatives".   The frog went off, in the evening it brought its reindeer, insects.  The hare went to its <note>[GVY:] ororowÄ± -- a misprint instead of ororwÄ±?</note>elder sister.  The elder sister had married the thunder.  Her children are like her, only heads.   The elder sister said: "Wait, soon the brother-in-law will come".  In the evening the brother-in -law came.  He came and made a head decoration, he offered reindeer.  She brought [them]  to the frog.  A wind came up, the frog covered its house, the wind carried away its house.  The hare's reindeer <note>[GVY:] The meaning of the first part is unclear.</note>brought the frog's reindeer away in the chinks of their hooves.  The frog couldn't run away, it said: "As if you <note>[GVY:] The second part is unclear.</note>had a wooden penis".  The frog dove into the water with its body.  Until now the frog lives in the water, on the tree the frog's penis has turned into a resin hole.</p>
+    </body>
+  </text>
+</TEI>

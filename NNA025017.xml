@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Ptarmigan and the Small Bird</title>
+        <editor role="collector">George Comer</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NNA025017</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Boas, Franz (1901): The Eskimo of Baffin Land and Hudson Bay. From notes collected by George Comer, James S. Mutch, and E. J. Peck. New York: AMNH (Bulletin of the American Museum of Natural History, 15,I). Quot. pp. 320-148.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA27803">Kivallirmiut</name>
+          <date notAfter="1901" notBefore="1897" type="recorded">Recorded sometime between 1897 and 1901.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>{320} A long time ago an old woman lived with her child in a snow house. One night the child said to its grandmother, "Grandmother, tell me a story." - "I don't know any story. Go to sleep!" and, wishing to frighten the child, she said, "Oh! I see a lemming without hair. And there's another one, and still another one!" Then she gave a jump as though she were afraid of them. At the same time she gave a scream, which frightened the child so much that it drew itself so small that it became a small bird and flew away in terror. Then the grandmother felt sorry at the loss of her child. She cried and wailed, "Now, now, now!" She rubbed her eyes so that the skin came off round the lids. She hung a pouch around her neck, and put her needle into the leg of her boot. Then she flew away and became a ptarmigan. The pouch became the gizzard, while the needle became the bone of the leg.[[See No. 38, p. 220; No. 74, p. 302.]]</p>
+    </body>
+  </text>
+</TEI>

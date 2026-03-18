@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>[Origin of Caiman]</title>
+        <editor role="collector">María Verna</editor>
+        <editor role="narrator">Calixto Calliaú</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NSA047174</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>No English source available. Quot. p. 67.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CSA37404">Ese Ejja</name>
+          <date when="1982" type="recorded">Recorded in 1982.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>Shaejjámi [caiman] was Ese'ejja [human] and lived on the bank of the river. There was a toad, tapacáca, that had fire. One day this man, tapacáca, met with shaejjámi, he set fire to him and the caiman began to burn. He burned strongly for a long time, and this person, shaejjámi, came out in the form of a caiman. Angrily, he killed tapacáca and said, "I am caiman now, when any Ese'ejja bathes in the river, I will eat him, he will serve as my food." This is why the caiman now bites and eats the people who bathe where he is.</p>
+    </body>
+  </text>
+</TEI>

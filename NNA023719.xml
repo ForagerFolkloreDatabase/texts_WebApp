@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Raven and the Fisherman</title>
+        <editor role="collector">Franz Boas</editor>
+        <editor role="narrator">Willy Gladstone</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NNA023719</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Boas, Franz (1928): Bella Bella Texts. New York: Columbia University Press (Columbia University Contributions to Anthropology, 5). Quot. pp. 10-13.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA29022">Bellabella</name>
+          <date notAfter="1923" notBefore="1897" type="recorded">Recorded sometime between 1897 and 1923.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>Raven was looking about. Then he saw a house out at sea. / He knew it was the house of the Halibut-Fisherman. Then he tried to find out how to / fish halibut with a hook. Then he flew out to sea to the house, Then he went in. "I am glad to find you, brother. / For a long time I have tried to find you." Then he was answered by the Halibut-Fisherman, / "I have no brother," said he, "Our mother has been waiting for you for a long time." / Then the Halibut-Fisherman almost believed Raven. He was given a seat. / Then he was about to be given food. Now he lifted away a board from the / floor of the house. Then he <pb n="13"/>dropped his hook into the water. Before a long time, / he had a bite. He pulled it up and brought out a large halibut. Then it was cooked. / Then Raven devised a plan how to get the house of / the Halibut-Fisherman. Raven was planning to make an attempt / in the house [to see] if he could well sit on his back while he was flying. Then he did so and he flew around in the house. Now first of all nothing happened. / Then Raven said he should sit firmly on his back and he would go towards the land. Then / he did so. When they came near shore he did so. / Now he found out what to do with the Halibut-Fisherman who was sitting on his back. Raven / turned over. Halibut-Fisherman tried to tell him not to do so. "Hold on to me. I do so sometimes," / said he. Now he was going to throw him off, while he was going to do so again. / Now he fell down, not far from the shore, Raven turned back / when the Halibut-Fisherman fell into the water. He entered the house of the Halibut-Fisherman and took the hook. He baited it and threw it into the water at the fishing place of the / Halibut-Fisherman. Then he had a bite. He pulled it in. Oh, wonder! / There came the Halibut-Fisherman, who came to the top of the water and pulled Raven by the hair. / He pulled him into the water. As soon as he had pulled him, he threw him into the water. / Then he drifted about.</p>
+    </body>
+  </text>
+</TEI>

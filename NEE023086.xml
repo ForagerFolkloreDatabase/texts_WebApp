@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Bride Bewitched</title>
+        <editor role="collector">Basil Hall Chamberlain</editor>
+        <editor role="narrator">Ishanashte</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NEE023086</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Chamberlain, Basil Hall (1888): Aino Folk-Tales. With Introduction by Edward B. Tylor. Privately printed for the Folk-Lore Society. Quot. pp. 47-48.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CEE15701">Ainu</name>
+          <date when="1886" type="recorded">Recorded in 1886.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>There once was a very beautiful girl who had many suitors. But, as soon as she was married to one, and he lay down beside her and then stretched out his hand toward her vagina, a voice came from it, warning him to desist. This so much alarmed the bridegroom that he fled. This happened nine or ten times, till at last the girl was in despair; for none would now wed her, and her old father was put to shame. They plunged her into the water of the river, but it had no effect. So at last, in her grief, she ran to the mountains, and threw herself down at the foot of a magnolia-tree.</p>
+      <p>When, after some difficulty, she fell asleep, she dreamt that the tree was a house, outside of which she was laying, and from the window of which a lovely goddess popped out her head and said: "What has happened is in no way your fault. Your beauty has caused a wicked fox to fall in love with you. It is he who has got into your vagina, and who speaks out of it, in order to prevent the approach of any ordinary mortal husband. He, too, it is who has lured you out here, to carry you away altogether. But do not allow yourself to become subject to his influence. I will give you some beautiful clothes, and <pb n="48"/>cause you to reach your house in safety. You must tell your father all about me." Then the girl awoke and went home. Her father exorcised the fox at last by carving an exact likeness of his daughter, and offering it to the fox with respectful worship. Then she married, and gave birth to children, and was happy all her life.</p>
+    </body>
+  </text>
+</TEI>

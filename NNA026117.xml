@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Deserted Woman</title>
+        <editor role="collector">James Teit</editor>
+        <editor role="narrator">Tuu:ʼts ('strong rocks')</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NNA026117</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Teit, James A. (1919/21): Tahltan Tales. In: The Journal of American Folk-Lore 32(124), 198-250; 34(133/134), 223-253, 335-356. Quot. pp. 232-233.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA28403">Tahltan</name>
+          <date notAfter="1915" notBefore="1912" type="recorded">Recorded sometime between 1912 and 1915.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <note>Compare Kaska (JAFL 30 : 455).</note>
+      </p>
+      <p>A long time ago an old woman was deserted by her people, who were short of food, and had to leave to look for game. As she was too weak to keep up with them, they left her behind in the old camp, with a fire. After the people had gone, she hunted around and found some scraps of sinew, with which she made a string for a rabbit-snare. Many rabbits came to the deserted camp, as they love to do, and she caught some with her snare. She made many snares of the rabbit-sinews. She caught many rabbits, and had plenty of food. She also made rabbit-skin robes to wear and to sleep in. The people did not find much game where they had gone. After some time they sent two girls back to see if the old woman was alive and if there were signs <pb n="233"/>of game near the old camp. They found the old woman with plenty of food, and well clad. They returned and told the people, who now moved back. As they approached, the old woman went out to meet them dressed in a large rabbit-skin robe, and danced, and sang, -</p>
+      <lg type="song">
+        <l>"You thought I would starve.</l>
+        <l>What did you think I would eat?</l>
+        <l>I am dancing now.</l>
+        <l>I wear a rabbit-skin robe."</l>
+      </lg>
+      <note>This song was recorded on the phonograph (Record No. 21).</note>
+    </body>
+  </text>
+</TEI>

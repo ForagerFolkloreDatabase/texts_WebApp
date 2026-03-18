@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Shiktowul</title>
+        <editor role="collector">Glafira Makarina Vasilevich</editor>
+        <editor role="narrator">Kima Shomircha</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NEE060067</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0">CC BY-NC-SA</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Däbritz, Chris Lasse/Gusev, Valentin/Stoynova, Natalia (2024): INEL Evenki Corpus. Version 2.0. Publication date 2024-12-31. Archived at Universität Hamburg. https://hdl.handle.net/11022/0000-0007-FE38-D. In: The INEL corpora of indigenous Northern Eurasian languages. https://hdl.handle.net/11022/0000-0007-F45A-1. Quot. p. s.p..</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CEE15803">Evenki</name>
+          <date when="1930" type="recorded">Recorded in 1930.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>There was Shiktowul [from the Clan] Kima.  He had a younger brother, a sister, a small son.   Shiktowul was very dexterous.  Shiktowul lived with Ogdyro people, with Evenks.  He started preparing bows.   The women, who saw that he was preparing [bows], lied to the other men: "Shiktowul prepares [bows] in order to kill us".   The men prepared to kill Shiktowul together.  Shiktowul prepared himself for nomadizing.  Shiktowul went in front, his younger brother behind.  The men gathered, Shiktowul didn't waiting for the younger brother (?).  The man started shooting, Shiktowul's younger brother dodged. <note>[DCh]: The sense of the last part is not really clear. </note> He was dodging, he dodged the arrows, then one arrow caught on the ski strap, there they killed him.   Shiktowul ran back.  He met the men, who had killed his  younger brother.  He started shooting [at them], he killed all men.  There the men understood that the women  had lied [to them], when they saw [them], they chopped [them].  Shiktowul went off to the shaman Yakony.  He forced Yakony to <note>[GVY:] Jokoná»ká»Ë = Jokoná»tká»Ë?</note>shamanized.  Yakony shamanized for seven days, he was shamanizing.  Shiktowul sat near the shamanizing  one.  Yakony said: "You will kill for seven years, you will kill Kardaku, then you will stop killing.   You will creep through his intestines".  Shiktowul went off, he was killing and killing Ogdyro people, he met a human, such like  Shiktowul, his name is Hochumku.  TheÉ¨ measured with bows  in order to shoot at each other.  They were shooting and shooting, until their quivers were empty.   They started to fence with their swords, they can't kill [each other] anyhow.  Having stopped fencing both started to cry.   Shiktowul, when he couldn't kill [him], went off killing other people.  All Evenks got to know [that] Shiktowul is tramping.  Shikwotul's sister lived together with Hochumku's [sister], they were <note>[DCh]: It becomes clear from the following context that Hochumku's sister is </note>wanderung together.  They were wandering beside each other.  Shiktowul's sister and Hochumku's sister started singing and boasting. <note>meant, and not Hochumku himself. </note> Hochumku's sister started singing: "Shiktowul's brother comes from far away and places tree stumps on his way". <note>[DCh]: The glossing of "á»lá»mnanÄá»nakan" is tentative.</note> Shiktowul's sister placed a hanging rack at the left yurt, she put moss on the hanging rack.   Shiktowul took the hanging rack made by his sister.  The other men said: "How is Shiktowul  stamping, reaching this land".  Shiktowul heard those, who were talking about him, on their  words Shiktowul said: "You were brought".  Shiktowul started killing the men.   He slew the people like grass.  The shamans cursed Shiktowul so that he couldn't approach any animal.   The animals felt Shiktowul three days in advance, they ran away.   Shiktowul was hungering; being hungry he met a man, who was killing a wild reindeer.  Shiktowul stalked  the man; being about to shoot he said: "Who are you, whose son?"  The man said: "Shiktowul's son".   Shiktowul went [on], he began to cry.  He almost killed his son.  Having recognized him, he begged his  son, who had killed a beast, [for food] . His son fed son Shiktowul with the lungs of the beast.  He talked and <note>[DCh]: The glossing of "Éptáº¡ËdÊ¼Énáº¡" is far from certain: ÉptÉ 'lung', maybe -dÊ¼Én = -ÄÊ¼Än DU.</note>talked, he ate the meat, then he overnighted with the son.  Then he went off again, he started tramping, he met wandering Evenks, Ogdyro  people, one man came out of a yurt.  Shiktowul killed the man.   The man was Kardaku.  There Shiktowul remembered: "That is the one, about whom Yankoy had spoken", he pulled out the intestines, he made a circle out of  the intestines, he creeped through the man's intestines.  Running he pricked himself into the foot.  The men ran  along his trace, Shiktowul creeped into a hollow in a log.  Having creeped in, the man ran across him.   They ran across the log, Shiktowul started counting the men, some jumped past.   When the men ran away, Shiktowul creeped out of the log, he went back home.  He was  living at home, he lived until he grew old.  When he had grewn old, men came.  Shiktowul heard [that] the  men were going.  "They are going to kill me", he told his sons: "Disappear!  May they kill me, for me  it's enough, I killed many people, I have grown old, I stop living, it's no pity.  But you disappear, I'm waiting here,  for that they kill [me]".  Shiktowul's sons disappeared under the snow crust.  The enemies  came, Shiktowul's bow is hanging outside on the hanging rack.  The men came, they took his bow, they came in to  him.  Shiktowul said: "Wait with killing me, I say you, listen to me".   Then he said: "Kill me, eat my heart.  Having eaten my heart, you will become as strong  as I, nobody will kill you".  The men killed Shiktowul, they tore off his heart, they found a  completely different heart, completely hairy.  The men were frightened of eating Shiktowul's heart.   Like this is Shiktowul's life, Shiktowul's end.</p>
+    </body>
+  </text>
+</TEI>

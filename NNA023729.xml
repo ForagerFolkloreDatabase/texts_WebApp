@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Jealous Brother</title>
+        <editor role="collector">Franz Boas</editor>
+        <editor role="narrator">Qǃōʼmaᵋnakŭla</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NNA023729</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Boas, Franz (1928): Bella Bella Texts. New York: Columbia University Press (Columbia University Contributions to Anthropology, 5). Quot. pp. 114-121.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA29022">Bellabella</name>
+          <date when="1897" type="recorded">Recorded in 1897.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>His wife was loved by his younger brother. Then he asked / his younger brother to go and split boards with him. / They started and they made a place where to stand cutting down the tree. / They put in the wedges at the top of the tree and they split it open. Then his wedge fell into it. "Go and get it," said he / to his younger brother. He went down into it and [the elder brother] knocked out the spreading sticks. [The tree] snapped together. / "Now you will stay here on the ground, "[said his brother]. Then the supernatural power came to his help. / It pulled the tree apart and he was taken out. Then he started and went into / the house of his elder brother. His elder brother was sitting in the house.</p>
+      <p>"Do not sleep in the morning. Let us go out in our canoe in front of the house to the cormorant rock,' [said he]. /</p>
+      <p>Then he shot and shot. Then / the arrow of the elder brother stuck in the rock. "Go / and get our arrow." Then his younger brother went. / "Stay here on the rock," [said his elder brother]. [The younger brother] had an ermine skin tied to his forehead. Then the ermine skin was on his face and he climbed up to the top. / Then he started and went into the house of his elder brother. /</p>
+      <p><pb n="117"/>"Do not sleep early in the morning. Let us go and fish halibut." Then he took aboard / the box set with abalone shells and they started paddling. They went out to sea. / Then he took off the cover of the box and he took his younger brother / and put him into the box. He put on the top and threw the box out of the canoe into the water and / it sank. ''Now you will stay here," said he / to his younger brother, when he sank. /</p>
+      <p>Then they were all invited to take home the rests of a feast. / The four daughters came home. Then they were struck by their mother. "Why don't you marry / the one in the box set with abalone shells?"[said she]. Then the girls ate. / They were looking through a hole and they were walking / along a nice beach. Then they walked along near the water. Then one of them saw the waves strike / a shining box. She shouted, "Come," / said she, "let us lift it at the corners." / They carried it inland. Then they opened it and that man stood up in it. / "Come, come, you are the reason why our father struck us. Now select your / wife among us. Then they married. They went / and entered the house of their father. He walked right up to the / bedroom [of his wife], Then they lay down / and she and her husband were laughing together. [Then the mother said], "Wake up and look at them," said her mother to her husband. "Don't / try to laugh. Who is the / one with whom you are laughing?" Her husband tickled her side. Then they laughed again. / "Light a torch" said her mother to her husband. / He lighted it and went backward from the fire. "Go to sleep!" said he. "Who is it with whom you are laughing?" [Then she answered,]"Is it not the one to whom you referred, who was in the abalone box. / Go <pb n="119"/>and carry up this box. / It is on the other side of the beach." Then the house was cleaned. The tribe was invited in. / When they were all in they brought out the abalone box. / They also brought out the eagle mask of the Wikǃwax·tǃᴇnox / tribe. "Come," said his father-in-law, take out the Eagle mask of your future wife," said he. / Now the whale was blowing. He put on the eagle mask. "Go on, try on the water to grasp it, with your talons." He went. / He made a noise flying and tried to grasp it. / It did not lift it. Then his wife also put on her dress. / It went down. Then the tribe put on their masks. / They went and grasped it. They tried to grasp it but the whale went right down. Then there was an old woman. / "Come on," was said to the old woman. She put on her eagle mask. / She went and grasped it. Then [the whale] got loose and she carried the whale / to the shore. On the following day the whale was blowing again and the child called / his wife???? "Do not look for me, I shall take revenge on my elder brother, who at one time did harm to me." / He put on the eagle mask / and started. He grasped the whale on the water / and flew off. In the morning he put / the whale down on the beach of the house of his elder brother. He was sitting on a tree behind / the house of his elder brother. Then he cried like an eagle. His elder brother came out. / He stood on the back of the whale. "Do not cry in vain," / said he, I cannot get it." [?] Then he flew seaward. He grasped / his elder brother and he flew away with his elder brother. "Now I, will take revenge on you. I am your younger brother." ''No, no," said he to his younger brother. / "At one time you did harm to me. / Now <pb n="121"/>you will go down into the water to the bottom." He flew out seaward / holding him. Then the eagle returned home. That is the end. /</p>
+    </body>
+  </text>
+</TEI>

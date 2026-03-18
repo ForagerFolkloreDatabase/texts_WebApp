@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Stories about Dwarfs (#2)</title>
+        <editor role="collector">James S. Mutch</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NNA024898</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Boas, Franz (1901): The Eskimo of Baffin Land and Hudson Bay. From notes collected by George Comer, James S. Mutch, and E. J. Peck. New York: AMNH (Bulletin of the American Museum of Natural History, 15,I). Quot. pp. 201-202.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA27903">Baffin Island Inuit</name>
+          <date notAfter="1899" notBefore="1883" type="recorded">Recorded sometime between 1883 and 1899.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>Pupekalle and his son were out caribou-hunting in Akudnirn in summer. One day, while they were oft in their kayaks, they saw a great many people, who came up to them. They were afraid, and paddled away in their kayaks as fast as they could. The huts of the strangers were far away from the sea. They had spears of about an arm's length, the heads of which resembled the spear-heads of the Eskimo. They swung them around their heads, and threw them at Pupekalle and his son, who were trying to escape. Pupekalle paddled in a zigzag course, so as to make it difficult for his pursuers to aim at him, while his son kept on in a straight line. At times their missiles almost struck them, and finally Pupekalle's son was killed. The father went home and told his people, crying, how his son had been killed. He staid for a long time, mourning the loss of his child. Some of the people did not believe Pupekalle's story, but thought that he himself had killed his son.</p>
+      <p>The people staid at the same place during both fall and winter. In winter Pupekalle made a great many arrows, and then told his friends that the next summer he should go to avenge the death of his son. When summer came, one of his friends wished to accompany him; but Pupekalle said, "I was alone when I met these people, and I want to meet them alone;" but finally he accepted his friend's offer to accompany him. They travelled for a long time, until they saw a few huts. There they stopped. Pupekalle told his companion to wait outside, and said, "Perhaps they will kill me. Then go back and tell the people what has happened to me. When night comes, I shall go down alone to meet them." In the evening he went down to the huts. He entered the first one, and found a knife lying just above the entrance. He took it, and struck the people with it, as though he were striking dogs with a stick. He killed them all. They were all young people. Then he went into a second hut. There he found men and women. He killed them all with his knife. Some of the men would raise their arms to defend themselves, but he cut them all to pieces. After he had killed all the people, he went into a third hut, in which he found many {202} women and a few men. He killed most of them also. He spared only two women, who said they were really people, not dwarfs like the others. One of these women was with child. Then Pupekalle called his companion, and told him what he had done.</p>
+      <p>His friend went to sleep; Pupekalle, however, staid awake all night. When it was almost morning, the woman who was with child arose, thinking the two strangers were asleep. She took up one of the lances, and swung it at Pupekalle, trying to kill him; but it struck the roof. Then Pupekalle killed her with his knife, so that her child fell out of her womb. The other woman said, "I am not like her." But Pupekalle was afraid that she might try to kill him, and he murdered her also. In the morning they took out of the huts whatever seemed desirable to them, and went home.</p>
+    </body>
+  </text>
+</TEI>

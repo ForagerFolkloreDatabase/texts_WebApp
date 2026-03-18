@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Circling of Cranes</title>
+        <editor role="collector">Edward William Nelson</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NNA003116</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Nelson, Edward W. (1899): The Eskimo about Bering Strait. In: Eighteenth Annual Report of the Bureau of American Ethnology. Washington: Government Printing Office, part I, 1-518. Quot. p. 480.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA27733">Norton Sound Inuit</name>
+          <date notAfter="1881" notBefore="1877" type="recorded">Recorded sometime between 1877 and 1881.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>One autumn day, very long ago, the cranes were preparing to go southward. As they were gathered in a great flock they saw a beautiful young woman standing alone near the village. Admiring her greatly, the cranes gathered about, and lifting her on their widespread wings, bore her far up in the air and away. While the cranes were taking her up they circled below her so closely that she could not fall, and their loud, hoarse cries drowned her calls for help, so she was carried away and never seen again. Ever since that time the cranes always circle about in autumn, uttering their loud cries while preparing to fly southward, as they did at that time.</p>
+    </body>
+  </text>
+</TEI>

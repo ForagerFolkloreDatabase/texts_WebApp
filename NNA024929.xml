@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Man Who Married the Fox (A Tale from Qamauang)</title>
+        <editor role="collector">James S. Mutch</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NNA024929</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Boas, Franz (1901): The Eskimo of Baffin Land and Hudson Bay. From notes collected by George Comer, James S. Mutch, and E. J. Peck. New York: AMNH (Bulletin of the American Museum of Natural History, 15,I). Quot. pp. 222-226.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA27903">Baffin Island Inuit</name>
+          <date notAfter="1899" notBefore="1883" type="recorded">Recorded sometime between 1883 and 1899.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>Once upon a time there was a man who went out sealing, while his wife went to gather heather. She came home in the evening, having gathered only a very little. After some {223} time the man became suspicious that there might be some reason why she did not gather more heather than she did; but he dismissed the matter from his mind again. When she continued to bring small quantities of heather, he became suspicious again.</p>
+      <p>One day, when he had plenty of seal-meat and blubber, so that he did not need to go hunting, he made up his mind to follow the woman. He saw her going to a small pond. When she reached the pond, she threw small stones into it, shouting at the same time, "Come and show your penis!" After she had continued to do so for some time, a man's penis appeared above the water. She took off her boots and trousers, placed it between her legs, and used it. Finally the penis disappeared again in the pond.</p>
+      <p>The woman put on her clothes and went back, and when she had disappeared, her husband did as he had seen his wife doing. He threw stones into the water, and called upon the penis to show itself. After he had done so for some time, it appeared. Then he took off his boots and trousers, and took it between his legs. Then he cut it off with his knife. Then the whole pond was red with blood. He put on his clothes, went home, and found his wife outside the hut. She had lighted a fire, and was cooking seal-meat. The man did not speak to her about what he had seen and done; but when she went into the hut to fetch something, he threw the man's penis into the boiling kettle, among the seal-meat. After a while, when the meat was done, the man took the penis out of the pot, and handed it to his wife. She did not recognize it, but, since it did not taste like seal-meat, she asked her husband, "What is this that I am eating here? It is not seal-meat." - "Why," he replied, "it is your lover's penis." She simply shouted, "Oof! It is much better than young seal."</p>
+      <p>The man made up his mind to take revenge upon his faithless wife. One day he pretended to go out hunting, but, instead of searching for seals, he collected all kinds of insects, - spiders, beetles, and others. These he collected in his mitten; and when he came home, he placed the mitten under {224} the blanket on the bed, unobserved by his wife. In the evening, when they went to bed, the insects came out of the mitten, and crawled into all the openings of the woman, and made holes through the thinner parts of her skin, through which they crawled into her body. They ate her up entirely, and crawled out of her ears, nose, and mouth. Thus she died. Her husband buried her, covering her body with whale-ribs and stones. He lived all alone for a long time. Then he went sealing, and hunting other animals.</p>
+      <p>One day, when he arrived home in the evening, he found that some one had cooked seal-meat for him, which was still warm. He was much surprised, not knowing who had done it. Another day, returning from the hunt, he again found seal-meat cooked. It was quite hot, but he did not see anybody. The third day, when he returned, the seal-meat was still boiling, but there was no sign of a woman. Another day, when, he had gone out hunting again, he saw, on his return, a pretty young woman coming from his wife's grave. She did not see him. She went to his hut, and began to stretch a fox-skin outside of the hut. Then she went back to the grave. As soon as she was out of sight, the man took the fox-skin from the drying-frame. She felt at once when he touched it. She came forth and asked for the skin; but he replied, "You are my wife now." But she remained silent, and asked again for her fox-skin, saying, "Give me my fox-skin; it has a bad smell." The man kept the skin, and said, "You shall be my wife." She did not give any answer, but merely asked again for her fox-skin, saying that it had a bad smell. The man replied, "You shall be my wife; and if I should notice a strong smell, I will not mention it." The woman persisted in asking for her fox-skin. The man asked her again, "Will you be my wife?" Now she consented, speaking in a low voice, but again asked him for her fox-skin. Then the man repeated his request for her to become his wife. This time she freely consented. Then he invited her to go into the hut, and when she again asked for her fox-skin, he gave it to her. They lived for some time in the hut, and they loved each other.</p>
+      <p>{225} Once upon a time a man, the Raven, and his wife came and erected their hut near by. In time the two families became very friendly. One day the Raven said to the man, "Let us exchange wives." The other one objected for a long time, but finally yielded to the Raven's importunities. But he asked the Raven to promise not to mention anything about a smell, if he noticed that his wife smelled strongly. Then they exchanged their wives for the night. They went to bed, but the Fox woman did not allow the Raven to touch her. Finally he grew angry, turned his back on her, and said, "What a bad smell there is!" Then the woman began to cry. She arose and took from a small bag which she had with her a small fox-skin. She began to rub and to chew it in order to soften it, intending to put on the skin; but, since she was in a hurry to put it on, she did not stop to finish the leg parts. Then she put it on, and the Raven saw only a fox running out of the house. Then the Raven regretted that he had broken his promise, and was afraid that he might lose his own wife.</p>
+      <p>Meanwhile the Raven's wife had been with the Fox's husband. He found that her body was covered with dirt, and that she smelled very bad; and he shouted, "Oh, how bad you smell!" Then he went out of his hut, and he saw the footprints of his wife in the snow. She had not had time to put her hands and her feet into the fox's skin, and had for this reason retained her hands and her human feet and her boots. He followed her tracks, and found that they ended at a small hole in the stones of an old hut. He stamped with his foot over the hole and called her. Although she knew it was her husband calling, she spoke as though addressing her children: "Go out and see who is there." Then an insect came out of the hole. When it appeared, the man said to it, "Smoke is coming out of your head." In this way quite a number of insects and worms were sent out of the hole, and to each of them he said the same. Finally his wife asked him to come in. She told him to shut his eyes, to turn both sides of his jacket inward, and to come in backward. He complied with her instructions, and backed into {226} the fox's hole. When he got inside, he saw a large dog in one comer of the room. It was his wife's son. His wife appeared to him again in human shape as he had known her. The fox's hole seemed to him like a hut. What he believed to be a dog was really a spider.</p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Sleeping Old Woman</title>
+        <editor role="collector">Valentina Vladimirovna Shilova</editor>
+        <editor role="narrator">Turutina Polina Gilevna</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NEE059912</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0">CC BY-NC-SA</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Budzisch, Josefina/Wagner-Nagy, Beáta (2024): INEL Nenets Corpus. Version 1.0. Publication date 2024-12-31. https://hdl.handle.net/11022/0000-0007-FE37-E. Archived at Universität Hamburg. In: The INEL corpora of indigenous Northern Eurasian languages. https://hdl.handle.net/11022/0000-0007-F45A-1. Quot. p. s.p..</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CEE15002">Forest Nenets</name>
+          <date when="2002" type="recorded">Recorded in 2002.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>Dreaming old woman. Once there was a thunderstorm and a whirlwind near the tents. As many eyes can see, all the trees, where the  whirlwind went, in the direction of the tents, fell down. The old woman took the staff and went to where the whirlwind flew.  Walking, walking, looking ahead: there were tents. She went there, and there was a settlement there. She  entered the tent, below in front of her a bowl of meat stands.  She looks there: she takes one piece of meat, sniffs it, puts it back, takes another piece, sniffs it again.  They smelled them all, then pushed them aside, the old woman looked there.  It's rotten, this meat is rotten, she thought: "Wow, what are they doing!" She began to live with them.  Every day she does this: the old woman will cook for them in the cauldron, and leave the meat separately for herself.  One day she looks through the opening of the door and sees a girl and a boy of about seventeen.  They are holding each other's hands and running towards the tundra.  They came from there, spat behind the pillow with a laugh. Then they went home. For some time  this went on, the old woman thought: "It's a pity, I didn't look, I'll take a look now." She looked behind the pillow. There are   Two eyes can be seen among the spits. She was frightened, walked away. The two young people came again.  They looked there, behind the pillow. Then they shouted, wept, and they say: "This old woman killed our child with an unclean glance."  The whole settlement began to beat the old woman in earnest, her clothes were torn.  They look there: there is a path on the old woman's bottom. Then they asked: âWhy is this? We don't have that. " The old woman says: "This is the road of my spirits." Little spirits say: Poor old woman, let her go home. "  They got scared, they sent the old woman away. The old woman walked into her own tent. Then  she woke up - it turned out that she had a dream: there were tents of strange creatures, there was a camp of spirits. Instead of eating, the  spirits smear their mouth with blood.</p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Trĭʼgûdĭhltûʼxûn and the Two Bears</title>
+        <editor role="collector">John W. Chapman</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NNA040095</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Chapman, John W. (1914): Tenʼa Texts and Tales from Anvik, Alaska. With Vocabulary by Pliny Earle Goddard. Leyden: Brill &amp; New York: Stechert (Publications of the American Ethnological Society, 6). Quot. pp. 73-77.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA28601">Deg Xitʼan</name>
+          <date notAfter="1911" notBefore="1887" type="recorded">Recorded sometime between 1887 and 1911.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>There was once a big village where there lived some one who was unwilling to marry. Now, they used to go to get berries; and once they started off, and the Trĭʼgûdĭhltûʼxûn went with them in a canoe. At last they came to the path that led to the berry-patch. Now, the Trĭʼgûdĭhltûʼxûn did not pick berries, for she was very sleepy; and at length she put down her bowl, and lay down under a spruce and went to sleep. After a while, she felt herself crowded, and awoke, and looked, and saw that it was a brown bear. She went to sleep again, and awoke, and got up, and there were two big men there. "You shall be our wife," said they; so they took her for their wife. Now, they were always fishing. Day after day they kept at it. "Do not watch us," they said to their wife, and she promised that they would not. So they went out and closed the door, and soon afterward there was a splashing down at the water. At that she made a little opening in the side of the house, and looked; <pb n="74"/>and there they were, standing in the water, throwing out fish. Soon they came up into the house. "Go out now," they said, "and take a look down there!" So she went down and looked around. There was a great quantity of fish. Then she went into the house.</p>
+      <p>So then a year passed by, and she conceived a child. Poor thing! She bore him with great difficulty.</p>
+      <p>Now, they took good care of him; and in the morning one of his fathers took the little fellow and went out of the house with him. He walked around with him outside, and cut up some wood; and at evening he brought him in again, and took him out of his parka, and, lo! he was changed. He sat up and crept about. He grew a little larger. One morning his father placed a big root at the door for him, to exercise with.</p>
+      <p>So then I don't know how many years passed, and the woman conceived another child; and this one, too, she bore with great difficulty. They cared for him; and one of his fathers took him, and went out with him, and kept him out a day and came in again. Lo, he was changed! He crept around, and they cared for him, and he grew up.</p>
+      <p>Again years passed, I don't know how many, and again she conceived; and this one too, poor thing! she bore with difficulty. Again he took it, and kept it outside a day, and brought it in at evening. He took it out of his parka, and it sat up.</p>
+      <p>So then it grew a little larger. I don't know how many years it was after that, when the woman sat one day with her head bowed down. "Eat something!" said they; but she refused. "What is the matter?" said one of them. "I was just thinking of my parents," said she. So then her husbands said, "We will go to them presently." In the morning they got up and girded themselves, and went to look for material for a sled. During the day <pb n="75"/>they came back and began to make a big sled. I don't know how many sleeps passed while they were making it. At last they had it done, and the next day they loaded it. Deer-skins and fat, and skins of various kinds, they put into it, until they had packed it full. At the same time they had made a place for the wife to sit. So the day after they were to start. Then they put the woman into the sled, with her little daughter, and covered them up. They placed food beside them, too, and then they started. "Do not look at us," they said to her, and she promised not to do so. Then they got into the harness and went off. So here they go. Now, the woman wished to see; so at last she made a little opening, and peeked. Lo, they were changed! Two great bears were pulling the sled. So they went along. "Now," said they, "get out, for the village is near!" So they got out of the sled, and they put on their best clothes and came to the village. "Yeq!" said they, "the Trĭʼgûdĭhltûʼxûn that was lost is coming back!"</p>
+      <p>So they came into the village, and the Trĭʼgûdĭhltûʼxûn saw her father and her. mother again. Meanwhile the men had gone down into the kashime; and a fire was made in the kashime, and the bowls were brought in. Then, at evening, the boys went for water, and finally it became bed-time. Then they said to the strangers, "Do you sleep on the other side of the room." So they lay down on the other side. During the night some one awoke, and on the other side of the room there were some great bears. He lay down again; and when the people woke up in the morning, it was broad daylight. I don't know how many days they staid there, when one morning they made ready to go away. Finally they left, and passed out of sight of the village, and came to their own village. There they lived during the winter, and for a year more.</p>
+      <p><pb n="76"/>Then the Trĭʼgûdĭhltûʼxûn's older brother came over to them. Back in the grass he went, while those two were down at the river. Meanwhile he kept under the grass. There was no way for him to come out into view, because he was afraid. "They will kill me," thought he. So he gave a whistle. Thereupon the ones who were down in the river thought, "There is an up-the-river man come down here." They ran up the bank, and went off to the village up the river in the shape of bears. They had become full of rage. At last that woman's brother went into the house. She said to him, "What made you come from up the river? That means death for the village people up the river. Come," said she, "go and hide!" So he went out and went up the river.</p>
+      <p>After that, he was going along. He heard a sound, as though some one were coming. He got under the grass, beside the path. There he waited. Afterwards those men came along in the shape of bears. They were running, and they passed him. Their noses and mouths were covered with blood. He hurried on up the river, and went towards the village. It was gone! He hurried on. There among the houses all was in ruins. The path was covered with men's blood. Every one had been killed. He climbed up to his cache, looking for a bear-skin. At length he found one, and brought it down, with the teeth that went with it. He dressed it; and when he had finished it, he put it on. It fitted him. The arms and legs were just right, but the neck was a little too small. He searched for a piece for it, and finally found a scrap and brought it down. It fitted exactly. Then he put on the skin, and went out wearing it. He rushed around the village. Then he went away. He came to the village; and there the men were, in the water. He stood looking down upon them, and pushed back the hood. <pb n="77"/>"Come, now," said he, "kill me also, for you killed all my neighbors!" Then he went up to one of them. They fought together, and at last he killed that one. Then he went to the other. So he killed them both. Then he went up the bank. "Well," said he to his sister, "I have killed them. Don't be sorry!"</p>
+      <p>How long they staid there I don't know. One day he said to his sister, "Your house is to be out there;" and he became a fox, and the woman became a mink, and they went into the mountains and made a house. The end.</p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Many People Were Killed</title>
+        <editor role="collector">Konstantin Nikolaevich Rychkov</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NEE060143</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0">CC BY-NC-SA</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Däbritz, Chris Lasse/Gusev, Valentin/Stoynova, Natalia (2024): INEL Evenki Corpus. Version 2.0. Publication date 2024-12-31. Archived at Universität Hamburg. https://hdl.handle.net/11022/0000-0007-FE38-D. In: The INEL corpora of indigenous Northern Eurasian languages. https://hdl.handle.net/11022/0000-0007-F45A-1. Quot. p. s.p..</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CEE15803">Evenki</name>
+          <date notAfter="1919" notBefore="1910" type="recorded">Recorded sometime between 1910 and 1919.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>Many people came, to another country, many people came.<note>[StN]: why ABL???</note> The people came.<note>[StN]: 1PL our people?</note> Women remained alone <note>[StN]: translation?</note>[behind] - there were many men together. Their men went to the Russians, went to the Russians.<note>[StN]: VBLZ.CAPT or mi is a variant of mə?</note> All the men travelled to the Russians by boats. They came to the children. The children ate tallow. They killed the children, the old people, they killed everyone. They cut off a child's neck - it had tallow <note>[StN]: AOR or FUT hypoth?</note>in its mouth. A girl ran away - she had a yellow leather bag.<note>[StN]: -ni - ALIEN or kan-i-n?</note> The vagabonds say: "We didn't kill them!<note>[StN]: V-PL-1PL!</note> We have to find them and kill them!"<note>[StN]: wari - a strange form here!</note>A girl ran away: she had a yellow leather bag. There was a shaman. The shaman's wife was pregnant and <note>[StN]: PTCP.FUT-LAT?</note>was due to give birth soon. They took them all away, all of them. The children were killed, the old people were <note>[StN]: acc or refl (see refl below)?</note>killed.<note>[StN]: refl?</note> The women were taken away. As they were walking, the shaman's wife came after them.<note>[StN]: IPFV-IPFV?</note> She took a lot of shavings with her [literally: carried]. She walks and throws willow shavings to mark her so that you can find her trail.<note>[StN]: ušiɣətčadʼan - not very clear meaning</note> She goes after him and throws willow. The men ask: "Why are you going so far back?" The shaman's wife says: "My belly hurts - how can I walk faster?" They spent the night. In the morning she gave birth to a boy.  The men hung their son up by his leg. Then they walked and walked and reached the river - a big river. They began to build a bridge over this river. A man took the shaman's wife to the riverbank to sleep with her.<note>[StN]: in order to have sex?</note> The shaman's wife [surrendered to him]. When he started to have sex, the shaman's wife took out a knife and stabbed him in the side. The man screamed and said, "That hurts!"  The shaman's wife jumped out and dived into the water.<note>[StN]: хуˊру˘рен - ?</note> She dived and there was a tree barrier in the water. She went under the tree barrier, came out at the tree barrier and hid.  The men came running and asked: "Where has the shaman's wife gone?" That man was dead.  They did not find the shaman's wife, they searched and searched and did not find her. She poked her head out of the tree barrier and lurked in the water. They paved the river and  left. The shaman's wife came back. She met her men.  She scattered chips, they went and tracked them down. Then the shaman's wife led  the way with her men. The vagabonds slept there during the day, they slept there during the day.  There  are blueberries and cranberries in the moor. "Women, go collect! To eat cranberries!" The men  themselves, the vagabonds, lie there and rest. The women and girls pick where they came from.  You have collected a lot. She sees - the men are coming, their [men] are coming.  "Where are the men [the vagabonds]?" "They've gone to sleep over there!" They picked the berries to eat - and they ate them. They gathered a few berries and left. As the women and girls were about to leave, their brothers arrived.<note> || </note> Be careful, don't hug each other when you go to sleep.<note>[StN]: іˊчӓтˋкеlу: ˋ deleted? əŋəl - ?</note> So lie down on the side of them, separately, <note>[StN]: həktin - ???</note>next to each other, so that they don't hug you! If they have fallen asleep, turn to the side!<note>[StN]: əŋə - ???</note>They should sleep themselves. When they have fallen asleep, move aside! We will shoot at the men, you run away backwards separately, run <note>[StN]: -kilwa??? a variant of -kəllu or -kəl=EMPH?</note>away along the path!" Girls and women came to the men - they said, "How long did it take to collect, [why] didn't they collect enough?" The girls came and sang: "The little birds have come!  They ate the berries we picked themselves.<note>[StN]: моˊун??? (нрзб), ka nmlz?</note> What birds <note>[StN]: ???</note>there are for them!" They went to bed - like [brothers] they said, so they went to bed, but they didn't sleep. They, the vagabonds, have gone to bed. These men keep watch there. They [the women] turned  away from the men there. When [the men] were fast asleep, they came running, started shooting, started killing their men.  A man ran away, a vagabond.<note>[StN]: vagabond-PL?</note> A girl ran with him.The younger brother shot and killed them both.<note>[StN]: elder or younger? why refl?</note> She ran with her vagabond.</p>
+    </body>
+  </text>
+</TEI>

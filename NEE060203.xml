@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>About the Origin of Evenki Clans</title>
+        <editor role="collector">Konstantin Nikolaevich Rychkov</editor>
+        <editor role="narrator">Kherun</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NEE060203</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0">CC BY-NC-SA</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Däbritz, Chris Lasse/Gusev, Valentin/Stoynova, Natalia (2024): INEL Evenki Corpus. Version 2.0. Publication date 2024-12-31. Archived at Universität Hamburg. https://hdl.handle.net/11022/0000-0007-FE38-D. In: The INEL corpora of indigenous Northern Eurasian languages. https://hdl.handle.net/11022/0000-0007-F45A-1. Quot. p. s.p..</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CEE15803">Evenki</name>
+          <date when="1912" type="recorded">Recorded in 1912.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>Far away, there were three brothers. The dog of one of them had the name Hiryamon. One of  them was dressing himself, he dressed himself well. They killed a bear, they divided its meat. For one of them he took  its head. Then he says: "I'll chop with the axe." It became [the clan] Hukochar.<note>[DCh]: Apparently, the connection is the lexeme "hukÉ" 'axe' (see sentence before).</note>The dog [of] one of them is Hiryamon. It became [the clan] Hirogir. The third one, the Evenki say, [if] somebody dresses well: "He/she decorates", one says.  It became [the clan] Udigir. Now, though! The whole clan of Udigir uses to dress well (the  family name). The Yelogir people were different. There is the river Limti, there Russians caught [them(?)].  The council's name is Limpeyskij, [it is] named [after] the river (?). The [river] Limti's mouth is into the Katonga [river]. This is the <note>[DCh]: The analysis is tentative; the form "g'arbid'im" is hard to decipher in the manuscript.</note><note>[DCh]: "Katonga" is the Evenki name for the river Lower Tunguska.</note>Evenki name, Katonga. The Russian name is [Lower] Tunguska. Long ago the Evenki people came apparently to this land.  Then the Yakuts came. Then the Russians came all around. Along the [river] Lena the Russians appeared.  Along the [river] Yenisei the Russians appeared. At the [river] Vilyuj the Evenki people have a Yakut language.</p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A Bird and a Mouse</title>
+        <editor role="collector">Irina Petrovna Sorokina</editor>
+        <editor role="narrator">Silkina (née Suslova) Darya Alekseevna</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NEE059751</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0">CC BY-NC-SA</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Shluinsky, Andrey/Khanina, Olesya/Wagner-Nagy, Beáta (2024): INEL Enets Corpus. Version 1.0. Publication date 2024-11-30. https://hdl.handle.net/11022/0000-0007-FE1D-C. Archived at Universität Hamburg. In: The INEL corpora of indigenous Northern Eurasian languages. https://hdl.handle.net/11022/0000-0007-F45A-1 Quot. p. s.p..</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CEE15008">Forest Enets</name>
+          <date when="1969" type="recorded">Recorded in 1969.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>A bird and a mouse. A bird fell in love with a mouse's daughter. The bird married  the mouse's daughter. After that the bird started to live in the mouse's hole.  The winter came. The snow fell. All the birds flew away to warm  places. Only one bird stayed in the cold place. It is cold in winter, they have no food.  The bird has lost its force. The bird got sad. It is lying in the mouse's hole, it is sleeping all the time.  The bird's bones ache. Day after day, day after day, the mice see the force of the bird is running out.<note>[ShA:] Maybe not nu, but ÅoÊ 'One' was meant.</note> The bird's tail is frozen to the ground. The mother mouse said to her daughter: "Cut off the bird's wings." The mouse's daughter cut her husband's wings. The bird  is lying on the same place. The bird lost her force completely, the mouse cut her head, she cooked the bird's head like food.  The bird got into the bad eye of the sky (i.e. the spirit of the sky punished it). For leaving its bird mates (it was  punished).</p>
+    </body>
+  </text>
+</TEI>

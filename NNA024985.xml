@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Tales of Quarrels, Murder, and War (#12)</title>
+        <editor role="collector">James S. Mutch</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NNA024985</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Boas, Franz (1901): The Eskimo of Baffin Land and Hudson Bay. From notes collected by George Comer, James S. Mutch, and E. J. Peck. New York: AMNH (Bulletin of the American Museum of Natural History, 15,I). Quot. pp. 294-295.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA27903">Baffin Island Inuit</name>
+          <date notAfter="1899" notBefore="1883" type="recorded">Recorded sometime between 1883 and 1899.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>Inutalu was living in a village in Kingnait Fiord, in Cumberland Sound. He was a bad man, who had murdered many people. One day his mother heard him muttering, "Where shall I go to kill some one?" She said, "You are not asleep. You will soon find some one." Inutalu launched his boat, and went aboard with his two wives and a goodly crew. Soon he arrived at Niutang, and went to visit a man named Koalwaping, on whom he had designs. He found both him and his wife in bed, but not asleep. While he was talking with them about this and that, his eye fell on a piece of whale-skin. He asked for a piece; and when Koalwaping turned around to take his knife, Inutalu raised his arm. As soon as he did so, Koalwaping's wife shouted, "Look out! he is going to stab you." Inutalu excused himself, saying that his arm had been sore for some time, and that he was only trying to see if he could move it more easily than before. After Inutalu had eaten, they all lay down to sleep.</p>
+      <p>On the following morning, when they awoke, the weather was fine, and everybody went outside. Since Inutalu was known as a bad man, the people had decided that he should be killed as soon as opportunity offered. The people had their knives sharpened before dawn, and now they were all standing together outside. Suddenly one of them shouted, "Look over yonder! There is a whale blowing!" Then another cried out, "There, look at that whale blowing in line with Aupaluktu!" Another exclaimed, "Here's {295} another one blowing in line with Qaʼtsaq!" Inutalu turned around to look in the direction indicated; then one of the men caught him by the leg and threw him down; two more jumped at him and took hold of his arms; and the others ran their knives into his body. When he was dead, they severed the head from the body, cut off his limbs, and threw them into the sea.</p>
+      <p>Inutalu's crew and wives went back to their boat. When his mother did not see him in the boat, she asked if any one had killed her son. They cried, "Yes, he is dead." Then his mother retorted, "He was always anxious to go to other places to kill people;" but it was she who instigated him to murder the people.</p>
+    </body>
+  </text>
+</TEI>

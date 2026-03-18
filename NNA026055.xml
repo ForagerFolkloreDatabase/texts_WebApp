@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Raven Cycle - Raven and Crow</title>
+        <editor role="collector">James Teit</editor>
+        <editor role="narrator">Tuu:ʼts ('strong rocks')</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NNA026055</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Teit, James A. (1919/21): Tahltan Tales. In: The Journal of American Folk-Lore 32(124), 198-250; 34(133/134), 223-253, 335-356. Quot. pp. 222-223.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA28403">Tahltan</name>
+          <date notAfter="1915" notBefore="1912" type="recorded">Recorded sometime between 1912 and 1915.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <note>This story is said to be told by the Tlingit, and probably came from them to the Tahltan. - J. A. TEIT. See RBAE 31 : 678.</note>
+      </p>
+      <p>Crow was a gossip and a tell-tale. He always told people what Raven said, thus forewarning them and foiling Raven. The latter determined to punish him. He disguised himself, got a large canoe, and sat in the middle of it like a big chief. <pb n="223"/>He was dressed finely, and had many small birds with him, who acted as servants and paddlers. They came to Crow's house, and asked for the chief. Crow said that he was the chief there, and invited Raven in. He asked the latter what phratry he belonged to; and he answered, "Kātceʼde."<note>This is the name of the Raven phratry of the Tahltan.</note> Raven then asked Crow the same question; and he answered, "I am Kātceʼde also." Raven then said, "Well, then you will feed me well and keep me over night." Soon Raven pulled out his tongue to a great length, and, putting a louse on the end of it, swallowed the louse, saying, "That is very sweet." Crow thought this was a strange act, but that he would try to do the same. He put out his tongue, but could not get it very far out. It seemed much shorter than Raven's. Raven said, "Brother, I will help you." He took hold of Crow's tongue and pulled it out of his head. He told him, "Now, talk!" Crow talked; but it was in a very small way, and no one could understand what he said. Raven said, "Now you are only a crow, but I am a raven. You cannot tell on me any more." This is why crows now talk feebly and caw, whereas ravens talk loudly and croak.</p>
+    </body>
+  </text>
+</TEI>

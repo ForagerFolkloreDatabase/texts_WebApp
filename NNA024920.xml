@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Raven and the Gull</title>
+        <editor role="collector">James S. Mutch</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NNA024920</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Boas, Franz (1901): The Eskimo of Baffin Land and Hudson Bay. From notes collected by George Comer, James S. Mutch, and E. J. Peck. New York: AMNH (Bulletin of the American Museum of Natural History, 15,I). Quot. pp. 216-217.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA27903">Baffin Island Inuit</name>
+          <date notAfter="1899" notBefore="1883" type="recorded">Recorded sometime between 1883 and 1899.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>Once upon a time a hunter came to the house of the Raven. He entered, and saw an old man who said, "Haak! Surely you are hungry. We are generally hungry when we wander away from home." Now he asked a boy to bring in some human flesh. The boy brought it in. The old man cut off a piece, and gave it to the hunter. The latter said, "I do not like that kind of flesh;" and the old man retorted, "Give it to me, I can eat it." After he had finished eating, he said to the boy, "Bring in some whale-skin;" but it was really fowl's dung. He gave it to the Eskimo, who said he could not eat it. "Give it to me," said the old man, "I can eat it." Then he told the {217} boy to bring in scrapings of whalebone. He offered this to the Eskimo, who, however, said he could not eat it. The old man said again, "I can eat it, give it to me;" but after he had finished eating, he said, "My stomach aches," and he vomited everything he had eaten. A short distance away there was the house of the Gull. The hunter was invited to enter. He went in, and the Gull gave him dried salmon, which he was glad to eat. Then he left and went home, and told how the birds had fed him.[[Compare p. 301, and Journal of American Folk-Lore, Vol. II, p. 128.]]</p>
+    </body>
+  </text>
+</TEI>

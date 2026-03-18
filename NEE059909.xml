@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Siberian Gull</title>
+        <editor role="collector">Valentina Vladimirovna Shilova</editor>
+        <editor role="narrator">Turutina Polina Gilevna</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NEE059909</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0">CC BY-NC-SA</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Budzisch, Josefina/Wagner-Nagy, Beáta (2024): INEL Nenets Corpus. Version 1.0. Publication date 2024-12-31. https://hdl.handle.net/11022/0000-0007-FE37-E. Archived at Universität Hamburg. In: The INEL corpora of indigenous Northern Eurasian languages. https://hdl.handle.net/11022/0000-0007-F45A-1. Quot. p. s.p..</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CEE15002">Forest Nenets</name>
+          <date when="2002" type="recorded">Recorded in 2002.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>Seagull. Song-Fairy Tale. One day, on the sandy spit of the river, the seagulls gathered. The seagulls gathered, fly: Ka-le, ka- le. They just fly in the sky. Here, it seems, they caught some fish in the river. This fish was eaten.  Sitting they fell asleep, slept. One of them can be heard saying: âThis is not enough, I still want to eat.â  Then he publicly says: âIâll fly even further, Iâll look for fish for myself.â Here  he flew. It flies along the riverbed. Here, it found a fishing house. It found a fisherman's  house, lots of fish hanging on hangers, those yukolas look like clouds. It flies  above this fish and shouts: "Kyle, kyle-e." Here it sat next to it. At that time, the fisherman shot a Selkup arrow with an iron tip through the hole above the  doors of the tent. This Selkup arrow hit the poor seagull right in the ear.   His eyes clouded over, no more yukola, he flew out of there.  It flies, looks towards him: its comrades fly along the river.  Oh, what is hanging out there, probably a yukola. One of them saw: a Selkup arrow was sticking out of its head.  âWell, our friend flew far away, he brought a yukola. We'll start eating now."  It was heard, so they shouted: âWell, our friend flew far away, he brought yukola, we will start eating now.â When he flew in, they saw:  the Selkup arrow, caught on the rolled feathers, was dangling on the flyer. So he flew in, unless he was before yukola, when the Selkup arrow dangles at  the base of the ear. Seeing this, the seagull said: âKyle-e, kyle, kyle.  We need to find the eagle. We need to find the eagle. They found a Shaman. The shaman eagle was brought in.  The eagle came and said: âEvery time I say: let the Selkup [?] be inviolable.  After all, the Selkups have bows that shoot secretly unnoticed. They have arrows, with two tips. Fish yourself on the river spit.â The eagle took the arrow out of his ear, and blood would gush out from there.  The eagle rubbed its head between his two palms. The blood has stopped. And the  seagull is healthy, as if nothing had happened. The eagle says, âDon't do that again.  Why are you stealing, it is really bad.  These meager yukolas are the work of the Selkups.â Catch your own fish in the river. So he says. It is not known whether the seagulls stopped stealing or not. We see: now the seagulls are getting their own fish.</p>
+    </body>
+  </text>
+</TEI>

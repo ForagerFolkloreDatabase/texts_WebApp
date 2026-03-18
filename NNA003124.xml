@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Land of the Dead</title>
+        <editor role="collector">Edward William Nelson</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NNA003124</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Nelson, Edward W. (1899): The Eskimo about Bering Strait. In: Eighteenth Annual Report of the Bureau of American Ethnology. Washington: Government Printing Office, part I, 1-518. Quot. pp. 488-490.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA27736">Ikogmiut</name>
+          <date notAfter="1881" notBefore="1877" type="recorded">Recorded sometime between 1877 and 1881.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <note>The following tale is known all along the lower Yukon, and was related by an old shaman who said that it occurred several generations ago. It is believed by the Eskimo to have been an actual occurrence, and it gives a fair idea of their belief of the condition of the shade after death.</note>
+      </p>
+      <p>A young woman living at a village on the lower Yukon became ill and died. When death came to her she lost consciousness for a time; then she was awakened by some one shaking her, saying, "Get up, do not sleep; you are dead." When she opened her eyes she saw that she was lying in her grave box, and her dead grandfather's shade was standing beside her. He put out his hand to help her rise from the box and told her to look about. She did so, and saw many people whom she knew moving about in the village. The old man then turned her with her back to the village and she saw that the country she knew so well had disappeared and in its place was a strange village, extending as far as the eye could reach. They went to the village, and the old man told her to go into one of the houses. So soon as she entered the house a woman sitting there picked up a piece of wood and raised it to strike her, saying, angrily, "What do you want here?" She ran out crying and told the old man about the woman. He said, "This is the village of the dog shades, and from that you can see how the living dogs feel when beaten by people."</p>
+      <p>From this they passed on and came to another village, in which stood a large kashim. Close to this village she saw a man lying on the ground with grass growing up through all his joints, and, though he could move, he could not arise. Her grandfather told her that this shade was punished thus for pulling up and chewing grass stems when he was on the earth. Looking curiously at his shade for a time, she turned to speak to her grandfather, but he had disappeared. Extending onward before her was a path leading to a distant village, so she followed it. She soon came to a swift river, which seemed to bar her way. This river was made up of the tears of the people who weep on earth for the dead. When the girl saw that she could not cross, she sat on the bank and began to weep. When she wiped her eyes she saw a mass of straw and other stuff like refuse thrown from houses, floating down the stream, and it stopped in front of her. Upon this she crossed the river as over a bridge. When she reached the farther side the refuse vanished and she went on her way. Before she reached the village the shades had smelled her and cried out, "Someone is coming." When she reached them they crowded about her, saying, "Who is she? Whence does she come?" They examined her clothing, finding the totem marks, which showed where she belonged, for in ancient days people always had their totem marks on their clothing and other articles, so that members of every village and family were thus known.</p>
+      <p><pb n="489"/>Just then someone said, "Where is she? Where is she ?" and she saw her grandfather's shade coming toward her. Taking her by the hand, he led her into a house near by. On the farther side of the room she saw an old woman, who gave several grunts and then said, "Come and sit by me." This old woman was her grandmother, and she asked the girl if she wanted a drink, at the same time beginning to weep. When the girl became thirsty she looked about and saw some strange looking tubs of water, among which only one, nearly empty, was made like those in her own village.</p>
+      <p>Her grandmother told her to drink water from this tub only, as that was their own Yukon water, while the other tubs were all full of water from the village of the shades. When she became hungry her grandmother gave her a piece of deer fat, telling her that it had been given them by her son, the girl's father, at one of the festivals of the dead, and at the same time he had given them the tub of water from which she had just drunk.</p>
+      <p>The old woman told the girl that the reason her grandfather had become her guide was because when she was dying she had thought of him. When a dying person thinks of his relatives who are dead the thought is heard in the land of shades, and the person thought of by the dying one hurries off to show the new shade the road.</p>
+      <p>When the season came for the feast of the dead to be given at the dead girl's village, two messengers were sent out, as usual, to invite the neighboring villagers to the festival. The messengers traveled a long time toward one of the villages, and it became dark before they reached it, but at last they heard the drums beat and the sound of the dancers' feet in the kashim. Going in, they delivered to the people their invitation to the feast of the dead.</p>
+      <p>Sitting invisible on a bench among these people, with the girl between them, were the shades of the grandfather and grandmother, and when the messengers went back to their own village the next day the three shades followed them, but were still invisible. When the festival had nearly been completed, the mother of the dead girl was given water, which she drank. Then the shades went outside of the kashim to wait for their names to be called for the ceremony of the putting of clothing upon namesakes of the dead.</p>
+      <p>As the shades of the girl and her grandparents went out of the kashim the old man gave the girl a push, which caused her to fall and lose her senses in the passageway. When she recovered she looked about and found herself alone. She arose and stood in the corner of the entrance way under a lamp burning there, and waited for the other shades to come out that she might join her companions. There she waited until all of the living people came out dressed in fine new clothing, but she saw none of her companion shades.</p>
+      <p>Soon after this an old man with a stick came hobbling into the entrance, and as he looked up he saw the shade standing in the corner <pb n="490"/>with her feet raised more than a span above the floor. He asked her if she was a live person or a shade, but she did not reply, and he went hurriedly into the kashim. There he told the men to hasten out and look at the strange being standing in the passageway, whose feet did not rest on the earth and who did not belong to their village. All the men hurried out, and, seeing her, some of them took down the lamp and by its light she was recognized and hurried into the house of her parents.</p>
+      <p>When the men first saw her she appeared in form and color exactly as when alive, but the moment she sat down in her father's house her color faded and she shrank away until she became nothing but skin and bone, and was too weak to speak.</p>
+      <p>Early the next morning her namesake, a woman in the same village, died, and her shade went away to the land of the dead in the girl's place, and the latter gradually became strong again and lived for many years.</p>
+    </body>
+  </text>
+</TEI>

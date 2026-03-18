@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A Woman Who Killed Herself</title>
+        <editor role="collector">Christiaan Cornelis Uhlenbeck</editor>
+        <editor role="narrator">Joseph Tatsey</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NNA037528</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Uhlenbeck, Christiaan C. (1912): A New Series of Blackfoot Texts from the Southern Peigans Blackfoot Reservation, Teton County, Montana. With the help of Joseph Tatsey collected and published with an English translation. Amsterdam: Müller (Verhandelingen der Koninklijke Akademie van Wetenschappen te Amsterdam, Afdeeling Letterkunde, NS 13,I). Quot. pp. 202-203.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA31305">Piegan</name>
+          <date when="1911" type="recorded">Recorded in 1911.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>The ancient Peigans had the medicine-lodge. There was a woman, [who] had a side-husband [i.e. a lover]. [One day] when these Peigans were having. a happy time, that one, her side-husband, was looking at this medicine-lodge. There was a post, he stood up against it. And he laid his face on it. The paint on his face showed on the post. The Peigans had done making the medicine-lodge. That young man went on a raid. It was not long, then he was killed. Then he was immediately known, that he was killed. These Peigans moved away from there. It was not long, then they moved around [that means: they turned back]. They camped near that medicine-lodge. That woman, that had had [that young man as] a side-husband, was treated badly by her husband. She told him: You have treated me badly a very long time. She called [the name of] her side-husband. She told her husband; Now I am very glad, that I may see my side-husband soon. Then she went after wood. Then she went to the medicine-lodge. She got near it. <pb n="203"/>She sang. She sang words about her side-husband: Where is he, I had bodily contact with? She then came up to that post, where she had. seen him before. There was a person already sitting inside of the medicine-lodge. By him she was heard, how she sang and how she talked and cried about her side-husband, the one that was killed. Then she went up on the post, by which she had been crying. She sat on top of it. She tied a rope to [the post], and she put it around her neck. Then she jumped down. And that person got up and ran to her. When he got to her, she was already dead. Her husband over there was running [towards her], his wife was already dead. It was that other person, [that] was telling about her, what she talked about and how she came to die. And that is all.<note>A similar suicide is recorded by Mc Clintock ont 317 sq.</note></p>
+    </body>
+  </text>
+</TEI>

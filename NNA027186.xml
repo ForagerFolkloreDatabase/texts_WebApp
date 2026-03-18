@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Wemishus</title>
+        <editor role="collector">Alanson Skinner</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NNA027186</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Skinner, Alanson (1911): Notes on the Eastern Cree and Northern Saulteaux. New York: AMNH (Anthropological Papers of the American Museum of Natural History, 9,I). Quot. pp. 88-92.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA28030">Eastern Cree</name>
+          <date when="1909" type="recorded">Recorded in 1909.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>A whole family was once killed by the devil<note>A cannibal or Wétigo.</note> [sic], excepting two very small boys. The Cannibal kept them, for he intended to fatten and eat them. The oldest boy discovered this and said to his brother, "Do you know where our mother's awl is?" "Yea," replied the little one. "Find it as quickly as you can, our parents have been killed and eaten by the Cannibal."</p>
+      <p>The little fellow found the awl and gave it to his big brother who took it and bored a hole down into the ground. Then the little boys went into the hole and the oldest brother carried with him a piece of wood and a bit of stone, besides the awl. Early in the morning, the Cannibal discovered the boys were gone so he came into the hole to look for them. When the boys heard the Cannibal coming, the oldest brother took the youngest on his back, and fled through the hole under the ground. The first thing they knew, a root projecting from the roof of the hole, tore the little one's cheek very badly as they brushed by.</p>
+      <p>Soon the Cannibal began to gain on them. Then the older brother threw away the piece of wood. "Let a forest grow up," he cried, and up sprang a dense forest which hindered the progress of the Cannibal. At length, the Cannibal began to catch up again. This time the older brother tried throwing away the rag. Thick briars grew up where it fell and the Cannibal was again delayed, this time longer than before, but after a time he got through. When the older brother heard him coming, he threw away the stone, it became a very large boulder and shut up the hole. This time, it took the Cannibal a very long time to get through. Then the fugitives came out by the side of a lake. When the boys got to the shore they were frightened lest they could not escape. They saw some large animal <pb n="89"/>[Walrus] in the lake and they called to him to take them across. Walrus agreed. "Keep a sharp lookout for Thunder," he told them, "I only come out when it is a fine clear day, otherwise I stay beneath the surface." The little chaps promised and got on his back. As soon as they started out, it began to cloud up. Walrus saw the clouds and thought he heard it thunder. He was not sure, however, and he trusted the little boys to tell him. The boys were afraid that Walrus would dive under the water with them, so they dared not tell him. At last they reached the shallow water near the other shore, where they knew they would be safe, so they told Walrus.</p>
+      <p>Walrus said to the boys, "There is an old man named Wemishus who always travels up and down the lake near this place. If you see him coming, hide and never fire your arrows in the water, for if he sees them in the water he will find you. If you should shoot your arrows in the water, don't try to get them again, let them go." Then Walrus returned.</p>
+      <p>When Walrus returned, the Cannibal was waiting on the shore. He called to Walrus, to take him across. "Sit on my back then," said Walrus, "but don't move, for if you do you will hurt my neck." The Cannibal promised, but when they were off he did move and hurt Walrus, who dove down and drowned him.</p>
+      <p>Walrus often warned the boys about Wemishus. At last, one day, the old man came around a point all at once and caught the boys unaware. Just then, the older boy's arrow fell into the water and Wemishus called to the boy to come and get it. For a long time, the tad was afraid. Wemishus said, "Come and take your arrow. I won't touch you. You can see I am far off in my canoe and could not reach you anyway.</p>
+      <p>The boy approached. "Come a little closer," said Wemishus. The boy hesitated although Wemishus spoke to him several times. At last, the boy came so close that Wemishus hooked him up into his canoe with his paddle. Then he took the boy away, crying. The younger brother he left behind on the bank also crying. The older brother begged Wemishus to take the little one too, but he refused. "One is enough. For if I take your little brother there will be two of you against me and you will be able to beat me in conjuring."</p>
+      <p>The little brother sat on the bank crying all day, for he thought that he would surely starve to death now that his brother was gone. At last, two polar bears came to him. "Don't cry any longer," said they, "we will bring you up." So they looked after him, and were just like dogs to him until he became a man.</p>
+      <p>The older brother was taken home by Wemishus. When his daughter saw him, she said, "So you are bringing another one home to kill." Wemishus had brought the boy to be her husband, for he had already become a man.</p>
+      <p><pb n="90"/>So the older brother took the girl to wife and lived with her for a while. He was continually contesting with his father-in-law with the bow and arrow, and he always beat the old man. At last, the boy said one day to Wemishus, "I wonder where we can get some gulls' eggs?" "Oh," said Wemishus, "I know where to go." So off they went. As they walked along, they came to a great rock which was split open, and they had to jump over the crack. "You jump first," said Wemishus to the youth. Although the crack was very wide the boy jumped over. "The old man was to jump next, but he drew back once, for be knew he would not succeed because the young man's power [medicine] was stronger than his. [It seems the old man had caused the split rock to be where it was by his magic, for he hoped to trap his son-in-law.] At last the old man jumped but he fell into the crack. The rock came together and would have killed him if he had been an ordinary man. Instead, however, it quickly released him. The old man's head was broken in four pieces but he tied the fragments and his head became whole again. They started off again; this time in their canoe. By and by, they came to the island where they expected to obtain the gulls' eggs and feathers. As they walked about, the old man kept sending the young man farther and farther away from the shore, until at last he had a chance to run to his canoe and get away. Wemishus did not paddle. He rapped on the bottom of his canoe with his staff and off it went. The young man killed a gull and collected some eggs. He skinned the gull. Then he crawled into the skin and flew off. He flew over Wemishus as he passed by. Wemishus was lying on his back in the canoe. The young man defecated full in his face as he flew by. "Oh, the odor," cried the old man, "the gulls have finished my son-in-law already."</p>
+      <p>The young man flew home. He lit near by and took off the skin and went to his tent before the old man arrived. His wife asked him where her father was. "I'm not taking care of him," said the young man, "but he is coming along over there."</p>
+      <p>Finally, the old man arrived, When he came ashore he saw his two grandsons shooting with their bows and arrows. Their arrows were feathered with gulls' feathers and they had gulls' eggs to eat. "Where did you get those?" asked Wemsihus of his grandson. "Our father gave them to us," they replied. "Oh, your father, the gulls have eaten him by this time," said the old man, "for I found the smell of him as I came along in my canoe."</p>
+      <p>When the old man really saw his son-in-law in the tent he was surprised. He sat there feeling very much frightened. He could not take his eyes off the young man. "No wonder you feel sad," said his daughter, "you always used to be trying to beat someone, but now you have someone to beat you." The old man had nothing to say, so to divert attention he <pb n="91"/>cried out, "Oh, see that louse running about on my son-in-law's face." The old man began to get frightened for he could not vanquish his son-in- law however hard he tried.</p>
+      <p>It was nearing winter, and the two men were camping alone. They used to hang their leggings and moccasins to dry in the tent every night The younger man did not trust Wemishus and watched him all the time. He changed moccasins and leggings with the old man. Then the old man got up in the night and made a great fire. The young man lay still and pretended to be asleep but he watched his father-in-law all the time. The young man saw Wemishus go to where he thought his son-in-law's moccasins were and threw them in the fire. When he thought they were burned up he cried out, "Your leggings are burning." Then his son-in-law jumped up. "Mine are safe," he cried. "Where are yours?" Then Wemishus found that he had been tricked into burning his own moccasins and leggings. They had a long way to go from their camp to their home. It was so cold the next day that the trees fairly cracked. The old man didn't know what to do, but he blackened his legs with charcoal to look like leggings, and he hoped that would keep out the cold.</p>
+      <p>They started out. Soon the old man began to freeze. He said to his son-in-law, "The best thing I can do is to turn into a juniper [tamarack] tree. It will be good for my descendants to use for firewood." When the young man looked back where his father-in-law had stood, there was a juniper tree.</p>
+      <p>The young man reached home. His sons were grown up now. His wife knew something had gone wrong, so she asked her husband where her father was. "Your father has got what he wanted now," said he. Then she guessed the old man was dead and began to cry. Then her husband told her the old man had burned all his clothes and turned into a juniper tree.</p>
+      <p>"Now, I am going away," he told her, "our grown-up sons will look after you. I may come back again, and I may not." He really couldn't tell, for he meant to go and look for his younger brother, who was now a grown man. So he went to the place where Wemishus had left the little fellow and sure enough, there he saw signs of his brother. He saw his tent and approached it. The younger brother knew someone was coming and came out with his bow and arrow drawn. "Don't shoot, I am your older brother," said the other. So the young man did not fire, for he heard him. Though he could just remember the time he had lost his older brother, for a long time he would not believe that this stranger was he.</p>
+      <p>At last when the older brother asked the younger one many questions about his parents, he partly believed. "Did you ever look in the water to see yourself?" said the older brother. "Yes," replied the younger. "Did <pb n="92"/>you see that scar on your face? Do you remember the root that caught you and scratched you?" "Yes, I remember that now," said the young man and now he was sure of his brother, and they lived together. The elder brother wanted him to go home with him, but the young man would not go, nor would he let his older brother go home. The young man asked him if he had a wife and family, but he said that he did not. The younger brother continually found the older one crying. "You must have a family if you cry so." "Yes," said he, "I have two grown-up sons,"</p>
+      <p>The two polar bears still lived with the youth, but he told them they must go now, for be had his brother. The bears were very sorry and when he did drive them away they came back two or three times. At last he said to the bears, "The next time you come back, I will be gone, and you will not see me." The two brothers went away, but in what direction, I did not bear.</p>
+    </body>
+  </text>
+</TEI>

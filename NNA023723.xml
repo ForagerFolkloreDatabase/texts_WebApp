@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Bax·bakwāʼlanuxᵘsīwē  (Cannibal-of-the-North-End-of-the-World)</title>
+        <editor role="collector">Franz Boas</editor>
+        <editor role="narrator">Moses Knight</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NNA023723</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Boas, Franz (1928): Bella Bella Texts. New York: Columbia University Press (Columbia University Contributions to Anthropology, 5). Quot. pp. 56-59.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA29022">Bellabella</name>
+          <date when="1923" type="recorded">Recorded in 1923.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>Masmasaʼlanoa made a house. As soon as he had finished the house that was made, / it was made so that nobody could go in. Then he made up / his mind that he wanted to take revenge on the one called Bax·bakwāʼlanux̣ᵘsīʼwē. Bax·bakwāʼlanux̣ᵘsīʼwē used to eat all the men of early times. Then he sent his children to go for the one called / Bax·bakwāʼlanux̣ᵘsīʼwē. Now the children of / Masmasaʼlanoa did so. Then they started. They went inland. They saw smoke / in the distance. They kept on walking towards the smoke that had been seen by them. / Then they arrived there where they saw a large house. They went in and were told to sit down on one side. Then the" child cried. "Why / does he cry?" said the oldest of the children of Masmasaʼlanoa. / "He wants this blood on your shin." Then / they talked in whispers. "Maybe this is the house of Bax·bakwāʼlanux̣ᵘsīʼwē, / let us go out." Now it was so. They just went out. Then the wife of Bax·bakwāʼlanux̣ᵘsīʼwē went to the doorway. She / shouted to her husband, "It has come to your house, Bax·bakwāʼlanux̣ᵘsīʼwē, / this game." Now the young men turned back. / The one called Bax·bakwāʼlanux̣ᵘsīʼwē came with a great noise. / As soon as he caught up with those who ran away, one put down crosswise his grindstone. Now it became a big mountain and far away was Bax·bakwāʼlanux̣ᵘsīʼwē. As soon as he caught up again / one of them passed water and now his urine became a large lake. / Then he went round it and as soon as he reached / their tracks he took their scent. Now he came near again. Then one broke up his arrows and there was a windfall of trees. / Now the house of their father was not far away. They shouted, / " Nnōaqaua go ahead, make up your mind." Then he boiled in the house / hellebore in water. Now he arrived. They were ready in the house/ also with a large pitfall at the side of the entrance. <pb n="59"/>Now Bax·bakwāʼlanux̣ᵘsīʼwē fell into it. Then / the boiling hellebore and water was poured over him. He was covered with boards. Now / he was killed. Now Bax·bakwāʼlanux̣ᵘsīʼwē was dead. Then / the voice of the wife of Bax·bakwāʼlanux̣ᵘsīʼwē also came near. Now they did the same to her as they had done to Bax·bakwāʼlanux̣ᵘsīʼwē. Now she also / dropped into the hole and they poured [the water] over her and she also was dead, the big one. / Then the voice of the mother of Bax·bakwāʼlanux̣ᵘsīʼwē came near. She / also entered and now she also fell into the pitfall. Now / they were all dead. Masmasaʼlanoa put, stones on the fire. He was going to burn Bax·bakwāʼlanux̣ᵘsīʼwē. Now he threw them on the fire. / As soon as they were burnt the bones of / Bax·bakwāʼlanux̣ᵘsīʼwē became ashes. Then he went out and / scattered the ashes. "You will be the mosquitoes of later / men." And now have been turned into mosquitoes the ashes of / Bax·bakwāʼlanux̣ᵘsīʼwē.</p>
+    </body>
+  </text>
+</TEI>

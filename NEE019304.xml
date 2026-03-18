@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Contest between the Giant and the Plover</title>
+        <editor role="collector">Waldemar Bogoras</editor>
+        <editor role="narrator">Aleʼqat</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NEE019304</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Bogoras, Waldemar (1913): The Eskimo of Siberia (Memoirs of the American Museum of Natural History, 12,III; Publications of the Jesup North Pacific Expedition, 8,III). Quot. p. 435.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA27741">Sivokakmeit</name>
+          <date when="1901" type="recorded">Recorded in 1901.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>A Giant and a small Plover had a contest to ascertain which was the stronger. They took large stones. Plover said, "You throw first!" The Giant threw, and hit the Plover on the hip. The little bird just stretched its leg. Then he gathered a few berries of <rs type="plant">Empetrum nigrum</rs>, and rubbed the wounded hip with their juice. After that the Plover threw the stone. He closed his eyes and then cast the stone. He hit the Giant and broke both his hips. <shift feature="epimyth"/>That is all.</p>
+    </body>
+  </text>
+</TEI>

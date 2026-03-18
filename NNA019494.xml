@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mᴇskwaʼ (Greedy-One) (Greedy-One kills Bear, Cormorant, and Gum)</title>
+        <editor role="collector">Franz Boas</editor>
+        <editor role="narrator">Qǃōʼmg‧ilis</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NNA019494</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Boas, Franz (1910): Kwakiutl Tales. New York: Columbia University Press &amp; Leyden: Brill (Columbia University Contributions to Anthropology, 2). Quot. pp. 214-215.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA29010">Kwakwakaʼwakw</name>
+          <date when="1894" type="recorded">Recorded in 1894.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>Then he took a rope and tied it to the salmon. Only its tail he tied to it, and put it on as a belt. Then he asked some one to go with him fishing halibut. Behold! that was the Grizzly Bear and the Cormorant and also Gum. There were three in the canoe. Then, with Greedy-One, there were four in the canoe. They paddled. "What is your bait?" Thus said Greedy-One to Grizzly Bear. "Our bait is squid," said Grizzly Bear. "Don't take that for your bait. Let your testicles be your bait." Thus said Greedy-One to Grizzly Bear. "Let me see," said Grizzly Bear. "Look at this!" said Greedy-One. Then he pretended to cut off his testicles. Behold! what he cut off was salmon. He pretended to cut his testicles. Then he put it into the water, and the halibut bit. Then Grizzly Bear cut his testicles, and Grizzly Bear died.</p>
+      <p>"Hë," said Greedy-One. "There are many lice here." Then he did this. "Put out your tongue and bite this!" Then [the Cormorant] put out his tongue and kept it out. [Greedy-One] cut it off. "Now, speak," said Greedy-One to Cormorant. Then Cormorant tried to speak. "Aʼlᴇlᴇlᴇ," he only said. The Cormorant did not speak in the right way when his tongue had been cut out by Greedy-One.</p>
+      <p>Then he went ashore. "Go and look for fire-wood," said Greedy-One to Gum. Then Gum climbed the tree, and Greedy-One made a fire under it, - a large fire. Then it burned. Gum could not do anything on account of the fire. "Gum!" said Greedy-One. "Yau!" said Gum. His voice was that of a large man, when Gum said "Yau!" Then Greedy-One called his name again. "Gum!" - "Yu!" he said with a small voice. Behold! he was nearly dead. "Gum!" said Greedy-One. "Hm!" said Gum. Then he was dead. That is our gum now.</p>
+    </body>
+  </text>
+</TEI>

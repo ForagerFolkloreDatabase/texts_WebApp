@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Two Reindeer</title>
+        <editor role="collector">Irina Petrovna Sorokina</editor>
+        <editor role="narrator">Silkina (née Suslova) Darya Alekseevna</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NEE059750</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0">CC BY-NC-SA</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Shluinsky, Andrey/Khanina, Olesya/Wagner-Nagy, Beáta (2024): INEL Enets Corpus. Version 1.0. Publication date 2024-11-30. https://hdl.handle.net/11022/0000-0007-FE1D-C. Archived at Universität Hamburg. In: The INEL corpora of indigenous Northern Eurasian languages. https://hdl.handle.net/11022/0000-0007-F45A-1 Quot. p. s.p..</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CEE15008">Forest Enets</name>
+          <date when="1969" type="recorded">Recorded in 1969.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>Two reindeer. They said: it happened in the tundra. One domestic reindeer stayed behind his herd. Was he running for a long time or not, he met a wild reindeer in some place. He said: âWhat a life you have!â.<note>[ShA:] The form nÉbituuj is unexpected.</note> You are carrying a person on your back. You are dragging heavy sledges. Here's how the hair on your neck is  peeled off. I live on my own, wherever I want to go, I go.  My life is good. The domestic reindeer responded this way to what he had heard: âNo, my life is good.  Look better, you will see it yourself." After he said these words, the domestic reindeer ran to his mates.  The wild reindeer also ran after him. The wild reindeer laughs at the domestic  ones: âYou are a poor guy, you are walking with a rope like a tied one. You are afraid to take three steps [away] from your master." The  domestic reindeer does not have a single word to answer. He reached his mates and, like his mates, began to scatter snow with his hooves.  And the wild reindeer looks at domestic reindeer from afar. It got dark, night came. The wind appeared, the frost appeared. Suddenly the wind blew even harder. The herder brought his reindeer to a quiet place.  Reindeer are together, they are not afraid of the cold. Only the  wild reindeer is alone in an open place. It does not matter how he stands, the snow covers his sides. He is waiting until the blizzard  stops. All night long, the herder did not go anywhere from his reindeer.  In the morning, he drove his reindeer to a new place. Then, after his mate arrived, he harnessed four bulls to his sledge and  went to the tent. His reindeer ran well after they had a good rest during the night.  A wild reindeer is running after them nearby, wants to see what happens next.<note>[ShA:] The form ÑÐ´Ð±ÑÑÐ° looks very strange, and the proposed glossing is doubtful.</note> Here, the tent is visible. A boy and a girl came out of the tent. The boy began to unharness the reindeer, and the girl began to feed the reindeer with bread from her hands.  Wild reindeer looks from afar. When he saw the reindeer's good food, he got hungry too.<note>[ShA:] The analysis of keu nekoz is unsure.</note> He began to scatter snow with his hooves but did not find anything. He ran to the forest.  He began to look for moss. He found the moss, but as soon as he began to eat it, he saw a wolf running towards him all of a sudden.  Without eating, he immediately began to run away from the wolf. The wild reindeer runs and the wolf follows him.  So, it will catch him soon and bite him by the throat. Now the tent is visible. Domestic reindeer walk calmly around the tent.  The wild reindeer ran straight to the tent. Suddenly, a man with a gun ran out of the tent and killed the wolf with one shot from the  gun. After he saw this, the domestic reindeer asked the wild reindeer: âWhich of us has a good life?â.  I work for the human, and he protects me. I am a friend of the human, and the human is my friend.  That's all.</p>
+    </body>
+  </text>
+</TEI>

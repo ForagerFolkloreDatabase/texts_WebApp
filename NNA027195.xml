@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Burning of the World</title>
+        <editor role="collector">Alanson Skinner</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NNA027195</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Skinner, Alanson (1911): Notes on the Eastern Cree and Northern Saulteaux. New York: AMNH (Anthropological Papers of the American Museum of Natural History, 9,I). Quot. pp. 107-108.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA28030">Eastern Cree</name>
+          <date notAfter="1909" notBefore="1908" type="recorded">Recorded sometime between 1908 and 1909.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>Once all the world was burnt. Only a man, and his mother and sister were saved. Of course, there were a lot of people on earth before that. The surviving man fell out with his father, and at last they became enemies. At last, the young man heard that the earth was going to be burnt, but the father did not believe it would happen. So the young man made a bow and arrows and shot one arrow to the west, another to the east, another to the south, and another to the north. Thus using the spots where the arrows fell for corners, he marked out a large square patch of land, and whatever wanted to be saved could come on that ground. Some did not believe that the earth would be burnt. The old man and his wives and children did not believe that the earth would burn and also refused to come.</p>
+      <p>Sure enough, when the time came, they could hear the fire. They were camped by the side of a big lake. By and by, all the birds and animals came running to the patch of ground that was marked out, as that was the only patch of ground that was not on fire. When the old man saw he was going to burn too, he tried to get to the ground that his son had marked out. His son would not allow him to come on because he didn't believe that this would happen. So he and all of his family were burnt. Even the water was boiling it was so hot.</p>
+      <p>Of course, after all the fire was over, and the water was settled down again, there were only three people left in the world. The old man who was burnt only had two wives and only two children, one of whom was his son.</p>
+      <p>After the fire was over, there were lots and lots of animals on the patch of ground. The man named some of them. He put the beaver to live in the water. The rabbit wanted to be a beaver, but he would not allow it. The rabbit even jumped into the water, but the man pulled him out and <pb n="108"/>drained the water off him. He said his legs were too long and even if he did eat willows like a beaver, he couldn't go about in the water properly.</p>
+      <p>The squirrel wished to be a bear. He did all he could to be a bear. The man said he wouldn't do, he was too noisy. He said, "If you were a bear, when people got numerous again, you will get thinned down too much. The bear must be a very canny animal and keep quiet; he has too many enemies." The squirrel began to weep. He wept a great deal, until his eyes were white. If you take notice the next time you see a squirrel you will notice that his eyes are bright and swollen from weeping. The man made the bear then because he was nice, and quiet and canny.</p>
+      <p>Somebody else wanted to be a deer [caribou] but I don't remember who it was, but the deer was put in too. The real deer was appointed because he was swift and could run from his enemies. After he was finished with the animals he put a mark on the people telling what they had to be called. They had to have new names after the world was burnt.</p>
+      <p>He called his mother Robin, because she was loving, that is what he meant I think; he called his sister golden winged woodpecker ['flicker,' 'clape,' 'high-holer'] because that meant she was beautiful. He called himself Cluih duih-kiyu, blackbird, because he meant by this he would only come every spring. Each of them flew away wherever they wanted to travel. They did not stay together but they met again. That is all of this story I ever heard.<note>There are, according to the narrator, other stories about Aiacciou, the elder, who was burnt.</note></p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>[The Two Brothers and the Sorcerer]</title>
+        <editor role="collector">Gerhard von Maydell</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NEE004716</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Schiefner, Anton (2025): Yukaghir and Tungusic tales. Trans. for the Forager Folklore Database (FFDB Documents). Quot. pp. 14-18.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CEE15802">Lamut</name>
+          <date notAfter="1871" notBefore="1835" type="recorded">Recorded sometime between 1835 and 1871.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>A rich old man lived; everyone of his household had all died one after the other to some kind of disease. Then he buried his two youngest sons in the ground still living; he gave one a comb and named him Admotshan ayakan (the combed one), to the other he gave a bowl and this one named himself Chelchekan ayakan, the uncombed one; on top of this he gave <pb n="15"/>each of them a good bow and died shortly thereafter. The sons grew up there in their graves and then emerged from these. But as they had no food, they shot grouse with their bows at first; but as they grew older, the one said to the other, "That we live like this for long! At last we must also live as people. Let us, brother, shoot and try to take down reindeer. Your arrow, as you are younger than I, must fall on this side, mine however, as I am older than you, on the far side of this mountain ridge there (that lay before them on the far side of the river)." They fired off their arrows and these really fell that way. Thereupon the elder said again, "Hear, brother, now I see, that we are able to hunt reindeer; let us shoot again and if we are men, so must your arrow fall in the middle of the herd's stomping ground, but mine next to the yurt [portable nomadic tent] wall." They fired off and went after their arrows; these had really fallen as they had wished, the arrow of the younger brother in the middle of the stomping ground, that of the elder next to the yurt wall. Then they agreed to step into the yurt together; they entered in and saw two women and a girl there. These took them in and waited on them. They asked where the men were; they answered, they had gone hunting. When they had taken the food to themselves and had already left the yurt, the elder suddenly had the thought to kill the men of the women, carrying off the latter, though, with all their reindeer herds to their home. He suggested this to his brother and this one agreed. They returned to the yurt and shared their plans with the women; the women definitely did not think about their men and were in agreement with the idea of the <pb n="16"/>brothers, "You are humans after all, we will follow you if you kill our men." So the two brothers placed themselves at the two doors and kept watch until the men came; they killed them by means of hitting them directly on the forehead with the club arrow and then carried off the women and reindeer herds to their home. They lived well with them for a long time and went out to hunt for reindeer. One day the two brothers met on a cliff and there the younger said to the elder, "Hear, brother, how you have grown unkempt, therefore you will die before me somewhere." After these words they parted once more. Then suddenly the elder brother hears a song, he looks around and sees a little imp riding on a spear. Thus spoke the imp, "Hear, human, I have killed your entire family, I will also kill you and your brother and namely you first." With these words he dives at him with his spear from above, yet the spear was driven into the ground; thereupon he tried it once more, alas it went the same way. Finally tired out, he says, "Even though I could not kill you, your brother shall yet be pinned on my spear." The elder brother thereupon went home and found the younger at home. He was surprised and the others were also surprised when he asked, "How are you still alive! Presumably he has not found you." They bombarded him with questions of what this was supposed to mean, he, however, dodged all conversations and wished to tell the younger brother alone, so that the women did not hear it, yet he forgot it. Another day the little imp sang to the younger brother as well as this one was skinning a reindeer and with the last words stabbed the spear into his head; however, because he <pb n="17"/>was unkempt he could not pull the spear from his head; he thus lifted him up high and before leaving presented him to the elder brother with the words, "See there your brother, look upon him." After he had said this, he flew off to the sea. The elder brother came home, but said nothing to the women. These waited long for the disappeared one. Finally, the elder brother ordered ten pairs of bristled boots [that is, boots with bristled soles] be made. He wanted to set out to seek his brother at the sea, other people told him, however, that it was a long way to the sea and he would unlikely find him. They advised him then to go to a powerful sorcerer and told him where he lived: a mighty river fell into the sea there, the sorcerer lived on the bank to the right of the water. As it was quite far to there, he had another ten pairs of summer boots be made and set out on the way to the sea. He went all winter, winter was over, spring came, the mosquitoes came, the mosquitoes also went away, the frost settled, the second winter came. Then in the distance there were yurts of a great quantity to be seen, they stand like a city. He came to the yurts and sees that a large reindeer herd is being driven by there. He did not dare to approach it, but transformed himself into a tiny hair and flew onto the favorite reindeer of the sorcerer, while the sorcerer himself drove the herd ahead on him with his friend. Suddenly the sorcerer began to beat the reindeer and ask why it stank so. The hair left this reindeer and flew onto the friend of the sorcerer. Here the sorcerer let out all his anger on his friend, who could not endure it and began to hit the sorcerer himself. Then the hair transformed back into a <pb n="18"/>human and helped punch the sorcerer. At last the sorcerer saw that his hour of death was nigh, and began to beg for mercy. Thereupon the elder brother, who he had wanted to kill, said to him, "You wanted to kill me, but you could not; yet you had said that you would utterly destroy my family and have also killed my brother Chelchekan. If you now bring them all back to life, I will let you go." The sorcerer vowed to bring everyone back to life and he stopped hitting him. The sorcerer brought the whole family back to life, the elder brother came home, found everyone accounted for, and soon the sorcerer also came to them as a guest. They made up with him and for that time onward they lived very well.<note>Although the tungusic text of this fairy tale has not been preserved, I have found the following spoken words of the evil sorcerer on a page, which have been written down very hastily and do not seem to be very reliable: | Combed Ayakan, coarsely, truly! | I delight, the younger brother I have killed, coarsely, truly! | Take heed, so I will skewer you, coarsely, truly! | I am able indeed, like a stone you are, I am not able to, coarsely, truly! | Your younger brother Chelchekan I kill with the spear [?] coarsely, truly! | Chelchekan ayakan, coarsely, truly! | You flay the reindeer imp, coarsely, truly! | Then take heed of yourself, I will skewer you, coarsely, truly! | When you toil while eating [or when you toil for food], then I kill, coarsely, truly!</note></p>
+    </body>
+  </text>
+</TEI>

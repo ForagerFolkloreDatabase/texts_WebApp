@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Owl and the Lemming</title>
+        <editor role="collector">James S. Mutch</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NNA024923</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Boas, Franz (1901): The Eskimo of Baffin Land and Hudson Bay. From notes collected by George Comer, James S. Mutch, and E. J. Peck. New York: AMNH (Bulletin of the American Museum of Natural History, 15,I). Quot. p. 219.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA27903">Baffin Island Inuit</name>
+          <date notAfter="1899" notBefore="1883" type="recorded">Recorded sometime between 1883 and 1899.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>One day a Lemming woman was playing about not far from her burrow, when an Owl man saw her and placed himself right in front of the entrance to her hole. The Owl stood with one foot on each side of the doorway, and shouted to his people, "Bring two sledges! I have some game that will require two sledges when I have killed it. It cannot go into its house, because I have shut the door." Then the Owl sat down in front of the doorway. The Lemming was jumping about in front of her den, endeavoring to get in. Then she said to the Owl, "Look up to the sky above you. Spread your legs a little. Spread them out a little more. Bend your head back." The Owl did as he was told, thinking all the time of the great feast he was going to have after he had killed the Lemming. Very soon he stood with his feet one on each side of the doorway, his legs bowed out, and his head turned back, looking up to the sky. He did so in order to please the Lemming for the few moments she had left to live. The Lemming continued to jump about at a safe distance; but now, when she saw that the Owl's legs were far apart, and his head bent back, she made a rush for her hole, and went in between the Owl's spread legs. Then the Owl shouted to those who were coming along with their sledges to turn back home, as his game had escaped.[[Compare p. 319, and Journal of American Folk-Lore, Vol. X, p. in.]]</p>
+    </body>
+  </text>
+</TEI>

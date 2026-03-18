@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>War with the ᵋwīʼk·!ēnoxᵘ</title>
+        <editor role="collector">Franz Boas</editor>
+        <editor role="narrator">Willy Gladstone</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NNA023700</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Boas, Franz (1928): Bella Bella Texts. New York: Columbia University Press (Columbia University Contributions to Anthropology, 5). Quot. pp. 132-135.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA29022">Bellabella</name>
+          <date notAfter="1923" notBefore="1897" type="recorded">Recorded sometime between 1897 and 1923.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>Long ago a ᵋwīʼk·ǃēnoxᵘ killed Haiʼmadzalas, chief of the / Ōʼyalitx. Then the Bella Bella talked about it [and resolved] / that they would now take revenge on the ᵋwīʼk·ǃēnoxᵘ. Now the / chief of the Ōʼyalitx planned that the tribes should assemble. Now they all paddled on the sea and assembled. Then the tribes were told / what they intended to do. They were not long in the house before they completed / their plans. The tribes who were going to make war made ready to go to Rivers Inlet. Now those who were going along were going to camp at the place Qǃabēʼlis. / In the morning they started for the place Qwāʼqŭmē. Ahead of them were those who pretended to invite [the ᵋwīʼk·ǃēnoxᵘ]. They were told / by one chief "If you tell about our plans we shall kill all of you." / Thus they were told. Then they went. At night they / came to the head of Rivers Inlet. That was the time when those / who pretended to invite them blew their sacred whistles. Now they were asked to come come out of their canoes. They stepped out of the canoes and arrived in the house of Wāʼk·as. Now this was the reason why they danced. Then arose / the one whose name was G·āʼg·flg̣ɛmalas. It is said he was attendant [of the chief] Made-Crazy. Then he talked / and pointing around with his first finger he said: "All are nearly dead!"<note>He spoke Chinook jargon which at that time was understood by the Bella Bella but not by the Rivers Inlet people.</note> / Thus he said speaking Chinook. Several of the ᵋwīʼk·ǃēnoxᵘ inquired for his / meaning. "What do you mean, G·āʼg·flg̣ɛmalas?" thus he was told. "You will have plenty to eat. Take empty boxes aboard to put the rest of the feast into them. You will have plenty to eat, / is what I said."</p>
+      <p><pb n="135"/>Now it was morning. Then they made ready. "You will not stay long in the house," was said to the ᵋwīʼk·ǃēnoxᵘ by the inviters. When / at this time they went into the house the box of / one man was opened in the canoe. Now he was asked what they used it for [that is, the contents of the box]. / They knew that they were war hats. Now [one of them] said that they were toys for his children and that therefore he took them. Now said / the head man of the inviters, "Let us try to get to Qwāʼqŭmē/ that we may eat before evening." Then one / Bella Bella advised one / ᵋwīʼk·ǃēnoxᵘ to go to get firewood and to go hunting seals, and that he should get firewood without telling his friends there. Now the ᵋwīʼk·ǃēnoxᵘ did so. Therefore he was not killed / because he hid himself. Now the inviters / arrived at Qwāʼqŭmē with those whom they had invited. The warriors were ready / behind the bushes. Now they stepped out of the canoes and started a fire. / One ᵋwīʼk·ǃēnoxᵘ went back to draw water. He just saw these warriors all over the ground on the steep bank at / the place Qwāʼqŭmē. He did not report it. Now he was the one with whom / the warriors began, the one who drew water. He was shot. Now / those in the canoe were shot. Chief Wāʼk·as was sitting in his canoe. / Chief Wāʼk·as was just touched by a ball. Qǃūlāʼg·îlīł saw him. He jumped into the water and swam out to the canoe / of the chief. Then he lay on him with his chest down. Now Mamāʼdzia came / and wanted to kill him with his axe. Qǃūlāʼg·îlīł pushed him aside, "I do not want / this one to be touched," said he. Now several warriors / took their friends as slaves in their canoes. Wāʼk·as was grateful because he had been saved by Qǃūlāʼg·îlīł. Therefore he gave him / the big river at Rivers Inlet and a place for getting provisions on the / big lake.</p>
+    </body>
+  </text>
+</TEI>

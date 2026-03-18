@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>War between the ᵋwīʼk·!ēnoxᵘ and hëłdzaqᵘ</title>
+        <editor role="collector">Franz Boas</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NNA023699</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Boas, Franz (1928): Bella Bella Texts. New York: Columbia University Press (Columbia University Contributions to Anthropology, 5). Quot. pp. 124-131.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA29022">Bellabella</name>
+          <date notAfter="1923" notBefore="1897" type="recorded">Recorded sometime between 1897 and 1923.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>They were coming to Rivers Inlet. One / canoe came paddling and went up the river / to the place Wanuk. The Bella Bella paddled up the river. When / they came near they heard the sacred whistles. Behold it was / to deceive them by means of the valuable property of the chief, because they were afraid <pb n="127"/>to go. Therefore they took the valuable property of / the chief to deceive the ᵋwīʼk·ǃēnoxᵘ, although the ᵋwīʼk·ǃēnoxᵘ knew / that the Bella Bella were going to make war upon them. They / wanted to kill several ᵋwīʼk·ǃēnoxᵘ. / Therefore several of the ᵋwīʼk·ǃēnoxᵘ did not consent to come on account of the valuable property. / Now they took notice of it. Then those who had come to invite in the canoe spoke, / and behold they were deceiving them. They were called in and went into the house. They were taken / into the house of Wāʼk·as, the great chief of the ᵋwīʼk·ǃēnoxᵘ, and then, behold, they were deceiving those inside. / Memaʼqwawēᵋ was paddling on the water. He was shooting seals at the place K·ǃauʼxdē. Then he came back. Then he came up / going around the point of the place Qǃāʼqǃaqǃaua. / Then the people who were paddling arrived. He kept behind them outside of the point ʟāʼbayaʼba. Although he knew that there were warriors, he went near quickly behind them. / Then he went around the point / at the place Gōʼx̣ᵘg̣olaʼ. Then the warriors went across, / going to Qǃabēʼlis. Then Memaʼqwawēᵋ made up his mind to follow them secretly. He wanted to find out what language they were speaking and he wanted to find out / what tribe they were, although he knew that they were warriors, but / his younger brothers did not consent to go. / They came back and they arrived in the village of the ᵋwīʼk·ǃēnoxᵘ. / "We saw people paddling along," thus they said, speaking to all of them after they had arrived. "They were going along the place Qǃabēʼlis," thus said Memaʼqwawēᵋ when he had arrived. "I made up my mind / to go there but my companions did not consent." / - "Why didn't you go, they are / warriors," he was told by the Bella Bella. Then those who had come to invite stayed for a while. / They deceived the ᵋwīʼk·ǃēnoxᵘ. <pb n="129"/>Memaʼqwawēᵋ was in the house for one night. Then he made ready to go to the feast. He was one of those who had been deceived. Now they were going to be killed at Qwāʼqŭmēᵋ. They went off and went and / arrived at the place Qwāʼqŭmēᵋ when night was coming on. When they arrived at the place Qwāʼqŭmēᵋ the Bella Bella were ready / to shoot them. Then the ᵋwīʼk·ǃēnoxᵘ were killed. They cut off the heads and they kept the heads of the / ᵋwīʼk·ǃēnoxᵘ. When they had finished, the Bella Bella launched their canoes and went up the inlet. They had not / overtaken the canoe of G̣wēʼmoaᵋlas. He just / paddled ahead of them going up the inlet. When he was half way up the inlet / it became night. Then he was passed and the warriors went ahead of him. / The warriors arrived and paddled up the river and came to the place Wanuk. Behold, then the warriors went / back of the houses. Then they arrived at the place Xauʼtǃas. / When they arrived there they shouted, / "We have made our escape," thus they said. / The tribe arose in the houses. Behold, then the warriors were between / the houses of the ᵋwīʼk·ǃēnoxᵘ. Just those / remained who had run away. / Then the warriors killed the ᵋwīʼk·ǃēnoxᵘ. / They were killed, and the ᵋwīʼk·ǃēnoxᵘ women were pulled into the canoes. / Then the warriors went, aboard their canoes, but many ran away and were not overtaken by the warriors. Then / they were near burning the village. Now Memaʼqwawēᵋ returned / when the village of the ᵋwīʼk·ǃēnoxᵘ was about to be burned. / When Memaʼqwawēᵋ went there / he was sent by his wife, who had run away. "Go and shoot them, they keep no watch," thus he was told by his wife. Then he went to a place outside the house. He looked through a hole in the rear of the house. <pb n="131"/>There the warriors were sitting in / the house on one side of the fire. He went near one and aimed with his gun at his back. / Then he shot him. He rolled over and Memaʼqwawēᵋ ran away. / Then the one whom he had shot lay by the fire. It was Lǃāʼłōlsɛla. The warriors ran away. / "Lǃāʼłōlsɛla has been hurt," said the warriors. "Wade to the canoe, / Haiʼᵋmadzelas," was told / the one who was called Haiʼᵋmadzelas. Then the houses of the ᵋwīʼk·ǃēnoxᵘ were not burned. / Lǃāʼłōlsɛla was carried by head and feet. Now he was dead. He was shot. He was carried by head and feet aboard the canoe. He was put aboard the canoe. / Now he recovered and sat up in the canoe. "Did you bring / my gun?" said he. "No, we did not," he was told. / Then he jumped out of the canoe, he who had been dead. He went off and / went where his gun was lying on the floor of the place where he had been fired at. / He took his gun and went aboard / his canoe. Then the canoes of the / warriors came together on the water. The warriors talked together and they said it was bad / that they had not set fire to the village of the ᵋwīʼk·ǃēnoxᵘ. Behold, then Memaʼqwawēᵋ ran down the river. He hid at the / head of the river. Then the canoes of / the warriors went ashore again. They were going to set fire to the village. / Then Memaʼqwawēᵋ shot again and the warriors went away. / They drifted down the river and he shot G̣wēʼmoalas. He shot Aiʼk·axaił. He shot Waiʼx·woaił. The warriors also shot / and G̣wēʼmoalas was hit in the side of the head. / The warriors came down the river shooting again and again. / The warriors drifted down. That is the end.</p>
+    </body>
+  </text>
+</TEI>

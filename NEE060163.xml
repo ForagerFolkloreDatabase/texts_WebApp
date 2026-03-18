@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Sichitinga, a Mouse and aRaven</title>
+        <editor role="collector">Konstantin Nikolaevich Rychkov</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NEE060163</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0">CC BY-NC-SA</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Däbritz, Chris Lasse/Gusev, Valentin/Stoynova, Natalia (2024): INEL Evenki Corpus. Version 2.0. Publication date 2024-12-31. Archived at Universität Hamburg. https://hdl.handle.net/11022/0000-0007-FE38-D. In: The INEL corpora of indigenous Northern Eurasian languages. https://hdl.handle.net/11022/0000-0007-F45A-1. Quot. p. s.p..</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CEE15803">Evenki</name>
+          <date notAfter="1919" notBefore="1910" type="recorded">Recorded sometime between 1910 and 1919.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>SitschitingaÂ¹â¾ lived with her elder brother. She has no father and no mother. She is an orphan. Her older brother goes hunting in the  spring. He left with the sledge. He left Sichitinga â Sichitinga. Her older brother went off with his wife, he's <note>[StN]: leave or remain?</note>gone. Sichitinga stayed behind and thought: "Where shall I go? I'll go somewhere!"  Sichitinga went, started singing and left. A raven flew by. "Kuk, Sichitinga, I take you [as my  wife]!" "Early in the morning, when the weather is fine,Â¹â¾ you scream a lot! I'm scared of you!"  Sichitinga went on. The mouse under the log says: " Chi-chi chi-chi, I take you, Sichitinga, [to be my  wife]!" She married a mouse. She went into the mouse's yurt. She came and went into the yurt. The old mother mouse and the old father mouse live together with the mouse. Sichitinga came to the mouse. She feeds Sichitinga. She steals: she steals all kinds of things, meat, bread â she eats.  The mouse was killed for it. Her father went off to look for the mouse.  She stole from the storage. She was killed for stealing from the storage. Her father came home and says, "Because of<note>[StN]: RUS: preposition and it's valency </note> Sichitinga!" Her father says, "A child was killed because of you!" He says to Sichitinga: "Today the <note>pattern</note>firewood will be finely cut! The raven will come and hit you with a big firewood!<note>[StN]: INSTR -Äi</note> It's finely cut!" Sichitinga cuts the chips finely, they have been crushed like kindling shavings. In the evening a raven flew in, entered the yurt and said: "Oh, Sichitinga! I told you to marry me!  You didn't marry me?! You married the mouse!" He took the <note>[StN]: DECAUS + </note>chopped wood, hit it and the kindling shavings broke. He beat <note>3SG((unknown))</note>Sichitinga He broke these kindling shavings, and Sichitinga and he lived together from then on. She married <note>[StN]: SiÄitinÉ£a - why NOM?</note>the raven and lived with him.</p>
+    </body>
+  </text>
+</TEI>

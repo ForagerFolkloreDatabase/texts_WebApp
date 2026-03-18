@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Byorkoltun</title>
+        <editor role="collector">Glafira Makarina Vasilevich</editor>
+        <editor role="narrator">Kaplin Ilya</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NEE060058</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0">CC BY-NC-SA</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Däbritz, Chris Lasse/Gusev, Valentin/Stoynova, Natalia (2024): INEL Evenki Corpus. Version 2.0. Publication date 2024-12-31. Archived at Universität Hamburg. https://hdl.handle.net/11022/0000-0007-FE38-D. In: The INEL corpora of indigenous Northern Eurasian languages. https://hdl.handle.net/11022/0000-0007-F45A-1. Quot. p. s.p..</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CEE15803">Evenki</name>
+          <date when="1931" type="recorded">Recorded in 1931.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>There lived two men, heros. One of them, the younger one was Byorkoltun, the elder one was Muchunoj; their elder sister had six heads.  They lived at their elder sister's.  Their elder sister was about to marry the hero Chulugdi. They went hunting, they were good men.  Now their elder sister sent them to bring a bear, to catch a living one. [She sent them] to bring the fur of bear for bedclothes, to go for rotten wood for the chimney.  Now they left, they went, they searched for a bear. They came to a lowland, on the opposite side they saw a snag and a bear, who was breaking rotten wood.  The elder brother started to sing saying: "Younger brother Muchunoj!  Like a broken hill; where does our six[-headed] elder sister lead us!"  The younger brother said: "Let's have a look what it is like!"  They went, they found the bear. The bear rushed upon them. The younger Byorkoltun caught the bear at its ear, he  threw the bear on the ground. They brought [it] home to their elder sister.  Having brought it they came closer. Their elder sister fed them, she gave [them] ten bowls of wine.  Then, having drunken, they became merry. Muchunoj asked their elder sister: "Where did you find so few(?)?"  She gave again ten bowls. They got drunk,  they fell asleep. They slept for three years. As long as they were sleeping, [those  ones] made two iron boxes, put them inside, while they were sleeping. They threw [them] into the sea. Having drowned  [them], [the sister] married Chulugdi. She wandered to Chulugdi, having put the younger brother [into the box]. The heros slept and slept, finally they woke  up, they looked, they are in darkness. Muchunoj started to sing: "Younger brother Byorkoltun!  Why did they do so? Where did our six[-headed] elder sister lead us to?  Our elder six-headed elder sister put us into a good box." The younger brother  Byorkoltun woke up. Then they looked around, it is dark; they moved, they were in the water. They got to  know [that] they are in the water, they sang: "Mother Sea! Your name is Koyulowor. Our grove is in your water.<note>[DCh]: The analysis of "má»¥nÅidá»¥" is </note> Be agitated, be agitated, Koyulowor, be agitated, be agitated, Koyulowor!"<note>rather tentative. </note> They started to rock; doing so, they had a look, they moved, they were on the earth.  Byorkoltun started to sing: "Elder brother! Muchunoj, look at their work, Koyulowor! Elder brother, <note>[DCh]: The </note>Muchunoj, there are some [boxes] (?)." The elder brother Muchunoj looked around, he could not break the boxes.<note>syntax of the sentence is not clear.</note> Not being able to he started to sing: "Younger brother Byorkoltun, Koyulowor, look at their work, I'm(?) hoping for you, in this wooden grove it has become <note>[DCh]: The form "nadÊ¼Éjá»Åká»" is unclear, pn-marking is apparently missing.</note>bad." Byorkoltun started to kick, it moved apart a bit. Muchunoj started to sing: "Younger brother Byorkoltun, Koloyuwor, as if [the grove] moved apart.  If Koyulowor would be [a bit more forceful]!" Byorkoltun kicked strongly, [the grove] flew apart, he had broken everything.  They saw the sun, the day. They were starving heavily, they were in a land, where there was nothing.  They went out of the box and said: "In which direction is our yurt, apprently?" When the sun stood  [at midday], they went off, they went and went, they kill a small bird. They made a crossbow out of the bones of the small bird.  They killed a jay with it. Out of its legs they made again an arrow, then they killed a hazel grouse, out of its legs they made arrows.  Then they made arrows out of a wood grouse, they killed a small wild reindeer, a calf. Out of its shin they made arrows, they killed big animals. They came to the land, where they had been walking [earlier]. Having  reached their yurt, they found their yurt burnt down, there is nothing. They hardly recognized their traces [of] their  leaving. They made very good arrows, they left where their elder sister had gone.  They went, they went, they reached them. They saw a balagan made out of an old tree. They started to persuade each other: "How strong the devil, the brother-in-law is." Byorkoltun said: "I'll go for him."  Well they came. A guard is living [there]. He caught the guard at his throat, he tore it off and killed him without words.  Byorkoltun started to sing: "Six[-headed] sister, Koyulowor, the younger brother have arrived, if you would greet, in a good land(?), in a good house(?), we just came  now." The devil-thief said: "What do  the guards do?" Byorkoltun said: "Your guard is talking with us, Koyulowor."  Then the devil started to sing: "What, what is going to be uwe ku we, uwe ku wek.  Not a single bird did fly [did give no voice], uwe ku wek uwe, where was my hammer of six puds."  That one jumped out quickly, he went to fight with Byorkoltun. When he jumped out, Byorkoltun hit him [with the fist], his heads burst  into pieces. Having killed [him], he called the elder sister.  Byorkoltun started to sing: "Six[-headed] sister, show yourself." The six[-headed]  sister didn't show herself. They went into the hut. When they went into the hut, she fell down, having turned  into excrements, the elder sister rolled around in the house. They shot at her. "It  hurts, not visible!", she said. So they killed Chulugdi, the devil [and] the six[-headed] one. They started to live together, they became  rich.</p>
+    </body>
+  </text>
+</TEI>

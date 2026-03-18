@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>[The Fox and the Stone]</title>
+        <editor role="collector">Ramón Lista</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NSA020646</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>No English source available. Quot. p. 53.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CSA39102">Tehuelche</name>
+          <date notAfter="1879" notBefore="1877" type="recorded">Recorded sometime between 1877 and 1879.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>A fox challenged a stone to a race; this one excused itself:</p>
+      <p>"I'm very heavy."</p>
+      <p>"We will run down that hill," the fox insisted.</p>
+      <p>"I am very heavy ... but beware of me ..."</p>
+      <p>"You will catch up with me? What madness! I run like the wind."</p>
+      <p>"Alright, let's run," said the stone.</p>
+      <p>And the fox left like an arrow ... The stone then began to roll, and from tumble to tumble, he went to mortally wound its rival, who had already reached the foot of the hill.</p>
+    </body>
+  </text>
+</TEI>

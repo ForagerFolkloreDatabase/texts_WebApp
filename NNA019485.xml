@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Q!āʼnēqīᵋlax̣ᵘ Legend (Origin of the Mallard Ducks)</title>
+        <editor role="collector">Franz Boas</editor>
+        <editor role="narrator">Qǃōʼmg‧ilis</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NNA019485</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Boas, Franz (1910): Kwakiutl Tales. New York: Columbia University Press &amp; Leyden: Brill (Columbia University Contributions to Anthropology, 2). Quot. pp. 202-205.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA29010">Kwakwakaʼwakw</name>
+          <date when="1894" type="recorded">Recorded in 1894.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <note>Publications of the Jesup North Pacific Expedition, Vol. X, p. 215.</note>
+      </p>
+      <p>Q!āʼnēqīᵋlax̣ᵘ went again, and he saw the Mallard Ducks. They were steaming clover-roots. They could not see. Then they smelt him. "Hm! what should bring our lord Q!āʼnēqīᵋlax̣ᵘ here? It smells like Q!āʼnēqīᵋlax̣ᵘ." Then [the roots] were done. Then Q!āʼnēqīᵋlax̣ᵘ took them and hid them from one of the old women. Then he hid them from <pb n="205"/>another one. Then he hid them from still another old woman. "Is that the way you are" - "That is the way we little ones are. We little ones cannot see." - "Come this way!" Then they went towards Q!āʼnēqīᵋlax̣ᵘ, and he took the gum that he had chewed and spit into their eyes. Then their eyes opened and they saw. "Ah! this is the light on the face of our world, Lord Q!āʼnēqīᵋlax̣ᵘ." That was all. He took the four old women. Now they could see the light of our world. He took them, and they flew upward, and they became birds.</p>
+    </body>
+  </text>
+</TEI>

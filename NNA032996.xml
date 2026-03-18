@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Theft of Fire (version 2)</title>
+        <editor role="collector">Edward Winslow Gifford</editor>
+        <editor role="narrator">William Fuller</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NNA032996</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Gifford, Edward Winslow (1917): Miwok Myths. Berkeley, CA: University of California Press (UCLA Publications in American Archaeology and Ethnology 12,VIII). Quot. pp. 332-333.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA29914">Miwok\Central Sierra Miwok</name>
+          <date notAfter="1914" notBefore="1913" type="recorded">Recorded sometime between 1913 and 1914.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>Lizard saw the smoke. He said: "Smoking below, smoking below, smoking below, smoking below. My grandmother starts a fire to cook acorns. It is very lonely."</p>
+      <p>Flute-player [Mouse] was sent down the mountains into the valley to secure the fire. Flute-player departed, taking with him two flutes. He finally arrived at the assembly house from which the smoke was issuing. He found it crowded, but he was welcomed and the people persuaded him to play. He played and he played.</p>
+      <p>Then they put a feather mat over the smoke hole at the top of the house and shut the feathers in the door. They closed the door with the feather dress. They told the doorkeeper to close the door tight.</p>
+      <p>Flute-man played continuously. The people fell asleep and snored. Flute-player remained awake and played. Finally, he concluded that all were fast asleep. He arose and took two coals from the fire, placing them in his flute. Then he put two coals in the second flute. He proceeded to the door, cut loose the feathers, passed out, and started homeward.</p>
+      <p><pb n="333"/>The people awoke to find him gone and with him the fire. Hail and Rain were sent in pursuit, for they were the two swiftest travellers among the valley people. Hail went, but Flute-man heard Hail and Rain coming, so he threw one of his flutes under a buckeye tree. Rain asked him what he had done with the fire. "You stole our fire," Rain said. Flute-player denied it. Then Rain returned home. The placing of the flute, with the coals in it, under the buckeye tree resulted in the fire always being in the buckeye.</p>
+      <p>When Rain started back, Flute-man took his fire from under the buckeye and again proceeded homeward. He arrived at home safely and brought the fire into the assembly house. He told the people that Rain had taken one flute with coals in it. He said, "Rain took one flute from me. I have only one left."</p>
+      <p>The chief told Flute-player to build a fire, and the latter produced the coals from his remaining flute. A large fire was made. It was then that people lost their language. Those close to the fire talked correctly. The people at the north side of the assembly house talked brokenly. Those at the south side talked altogether different; so did those at the west side and at the east side. This was because of the cold.</p>
+      <p>Coyote brought entrails and threw them on the fire, extinguishing it. The people became angry and expelled Coyote, telling him to remain outside and to eat his food raw. That is why Coyote always eats his meat uncooked.</p>
+    </body>
+  </text>
+</TEI>

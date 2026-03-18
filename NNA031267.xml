@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The "Unnatural Uncle" (The Jealous Uncle)</title>
+        <editor role="collector">Frank Alfred Golder</editor>
+        <editor role="narrator">Nicoli Medvednikoff</editor>
+        <editor role="narrator">Mrs. Reed</editor>
+        <editor role="narrator">Corneil Panamaroff</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NNA031267</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Golder, Frank Alfred (1903): Tales from Kodiak Island. In: The Journal of American Folk-Lore 16(60/61), 16-31, 85-103. Quot. pp. 90-95.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA27722">Koniag Alutiiq</name>
+          <date notAfter="1903" notBefore="1900" type="recorded">Recorded sometime between 1900 and 1903.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>In a village lived a man, known to his neighbors as ‘Unnatural Uncle.’ When his nephews became a few years old, he would kill them. Two had already suffered death at his hands. After the second had disappeared, his wife went to the mother of the boys, and said, "Should another boy be born to you, let us conceal the fact from my husband, and make him believe the child a girl. In that case he will not harm him, and we may succeed in bringing him up."</p>
+      <p>Not long after the above conversation another nephew was born. Unnatural Uncle, hearing that a child was born, sent his wife ascertain the sex of the child. She, as had been agreed upon, reported the child a girl. "Let her live," he said.</p>
+      <p>The two women tended and dressed the boy as if he were a girl. When he grew older, they told him to play with the girls, and impressed upon him that he should at all times imitate the ways, attitudes, and postures of the girls, especially when attending to the calls of nature. Unnatural Uncle watched the boy as he was growing up, and often wondered at his boyish looks. One day the boy, not knowing that his uncle was about and observing him, raised up his parka [native dress], and so exposed his body. "Ah," said Unnatural Uncle to his wife, on reaching home, "this is the way you have fooled me. But I know everything now. Go and tell my nephew I wish to see him." With tears in her eyes the poor woman delivered the message to the nephew, told him of the disappearance of his brothers, and of his probable fate. The father and mother of the boy wept bitterly, for they were certain he would never return. The boy himself, although frightened, assured his parents to the contrary, and begged them not to worry, for he would come back safe and sound.</p>
+      <p>"Did my brothers have any playthings?" he asked before going. He was shown to a box where their things were kept. In it he found a piece of a knife, some eagle-down, and a sour cranberry. These he hid about his person, and went to meet his uncle. The latter greeted him, and said, "Nephew, let us go and fetch some wood."</p>
+      <p>When they came to a large forest, the boy remarked, "Here is good wood; let us take some of it, and go back."</p>
+      <p>"Oh, no! There is better wood farther on," said the uncle.</p>
+      <p>From the forest they stepped into a bare plain. "Let us go back. There is no wood here," called the boy. But the uncle motioned to him to come on, telling him that they would soon find better wood. A little later they came to a big log. "Here is what I want," <pb n="91"/>exclaimed the uncle, and began splitting it. "Here, nephew, jump in, and get that wedge out," called the uncle to the boy, as one of the wedges fell in. When the boy did so, the man knocked out the other wedges; the log closed in on the boy, and held him fast. "Stay there!" said Unnatural Uncle, and walked off.</p>
+      <p>For some time the boy remained in this helpless condition, planning a means of escape. At last he thought of his sour cranberry, and, taking it in his hand, he rubbed with it the interior of the log from edge to edge. The sourness of the berry caused the log to open its mouth, thus freeing him.</p>
+      <p>On his way back to the village, he gathered a bundle of wood, which he left at his uncle's door, announcing the fact to him, "Here, uncle, I have brought you the wood." The latter was both surprised and vexed at his failure, and determined more than ever to kill the boy. His wife, however, warned him, "You had better not harm the boy; you have killed his brothers, and if you hurt him, you will come to grief."</p>
+      <p>"I will kill him, too," he savagely replied.</p>
+      <p>When the boy reached his father's home, he found them weeping and mourning. "Don't weep!" he pleaded. "He cannot hurt me; no matter where he takes me, I will always come back." In the morning he was again summoned to appear at his uncle's. Before going, he entreated his parents not to feel uneasy, assuring them that no harm would befall him, and that he would be back. The uncle called the boy to go with him after some ducks and eggs. They passed several places abounding in ducks and eggs, and each time that the boy suggested, "Let us take these and go back," the uncle replied, "Oh, no! There are better ducks and eggs farther on." At last they came to a steep bluff, and, looking down, saw a great many ducks and eggs. "Go down carefully, nephew, and gather those ducks and eggs. Be quick, and come back as soon as you can."</p>
+      <p>The boy saw the trap at a glance, and prepared for it by taking the eagle-down in each hand, between thumb and finger. As the boy took a step or two downward, the uncle gave him a push, causing him to lose his footing. "He will never come back alive from here," smiled the uncle to himself, as he walked back. If he had remained awhile longer and looked down before going, he would have seen the boy descending gently instead of falling. The eagle-down kept him up in the air, and he lighted at his own pleasure safe and sound. After gathering all the ducks and eggs he wanted, he ascended by holding up the down, as before, and blowing under it. Up, up he went, and in a short time stood on the summit. It was night before he sighted his uncle's home. At the door he deposited <pb n="92"/>the birds and eggs, and shouted, "Here, uncle, are the ducks and eggs."</p>
+      <p>"What! back again!" exclaimed the man very much mortified. His wife again pleaded with him to leave the boy in peace. "You will come to grief, if you don't," she said. "No; he cannot hurt me," he replied angrily, and spent the remainder of the night thinking and planning.</p>
+      <p>Although he assured them that he would return, the boy's parents did not have much faith in it; for he found them on his return weeping for him. This grieved him. "Why do you weep?" he said. "Didn't I say I would come back? He can take me to no place from which I cannot come back."</p>
+      <p>In the evening of the third day the aunt appeared and said that her husband wished the boy. He told his parents not to be disturbed, and promised to come back soon. This time the uncle invited him to go with him after clams. The clams were very large, large enough to inclose a man. It was ebb tide, and they found plenty of clams not far from the beach. The boy suggested that they take these and go back, but the uncle put him off with, "There are better clams farther out." They waded into the water, and then the man noticed an extraordinarily large clam. "Take him," he said, but when the boy bent over, the clam took him in. So confident was Unnatural Uncle of his success this time that he uttered not a word, but with a triumphant grin on his face and a wave of his hand he walked away. The boy tried to force the valves apart, but not succeeding, he cut the ligament with his piece of a knife, compelling the clam to open up little by little until he was able to hop out. He gathered some clams, and left them at his uncle's door as if nothing had happened. The man, on hearing the boy's voice outside, was almost beside himself with rage. His wife did not attempt to pacify him. "I will say nothing more," she said, "I have warned you, and if you persist in your ways, you will suffer."</p>
+      <p>The next day Unnatural Uncle was busy making a box.</p>
+      <p>"What is it for?" asked his wife.</p>
+      <p>"A plaything for our nephew," he replied.</p>
+      <p>In the evening the boy was sent for. On leaving his parents, he said, "Do not feel uneasy about my absence. This time I may be away a long time, but I will come back nevertheless."</p>
+      <p>"Nephew, here is something to amuse you," said his uncle. "Get inside of it, so that I may see whether it fits you." It fitted him, so did the lid the box, and the rope the lid. He felt himself borne along, and from the noise of the waves he knew it was to the sea. The box was lowered, and with a shove it was set adrift. It was stormy, the waves beat over the box, and several times he gave <pb n="93"/>himself up as lost. How long he drifted he had no idea; but at last he heard the waves dashing against the beach, and his heart rejoiced. Louder, and louder did the joyful peal sound. He gathered himself together for the sudden stop which soon came, only to feel himself afloat again the next moment. This experience he went through several times, before the box finally stopped and he realized he was on land once more.</p>
+      <p>As he lay there, many thoughts passed through his mind: where was he? was any one living there? would he be saved? or would the flood-tide set him adrift again? what were his people at home doing? These, and many other thoughts passed through his brain, when he was startled by hearing voices, which he recognized, a little later, as women's. This is what he heard:</p>
+      <p>"I saw the box first," said one.</p>
+      <p>"No, I saw it first," said the other.</p>
+      <p>"I am sure I saw it before you," said the first speaker again, "and, therefore, it is mine."</p>
+      <p>"Well, you may have the box, but its contents shall belong to me," replied the other.</p>
+      <p>They picked up the box, and began to carry it, but finding it somewhat heavy and being anxious to know what it contained, they stopped to untie it.</p>
+      <p>"If there are many things in there, I shall have some of them," said the first speaker, who rued her bargain. The other one said nothing. Great was their surprise on beholding him. He was in turn surprised to see two such beautiful girls, the large village, the numerous people, and their peculiar appearance, for he was among the Eagle people in Eagle land. The full grown people, like the full grown eagles, had white faces and heads, while those of the young people, like those of young eagles, were dark. Eagle skins were hanging about all over the village; and it amused him to watch some of the people put on their eagle skins and change to eagles, and after flying around, take them off and become human beings again.</p>
+      <p>The girls, being the daughters of the village chief, led the boy to their father, each claiming him. When he had heard them both, the chief gave the boy to the older girl [the second speaker]. With her he lived happily, but his thoughts would very often wander back to his former home, the people there, his parents; and the thought of his uncle's cruelty to them would make his heart ache. His wife noted these spells of depression, and questioned him about them until he told her of his parents and uncle. She, like a good wife, bade him cheer up, and then went to have a talk with her father. He sent for his son-in-law, and advised him to put on his [chief's] eagle skin, soar up high until he could see his village, fly over there,<pb n="94"/>visit his parents, and bring them back with him. He did as he was told, and in a short time found himself in the village. Although he could see all other people, his parents were not in sight.</p>
+      <p>This was in the evening. During the night he went out to sea, brought back a large whale, and placed it on the beach, knowing that all the villagers would come out for the meat. The first person to come to the village beach in the morning was Unnatural Uncle; and when he saw the whale, he aroused the village, and a little later all, except the boy's father and mother, were there, cutting and storing up the whale. His parents were not permitted to come near the whale, and when some of the neighbors left some meat at their house, Unnatural Uncle scolded, and forbade it being done again. "I can forgive him the killing of my brothers, the attempts on my life, but I will revenge his treatment of my parents." With these thoughts in his mind, the eagle left his perch, and flew over to the crowd. He circled over its head a little while, and then made a swoop at his uncle. "Ah, he knows that I am chief, and the whale is mine, and he asks me for a piece of meat." Saying this, he threw a piece of meat at the eagle. The second time the eagle descended it was still nearer the man's head, but he tried to laugh it off, and turn it to his glory. The people, however, did not see it that way, and warned him to keep out of the eagle's clutches, for the eagle meant mischief. When the eagle dropped the third time, it was so near his head that he fell on his face. The fourth time the eagle swooped him, and flew off with him.</p>
+      <p>Not far from the shore was a high and steep rock, and on its summit the eagle put down the man, placing himself opposite. When he had taken off the skin, and disclosed himself, he said to his trembling uncle, "I could have forgiven you the death of my brothers, the four attempts on my life, but for the cruel treatment of my parents you shall pay. The whale I brought was for my parents and others, and not for you alone; but you took entire possession of it, and would not allow them even to approach it. I will not kill you without giving you a chance for your life. Swim back to the shore, and you shall be spared." As he could not swim, Unnatural Uncle supplicated his nephew to take him back, but the latter, putting on the eagle skin, and hardening his eagle heart, clutched him, and from a dizzy height in the air dropped him into the sea.</p>
+      <p>From the beach the crowd watched the fatal act, understood and appreciated it, and, till it was dark, continued observing, from the distance, the eagle. When all had retired, he pulled off the skin, and set out for his father's barrabara. He related to his parents his adventures, and invited them to accompany him to his adopted land, to which they gladly consented. Early in the morning he put on <pb n="95"/>again his skin, and, taking a parent in each claw, flew with them to Eagle land, and there they are living now.</p>
+    </body>
+  </text>
+</TEI>

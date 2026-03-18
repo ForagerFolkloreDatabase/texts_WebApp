@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Ts!ūmqǎlǎqs</title>
+        <editor role="collector">Franz Boas</editor>
+        <editor role="narrator">Qāʼlagoᵋyowis</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NNA023695</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Boas, Franz (1928): Bella Bella Texts. New York: Columbia University Press (Columbia University Contributions to Anthropology, 5). Quot. pp. 44-47.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA29022">Bellabella</name>
+          <date notAfter="1923" notBefore="1897" type="recorded">Recorded sometime between 1897 and 1923.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>Tsǃūʼmqălăqs came down. There were two of them, she and / her younger sister, Haʼyałilag̣a. Now they were at the place Tǃeyaʼso. / For four days they stayed there. Then her father and his tribe came.</p>
+      <p>They she woke up alone. They came from above. Now / she came together with a handsome common man. / For four days they were there. Then little children came to Tsǃūʼmqălăqs. / Now the father of Tsǃūʼmqălăqs was really ashamed. Now he just left his child, and now she went to the place / Qǃāʼtǃᴇmk·as. Therefore that man was now working to make a house, / and now the man took hemlock branches for the house of his / little children and their mother. Now it was night. Then / Tsǃūʼmqălăqs went to the beach to dig clams. Tsǃūʼmqălăqs did not say anything. Then it was night again and she went down to the beach again. Again she dug for clams at night. She went down to the beach again, Now she heard distinctly voices of little men. / Now she really made up her mind to try and look for them. / Now she tied her torch to her digging stick and she went up the beach. She stuck the torch in the ground. Now one / was sent to look if she was digging. <pb n="47"/>Then her one child went in [and said, / "Mother is digging on the beach! / Mother is digging on the beach!" / Behold, Tsǃūʼmqălăqs was holding a stick. Now she struck the front of the house. Then she entered. She took two / little wolf dresses and now she threw them into the fire. / "You are bad little men, and now you do not get / food for us to eat." Then the little ones sat down in the house. Now they had / no longer wolf skins. Now the older ones were wolves.</p>
+      <p>The name of the younger brother was Iaʼg·is. Now she chased away / the two little wolves. They came to the place Hauʼyat. "You will be the wolves / of later men." Now the two little ones grew up. / Now they nudged themselves. Now they sang / the song that they sang first when they became human beings, that is the marriage song. Now the little ones danced and / the mother carried a rattle. This is the marriage custom of the / ancient people. Therefore, the song is never forgotten. / It is sung for a noble youth whenever he marries. /</p>
+      <p>Now Iagis disappeared. He came to the rocks, counting the places where sea monsters lived in the world. He counted all. He went and dived at the places where sea monsters were. He was at all / the places of sea monsters. Now there was last a place called / Having-Devil-Fish. There he stayed away. Now Tsǃūʼmqălăqs was told / by one who had seen it. That time she pulled out a rattle from each side, Then she stood up and held the rattles in her hands. / Then she sang the mourning song. /</p>
+      <lg type="song">
+        <l>k·asa haii hii k·asa [It is broken, the post of heaven.]</l>
+        <l>k·asa haii hii k·asa ka ...</l>
+      </lg>
+    </body>
+  </text>
+</TEI>

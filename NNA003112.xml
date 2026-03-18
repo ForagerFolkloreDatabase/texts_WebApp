@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Raven, the Whale, and the Mink</title>
+        <editor role="collector">Edward William Nelson</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NNA003112</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Nelson, Edward W. (1899): The Eskimo about Bering Strait. In: Eighteenth Annual Report of the Bureau of American Ethnology. Washington: Government Printing Office, part I, 1-518. Quot. pp. 464-467.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA27733">Norton Sound Inuit</name>
+          <date notAfter="1881" notBefore="1877" type="recorded">Recorded sometime between 1877 and 1881.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <note>This tale is related either separately or in conjunction with the foregoing legend, of which it forms a part.</note>
+      </p>
+      <p>After Raven had dried his clothing at the fire he chanced to look toward the sea and saw a large whale passing close along the shore, and he cried out, "When you come up again shut your eyes and open your mouth wide." Quickly putting on his raven coat, he drew down his mask, then, carrying his fire-drill under his wings, flew out over the water. The whale soon came up again and did as it was told, and <pb n="465"/>when Raven saw the open mouth he flew straight down the whale's throat. The whale closed its mouth and went down again, while Raven stood looking about, finding himself at the entrance of a fine room, at one end of which burned a lamp. He went in and was surprised to see a very beautiful young woman sitting there. The place was clean and dry, the roof being supported by the whale's spine, while its ribs formed the walls. From a tube that extended along the whale's backbone, oil was dropping slowly into the lamp. When Raven stepped in the woman started up and cried out, "How came you here? You are the first man who ever came in here." Rayen told how he came there, and she asked him to be seated on the other side of the room. This woman was the shade or inua of the whale, which was a female. Then she prepared him food, giving him some berries and oil, at the same time telling him that she had gathered the berries the year before. For four days Raven stayed there as the guest of the inua, and continually wondered what the tube was that ran along the roof of the house. Each time the woman left the room she told him that he must not touch it. At last, when she left the room again, he went to the lamp, and holding out his claw caught a large drop of the oil and licked it with his tongue. It tasted so sweet that he began to catch and eat other drops as fast as they fell. This soon became too slow for him, so he reached up and tore a piece from the side of the tube and ate it. As soon as this was done a great rush of oil poured into the room, extinguishing the light, while the room itself began to roll wildly about. This continued for four days and Raven was nearly dead from weariness and the bruises which he had received. Then the room became still and the whale was dead, for Raven had torn off a part of one of the heart vessels. The inua never came back to the room, and the whale drifted upon the shore.</p>
+      <p>Raven now found himself a prisoner, and while trying to think of a plan for escaping, heard two men talking on top of the whale, and proposing to bring all of their village mates to the place. This was done very quickly, and the people soon had a hole made through the upper side of the whale's body. This hole was enlarged until, watching his chance while everybody was carrying a load of meat to the shore, Raven flew out and alighted on the top of a hill close by without being noticed. Then he remembered that he had left his fire-drill behind, and exclaimed, "Ah, my good fire drill; I have forgotten it." He quickly removed his raven mask and coat, becoming a young man again, and started along the shore toward the whale. The people on the carcass soon saw a small, dark-colored man in a strangely made deerskin coat coming toward them, and they looked at him curiously. Raven drew near and said, "Ho, you have found a fine, large whale. Well, I will help you cut him up." He rolled up his sleeves and set to work. Very soon a man working inside the whale's body cried out, "Ah, see what I have found. A fire-drill inside the whale." At once Raven began to roll <pb n="466"/>down his sleeves, saying, "That is bad, for my daughter has told me that if a fire-drill is found in a whale and people try to cut up that whale many of them will die. I shall run away." And away he ran.</p>
+      <p>When Raven had gone the people looked at one another and said, "Perhaps he is right;" and away they all ran, every one trying to rub the oil off his hands as he went. From his hiding place near by Raven looked on and laughed as the people ran away, and then he went for his mask and coat. After procuring them he returned to the whale and began cutting it up and carrying the flesh back from the shore. As he thought of the feast in store for him he even said, "Thanks" to the shades.</p>
+      <p>When he had stored away enough meat he wished to save some oil, but had no bag to put it in, so he walked along the shore trying to find a seal. He had gone only a short distance when he saw a mink run swiftly by, and he called out, "What are you running after so fast? Are you going for something to eat?"</p>
+      <p>Mink stopped, and pushing up his nose like a mask, as Raven had done with his beak, became a small, dark-colored man. Then Raven cried, "Ah, you will be my friend? I have plenty of food, but I am lonely, for I have no one with me." To this Mink agreed, and both walked back to the whale and went to work, but Mink did the most for Raven was very lazy.</p>
+      <p>They made grass bags and mats for the meat and blubber, storing great quantities of it in holes in the ground. After this was done they built a fine kashim, When it was finished Raven said, "It is lonely; let us make a feast." And he told Mink to go out and invite the sea people to join them.</p>
+      <p>To this Mink agreed, so next morning he started out, while Raven made a short, round, slender rod, at one end of which he painted two rings with charcoal paint. When he had finished this, he gathered a large ball of sticky spruce gum, which he placed with the rod in the kashim.</p>
+      <p>Mink soon returned and told Raven that on the morrow plenty of sea people would come to the feast. To this Raven answered, "Thanks." Early the next morning Mink called Raven outside and pointed toward the sea, the surface of which was covered with different kinds of seals coming to the feast. Raven went back into the kashim, while Mink went down to the water to meet the guests and escort them to the house.</p>
+      <p>As each seal came on shore he pushed up his mask and became a small man, and all entered the house until it was full. Raven looked about at the guests and exclaimed, "What a number of people. How shall I be able to make a feast for all of you? But never mind; let me first rub the eyes of some of you with this stuff, in order that you may be able to see better; it is dark in here."</p>
+      <p>With his ball of gum Raven then fastened shut the eyes of every <pb n="467"/>seal, except a small one near the door, which he overlooked. The last seal whose eyes were shut was also a small one, and as soon as its eyes were made fast it tried to get them open, and began to cry. The little one by the door cried out to the others, "Raven has stuck your eyes shut, and you can not open them." Then every seal tried to open his eyes, but could not. With the stick he had made the day before Raven now killed all the guests by striking them on the head, each seal man changing back to a seal as it was killed. As soon as the little one by the door saw Rayen killing his companions, it ran out and escaped alone into the sea.</p>
+      <p>When he had finished, Raven turned to Mink and said, "See what a lot of seals I have killed. We will have plenty of oil bags now." Then they made bags of the sealskins and filled them with oil for the winter. Ever since that time Raven and Mink have been friends, and even to this day ravens will not eat the flesh of a mink, be they ever so hungry; and the mink and the raven are often found very close together on the tundras.</p>
+    </body>
+  </text>
+</TEI>

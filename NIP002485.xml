@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>[]</title>
+        <editor role="collector">Reo Fortune</editor>
+        <editor role="narrator">Man of Lorengau</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NIP002485</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Fortune, Reo (1935): Manus Religion. An Ethnological Study of the Manus Natives of the Admiralty Islands. Philadelphia: The American Philosophical Society. [Repr. Lincoln: University of Nebraska Press, 1965.] Quot. pp. 258-261.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CIP25301">Manus</name>
+          <date when="1929" type="recorded">Recorded in 1929.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>You tchinal,<note>Snake like supernatural being, familiar of magic.</note> tchinal belonging to Lowa, pel<note>Special food.</note> of the Nam<note>Special type of magic.</note> belonging to tchinal. Salikai, Lord<note>Chief man or man of highest rank of a Northern Great Admiralty inland tribe.</note> of Tulu.190 And so Salikai, Lord of Tulu went to his garden. It fell night. He slept close to a stone. A tchinal came, lifted him up, took him to the house of Sir tchinal. He crumbled ku. he crumbled kawe [aromatic herbs]. Salikai smelt and thought he was sleeping in his own house. Close to dawn he looked about. He was sleeping in the house of Sir tchinal. He sobbed as he lay. He was sorry for himself. He sobbed to the tchinal.</p>
+      <p>The tchinal said, "Yes. I am a tchinal. I am accustomed to eat human persons. You sob there. You eat taro."</p>
+      <p>The tchinal gave him taro to eat. The tchinal gave him body ornaments. The tchinal said, "I want some valuables that are in the sea, star fish, sea anemone, seaweed mot, seaweed mbwala. You go get them and bring them to me."</p>
+      <p>The tchinal took Salikai, Lord of Tulu, to see the back of his house. He said, "Yes. I am a tchinal. I am accustomed to eat human persons. In this rear of my house human skulls are collected together like a heap of coconuts. I ate all those so represented here."</p>
+      <p>The two returned. He said to Salikai, Lord of Tulu, "Yes, it is my custom to eat human persons. But I am giving <pb n="259"/>you safe return to your place. What I want is star fish, sea anemone, mot and mbwala. Bring them to me."</p>
+      <p>Salikai, Lord of Tulu, descended home. He talked to his wife. He took a bag. He bore star fish, sea anemone, mot and mbwala in it. He went to all the tchinals.</p>
+      <p>The tchinal saw. He said, "Good!" And he loosed down the Wooden Bowl of the Nam to the floor. He gave it with kawe and with ku [aromatic herbs] to Salikai. [This Wooden Bowl of the Nam is the fetish object of the magic power.] Salikai took the spirit [i.e., of the magic power] to himself [with the Wooden Bowl of the Nam]. He slept with the Sir Tchinal with him [evidently the Sir Tchinal was the familiar and was himself the spirit of the Wooden Bowl of the Nam, and of the magic power]. He knew no harm from it. He became very old. His teeth fell out [with extreme age].</p>
+      <p>It [i.e., the magic] went to Wati, Lord of Ndrukul.<note>Northern Great Admiralty inland tribe, truculent warlike, killed a white man recently.</note> He took the pel of the Nam. He gave a woman to Salikai. Salikai wanted to give him betel nut. He declined it. Salikai wanted to give him pulverised coral lime [chewed with betel nut]. He declined it. Salikai wanted to give him food. He declined it. He said "I am desiring the magic." Salikai loosed down the Wooden Bowl of the Nam to the floor. He gave it to Wati, Lord of Ndrukul. He took it to Ndrukul, to look at men. He put it to guarding his house, to guarding his betel nut palms, to guarding his coconut palms. All those who tried to steal from his coconut palms, from his betel nut palms it struck down. They died. He did not own up to it. Thirty days concluded, he bathed. [For thirty days after receipt the new owner of transferred magic must not own up publicly to having the power, even if men die from it meanwhile; nor must he bathe during that time. He must go unwashed for the time so that the magic becomes "securely attached to his skin."]</p>
+      <p>By grace my mother's brother struck many down. They died from him. They said of him that he had but to walk abroad and he would die [from revenge wrought on him]. He <pb n="260"/>heard of the magic that was on the other side [i.e., on the far north coast of the Great Admiralty, amongst the tribes there], that was possessed by all dependents there, that was possessed by all the lords there. It was nothing but good. My mother's brother took his spear, put it in his canoe, took his wooden bowls, put them in canoe, took his shell money, his dogs' teeth, put them in canoe, and went to Wati, Lord of Ndrukul. He charmed my mother's brother with the pel of the Nam. He gave the magic to him. Wati said to my mother's brother "Just wait five days; at the conclusion of that time I shall die. You burn up my house, oversee it, then return to your place!"</p>
+      <p>My mother's brother heard this. He made his stay until the five days were over. Wati died. He burnt up Wati's house. My mother's brother came away, bringing the pel of the Nam and the Wooden Eating Bowl of the Nam in his possession. He spoiled all with it. He struck down all with it. They all died. To the place of blood, the place where his brother was killed in war he went, breaking the taboo [against risk of “blood” entry into the body of the intruder]. Everyone said he would die. They mixed the oil from the body fat of his brother [they being cannibals] with the food, the taro they offered him. He ate. He did not become ill.</p>
+      <p>Then the influenza epidemic [of 1918] came to us. The family line of Talipopangang died out to a man. Nyamwe [an Usiai female seer] made a seer's vision. She saw talipopangang [now a ghost] and me in company. [In real life the two had gone about together a great deal, the seer was seeing that in death they would not be divided.] The men of talipopangang's line were paddling the two of us by canoe. Then the wife of Talikomuli, not a Manus woman, an Usiai woman she, was sorry for me. She told me saying, "Nyamwe saw you, you had died."</p>
+      <p>I heard it. I did not go by canoe. I plunged into the jungle. I took the dogs' tracks, the pigs' tracks, the ghosts' tracks, no tracks at all. I went. I went to my mother's brother. He was out fishing. I climbed up the rafters on <pb n="261"/>the beams beside the Wooden Bowl of the Nam. I ate a little pongapong and large crab. I ate musu [like camphor wood bark]. I ate ginger. I ate ku and kawe [aromatic herbs]. My mother's brother came home from fishing to see me.</p>
+      <p>I had lifted up the Wooden Bowl of the Nam. My mother's brother saw me. He said not a word. I said to him, "My mother's brother, if you had born a son, if you had born a daughter it might belong there. And you might remain [i.e., alive]. You have born no son, no daughter have you born. I want to take it."</p>
+      <p>My mother's brother heard it. He gave the pel of the Nam, the Wooden Bowl of the Nam. He gave it to me.</p>
+      <p>I did damage with it in New Ireland [where the speaker went as a workman]. I returned to Manus. I spoiled all with it. All said I had but to walk abroad and I should die. But I had a little [power] in my possession. I violated the tabooed places of the ghosts, of blood and war, of the tchinals. All said what little [power] has he to act so. I did not reveal it. But after thirty days I bathed in the sea, and revealed it.</p>
+    </body>
+  </text>
+</TEI>

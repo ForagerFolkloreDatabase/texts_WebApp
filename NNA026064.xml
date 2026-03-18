@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Saʼkesada, or the Moon-Boy</title>
+        <editor role="collector">James Teit</editor>
+        <editor role="narrator">Tuu:ʼts ('strong rocks')</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NNA026064</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Teit, James A. (1919/21): Tahltan Tales. In: The Journal of American Folk-Lore 32(124), 198-250; 34(133/134), 223-253, 335-356. Quot. p. 229.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA28403">Tahltan</name>
+          <date notAfter="1915" notBefore="1912" type="recorded">Recorded sometime between 1912 and 1915.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>(Saʼkesada,<note>Said to mean 'sits down on the moon.'</note> or the Moon-Boy.<note>Compare part of this story with Lillooet (JAFL 25 : 299), Sahaptin (MAFLS 2: 195), Shuswap (JE 2 : 653), Thompson (MAFLS 6 : 91; JE 8 : 229, 330; Boas, Sagen 15).</note>)</p>
+      <p>A man was hunting beaver. He had a large family of children. While one of his sons was out hunting, he cooked a large quantity of blood. The family ate it all, and left none for the boy, who was still out hunting. When he returned, he asked them why they had eaten all and left none for him, when he was hungry. He cried much. His father became angry because he would not stop crying, and was going to whip him to make him stop. The boy then seized the basket-kettle in which the blood had been cooked, and ran off.</p>
+      <p>That night all the people saw something strange appear on the face of the moon. Moon's face had always been perfectly clear and bright, but now there appeared what seemed to be the figure of a man standing there and holding a kettle. Presently they heard the man say to the moon, "You are my father. He who lives down below is not my father: he ate all the blood, and left me none. Now I shall stay here for all time. I have plenty of blood in my kettle now." He held up the kettle so that the people could see it. Then he called down to the people, " Call me Saʼkesada. You see that I stand straight now, but with age I shall gradually bend over. When I bend very far over, the end is not very far away. When at last I am upside down then everything on earth will dry up, and that will be the end of the world."</p>
+      <p>The figure of Saʼkesada may be seen now on the face of the moon as a dark shadow. The old people say he was straighter within their memory. He has been bending gradually for very many generations. Now he is at right angles, and therefore half the time has expired for the end of the earth to come.</p>
+    </body>
+  </text>
+</TEI>

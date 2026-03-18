@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Stories about Dwarfs (#3)</title>
+        <editor role="collector">James S. Mutch</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NNA024899</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Boas, Franz (1901): The Eskimo of Baffin Land and Hudson Bay. From notes collected by George Comer, James S. Mutch, and E. J. Peck. New York: AMNH (Bulletin of the American Museum of Natural History, 15,I). Quot. pp. 202-203.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA27903">Baffin Island Inuit</name>
+          <date notAfter="1899" notBefore="1883" type="recorded">Recorded sometime between 1883 and 1899.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>An old woman and her grandson were living all alone. Their people had deserted them. They were staying in a small side-room of a large hut. In the evening a number of dwarfs arrived. They entered at the door, and when they did not see a light, they thought that the house was deserted. They brought in the walrus-meat that they had on their sledge, made their beds, and went to sleep.</p>
+      <p>The old woman heard the dwarfs talking, and finally noticed that they had become quiet. Then she said to her grandson, "Go into the porch, where they have their meat. Touch your tongue, and draw your finger along the meat where it lies on the ground, touching both the meat and the ground, and be careful not to make any noise." The boy did so, and then crawled back to his grandmother.</p>
+      <p>The dwarfs were up again with the dawn, and prepared to depart. While the man was getting the sledge ready, his wife was taking the meat out of the porch. She found that one of the pieces of meat was very heavy, so that she could not lift it. She shouted to her husband, "Yesterday it was not heavy, but now I cannot lift it." Her husband retorted, "Then leave {203} it here," and they went off. The old woman and the boy were now supplied with food enough to keep them for a long time.</p>
+      <p>[According to the version recorded by Rev. E. J. Peck, this story runs as follows: An old woman and a boy were left in a house. A dwarf arrived, carrying some bags of meat, and said, "Is any one here? I wonder if there is a person here that is asleep." While the dwarf was asleep, the old woman said to her grandson, "Grandson, spit upon one of his bags." The boy spat upon a bag. When the dwarf awoke, he tried to take the bag away, but it stuck to the ground. Then the dwarf said, "One of my bags is fast. This is the case, for I thought there was a person here. But, never mind, take it!" Then he went out.]</p>
+    </body>
+  </text>
+</TEI>

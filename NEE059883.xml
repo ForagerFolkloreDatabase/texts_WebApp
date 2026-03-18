@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Bald Head</title>
+        <editor role="collector">Valentina Vladimirovna Shilova</editor>
+        <editor role="narrator">Turutina Polina Gilevna</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NEE059883</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0">CC BY-NC-SA</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Budzisch, Josefina/Wagner-Nagy, Beáta (2024): INEL Nenets Corpus. Version 1.0. Publication date 2024-12-31. https://hdl.handle.net/11022/0000-0007-FE37-E. Archived at Universität Hamburg. In: The INEL corpora of indigenous Northern Eurasian languages. https://hdl.handle.net/11022/0000-0007-F45A-1. Quot. p. s.p..</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CEE15002">Forest Nenets</name>
+          <date when="2002" type="recorded">Recorded in 2002.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>Bald head One autumn, two hunters went hunting together and took with them one camping tent. One had one  child, and the other had two. In the morning the two men went hunting. And their wives and children remained in the tent.  A woman with one child lived quietly without noise. In the morning she quietly gets up, the child does not make noise.  And another woman constantly made noise with the kids. When her two children made noise, the quiet woman told them: âYou canât make noise,  someoneâs head will hurt.â But this woman didn't listen to her friend.  One day, this is what happened. When the husbands left, she again rose noisily in the morning. Her friend says to  her: âHush, you canât make so much noise. You will bring sin to the luck of husbands, or you will frighten away luck. But she kept making noise, and suddenly in the dog's place at the entrance  to the tent the earth began to move. From there, out of the ground, the Bald Head appeared. That woman, who lived quietly, quickly jumped into the sacred place where food is stored, grabbed a cup of fat. She peeled the fat off the cup.  And Bald Head was already sticking out to the waist. She gave him fat and said: âGrandpa, make a passage under your  armpit. Let me go outside. My baby never makes noise."  The bald head made a passage: he lifted his arm under his arm. Then the woman, holding her baby, ran  outside and ran in the wake of the men. She found husbands, and the hunters say: âWhat happened to you?â  And the woman says: âOh, a friend with children kept making noise, did not listen to me. And then, in the dog's place at the entrance  to the tent, someone's head stuck out and rose. I ran away and she stayed." Quickly, everyone went to the  tent. They opened the door and see that a pool has formed where the woman's bed has been.  Bald Head turned out to be Nga, Nga is a disease. [The human tribe is sent to the other world by those who are from  the clan of Nga, who own the power of Nga.] The educational ethic is this: "Don't make unnecessary noise in the tent, next to the tent a head will rise. It is forbidden."</p>
+    </body>
+  </text>
+</TEI>

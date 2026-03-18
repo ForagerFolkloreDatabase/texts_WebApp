@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Boy with the Seal-Flippers</title>
+        <editor role="collector">Frank Alfred Golder</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NNA031251</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Golder, Frank Alfred (1909): Eskimo and Aleut Stories from Alaska. In: The Journal of American Folk-Lore 22(83), 10-24. Quot. pp. 20-21.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA27710">Aleut</name>
+          <date notAfter="1909" notBefore="1900" type="recorded">Recorded sometime between 1900 and 1909.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>Kawhachnanign, chief of a village, had a wife and two sons. The older was the darling of the mother, while the father preferred the younger. This boy had one marked peculiarity - his hands and feet were like those of a fur-seal. When he was walking, his flippers would interfere with each other, causing the child to fall. The villagers were greatly amused, but fear of the father kept them from manifesting their fun publicly.</p>
+      <p>One time when the chief and his men were out hunting, a party of warriors from another village came to attack Kawhachnanign and his people. Learning that the men were all gone, the visitors decided to have a grand feast that night, and in the morning kill all the old people and ugly women and children, and take with them the younger women and some of the children. They pulled up their bidarahs [large open skin boats] on the beach without fear or hindrance. All the small boys, who were just then playing near the water, ran away out of danger except the boy with the seal-flippers, who could not keep up. He was captured, gazed at, and made much fun of by the visitors. The mother, when she learned of the whereabouts of the child, advanced towards the warriors, weeping and singing, "I do not love him, but his father loves him. Send him to me." They let him go; and as he walked towards his mother, he fell every few steps. This scene the warriors enjoyed hugely. When he fell, some one picked him up and sat him on his feet again, and this <pb n="21"/>would be succeeded by another fall and more laughter. The mother suffered a great deal, but could not interfere; and when the boy at last reached her, she took him in her arms and ran home weeping.</p>
+      <p>While the warriors were feasting and making merry, Kawhachnanign and his men were on their way to the village; and when they noticed the camp-fire and the bidarahs on the beach, they knew that the enemy had but recently arrived. They therefore landed in a small cove on another part of the island, and under cover of darkness got into the village unperceived. The chief found his wife in tears, and asked her the cause of her grief, and whether anyone had been injured. In reply she took the crippled child and gave him to the father, saying, "Take your child, I do not love him," and related all that had taken place. He did not say much, but lay down to think. Early in the morning, when it was light enough for one ‘to see the lines in the palm of the hand,’ Kawhachnanign with his men fell on the sleeping and unsuspecting warriors and cut their heads off. Not feeling himself sufficiently revenged, he went to the village of the enemy, killed the old and ugly, and brought the others back as captives.</p>
+    </body>
+  </text>
+</TEI>

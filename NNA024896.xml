@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Man in the Moon</title>
+        <editor role="collector">James S. Mutch</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NNA024896</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Boas, Franz (1901): The Eskimo of Baffin Land and Hudson Bay. From notes collected by George Comer, James S. Mutch, and E. J. Peck. New York: AMNH (Bulletin of the American Museum of Natural History, 15,I). Quot. pp. 198-200.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA27903">Baffin Island Inuit</name>
+          <date notAfter="1899" notBefore="1883" type="recorded">Recorded sometime between 1883 and 1899.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>Once upon a time there was a man who did not treat his wife well. One day he even struck her, although she was with child. Late in the day he went sealing. It was a bright night; the stars and the moon shone clearly. Then the woman addressed the Man in the Moon, asking him to come down. In the morning she heard some one talking to dogs, and saw a sledge drawn by two dogs. It was the Man in the Moon, and his dogs Terieʼtiaq and Kanageak. The Man in the Moon shouted to her, "Come outside!" She obeyed, and he asked her to sit down on his sledge. Then he told her to shut her eyes, and not to open them until they arrived at their destination. She shut her eyes, and off they went upwards through the air. After a short time the Man in the Moon said, "Now open your eyes." She replied, "I thought we had arrived." She looked about, and saw a snow house. They entered. Inside she found everything very nice. The man invited her to stay with him. He said, "You will sit on the left side [facing the door] of my house." He himself sat down in front of the lamp, on the right-hand side of the house. After some time he asked her to come to him, and he showed her a hole close to his seat, through which she could look down to the earth. She could see her husband seated outside of the door of his house, his clothing covered with ice and snow. He had just returned from sealing, and had found that his wife was gone. She was very much surprised to see everything so clearly, although such a long distance off.</p>
+      <p>Then the Man in the Moon said to her, "A woman named Ululiernang will come in very soon. Do not laugh at anything she may do, else she will cut out your intestines. She is very fond of such food. If you feel that you cannot help laughing, put your left hand under your knees, and then raise it with all the fingers bent down from the second joint except the middle finger, which you must extend." He had hardly finished speaking, when Ululiernang came in. She had a flat dish and a woman's knife. She put them down, and began a number of antics. She took the front flap of her jacket, made {199} it into a round shape, and put it to one side, as though she were going to say, "Don't move off that way!" and she cut many capers, trying to induce her to laugh. When the visitor felt inclined to laugh, she took her hand from under her knee, with all the fingers shut except the middle one, and showed it to Ululiemang. Then the latter said, "I am much afraid of that bear." She thought the woman's hand looked just like a bear's paw. Then the man and the woman had meat for their supper.</p>
+      <p>After some time the Man in the Moon told the woman it was time for her to go back to earth. He said to her, "After your child is born, you will hear a noise as of something falling. You must then go and see what it is." Then he took her back to earth, to her husband's hut.</p>
+      <p>Her husband told her how badly he had felt when he found she had gone. He had thought her dead. Then she told her husband all that had happened.</p>
+      <p>After a while her child was born. It was a boy. Her husband was off sealing, and she was alone. Then she heard something fall, and went out to see what it was. She found a caribou's ham, which she took into the hut. In the evening her husband arrived, and when he saw the caribou-meat, he asked her where she had obtained it. She told him that it fell down from heaven. She said, "It is from the Man in the Moon. He told me that he would send me something." After some time, when the meat had all been eaten, the man went off sealing again. The woman had no oil for her lamp. Suddenly she saw some oil dripping, first into one lamp, then into the other. When the lamps were full, she cried, "That's enough!" She knew that this also was a gift from the Man in the Moon. In the evening her husband arrived. He was surprised when he saw the oil, and asked his wife where it came from. She replied, "The lamps filled of themselves, and when I saw there was oil enough, I said, 'Stop!'"</p>
+      <p>On the following day her husband went out sealing again. While he was away, she heard something fall down, and, on going outside, found another caribou's ham. In the evening her husband returned. He had caught a seal. He asked, {200} "Have you more caribou-meat?" - "Yes," she replied, "the Man in the Moon has given me some more." In the evening her husband saw the lamps filling with oil.</p>
+      <p>On the following day, when out sealing again, he caught another seal and brought it home. While he was cutting it, he said to his wife, "There is plenty of seal-meat here. Why. don't you eat some? I caught it." The woman, who up to this time had eaten only of the caribou-meat given to her by the Man in the Moon, did take some of her husband's seal. From that time on, no more caribou-meat fell down from heaven, and her lamps were no longer filled with oil. Soon she became sick. The caribou-meat was all gone, and she died. Her child died also. The change from caribou-meat to seal-meat diet while the child was still young was so injurious that it caused the child's death.</p>
+    </body>
+  </text>
+</TEI>

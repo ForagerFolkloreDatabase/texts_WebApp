@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>How Raven Stole the Rich Man's Daughter (version 1)</title>
+        <editor role="collector">John W. Chapman</editor>
+        <editor role="narrator">Stephen Morton</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NNA040048</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Chapman, John W. (1914): Tenʼa Texts and Tales from Anvik, Alaska. With Vocabulary by Pliny Earle Goddard. Leyden: Brill &amp; New York: Stechert (Publications of the American Ethnological Society, 6). Quot. pp. 28-30.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA28601">Deg Xitʼan</name>
+          <date notAfter="1911" notBefore="1887" type="recorded">Recorded sometime between 1887 and 1911.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>There was a big village where the people lived in mud houses; and in the village there lived a rich man who <pb n="29"/>had a big house with a skin tied to a pole on top of the house, because he was a very rich man. He had a wife and one daughter. In the middle of the village there was a big kashime; and every evening the men of the village went into the kashime, and their wives brought them fish and meat and ice-cream; and after they had eaten, their wives took the wooden bowls away and went to their own houses, and the old men and the boys all went to sleep in the kashime. Early in the morning the young boys would go to get wood for the kashime, and afterwards they would have breakfast. Sometimes the rich man would hunt for deer, and would kill plenty of deer with his arrows and bow, and would feed all the people. Now, his daughter was a fine girl, and she did not wish to get married to anybody. And all the young boys liked her, and every one got fire-wood for her, and tried to go into her father's house to visit her; but she did not care for them, and threw all their dry wood over the bank. They all tried for her, but they could not get her. One summer the girls of the village took their canoes and went to get berries, and the rich man's daughter went with them in her canoe. They all stopped at the foot of a mountain, and left their canoes, and went up on the mountain to get berries. When the Raven man heard that the girls had gone to get berries, he took his canoe and went after them, and found their canoes drawn up on the shore, and took them over to the other side of the river. When the girls came down from the mountain, they found that their canoes were gone; and they said, "Oh, my! our canoes are on the other side of the river: the wind did it." Then they saw the Raven man paddling past them; and they called to him, and said, "Bring our canoes over to us!" But he said, "No, I will take you across in my canoe." So the girls said, "Yes;" and he <pb n="30"/>took over first one, and then another. Then the rich •man's daughter said, "Take me over!" but he said, "By and by." So after he had taken all the others over, he took the rich man's daughter into his canoe, but he went off down the river with her. And she cried, because she did not like the Raven man. So he went on down the river with her; and she cried all day long, because she did not like him. And he said to her, "Don't cry! I will not hurt you, I am a good man." But she said, "I don't like you: you tell lies all the time." The next day the girl said, "I want to go into the woods for a little while." So the Raven man said, "Yes;" and he tied a long rope to her, because he thought she might run away, and he held the end of it while she went into the woods. Then she untied the rope, and tied it to a tree and ran away. The Raven man called to her, but there was no answer; and he pulled upon the rope, but it did not give; and he pulled it hard, and the tree broke off. Then he ran up into the woods, looking for her; but she was on the way home, and got there first. Afterward he went home too; and his grandmother asked him, "Where have you been?" and he said, "I have been in the woods." But his grandmother said, "I hear that you took the rich man's daughter off down the river. Don't do that again, because you are not a rich man, to take that girl for your wife." And after that, all the people turned into animals.</p>
+    </body>
+  </text>
+</TEI>

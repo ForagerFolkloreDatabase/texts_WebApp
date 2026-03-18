@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Sun and the Moon (version 2)</title>
+        <editor role="collector">Edward William Nelson</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NNA003119</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Nelson, Edward W. (1899): The Eskimo about Bering Strait. In: Eighteenth Annual Report of the Bureau of American Ethnology. Washington: Government Printing Office, part I, 1-518. Quot. p. 482.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA27736">Ikogmiut</name>
+          <date notAfter="1881" notBefore="1877" type="recorded">Recorded sometime between 1877 and 1881.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>In a certain village on the great river once lived four brothers and a sister. The sister had for a companion a small boy of whom she was very fond. This boy was lazy and could never be made to work. The other brothers were great hunters and in the fall hunted at sea, for they lived near the shore. As soon as the Bladder feast was over they went to the mountains and hunted reindeer.</p>
+      <p>The boy never went with them, but stayed at home with the sister, and they amused each other. One night the sister awoke and found the boy lying in bed close to her, at which she became very angry and made him go to sleep in the kashim with the men. The next evening, when she carried food to her brothers in the kashim she gave none to the boy; instead, she went home, and after mixing some berries and deer fat, cut off one of her breasts, placed it in the dish, and carried it to the boy. Putting the dish before him she said, "You wanted me last night, so I have given you my breast. If you desire me, eat it."</p>
+      <p>The boy refused the dish, so she took it up and went outside. As she went out she saw a ladder leading up into the sky, with a line hanging down by the side of it. Taking hold of the line, she ascended the ladder, going up into the sky. As she was going up her younger brother came out and saw her and at once ran back into the kashim, telling his brothers. They began at once to scold the boy and ran out to see for themselves.</p>
+      <p>The boy caught up his sealskin breeches and, being in such a hurry, thrust one leg into them and then drew a deerskin sock upon the other foot as he ran outside. There he saw the girl far away up in the sky and began at once to go up the ladder toward her, but she floated away, he following in turn.</p>
+      <p>The girl then became the sun and the boy became the moon, and ever since that time he pursues but never overtakes her. At night the sun sinks in the west and the moon is seen coming up in the east to go circling after, but always too late. The moon, being without food,wanes slowly away from starvation until it is quite lost from sight; then the sun reaches out and feeds it from the dish in which the girl had placed her breast. After the moon is fed and gradually brought to the full, it is then permitted to starve again, so producing the waxing and waning every month.</p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>There Once Was a Man (Tayagux Hiing Angaginax - There Lived a Man There)</title>
+        <editor role="collector">Waldemar Jochelson</editor>
+        <editor role="narrator">Saveliy Prokopyev</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NNA038351</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Jochelson, Waldemar/Yarmolinsky, Avrahm (1944): Aleutian Manuscript Collection. In: Bulletin of the New York Public Library 48(8), 671-680. Quot. pp. 676-677.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA27710">Aleut</name>
+          <date when="1909" type="recorded">Recorded in 1909.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>There was once a man. His wife wanted to eat seal meat, so he went hunting. When he was gone, the chief of the settlement by the name of Sádax̂ called the woman to him. Her mother-in-law objected, but she went nevertheless and spent the night with the chief. Her two small children were restless and the mother-in-law had to quiet them and passed a sleepless night.</p>
+      <p>The next morning the hunter returned home and not seeing his wife asked his mother where she was. The old woman told him what had happened. He sharpened his knife and in a rage went to the chief and cut off his head as well as that of his wife. He tied both heads together and hung them up on the post to which the chief's skin-boat was fastened. Then he ascended the chief's observation hill and saw from there how the heads and corpses frightened the people. He remained there so long that his bird-skin boat almost rotted away. Thereupon he went down the hill and traveled in a <pb n="677"/>skin-boat to the place where he had left the seals he had killed and found only their bones and hair. The seals had decayed. Then it occurred to him that the body of his wife must be in the same condition and he wept.</p>
+    </body>
+  </text>
+</TEI>

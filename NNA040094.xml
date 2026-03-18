@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>"You smell of my Wife," a Girl's Adventure in a Family of  Bears</title>
+        <editor role="collector">John W. Chapman</editor>
+        <editor role="narrator">Julia Longman Cutter</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NNA040094</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Chapman, John W. (1914): Tenʼa Texts and Tales from Anvik, Alaska. With Vocabulary by Pliny Earle Goddard. Leyden: Brill &amp; New York: Stechert (Publications of the American Ethnological Society, 6). Quot. pp. 77-78.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA28601">Deg Xitʼan</name>
+          <date notAfter="1911" notBefore="1887" type="recorded">Recorded sometime between 1887 and 1911.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>Once there was a big village, and in it there lived a rich man who had three sisters. The two older sisters had a swing; and one day, when they were swinging, their younger sister came out and asked them to let her swing, too. At first they refused but she begged them to let her swing, and finally they told her that they would put her in the swing if she would hold on tight. Now, the swing was on a high rock at the edge of the water; and she let go her hold and fell into the water, and her sisters were so frightened that they ran away. They ran for miles and miles; and finally the one who was ahead looked back, but she saw nothing of her sister: so she went on, and by and by she came to a heap of bear's fur. She searched through it, and found an arrow-head, and put it in her sleeve. Then she went down the hill, and soon she came in sight of a house. She went in, and found a man and two little boys, who gave her something to eat. When it came evening, they went to bed. In the night she was awakened by something sniffing at <pb n="78"/>her, and she saw that it was a yellow bear. She went to sleep again, however; and when she awoke in the morning, she saw two little bears sleeping together in the room. Then she went to the door, and saw a bear fishing in the stream. She went to sleep again, and by and by the two boys woke her and gave her some fish to eat; and the man looked at her, and said, "You smell of my wife." The next morning the two boys told her that their father was coming after her to kill her; but they made a hole though the back of the house, so that she could get away, and she escaped. She found, however, that a great bear was following her. She ran very fast, and by and by she came in sight of a village. She screamed, "The bear is coming, the bear is coming!" and the men heard her, and got their arrows and spears and went out and killed the bear, and made a great feast for all the people; and she found that it was her own village that she had run away from; and there were her older sister and her younger sister. And she said to her older sister, "Why did you leave me?" and her sister answered, "I came back home again."</p>
+      <p>Now, it seems that the bear had had a wife; and his wife had turned into a bear and had gone up on the hill; and a man who was hunting had seen her and shot her with an arrow, and she had run away and died on the hillside; and the bear had smelled the arrow-head, and that is why he said, "You smell of my wife."</p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Medicine-Men</title>
+        <editor role="collector">Christiaan Cornelis Uhlenbeck</editor>
+        <editor role="narrator">Káinaikoăn</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NNA038062</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Uhlenbeck, Christiaan C. (1912): A New Series of Blackfoot Texts from the Southern Peigans Blackfoot Reservation, Teton County, Montana. With the help of Joseph Tatsey collected and published with an English translation. Amsterdam: Müller (Verhandelingen der Koninklijke Akademie van Wetenschappen te Amsterdam, Afdeeling Letterkunde, NS 13,I). Quot. pp. 56-57.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA31305">Piegan</name>
+          <date when="1911" type="recorded">Recorded in 1911.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>An old man, an ancient Peigan, a medicine-man, was also pitied by bears. He was called Went-to-the-bear. He was very dangerous. He had a bear-knife [a knife given by a bear]. He would not be seen [he was invisible] in the war. He was told by that bear: There will be no blood about your body. This his [own] tribe was afraid of him just the same [as his enemies]. He walked just the same way as the bear. That one profited much from his dream. When we were at war, the bear-knife was his only knife, he fought with in the war. When he saw persons [enemies], he made charges upon them, even if they were shooting back at him. He would just catch them. He would catch them by their hair. Then he began to stab them. He would just kill them with that [knife]. He killed seven <pb n="57"/>persons with his knife. He used the power of the bears [given to him by the bears]. He died from his old age. To-day his knife is still here. That was one, that profited from his dream. He had many profits from his dream. When he gave it [the power] away, he had again profit from his dream, from those to whom he gave [the power]. That is the end.<note>Cf. Grinnell blt 191 sq., and Wissler-Duvall mbi 95 sqq.</note></p>
+    </body>
+  </text>
+</TEI>

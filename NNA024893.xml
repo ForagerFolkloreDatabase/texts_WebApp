@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Koodlowetto, the Giant</title>
+        <editor role="collector">James S. Mutch</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NNA024893</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Boas, Franz (1901): The Eskimo of Baffin Land and Hudson Bay. From notes collected by George Comer, James S. Mutch, and E. J. Peck. New York: AMNH (Bulletin of the American Museum of Natural History, 15,I). Quot. pp. 195-196.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA27903">Baffin Island Inuit</name>
+          <date notAfter="1899" notBefore="1883" type="recorded">Recorded sometime between 1883 and 1899.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>At Anganichen, beyond Aggo, lived a man of monstrous size, whose name was Koodlowetto. His sister was as large as he. One day he went hunting, and came to a place where a number of walrus had made a hole through the ice. He got ready to harpoon them, and as soon as one appeared, he harpooned it. Then he took hold of his line, and got in position to hold the walrus when it should dive. While he {196} was standing there, he stumbled on a small piece of ice which was probably thrown out by the walrus when they made the hole. He fell down, and, as the end of his line was fastened round his left wrist, he was dragged into the water. He was so large, however, that he was able to take hold of the ice at one side of the hole with one hand, while he held on to the opposite side with the other. Thus he held on until the line eased up. Then he was able to crawl out of the hole, haul in the walrus, and kill it. When he reached home, he told the people what had happened. Another day he went off with the other people to seal. In the evening a man by the name of Ikalakjew passed him on his way home. He invited him to sit down on his sledge; but as soon as he sat down, the sledge broke to pieces, and both had to walk home.</p>
+    </body>
+  </text>
+</TEI>

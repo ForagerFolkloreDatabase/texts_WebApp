@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Emigration to the Land beyond the Sea</title>
+        <editor role="collector">James S. Mutch</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NNA024891</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Boas, Franz (1901): The Eskimo of Baffin Land and Hudson Bay. From notes collected by George Comer, James S. Mutch, and E. J. Peck. New York: AMNH (Bulletin of the American Museum of Natural History, 15,I). Quot. pp. 191-193.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA27903">Baffin Island Inuit</name>
+          <date notAfter="1899" notBefore="883" type="recorded">Recorded sometime between 883 and 1899.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>There were a number of families living at Qenertung, and others at Ixaʼluin, near Ixaluaqdjung, not far from Qenertung. In the spring of the year the people of Qenertung used to move to Operniving to hunt seals. At Qenertung lived a man and his wife who had a young son, and the woman's mother lived with them. The man was the only hunter at this place. After some time the people from Ixaʼluin moved to Qenertung, and put up their huts there. Then all the men went out sealing together. At noon they generally took a bite of the seals that had been caught. They lived in this way for some time, when one day the man who had been at Qenertung all winter caught a seal, a small portion of which he gave to the other men. In the evening he cut it up in his hut, and invited them to partake of it. Some of the men remained outside, while one of their number assisted in carving the seal. Suddenly the host saw that the trousers-legs of his companion were shaking, and this frightened him. When the seal was all cut up, he went outside to wash his hands with snow. Then one of the other men jumped up and tried to throw him, but was unable to do so. He called for assistance; and the person who had helped cut the seal came out of the hut, took the man whom they were attacking by the feet and threw him down. Then he killed him with his knife. They dragged the body away from the hut.</p>
+      <p>Then the murderer forced the man's widow to cohabit with him. Early in the morning he went back to his own house, and every night he spent with the widow of the murdered man. One day she said to her mother, "My son would be able to kill that man if I were to hold him fast." Her mother agreed. Then the woman told her son to kill their enemy when opportunity should offer. The boy was afraid to do so, but his mother urged him on until he consented. The boy's grandmother said, "You do not need to be afraid. You can easily escape from them. We shall leave as soon as he is {192} killed, while it is dark, and we shall be far away before they know anything about it; and if they should catch up with us, I can cut the ice and set it adrift." Then his mother told him what to do.</p>
+      <p>In the evening the man came into the house again. The woman pretended to be in love with him, and embraced him. When he lay on her, she held him with her arms and her legs. Then the boy took his knife and stabbed him from behind. As soon as he was dead, they harnessed their dogs to their sledges and started. They were far out to sea before the people discovered the murder and started in pursuit. The dogs of the pursuers, however, went much faster than theirs, and they soon began to catch up with the fugitives. The old woman was lying on the sledge, and to all appearances did not notice the approach of their pursuers; but the boy was afraid, and began to cry, "Where is the one who promised to break the ice when our pursuers were gaining on us?" Then the old woman raised her head, and said, "I am here, my boy." Now the dogs of the pursuers were close up to them. Then she raised her bare hand, and extended only her little finger, which she moved as though she were drawing a line between the two sledges. As she moved it, the ice broke, and drifted away; fog rose from out of the water; and they were safe from their pursuers. The old woman told the boy to stop driving the dogs, as they were now out of danger. They drifted about for some time, but finally reached the opposite side of the sea. There they built a hut.</p>
+      <p>Every day the old woman went outside. Finally she met a man, who came to her and entered the house. He asked her to marry him, and she consented. After some time she gave birth to a girl. The old woman and the man had been talking of making a kayak. One day the man found a piece of driftwood, which he buried in the damp sand on the beach. After a while, when he went to take the wood out, he found that it had increased very much in bulk. It was enough for the framework of a boat. He began to build a kayak; and when it was finished, the old woman said," This is not like the kayaks which I used to see." The man replied, "I do not {193} know how to build any other kind." Then the boy wished to have a kayak also, and he built one like those he used to see in his own country; but the other man was not pleased with it, and, fearing that some accident might happen to the boy, he cut a hole in it, put in a large stone, and pushed it into deep water, where it sank. Then he built another kayak of the same pattern as his own, and gave it to the boy. When the girl was old enough to marry, the boy took her for his wife. Both families continued to increase, and their descendants still live in the land beyond the sea.</p>
+    </body>
+  </text>
+</TEI>

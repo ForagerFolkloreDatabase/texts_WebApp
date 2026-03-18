@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A Bad Wife and a Devil</title>
+        <editor role="collector">Konstantin Nikolaevich Rychkov</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NEE060151</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0">CC BY-NC-SA</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Däbritz, Chris Lasse/Gusev, Valentin/Stoynova, Natalia (2024): INEL Evenki Corpus. Version 2.0. Publication date 2024-12-31. Archived at Universität Hamburg. https://hdl.handle.net/11022/0000-0007-FE38-D. In: The INEL corpora of indigenous Northern Eurasian languages. https://hdl.handle.net/11022/0000-0007-F45A-1. Quot. p. s.p..</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CEE15803">Evenki</name>
+          <date notAfter="1919" notBefore="1910" type="recorded">Recorded sometime between 1910 and 1919.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>A married man had a wife. She was like that: she would rant at her husband, she was a bad wife.  Her husband got tired of her. THe husband left and walked through the taiga. At the foot of a mountain he found a lake, a  round and deep one. He thinks: âI must call my wife and tell her: I found cranberries!  I'll lie!â He went home and came home. The woman scolds him again: âWhere did you go  for so long?â I was looking for berries, he says!â He, the man, began to work in his jurt.<note>[StN]: Ð½Ð°ÑÐµÐ»? Ð¸ÑÐºÐ°Ð»?</note> The woman says: âWhat did you find?â He says: 'I found cranberries on the mountain!'  He was tired of her: âLet's go! Let's go! Let's go!  I'll pick cranberries!â âWell, let's go!â â says the husband. So they go. As they walk, she keeps scolding her husband. They arrive at the lake.  The husband says: âHere, on the lake, there are cranberries on the other <note>[StN]: progr</note>side!â She began to look over to the other side, to the lake. Then her husband  pushed [her] into the lake. When she looked on the other side, he pushed her in. His wife fell into the lake â she drowned.  She drowned and her husband went home. He stayed in the yurt, he stayed thereâ¦ He stayed in the  yurt for a while, then he thought: ââI'll go and look at the lake! I'll go look at the lake!  I'm going to lower the rope, the end of the rope â and see what happens there? He went, he took the rope, and came to the lake.  He threw the rope, lowered the end [of the rope] into the lake. Then he pulled it up and caught someone on the rope.  He pulled out the rope: a devil jumped out and caught him by the rope. âWhat?â [says the man?].  He [the devil] says: âI'm tired of the crooked woman! Let me go quickly!â â he says. The man pulled him, the little devil,  out. The devil went and entered the rich man's brick hut. At night, the <note>[StN]: nÊ¼oduldÊ¼an - ?</note>households left and the hut was empty. He [the devil] threw out the owners. This man came to the village, and entered the  hut. They fed him. He said: âI don't know where to sleep.â  The owner said: 'I've got a hut â go spend the night there! They drove the man away  on a horse. They're riding on a horse. The master's worker says: 'There are devils in this hut!<note>[StN]: Ð²ÐµÐ·ÑÑ?</note> The man says: 'What kind of devils are they? Just a little devil!â This man says again: 'Devils [there are]! his man again says, âWhat kind of devils is that? Like this, a devil!â He left him, this man, alone. He knows that this devil would come.  He goes to the top floor â it's dark. He hears: the devil is coming. He threw some bricks <note>[StN]: INS - RUS </note>â the devil has come. He, the man, ran down the stairs from the top. He said: âHey, the crooked <note>calque?</note>woman has come here!â The devil ran away â he abandoned his hut. He stopped living in that hut â he left.<note>[StN]: nÊ¼oda - RUS lex calque Ð±ÑÐ¾ÑÐ¸ÑÑ? </note> The man spent the night there in the hut. Then the owners came in the morning and said: âThe devil ate this man, he killed him!  âWe should go and see!â When they came, the man was in the hut!  They say: 'The man is alive, he spent the night alone!?' The man says: âNow live!  There are no devils in this hut! Live!â</p>
+    </body>
+  </text>
+</TEI>

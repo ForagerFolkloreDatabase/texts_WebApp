@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Shiktowul, Dorongo, Tenchu</title>
+        <editor role="collector">Konstantin Nikolaevich Rychkov</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NEE060150</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0">CC BY-NC-SA</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Däbritz, Chris Lasse/Gusev, Valentin/Stoynova, Natalia (2024): INEL Evenki Corpus. Version 2.0. Publication date 2024-12-31. Archived at Universität Hamburg. https://hdl.handle.net/11022/0000-0007-FE38-D. In: The INEL corpora of indigenous Northern Eurasian languages. https://hdl.handle.net/11022/0000-0007-F45A-1. Quot. p. s.p..</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CEE15803">Evenki</name>
+          <date when="1913" type="recorded">Recorded in 1913.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <note>[StN]: very unclear</note>
+        <note>[StN]: what is ingoti?</note>
+        <note>[StN]: urkÉptun - "Ð´Ð²ÐµÑÐ½Ð°Ñ Ð·Ð°Ð½Ð°Ð²ÐµÑÐºÐ°" (Vasilevich 1958)</note>
+        <note>[StN]: different punctuation in the Evenki text in R's manuscript</note>
+        <note>[StN]: -ti -- a variant of -tin?</note>
+        <note>[StN]: who?</note>
+        <note>[StN]: -tpi?</note>
+        <note>[StN]: loÅ¡oÅoÅol - unclear</note>
+        <note>[StN]: who -- whom?</note>
+        <note>[StN]: Q-clitic in a word-internal position?</note>
+        <note>[StN]: -ja ACC.INDF or PL?</note>
+        <note>[StN]: very unclear</note>
+        <note>[StN]: miti - ?</note>
+        <note>[StN]: where </note>
+        <note>is his father's speech? where is his speech?</note>
+        <note>[StN]: Northern h-? or hur- 'dive'?</note>
+        <note>[StN]: syntax is unclear: why refl?</note>
+        <note>[StN]: why refl?</note>
+        <note>[StN]: Pl, see above and below</note>
+        <note>[StN]: Pl -- who?</note>
+        <note>[StN]: R's translation is different</note>
+        <note>[StN]: unclear: bu- 'die' or 'give'?</note>
+        <note>[StN]: not sure in the analysis</note>
+        <note>[StN]: borders of direct speech?</note>
+        <note>[StN]: NB see R's </note>
+        <note>translation pst â¦ prs</note>
+        <note>[StN]: decaus meaning</note>
+        <note>[StN]: tulÉwÉrwir -- not sure in the analysis</note>
+        <note>[StN]: why refl?</note>
+        <note>[StN]: it seems to be </note>
+        <note>! corrected to ?</note>
+        <note>[StN]: direct speech -- the whole fragment is unclear; -nat -- ?</note>
+        <note>[StN]: not sure, the last word (two words?) is written very unclear</note>
+        <note>[StN]: unclear</note>
+        <note>[StN]: fut?</note>
+        <note>[StN]: tilÄaÅaÅ¡a -- unclear</note>
+        <note>[StN]: who? whom?</note>
+        <note>[StN]: </note>
+        <note>unknown verbs</note>
+        <note>[StN]: Vasilevich </note>
+        <note>1958: ÑÑÐ²ÑÐ½Ð° 1 ÑÐ¾Ð¿ÐµÑÑ Ð½Ð¾ÑÐ¾Ð¼, ÑÑÐ²ÑÐ½Ð° 2 Ð¿Ð¾Ð´Ð³Ð¾Ð²Ð¾ÑÐ¸ÑÑ</note>
+        <note>[StN]: who?</note>
+        <note>[StN]: not sure in the analysis -- buwanildÉ?? || </note>
+        <note>[StN]: ipfv-progr?</note>
+        <note>[StN]: R's translation is different</note>
+        <note>[StN]: warun -- phon. strange /u/</note>
+        <note>[StN]: not finished</note>
+      </p>
+    </body>
+  </text>
+</TEI>

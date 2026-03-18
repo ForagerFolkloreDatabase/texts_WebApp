@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Stories about Tornit (#3)</title>
+        <editor role="collector">James S. Mutch</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NNA024914</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Boas, Franz (1901): The Eskimo of Baffin Land and Hudson Bay. From notes collected by George Comer, James S. Mutch, and E. J. Peck. New York: AMNH (Bulletin of the American Museum of Natural History, 15,I). Quot. pp. 210-211.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA27903">Baffin Island Inuit</name>
+          <date notAfter="1899" notBefore="1883" type="recorded">Recorded sometime between 1883 and 1899.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>A number of Tornit were living in Saumia. Near by lived another race of people called Ketch-wey-ews or Ken-wey-ews [Hawks]. The latter had long nails, and were a wicked, murderous band, who finally turned into birds of prey.</p>
+      <p>Among the Tornit was a great angakok. One day his friends told him that four Eskimo were approaching who were returning from the caribou-hunt. He was asked to go out to meet them. The angakok rubbed his hands on the bottom of {211} his cooking-pot to blacken them, and then joined his friends, who stood looking at the four strangers. One of these had on a new jacket made of the skin of young seals, the flesh side of which was white. The angakok went to meet him, and expressed his admiration of the new jacket, passing his blackened hands over it until both back and front were of nearly the same color as the bottom of the pot on which he had blackened his hands.</p>
+      <p>The visitors did not take offence at the blackening of the new jacket, and this was considered by the Tornit as proof that they intended no evil. They were invited to enter the huts, that they might be saved from the clutches of the Hawks, who would have devoured them if they had staid outside. After several days they went on caribou-hunting. They lived to hand down the tale to the present generation.</p>
+    </body>
+  </text>
+</TEI>

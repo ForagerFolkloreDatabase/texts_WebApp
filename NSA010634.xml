@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Tawkxwax's Skill in Fishing</title>
+        <editor role="collector">Alfred Métraux</editor>
+        <editor role="narrator">Pedro</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NSA010634</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Métraux, Alfred (1939): Myths and Tales of the Matako Indians (The Gran Chaco, Argentinia). In: Ethnological Studies/Etnologiska Studier 9, 1-127. Quot. p. 24.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CSA39401">Wichí</name>
+          <date when="1933" type="recorded">Recorded in 1933.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>Tawkxwax was married to a Matako woman. He invited his father-in-law to go fishing with him. On the river bank he ordered his father-in-law to light a big fire while he went swimming. He dove into the water and hour later he emerged with surubi, bagre, amarillo, pacu and an asak fish. They ate all they could. The father-in-law was to carry home the remaining fish but they were so numerous he was obliged to leave many behind. That night Tawkxwax beat a drum to call the people. He distributed the fish among them and taught them the art of curing disease. The second day Tawkxwax and the people went to fish again. He had big nets made with very strong wooden frames. The men entered the river in a line with the nets in their hands. Tawkxwax went downstream and drove the fish up to the nets where they were caught. They were successful in catching fish three times, but when they tried the fourth time the frames of the net broke and the fish escaped. Tawkxwax knew that this was going to happen and had warned the men, but they did not heed his warning to use stronger nets and unbreakable frames. Despite their carelessness many fish were taken.</p>
+    </body>
+  </text>
+</TEI>

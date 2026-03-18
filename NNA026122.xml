@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Water-Being as a Lover (version 2)</title>
+        <editor role="collector">James Teit</editor>
+        <editor role="narrator">Tuu:ʼts ('strong rocks')</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NNA026122</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Teit, James A. (1919/21): Tahltan Tales. In: The Journal of American Folk-Lore 32(124), 198-250; 34(133/134), 223-253, 335-356. Quot. pp. 242-243.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA28403">Tahltan</name>
+          <date notAfter="1915" notBefore="1912" type="recorded">Recorded sometime between 1912 and 1915.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <note>See BBAE 59 : 304, note I (Assiniboin, Bellacoola, Caddo, Carrier [pp. 4, 5, 22, 23], Cheyenne, Chippewayan, Chukchee, Cree, Lillooet, Ojibwa, Passamaquoddy, Shuswap, Sioux, Thompson, Tsʼᴇtsʼaut, Tungus [Yana]); also this number, pp. 239-240.</note>
+      </p>
+      <p>A man's wife always went to the shores of a certain lake to gather roots, and brought back hardly any. She would not go to any other <pb n="243"/>place. Her husband became suspicious. She complained of being sick and lame. One day he told her he was going hunting, but instead sat down on a hill above the lake and watched. His wife came along; and when she reached the shores of the lake, she began to sing love-song. A water-being came out and played with her. The husband told her he would go the next day and gather the roots, as she was sick and not able to gather much. He disguised himself. When he sang a love-song as his wife had done, the water-being came out. The man cut off his privates with a knife which he had concealed in his bosom. He boiled them, and gave them to his wife to eat. When she saw what she had been eating, she vomited, and afterwards, through shame, committed suicide.</p>
+    </body>
+  </text>
+</TEI>

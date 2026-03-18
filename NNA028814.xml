@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Woman Who Married the Bear</title>
+        <editor role="collector">Harry Hull St. Clair</editor>
+        <editor role="narrator">Tom Hollis</editor>
+        <editor role="narrator">Jim Buchanan</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NNA028814</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Frachtenberg, Leo J. (1913): Coos Texts. New York: Columbia University Press &amp; Leyden: Brill (Columbia University Contributions to Anthropology, 1). Quot. pp. 170-173.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA29402">Coos</name>
+          <date when="1903" type="recorded">Recorded in 1903.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>One [day] a young girl went into the forest to pick berries. As she was walking, she saw a young man playing. She kept on going there [until] the two met. And he [was] a pretty, young man. And he asked the young girl, "Shall I take you home?" Then she was thinking thus: "Of course, I will go with you. You are a pretty, young man, and you want me as your wife." So he took the young girl home. They two had not yet gotten back, when they two had a boy. When she was taken to his father's house, she saw many bears inside. And he too changed <pb n="173"/>himself into a bear. So she began to feel sorry. He did not do anything, and she already had one child, - a child [from] the bear. And she did not know from where they two had come, and she could not go home.</p>
+      <p>So one [day] she went to pick berries, the child staid [at home]. She filled her basket, and she fell. And all the berries spilled, and she stood there looking on. And she did not know [what to do]. As she was standing there, many small frogs were jumping [around]. So she was thinking thus: "I will take home some of these frogs. [They] shall be the toys of my child." So she wrapped up the live frogs in grass, and took them home. And when she returned, her husband asked her, "You have no berries?" So she told him thus: "None whatsoever. On my way home all my berries spilled. I have many pets. My child shall [have them as] toys." So he, too, wanted to see them. And she went to get the bundle. And while she was unwrapping it, Bear was sitting a little farther away. The young boy was sitting between his parents. So then Bear spoke to her thus: "Why do you take such extreme care?" - "Do you want to see it?" - "Of course, I want to see it." Then she unwrapped the bundle, and threw it at her husband. And he became frightened. And their entire house was full of bears. All her husband's relatives went out. And she took her child and went home to her people. Then thus [some one] said to Bear: "You shall be nothing. You shall be a bear, and the last generation shall see you. Whenever you see any one, you will run away. You shall always be a bear."</p>
+    </body>
+  </text>
+</TEI>

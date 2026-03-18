@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>How Raven Brought Light</title>
+        <editor role="collector">John W. Chapman</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NNA039292</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Chapman, John W. (1914): Tenʼa Texts and Tales from Anvik, Alaska. With Vocabulary by Pliny Earle Goddard. Leyden: Brill &amp; New York: Stechert (Publications of the American Ethnological Society, 6). Quot. pp. 22-26.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA28601">Deg Xitʼan</name>
+          <date notAfter="1907" notBefore="1887" type="recorded">Recorded sometime between 1887 and 1907.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>There was a big village, they say, - a big village where there were many people. There, they say, there lived a certain one who did not wish to get married, a <pb n="23"/>very beautiful woman. Her father, they say, was very wealthy, - he whose daughter it was who did not wish to marry. All the young men of the village tried hard to get her. Some of them brought wood and put it on top of the house [near the smoke-hole]. That enemy of Cupid ran out. "What are they getting it for?" says she. She throws it over the bank and goes in again. All the men do the I'll-try-to-get-I'm-the-one-that-will-try-to-get act, but it is of no use. Some of them set her father's fish-trap for him, and then they went back and sat down. "Enough of her!" said those village boys. "We just can't get her," said they. At length they took other women, ugly or not. Men came to see her from other villages, too; but they got nothing but "No." Some went to get deer.<note>The local term "deer" has been used throughout for "caribou."</note> "No," it was. Then the people of those villages quit her. "Enough!" said they. People from villages everywhere came to see her, north and south, saying, "Let me try!" but "No," it was. Then they gave it up, too.</p>
+      <p>Down in the kashime was a Raven man. Now, he began to think, that Raven, there in the dark. All night long he lay awake, thinking. "I think I had better try, too," thought he. Now, it was dark while they had been doing all these things. So he went out; and he travelled, and he travelled. Dusk or darkness, no sun no moon, only darkness, yet he travelled. When he was tired [of walking], then he would fly; and then again he would change into a man. When his wings hurt him, he would change into a man; and when his legs hurt him, he would fly. By and by it became light with him, as if dawn were approaching, and at length it was as bright as day. Then, as he flew, he saw a village where there were many people [walking around in the] daylight. Then, near the village, he changed himself into a man, and kept on toward the village.</p>
+      <p><pb n="24"/>He mingled with the people, but there were so many of them that they were not aware of his presence. Those village people took no notice of him. Now, yonder there was a big kashime, and beside it a large house with a pole raised over it, with a wolverene-skin and a wolf-skin tied to the end, like a flag. Thought the Raven, "Only unmarried women's houses are like that." He went up to it. He stood looking, and a great many people came out, busy about their work, and among them a woman. Such a beautiful woman she was, going for water, dressed in a parka made only of marten-skins, with a wolf ruff, of longer fur than usual. "There's the princess herself," thought he. He considered how he should act concerning her. Meanwhile the woman left the house to get the water. In the doorway of that house of theirs hung a mat. Out of sight over the bank went the woman. Thereupon he rushed into the doorway and became a spruce-needle, and fell into the interstices of the mat in the shape of a spruce-needle. So there he is, just so. Soon the woman came to the doorway, bringing the water. With her free hand she carried water in a little wooden pail. She was about to push aside the curtain, when the spruce-needle dropped into the pail. She went back to her place in the house, with it floating around in the water. "I will drink some water," said she; and when she drank, she swallowed the spruce-needle. "Ugh!" said she, "my throat hurts. I swallowed some grass with it." - "Why didn't you look inside?" said her mother. "Does it hurt much?" - "Why, no," she said, "it was only a little piece of grass." The next day at daybreak she called to her mother, so they say. "Ma," said she, "what's the matter with me? My belly seems to be big." - "What makes it?" said her mother. "Are you sick?" - "Why, no," said she, "but my belly is big." The next <pb n="25"/>day she called to her mother again. "Ma," said she, so they say. "There is something moving in my belly, like a little fish," said she. "Come here and feel of my belly!" said she. So she felt of her belly. "My daughter!" said she, "what has happened to you? You are just like we are when we are with child," said she in a fright. "If you have not been with anybody, how did you get this way?" said she. "It is only women with husbands that get this way," said her mother in a fright. "What is going to happen to you?" said she; and when she felt of her belly, the child moved. "That is a child, sure enough," said she. Soon she began to be in pain. Then her mother said to her, "I'm sure you have not been immodest, yet you are in this condition," said she. So then that child was born, and it was a boy. It was just like a little raven. They washed him, and dressed him in a fine parka, and he stared with those big eyes of his. He looked all around him, and behind his grandfather hung something that gives light. His grandfather and his grandmother brought him up. They did not sleep, for filling him up with deer-fat. Yes, and his mother's brothers and sisters took care of him too, that little raven. He crept, and by and by he walked, and then he began to cry incessantly, that child. "What is that bawler saying?" said his grandfather; and his relatives said the same thing. "Perhaps he is in pain," said they. Sometimes he would stretch out his hand imperiously toward the light. "Maybe he's saying that he wants that," said they. "Go ahead and put it by him!" said they. "Just let him see it!" So they took it and gave it to him. He stopped crying right away. By and by he grew bigger, and they gave it to him sometimes, and then put it back again. At length he went out of doors; and whenever he came in, he cried for that thing, and they gave it to him. Even when he <pb n="26"/>was grown up, he would cry for it. "Go ahead and put it on my neck!" said he. "Make a string for it. It will be here at my breast," said he. Then they put it around his neck. He wore it on his bosom, and went out with it, and ran back into the woods among the bushes. "I hope they will forget me," thought he. "They never say 'Where is he?' about me." He flew back with that big, shining thing, toward his own village. When he was tired [of walking], he flew; and when his wings were tired, he walked; and at last he came back to his own village.</p>
+    </body>
+  </text>
+</TEI>

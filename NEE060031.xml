@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Iludon</title>
+        <editor role="collector">Glafira Makarina Vasilevich</editor>
+        <editor role="narrator">Bayaki Nyoturcha</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NEE060031</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0">CC BY-NC-SA</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Däbritz, Chris Lasse/Gusev, Valentin/Stoynova, Natalia (2024): INEL Evenki Corpus. Version 2.0. Publication date 2024-12-31. Archived at Universität Hamburg. https://hdl.handle.net/11022/0000-0007-FE38-D. In: The INEL corpora of indigenous Northern Eurasian languages. https://hdl.handle.net/11022/0000-0007-F45A-1. Quot. p. s.p..</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CEE15803">Evenki</name>
+          <date when="1930" type="recorded">Recorded in 1930.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>Iludon was a warrior from the house of Kima. He won against three Russian warriors. The  merchant forced him to fight in a bet for three quarters of wine. Iludon won three times, he beat them all.  Seven Evenki dragged a Russian ship, he dragged it on his own.  The Russian punched an Evenki. After he punched him, he looked at the Evenki and left. They dragged, dragged, they started  to drink tea there. They finished. "Evenki", he said, "put on a strap, keep walking."  They walked again. The Evenki punched the Russian who had punched him. When the Evenki  punched [him], the Russian fell. The Russian warrrior died. They left him there. The other Russians  said: "It has to be done like this." Iludon started dragging again, they reached a village. They landed, started drinking tea there.  Iludon had met the agreement, the merchant gave him to eat, offered him wine, fed him good food.  The merchant asked the Evenki for his strength, his body for a thousand rouble.  The Evenki did not agree, he did not want to go. The merchant asked <note>[DCh]: The use of the</note>for his strength for a long time. He thought and thought, finally Iludon said: "I will not leave."<note> reflexive suffix is unexpected there, as the merchant is apparently not asking for his own force.</note> Iludon left the merchant, he started to live in the village. He lived there for a long time. A bear had an appetite for the  Russian cows. The Russians forced it to hunt Iludon. Three hunters went: two Russians, Iludon is the third.  They found the bear. The bear came to them quickly to eat.  It opened its mouth. Iludon caught it with his hands, one grabbed the jaw, one grabbed an ear, it started fighting.  The Evenki ran with the bear. The Russians  stabbed the bear with spears. Iludon turned the bear over. The bear fell. They killed it. They  killed it, they said to each other: "Will we eat [it] or not?" The Russians said: "Skinny." Iludon still forced them to eat.<note>[DCh]: Tense marking seems to be </note> The Russians said: "Let us flay it to see how fat it is!" They flayed it, they <note>absent at "ipkÉËtÄÉdÊ¼Én". </note><note>[DCh]: Not clear why </note>flayed it, there is no fat, only bone. They left the bear, they took its fur, they left.<note>"imá»¥kÅ¡áº¡wáº¡" in accusative case; nominative case would be expected.</note> The Russians carried it. They brought the flayed fur to the village. They came to the village. The <note>[DCh]: Form "hiÅni" is strange; no pn-marking.</note>Russians began to speak, they said: "We found a bear there that wanted to eat the cow." It ran to us to eat.  Iludon caught it, the bear started to fight." The Russians talked about their relatives: "We stabbed it, the Evenki threw the bear, the bear  fell." A deft man, his heart is strong, he is not scared of anything.  "A man without fear, one that is not frightened of the Evenki", they said. Iludon went  home. He went home, his relatives started to tell him about how the Russians beat the bear. They were <note>[GVY:] The last word is unknown and may contain a misprint.</note>frightened, they could not kill it. Iludon lived for one year, then he died.</p>
+    </body>
+  </text>
+</TEI>

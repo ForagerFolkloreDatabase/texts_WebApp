@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Creation (version 2)</title>
+        <editor role="collector">John W. Chapman</editor>
+        <editor role="narrator">anonymous</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NNA039287</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Chapman, John W. (1914): Tenʼa Texts and Tales from Anvik, Alaska. With Vocabulary by Pliny Earle Goddard. Leyden: Brill &amp; New York: Stechert (Publications of the American Ethnological Society, 6). Quot. pp. 10-11.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA28601">Deg Xitʼan</name>
+          <date when="1896" type="recorded">Recorded in 1896.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <note>This account came from the oldest man in Nihltěʼûxaidliʼñktû, in 1896. He was the father of Benjamin and Goʼûxoloʼihl Withoʼ. (This is from the Chageluk Slough. It would seem to be a mixture of two legends.)</note>
+      </p>
+      <p>The earth was small at first, and the land gradually increased. There was a small pair of people going about here and there in the grass. They warmed themselves in the grass, and grew with the earth. They slept, and found food placed near them, which they ate. Clothes were provided in the same way, and also berries. At length they met a man, who spoke to them angrily, and asked them why they had taken his food and berries. "For this you will obey my commands." The man went away, - they did not know where, - but he re-appeared to them from time to time. His village was across the Slough from Nihltěʼûxaidliʼñktû, where he lived with other men, but no women. Going about in his canoe, he heard <pb n="11"/>the noise of talking and laughing, which proceeded from many women. He went up quietly and launched his spear, which passed through the parka of one of them. The rest turned into geese and flew away; but he captured this one and took her home. The rest of the men began to get wives in the same way. They gave their children food and clothes as they grew up, taught them different tongues, and sent them away, up and down the river, which they peopled.</p>
+    </body>
+  </text>
+</TEI>

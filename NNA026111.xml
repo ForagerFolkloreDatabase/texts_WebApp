@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Blind Man and the Loon (version 2)</title>
+        <editor role="collector">James Teit</editor>
+        <editor role="narrator">Tuu:ʼts ('strong rocks')</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NNA026111</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Teit, James A. (1919/21): Tahltan Tales. In: The Journal of American Folk-Lore 32(124), 198-250; 34(133/134), 223-253, 335-356. Quot. pp. 227-228.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA28403">Tahltan</name>
+          <date notAfter="1915" notBefore="1912" type="recorded">Recorded sometime between 1912 and 1915.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <note>Compare Version a.</note>
+      </p>
+      <p>A man with his wife and children were camped near a large lake. Here they had snares set for caribou, and nets for fish. They caught hardly any fish and no caribou, and were starving. To make matters worse, the man became blind. The woman then attended to the snares and nets. One day she found a caribou in one of the snares. Taking the children, she deserted her husband, went to where the caribou was, and camped there. Her husband crawled to the lake to have a drink, and then lay down and fell asleep. Something talked to him. It was Loon, asking him why he lay there. The man said, "I was deserted by my wife, came here to drink, and fell asleep." Loon said, "Your wife is eating caribou-meat over there. I will take you to where she is." The man was afraid, but finally was persuaded to take hold of Loon around the neck. Loon then dived with him to the end of the lake and came up. He asked the man if he could see; and he answered, "A little." Loon dived back to where he had started <pb n="228"/>from, and asked the man again if he could see. He answered, "I can see much better, but my sight is still dim." Then he dived with him a third time, and went towards the place where the caribou-snares were. Loon asked the man again if he could see; and he said, "Very well. I can see everything." Now Loon gave him a stone knife with which to kill his wife. When he came near where she was, she saw him coming. She cried, and said to the children, "Let us go to your father! Poor man! he is blind." The husband paid no attention to her, and forthwith killed her and her children.</p>
+    </body>
+  </text>
+</TEI>

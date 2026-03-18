@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Lucky Pot</title>
+        <editor role="collector">Walter E. Roth</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NSA010087</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Roth, Walter E. (1915): An Inquiry into the Animism and Folk-Lore of the Guiana Indians. Extract from the Thirteenth Annual Report of the Bureau of American Ethnology, Washington: Government Printing Office. Quot. pp. 302-303.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CSA36701">Warao</name>
+          <date notAfter="1913" notBefore="1906" type="recorded">Recorded sometime between 1906 and 1913.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>On his way home from the bush one day a man came across a banab, with no human occupants but with a Pot simmering on the fire. The Pot addressed him, asking if he were hungry, and having received an affirmative reply, said, "All right! I will cook bird for you," and began to boil. When ready, the man ate of the contents, and went home. His wife put fish before him, but he said, "I do not want it. I am satisfied." By and by her husband made an excuse to leave the house, and having arrived at the banab, said to the Pot, "I am hungry. You must cook meat now." So the Pot boiled away and supplied him with pure bush-hog. When he got home his wife put some cassava before him, but he said, "I do not want it; my belly is full." After remaining at home two days and refusing the food which his wife regularly brought him, he paid another visit to the lucky Pot, gorged himself with both bird and meat, and returned home again, where, as before, he assured his wife that he was satisfied and wanted for nothing. Now the two sons looked at him and at one another and then whispered to themselves: "What does this mean? Our father stays at home two whole days, and is not hungry. He goes into the bush and even when he returns will not eat. Whence does he procure his food?" So they watched his movements, and next day, following him at a distance, saw him talk to the Pot and help himself. On his return home, he still refused to eat what his wife continued to offer him. As they were getting short of food for the household, he went away to shoot morokot [Myletes], the sons in the meanwhile going to the banab, asking Pot to cook bird and meat for them. After eating they washed the vessel "clean, clean," so as not to leave even the trace of a smell in it. By and by the father came home from his fishing excursion, handed over to his wife the morokot which he had caught, but refused as usual to eat any himself. "I do not want it. I am satisfied," was all he said. He then slipped away to his lucky Pot, and told it to cook for him, but it would not boil any more for him or for <pb n="303"/>any one else, so perfectly had it been cleaned out.<note>The vessel in which the staple Indian dish known as "pepper-pot" is daily warmed, cooked, and added to from time to time is never cleaned.</note> He then commenced to cry, but the Pot reminded him: "You were greedy. You gave the bird and meat neither to your wife nor to your children. You ate it all yourself."</p>
+    </body>
+  </text>
+</TEI>

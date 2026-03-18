@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>How a Swan Married a Raven</title>
+        <editor role="collector">Natalia Mitrofanovna Tereshchenko</editor>
+        <editor role="narrator">Bolin Petr Spirindonovich</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NEE059829</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0">CC BY-NC-SA</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Shluinsky, Andrey/Khanina, Olesya/Wagner-Nagy, Beáta (2024): INEL Enets Corpus. Version 1.0. Publication date 2024-11-30. https://hdl.handle.net/11022/0000-0007-FE1D-C. Archived at Universität Hamburg. In: The INEL corpora of indigenous Northern Eurasian languages. https://hdl.handle.net/11022/0000-0007-F45A-1 Quot. p. s.p..</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CEE15008">Forest Enets</name>
+          <date when="1962" type="recorded">Recorded in 1962.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>A young man swan marries a raven girl (a tale). In summer, swans and geese shed their feathers together on a forest grassy lake.  Wings of one young swan grew before those of other swans. He flew, only he alone flies over the forest, and he left his fellows on <note>[ShA:] My interpretation of Ð¿ÑÓ¡Ð°Ð´Ñ is unsure.</note>the grassy lake. At some point he saw a raven girl sitting on the top of a tree.  He flew around her seven times, saying: Ku, ku-ku, ku. And the girl cried, Kar-kar, kar-kar. The young man swan said.  Let's compete with one another, let's fly! They flew together for several days. One day the  young man swan said. I have a speech. Let me say it in three days. Several days passed.  Swans began to fly, geese began to fly. The raven came to the grassy lake again.  The raven girl sits on the top of a tree on the shore of the grassy lake. She flew around the grassy lake three times. Ku-ku,  ku-ku, kar-kar, what is your planned speech? I want to make a marriage proposal. Yes, you want to make a marriage proposal. How are you going<note>[ShA:] My </note> to speak directly on your own, you donât have a matchmaker? No, none of the swans can do it.<note>interpretation of ÐÐ°ÑÑÐ¹ ÑÑÐºÐ¾Ð´ is unsure. For ÐºÑÐ´Ñ I assume a slip of pen.</note>Let's fly for three more days. They fly for three days. The third day there was frost. Lakes  got frozen. The grassy lake got frozen. The young man swan sat down on the ice of the grassy lake.  Nobody is there. He listens carefully. âKar-kar, kar-kar,â the raven girl came from somewhere and sat on the top of a tree.  She flew around the grassy lake three times. The young man swan said. Well, let's talk seriously, I want to make a  marriage proposal. Let's live together. The raven girl said. Kar- kar, can you live in forest places? It's cold, it's frost, you'll freeze. No one from swans' places has ever lived in a forest area, can you?<note>[ShA:] The form kÉdited is not completely clear here.</note> I'll try, of course. Then the young man swan kept separating from his fellows to another place for three days, and so he  left. Swans and geese flew far away. Soon the raven girl came to the grassy lake again.  Kar-kar, well, let's go home. They went home. They came.  When they arrived home, raven old men and women said. Our noses are our axes, our nails are our knives.  Let your brother-in-law go sleep for now. The young man swan lay down on the bedding. His wife was near him.  Evening came. Hey, raven guys, said the raven old men and women, wake up your brother-in-law, let him eat, he will start his wedding, after all.  Raven children moved him by his wing. Brother-in-law, eat!  He sat down. He began to rub his eyes. They pushed a large wooden bowl towards him.  This bowl contained the following food. It was full of with human waste (feces).  Having finished rubbing his eyes, he began to eat. His wife sat down next to him, it's a wedding, after all.  He lowered his nose, sniffed, and there was the smell of human waste (feces).  Having got frightened, the swan pulled its nose up, and a piece of waste (feces) fell on the bridge of his nose.  Frightened by this, he even forgot his wife. Flying out, he pulled them so much that he dipped his legs into the bowl.  His feet also became dirty with human waste (feces) and became black.  So he left forever. Hence, this legend. Until that time, before that, all swans had red noses and red feet.  And since then, swans' nose is black, the bridge of their nose is black and their feet are also black.<note>[ShA:] My interpretation of ÑÑÒ«Ñ is unsure.</note> That's enough, the end.</p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Hunter and the Bear-Man</title>
+        <editor role="collector">John W. Chapman</editor>
+        <editor role="narrator">Stephen Morton</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NNA040092</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Chapman, John W. (1914): Tenʼa Texts and Tales from Anvik, Alaska. With Vocabulary by Pliny Earle Goddard. Leyden: Brill &amp; New York: Stechert (Publications of the American Ethnological Society, 6). Quot. pp. 83-85.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA28601">Deg Xitʼan</name>
+          <date notAfter="1911" notBefore="1887" type="recorded">Recorded sometime between 1887 and 1911.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>There was a man who had a wife and two children. This man was a great hunter, and used to go out day by day, and leave his wife and the boys in the house, <pb n="84"/>without company. His wife would sometimes ask him why it was necessary for him to leave them every day. "Stay at home with us to-day!" she would say, but he would never listen to her. "This is my job," he would say, "and I must attend to it." One day, after he had gone out to hunt, as usual, his wife was sitting in the house, sewing, when she heard some one coming, outside the door. She thought it was her husband, and went on sewing, but a stranger entered the room. He was a tall, dark man; and after he had spoken with the woman a while, he asked her to go with him. "I cannot do that," said she. "I have a husband, why should I go away with you?" Still he urged her, and still she refused, and at last he rushed out of the house in a passion. After a little, she sent the children out of doors to play, while she herself kept on with her sewing.</p>
+      <p>As the boys were standing outside the house, they looked across the gorge, where the summer house and the caches were; and the younger one said to his brother, "See that thing under the cache! What is it?" - "It is a bear," said the older one. "Let's tell our mother!" said the younger one. "No," said his brother, "it will frighten her." So they agreed not to tell her; but when they went into the house, the younger boy forgot himself. Their mother asked them what they had seen outside while they were playing, and the older boy said that they had seen nothing; but a little while afterward, as they were playing about the room, the younger one exclaimed, "My, what a big bear that was that we saw under the cache!" So their mother began to ask them about it. Soon she put away her sewing, and went out to the cache that stood just behind the house, and brought in all her best clothes. After that, she washed her face and combed her hair, and made herself look as attractive as <pb n="85"/>possible. Then she told the children to remain in the house, while she herself went out.</p>
+      <p>Toward evening her husband returned from his hunting. When he came in sight of the house, he saw no smoke coming out of the smoke-hole. "Surely," thought he, "there must be something the matter with my wife!" He went up on the roof and took off the curtain. Then he took some of the meat and fat, which he had tied up in a deer-skin, and let it down into the house, calling out to his wife to take it. But his wife did not answer; and one of the boys said, "Mamma is not here." So he went in and made a fire, and cooked some of the meat, and went to bed, thinking that his wife would soon be back. In the morning she was still missing; and he went out to his cache and got his hollow hunting-club, and melted some deer-fat and poured it into the club, to give it weight, for he had been looking around until he had found the tracks of his wife going down toward the brook, and beside them were the footprints of a man of great size. He followed them across the brook, toward the caches; and under one of the caches he saw a huge bear asleep, lying upon the remains of his wife. He came near to the bear, and the bear rose. up to meet him. And the man stood and taunted him, and said, "Do the same thing to me now, that you have done to my wife. You have killed her, kill me too." Then the bear rushed at him, but he stepped aside; and as the bear passed him, he struck him with his club again and again, until he killed him. Then he cut off the bear's head and revenged himself upon the body, and began to wail for his wife in long-drawn cries. He cut off his own hair, and mutilated himself until his body was covered with blood. At length he looked, and found that fur was growing upon the back of his hands, and he and the two boys turned into wolves.</p>
+    </body>
+  </text>
+</TEI>

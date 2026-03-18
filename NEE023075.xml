@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Panaumbe, Penaumbe, and the Weeping Foxes</title>
+        <editor role="collector">Basil Hall Chamberlain</editor>
+        <editor role="narrator">Ishanashte</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NEE023075</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Chamberlain, Basil Hall (1888): Aino Folk-Tales. With Introduction by Edward B. Tylor. Privately printed for the Folk-Lore Society. Quot. pp. 31-32.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CEE15701">Ainu</name>
+          <date when="1886" type="recorded">Recorded in 1886.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>There were Panaumbe and Penaumbe.<note>Panaumbe means "the person on the lower course of the stream." Penaumbe means "the person on the upper course of the stream." Conf. Anino "Memoir," p. 28.</note> Panaumbe went down to the bank of a river, and called out: "Oh! you fellows on the cliff behind yonder cliff! Ferry me across!" They replied: "We must first scoop out a boat. Wait for us!" After a little while Panaumbe called out again. "We have no poles," said they; "we are going to make some poles. Wait for us!" After a little longer, he called <pb n="32"/>out a third time. They replied thus: "We are coming for you, Wait for us!" Then the boat started, - a big boat all full of foxes.</p>
+      <p>So Panaumbe, having first seized hold of a good bludgeon, feigned dead. Then the foxes arrived, and spoke thus: "Panaumbe! You are to be pitied. Were you frozen to death, or were you starved to death?" With these words, all the foxes came up close to him, and wept. Thereupon Panaumbe brandished his bludgeon, struck all the foxes, and killed them. Only one fox did he let go, after breaking one of its legs. As for the rest, having killed them all, he carried them home to his house, and grew very rich [by selling their flesh and their skins].</p>
+      <p>Then Penaumbe came down to him, and spoke thus: "Whereas you and I were both equally poor, how did you kill such a number of foxes, and thereby become rich?" Panaumbe replied: "If you will come and dine with me, I will instruct you." But Penaumbe at once said: "I have heard all about it before." With these words he pissed against the door-sill, and went out.</p>
+      <p>Descending to the bank of the river, he called, crying out as Panaumbe had done. The reply was: "We are going to make a boat. Wait for us!" After a little while, he called out again. They replied: "We are going to make the poles. Wait for us!" After a little longer, they started, - a whole boatful of foxes. So Penaumbe first feigned dead. Then the foxes arrived, and said: "Penaumbe here is to be pitied. Did he die of cold? or did he die from want of food?" With these words, they all came close to Penaumbe and wept. But one fox among them, a fox who limped, spoke thus: "I remember something which once happened. Weep at a greater distance!" So all the foxes sat and wept ever further and further away. Penaumbe was unable to kill any of those foxes; and, as he brandished his bludgeon, they all ran away. He did not catch a single one, and he himself died a miserable death.</p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Tales of Angakut (#4)</title>
+        <editor role="collector">James S. Mutch</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NNA024952</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Boas, Franz (1901): The Eskimo of Baffin Land and Hudson Bay. From notes collected by George Comer, James S. Mutch, and E. J. Peck. New York: AMNH (Bulletin of the American Museum of Natural History, 15,I). Quot. pp. 244-245.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA27903">Baffin Island Inuit</name>
+          <date notAfter="1899" notBefore="1883" type="recorded">Recorded sometime between 1883 and 1899.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>At Kingawa there lived a man named Utsunang, and his wife Ishamaloo, an angakok. Another man, named Kunek, and his wife Kumangan, lived at the same place. Utsunang needed a piece of wood to make a kayak. Kunek, who owned a piece of wood, refused to give him any, and left with his wife, erecting his tent on a small island.</p>
+      <p>{245} During the next night Utsunang heard a noise. It sounded as though a piece of wood had drifted ashore. Early in the morning he arose and went outside. He found a piece of driftwood, and expressed his delight at finding it. He asked his wife to cause the seals to come to his place, since now he would be able to make a kayak, and to hunt them.</p>
+      <p>One day Kunek came to Utsunang's hut, and told him that he would give him some of the wood for which he had asked before. Utsunang replied, "Before, when I asked you for some wood, you became very angry. Why do you want to give it to me now?" Kunek retorted, "Yes, I was angry." As a matter of fact, Kunek had seen the large piece of wood which had drifted ashore, and wished to have some of it. Therefore he had come to offer Utsunang some of his wood. He continued, "I want very much to have part of that wood!" pointing to the piece of driftwood that had come ashore. Then he continued, "If you don't give me part of it, I shall stab you." Utsunang said, "I don't desire to be killed," and gave him a piece of the wood, and Kunek took it home. On the following morning, Utsunang saw an animal floating on the water, and drifting toward the shore near his hut. He went down, and saw that it was a ground-seal large enough to make a cover for his kayak. On the following day he again saw an animal floating on the water, which was thrown ashore near his hut. It was a seal. He found a seal every morning. Now he had enough skins to cover his kayak. On the following morning a white whale drifted ashore, which furnished them with sinew to sew the cover with. When it was finished, they had plenty of food. One day a number of visitors came, and he told them this story, - how he had quarrelled with Kunek, and how he had been furnished with wood, with skins to cover his kayak, and with sinew to sew the cover with.</p>
+    </body>
+  </text>
+</TEI>

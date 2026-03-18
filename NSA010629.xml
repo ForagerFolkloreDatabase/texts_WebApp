@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Fox and the Jaguar</title>
+        <editor role="collector">Alfred Métraux</editor>
+        <editor role="narrator">Pedro</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NSA010629</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Métraux, Alfred (1939): Myths and Tales of the Matako Indians (The Gran Chaco, Argentinia). In: Ethnological Studies/Etnologiska Studier 9, 1-127. Quot. pp. 76-77.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CSA39401">Wichí</name>
+          <date when="1933" type="recorded">Recorded in 1933.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>The jaguar is the master of all animals. He appointed the fox to dry meat for him, but he paid his servant very little and he was stingy about the meat he gave the fox. One day, while the jaguar was enjoying his siesta, the fox, who was obliged to keep the flies away from the jaguar, decided to avenge himself. He caught all the flies he could and put them in a bladder full of air. He tied it to the jaguar's tail. The jaguar had dogs who hunted by themselves and signaled to him the presence of game. The jaguar mistook the buzzing of the flies in the bladder for the barking of his dogs which he thought had found some animal. He woke up with a start and said, "It seems my dogs are hunting ". He went to fetch his club and ran in the direction from which the noise seemed to come. When he had gone a short distance he heard the same buzzing in another direction and he turned back to the place he had just left, but then he heard the same noise near the spot he had just left. He ran there, but changed his course a few minutes later. He did the same thing four of five times until it occurred to him to look at his tail. He understood the trick the fox had played on him and in great anger went home to punish him. In the meantime the fox had fled, taking with him all the jaguar's dried meat.</p>
+      <p>The jaguar followed his trail. He met a fox but he did not know whether it was the one he was seeking or another. He asked, "Did you steal my meat?" "No, it was my <pb n="77"/>father-in-law." To discover whether the fox was lying the jaguar asked him to defecate and he looked at the excrement. He found only bits of crab meat. The jaguar went away and left the fox in peace.</p>
+      <p>The jaguar went on a long journey and during his absence he entrusted his wife to the fox. As soon as the jaguar left the fox slept with his wife. Upon the jaguars return he smelt the vulva of his wife and noticed the odor of fox. The jaguar beat his wife and then went in pursuit of the fox, but could not find him.</p>
+    </body>
+  </text>
+</TEI>

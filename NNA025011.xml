@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Tales of Quarrels, Murder, and War (#18)</title>
+        <editor role="collector">James S. Mutch</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NNA025011</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Boas, Franz (1901): The Eskimo of Baffin Land and Hudson Bay. From notes collected by George Comer, James S. Mutch, and E. J. Peck. New York: AMNH (Bulletin of the American Museum of Natural History, 15,I). Quot. pp. 299-301.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA27903">Baffin Island Inuit</name>
+          <date notAfter="1899" notBefore="1883" type="recorded">Recorded sometime between 1883 and 1899.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>About eighty years ago, in Aggo, Aako murdered Unukchea. The relatives of the murdered man were living in Cumberland Sound. After some time the news of the murder reached them, while they were living in Kingnait. As soon as they heard of it, they made up their minds to avenge his death. The names of the relatives of the murdered man were TJnakjew and Etookshakjwen. They were brothers. The older people of the village advised them to go across land to Padli, and then to travel northward; but they decided to go by boat around Cape Mercy, although they were {300} warned of the dangers of the pack-ice. It took them a whole year to reach Padli. There they waited; and when the ice broke up in summer, they travelled on to Aggo. Unakjew was accompanied by his wife, while Etookshakjwen travelled alone.</p>
+      <p>After some time they reached Aggo, and saw a great many men who were sealing in their kayaks. When the men saw the boat coming, they paddled towards the shore; but they were overtaken, and all of them were killed. When Aako saw that the hunters were being killed, he escaped inland. The boat reached the shore, and since Aako was not to be found, they staid there. They gave some meat to Aako's wife.</p>
+      <p>After some time Aako was compelled to come to the huts to get food. When Unakjew and Etookshakjwen saw him, the former said, "Come and show us how well you can throw spears." Aako hurled his spear at Etookshakjwen; but the latter dodged, and the spear missed him. Then Etookshakjwen threw at Aako in his turn; but the latter also dodged him, and escaped the spear. Next Aako threw his spear once more at Etookshakjwen, and again missed him. Now Etookshakjwen threw his spear at Aako. He hit him, and the latter fell down. They stepped up to him, and asked, "Are you much hurt?" and he replied, "No. Only my arm is broken." But in a short time he was dead.</p>
+      <p>They continued to live there for some time, and Etookshakjwen married a young girl. After some time they started to return to their home; but before leaving, the mother of the young woman advised her, when her husband caught a bear, a walrus, a ground-seal, or any other kind of game, to put some of her menstrual blood under its chin. "That will make him successful in catching more of the same kind of animal," she said; "but do not let your husband or his brother know about it." The young woman followed her mother's advice, and, when Etookshakjwen and Unakjew each caught a bear, she put some blood under their chins.</p>
+      <p>In the fall they reached Padli, and prepared to winter there. The weather was very-tempestuous, and soon they were starving. Unakjew was unable to rise because he was {301} so much weakened by hunger. Etookshakjwen continued to try to find game, no matter how unfavorable the weather. One day while he was walking overland he saw some fox-dung, although the snow was drifting about him. Then he thought, "The foxes must be near by," and began to sound the snow all around. Soon he discovered a hollow. He dug through the snow, and discovered a bear's den; and when the bear came out, he killed it with his spear and skinned it. Then he took part of the meat to the huts, and said, "I have caught a large bear." Its meat sustained them for some time. When they had eaten it all, the weather still continued to be bad. The wind was blowing, and the snow was drifting. As soon as it cleared up, Etookshakjwen climbed a hill, and noticed some newly formed ice in the bay. He went there at once, and succeeded in catching a ground-seal. He cut it up and took it home. Then he told the people modestly, "I have caught a little ground-seal," although it really was an old, large male. He went out with his dog-team and brought it back. When they had eaten it all, the weather still continued to be cold and tempestuous, although by this time spring had come. Then Etookshakjwen's wife, after singing for some time in a loud voice, said to him, "When we left Aggo, my mother told me to touch the chin of the first game that you should catch with my monthly blood, and she advised me not to tell you. I followed her advice when you killed the bears." As soon as she had said so, the weather changed, and became calm and pleasant. Then they caught seal after seal, and suffered no more hunger. They continued their journey, reaching Cumberland Sound after having rounded Cape Mercy.</p>
+    </body>
+  </text>
+</TEI>

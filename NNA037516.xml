@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Old Man and the Buffalo-Charm</title>
+        <editor role="collector">Christiaan Cornelis Uhlenbeck</editor>
+        <editor role="narrator">Káinaikoăn</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NNA037516</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Uhlenbeck, Christiaan C. (1912): A New Series of Blackfoot Texts from the Southern Peigans Blackfoot Reservation, Teton County, Montana. With the help of Joseph Tatsey collected and published with an English translation. Amsterdam: Müller (Verhandelingen der Koninklijke Akademie van Wetenschappen te Amsterdam, Afdeeling Letterkunde, NS 13,I). Quot. pp. 184-187.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA31305">Piegan</name>
+          <date when="1911" type="recorded">Recorded in 1911.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>There he went again. He walked about. He came to a man. He [that man] was singing a medicine-song [to coax the buffalo to come]. [The Old Man] said to him: What are you doing? He was told by him: I am singing a medicine-song [to coax the buffalo to come]. [The Old Man] said to him: Now, go ahead and start to sing the medicine-song. And he started to sing the medicine-song. He began to say: Eʼeʼeʼeʼeʼ, let [buffalo] fall down on each side of me, let [buffalo] fall down on each side of me. And buffalo fell down on each side of him. [The Old Man] said to him: My younger brother, give it to me. he was told by him: It is not important. Whenever <pb n="185"/>we are hungry, then we sing the medicine-song. There is [a reason to have] your ear [open]. Don't say. I am hit between the ears. And there [the Old Man] went away. He was looking for the very best place on the bank. And there he sat down. And he began to say: Eʼeʼeʼeʼeʼ, let [buffalo] fall down on each side of me, let [buffalo] fall down on each side of me. He made a good corralling. Then he went. down [to the buffaloes, that had jumped over the cliff]. He began to look for the fattest cows. He skinned those [cows]. There he stayed. He began to make a shade. He went out [of his shade] to get a little of the meat to cook it. He went away again. He did not go far. He came again to [a place], where he could sing the medicine-song. Over there on a big high bank he was already sitting down again. He began to say: Eʼeʼeʼeʼeʼ, let [buffalo] fall down on each side of me, let [buffalo] fall down on each side of me. He went away again. He had not gone far [after having had another good corralling], he sang again the medicine-song. Four times he sang the medicine-song. And there he sang again: Eʼeʼeʼeʼeʼ, let [buffalo] fall down on each side of me, let [buffalo] fall down on each side of me. And then he remembered [the word, that he was forbidden to say]. And he said: I am hit between the ears. He was trampled <pb n="186"/>down by the buffaloes. It was already winter then. And there he was knocked over the bank. He had turned into a white calf, and lay on top [of the pile of buffaloes].</p>
+      <p>And the ancient people [the ancient Peigans] were moving about. They all were camping in the forest here. There was an old woman, she was getting wood about. She found all these buffaloes, that had fallen [off the bank]. There she suddenly saw a wonderful calf. She took that one. She brought it home. She took it therefore, [that] it would be her son's robe. And she told her son-in-law: Over there are buffalo, all fell [off the bank], that you may skin them'. Give part of them to the people camping hereabout. Inside of her lodge she had sticks spread out on high [to hang the meat on]. It was on high, that she put [the buffalo-calf] on top [of the sticks]. [The calf that was nearly frozen] was thawing [now]. That boy was delighted over his skin [the skin, that would be his robe]. He was always rolling about on his back. He looked up at [the calf-skin]. It spit down on him. He said to his mother: My skin here is spitting on me. He was told by his mother: It was frozen with spittle on its mouth [and now that spittle is thawing and falling down]. He said again to her: Mother, it is making faces down on me. She told him: Oh, it was <pb n="187"/>just frozen with its face twisted. It was thawed all over. That boy lay on his back right under his skin. Then [the calf] cleared [the sticks] and jumped down on [the boy's] belly. It sounded like a gun, when it [the belly] burst. Then [the calf] ran out [of the lodge]. Then it was known, [that] it was the Old Man. He then ran away for escape. That way the Old Man had turned into a wonderful calf. And the dogs have separated [after having had their meal].</p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Woman Who Could Not Be Satiated</title>
+        <editor role="collector">James S. Mutch</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NNA024959</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Boas, Franz (1901): The Eskimo of Baffin Land and Hudson Bay. From notes collected by George Comer, James S. Mutch, and E. J. Peck. New York: AMNH (Bulletin of the American Museum of Natural History, 15,I). Quot. pp. 260-261.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA27903">Baffin Island Inuit</name>
+          <date notAfter="1899" notBefore="1883" type="recorded">Recorded sometime between 1883 and 1899.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>In Akbakto there lived a woman named Akpukatoo, who had two children by a former husband. There was also another woman at this village, whose name was Attoowo, who was with child. Akpukatoo was continually craving something to eat, and used to go to all the houses, begging for food. She would go to a house and ask for whatever she saw, or help herself, putting pieces of seal-meat into her long boot-legs. Then she would go to another house and do just the same. When she saw soup boiling over the fire, or a pot full of boiling blood for dog's food, she would ask to be given some of it; and when the people said that it was not yet done, or that it was dog's food and not fit for man to eat, she would insist, or even take some of it without the permission of the people. For this reason her husband, Ataaurala, became afraid of her, and deserted her.</p>
+      <p>All the people moved away, leaving her and Attoowo behind; but the two women succeeded in following them. As soon as they arrived, Akpukatoo did as she had done before. Then the people said, "Surely she will finally want to eat man. She is never satisfied, no matter how much she may have had. She is eating, eating, all the time." Her children were not like their mother. They never asked for any food. The people were afraid of her; and one night {261} they walled up the door and window of her house, so that she and her children could not get out.</p>
+      <p>On the following morning the people left that place for another, where they staid until spring. About this time they thought Akpukatoo must have died, because she had not re-appeared among them; and when the snow had almost melted from the land, a few of them went to look for her. They opened the house, and found her dead. They saw that she had eaten her children, and had chewed off the soft ends of their bones. Then they went back, and said, "It is just as we thought: she has eaten human flesh."</p>
+    </body>
+  </text>
+</TEI>

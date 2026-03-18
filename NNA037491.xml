@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Medicine-Men</title>
+        <editor role="collector">Christiaan Cornelis Uhlenbeck</editor>
+        <editor role="narrator">Káinaikoăn</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NNA037491</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Uhlenbeck, Christiaan C. (1912): A New Series of Blackfoot Texts from the Southern Peigans Blackfoot Reservation, Teton County, Montana. With the help of Joseph Tatsey collected and published with an English translation. Amsterdam: Müller (Verhandelingen der Koninklijke Akademie van Wetenschappen te Amsterdam, Afdeeling Letterkunde, NS 13,I). Quot. pp. 55-56.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA31305">Piegan</name>
+          <date when="1911" type="recorded">Recorded in 1911.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>A medicine-man. The dream of that man, and what he profited by it.</p>
+      <p>A man was pitied by a bear. He was told by [the bear]: There is no one, whom I pity. Now you are the only one, I pity you. How the bear in [his] dream called himself, was "Water-bear". He was told by [the bear]: My son, I give my body to you. Even if an arrow touches you, it will not go in to your body. Do not be afraid of arrows. Do not be afraid of a man belonging to another tribe. If he was shot at, he would not be shot through [his body]. If he was shot through [the body], he would use the power of the bear [given to him by the bear]. He would be saved. He was very strong [having supernatural power], because he [the bear] pitied him. He would be given again by [the bear], that he could doctor the sick people. One [bear-]claw was given to him by [the bear], that he might fix it, that he might perform [his doctoring] with it. When he doctored, if he was satisfied [by things given to him in pay for it], he would act like [a bear] in doctoring [literally: he would doctor from him, i.e. from the bear]. He would stick the claw in the ground [after having taken it from his neck, or out of his <pb n="56"/>medicine-bag]. There [where he stuck the claw], he would find roots. With those he would doctor. With those he would cure [a sick person], that he [the sick one] might get stronger from it. In that way he was again given [power] by [the bear]. In that way he profited from the bear, he was pitied by. He was not pitied by him [in that way], that he might be able to take bows and arrows [nowadays it would mean: to take guns]. And now the dogs have separated [after having had their meal].<note>Cf. Grinnell blt 191 sq.</note></p>
+    </body>
+  </text>
+</TEI>

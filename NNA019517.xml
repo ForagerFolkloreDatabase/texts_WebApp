@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>G̣āʼsag‧ila</title>
+        <editor role="collector">Franz Boas</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NNA019517</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Boas, Franz (1910): Kwakiutl Tales. New York: Columbia University Press &amp; Leyden: Brill (Columbia University Contributions to Anthropology, 2). Quot. p. 487.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA29010">Kwakwakaʼwakw</name>
+          <date notAfter="1910" notBefore="1858" type="recorded">Recorded sometime between 1858 and 1910.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>Gāʼsag·ila was a chief who had many carvings. He came from the south. He put them up when he reached the north country. He went to Gwaʼwē in the country of the Naʼk!wax·daᵋxᵘ, and there he staid. There he made a winter-dance, and his son became a cannibal, whose names were Q!āʼsᴇlīdzas, Haᵋmēk·!āʼlag·ilîs, Ts!āʼxôstāla. This son's son was K·!ōʼgwikīlagᴇmēᵋ, whose son was Q!uʼmqwax· âʼlasᴇmêᵋ.</p>
+    </body>
+  </text>
+</TEI>

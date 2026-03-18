@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Raven Creates the Salmon</title>
+        <editor role="collector">Franz Boas</editor>
+        <editor role="narrator">Ēʼwŭltǃāla</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NNA023691</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Boas, Franz (1928): Bella Bella Texts. New York: Columbia University Press (Columbia University Contributions to Anthropology, 5). Quot. pp. 26-33.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA29022">Bellabella</name>
+          <date when="1897" type="recorded">Recorded in 1897.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>Real-Chief made a salmon trap. / Then his salmon trap was finished. Nothing / was in his salmon trap. Then he tried to make salmon. / Then he did not make the salmon in the right way. He made a salmon of alder wood, but / the salmon made by Real-Chief had no bone in the nose. / It would not go straight. Then / he tried to put it into the water that it should go into / his salmon trap. He went and tried to get a nose bone for the, salmon. He arrived at the place Ăāʼmʟēla. / The Owner-of-Salmon came down to the beach, / and Real-Chief was called up from the beach. "I wish / he would give me the head to eat," thought / Real-Chief. The dish was placed before him and Real-Chief was given to eat. He ate. / Then he ate everything. / He stole the nose bone / of the salmon, the gill bone of the salmon. / He had it in his cheek, in his mouth, that which was stolen. They carried out the bones he had sucked out, sucked out by Real-Chief. It did not move [for] he had stuck it in his mouth.<note>That means they threw the sucked salmon bones into the water and waited for them to revive, but since he had stolen a bone the salmon did not come to life.</note> 'Oh, / Real-Chief must have stolen part of what he ate. / Let us try and search." They felt about in / his mouth and found what Real-Chief had tried to steal. He was just left sitting there after he had tried to steal. / Then Real-Chief wont home to his house. / " He began to think. / Then it occurred to him that he would ask / for dead twins in the graves. He paddled and arrived outside of the graves. "Is there any twin / <pb n="29"/>grave here?" said he. "Is there any twin / grave here?" Four times be said so. "I am one of dead twins," / said a grave. Then Real-Chief went there and dug up the dead twin and / blew on her with his water of life. Four times / he blew on her with his water of life. Then the dead twin came to life. / He went home and arrived at his house. / Then he was married to the dead twin.</p>
+      <p>It came to be daylight and his wife went when he sent her. / Then he told her that he never got anything in his salmon trap that he had made. Then / his wife went to the beach. She sat down close to the / water on the beach. She washed her little finger. Then / a salmon went up the river and went into the salmon trap of Real-Chief. Then / one salmon was in the salmon trap. She / roasted the salmon by the fire. "Let us go and wash his head," / she said. He went into the water and / the head of Real-Chief was washed by his wife. She finished and he went up to the house. Then it was combed / by his wife and she made long / his hair. It was as if his hair had been pulled. / Then she made it long. "Isn't it enough?" / he was told. "Make it a little longer." Again it was made longer. "Isn't It / enough?" "Make it still longer," Real-Chief said again. / Then his back hair reached to the small of his back. / Then he said it was right. Then he tied his hair into a knot at the side of his head. / His wife went again. It was morning again. She washed again. Then she washed two / of her fingers and then went up the <pb n="31"/>river again a salmon which / his wife had made. Again It went into the trap of Real-Chief. / Now there were two salmon in his trap. / Then he took them out again and went home again. Again he arrived at his house. Again she roasted it and / they ate it. It was morning again and his wife went down to the beach. / Then she put her whole hand into the water. / Then there came up / many, and many were in the salmon trap of Real-Chief. Again she went home / Again she cut them open, a gain she roasted them. Again he ate. / His wife went into the water again. Then she went entirely into the water, / and his wife was just sitting in the water. Then very many salmon went up the river / and many were in it. She bung them up. Then she dried them. Then the salmon hung up by / Real-Chief and his wife ware getting dry. Now was tied up on one side / his back hair. He was sent to / work above putting up his salmon that had been hung up. / Then his wife was sitting dom. There was also a little old woman sitting on the other side of the house, Real-Chief said / that his hair was caught by what had been hung up. / "You tried to pull me, you who came from the ghosts.. / Thus Roal-chief said, speaking foolishly. / Then his wife said that she had heard what Real-Chief said. "What is the matter with you, Real-Chief?" Thus said / his wife. "What I said was this: 'I spoke / gratefully of our food," / thus said Real Chief. "That is right," said his wife. / She stood up. She went out. She warned the little old woman. "Put fire under [the salmon] that has <pb n="33"/>been hung up today, / when I go away." / Thus said the wife of Real-chief. / Then she disappeared. "This is what you said to me, 'You tried to pull me, you who came from the ghosts.' That is what you said." Thus said finally his wife. / Then she whistled. / Then all those that had been hung up whistled. / Then they all disappeared and the hair of Real-Chief disappeared. That is the end.</p>
+    </body>
+  </text>
+</TEI>

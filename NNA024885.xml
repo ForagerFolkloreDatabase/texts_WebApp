@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Origin of Fog</title>
+        <editor role="collector">James S. Mutch</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NNA024885</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Boas, Franz (1901): The Eskimo of Baffin Land and Hudson Bay. From notes collected by George Comer, James S. Mutch, and E. J. Peck. New York: AMNH (Bulletin of the American Museum of Natural History, 15,I). Quot. pp. 176-178.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA27903">Baffin Island Inuit</name>
+          <date notAfter="1899" notBefore="1883" type="recorded">Recorded sometime between 1883 and 1899.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>Nareya was a huge man, who lived in the interior of the country. When running down caribou, he wound his body with thongs to prevent him from running too fast, and to steady his belly, which was of enormous size. He overtook the caribou easily, and knocked them down with stones. He would eat the meat of three caribou at one meal, then he would go to the river, where he had a place scooped out large enough for his belly, lie down, and drink of the water until he had enough. He used to lie there until he felt hungry again.</p>
+      <p>One day a man who was out caribou-hunting came to the place at the side of the river where Nareya was lying. The man watched him for a long time, until finally Nareya looked up and saw him. He arose at once, and ran after the man, who tried to escape; but Nareya overtook him and killed him. When the hunter did not return to the village, his friends became very anxious, and one of them went in search of him. He did not find him; but on his return, he discovered that the bodies of the dead had been taken away from the graves. Finally he came to the place where Nareya was lying, at the side of the water.</p>
+      <p>Then he went home and told what he had seen. The people did not know what to do. One of them offered to pretend to be dead and to have himself buried under stones. He expected that he would be taken away like the bodies of the dead, and that he would thus discover the robber. The people carried him out of the house, and covered him up with {177} stones. When it was nearly morning, Nareya discovered the new grave. He took the stones off, fastened a thong around the body in two places, put it on his back, and carried it away. When he came to his home, he took off the rope and put the body down.</p>
+      <p>The man, who was an angakok, pretended to be dead; but when he thought nobody was looking, he blinked with his eyes, and saw Nareya, his wife, and his child, in the tent. Now the man knew that this was the monster that had been taking away the bodies of his friends, and he thought that he must also have killed the caribou-hunter. He heard Nareya tell how he had eaten three caribou, and even more, in a single day. Nareya told his wife to make a fire and to cook the body which he had brought, meaning the man who had pretended to be dead. While the woman was starting the fire, the child thought he noticed the eyes of the man moving. He said so; but Nareya replied, "Never mind. Yesterday, when I brought the body here, it seemed to be very heavy." Now he turned to his wife and asked, "Is the water hot?" When she answered in the affirmative, the man jumped up and knocked Nareya down. Then he ran away as fast as he could.</p>
+      <p>Soon Nareya recovered, and pursued him. The man, by means of sorcery, made various things to allure his pursuer and to distract his attention. Nareya stopped for a time, but soon continued his pursuit. When he had nearly reached the fugitive, the latter, by means of sorcery, made a great many berries. When Nareya saw them, he stopped, and picked and ate a great many. Meanwhile the man had run over a hill. When he reached the foot of the hill, and saw the monster gaining upon him, he made a river. Nareya reached the river, and, on seeing the man on the other side, he asked him, "How did you cross?" The man replied, "I drank all the water until I was able to wade through the river." Then Nareya lay down and began to drink. He almost emptied the river, went across, and when he came to the other side, shook the water out of his sleeves. His stomach was so full of water that it made him burst, and he died. A mist arose {178} from him, and from it all the mist and fog originated. The man lost his way in the fog, but after some time it cleared away, and he reached home safely.</p>
+    </body>
+  </text>
+</TEI>

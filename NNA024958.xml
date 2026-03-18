@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Man Who Drank Too Much Water</title>
+        <editor role="collector">James S. Mutch</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NNA024958</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Boas, Franz (1901): The Eskimo of Baffin Land and Hudson Bay. From notes collected by George Comer, James S. Mutch, and E. J. Peck. New York: AMNH (Bulletin of the American Museum of Natural History, 15,I). Quot. pp. 259-260.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA27903">Baffin Island Inuit</name>
+          <date notAfter="1899" notBefore="1883" type="recorded">Recorded sometime between 1883 and 1899.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>At Kudlookto, in Kingawa, there were a number of persons who were sealing and caribou-hunting. One day some of them went off to hunt caribou in the lakes. They killed a great many. They towed them ashore, cut them, and covered the meat to protect it from wolves, foxes, and birds, intending to bring it home in the winter. When the earth was covered with snow, they set out to bring the meat home. One man, by the name of Orriotto, chopped the meat with his axe, and passed it round to the others. He himself did not want anything to eat. When they reached home, he was very thirsty, and drank so much that he could neither sit nor lie, but he had to hold on to a rope, which was fastened from the top of the hut, to ease his weight while he {260} was resting on his knees. He was utterly unable to leave this position. He could not even pass his urine. It took him a whole day to recover. After this they went sealing. Orriotto wore a caribou-skin jacket with a hood different from those of this day. Every winter his face had been severely frost-bitten, but this year he was not frost-bitten at all on the face in the spring. At one time the people made a dish of a mixture of caribou-fat and seal-blubber, and everybody was invited to partake of it. Orriotto used a caribou's shoulder-blade for a spoon, but soon he said, "My spoon is too small;" and he used his hands in helping himself from the dish.</p>
+    </body>
+  </text>
+</TEI>

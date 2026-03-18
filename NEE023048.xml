@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>How It Was Settled Who Should Rule the World</title>
+        <editor role="collector">Basil Hall Chamberlain</editor>
+        <editor role="narrator">Ishanashte</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NEE023048</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Chamberlain, Basil Hall (1888): Aino Folk-Tales. With Introduction by Edward B. Tylor. Privately printed for the Folk-Lore Society. Quot. p. 20.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CEE15701">Ainu</name>
+          <date when="1886" type="recorded">Recorded in 1886.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>When the Creator had finished creating this world of men, the good and the bad gods were all mixed together promiscuously, and began disputing for the possession of the world. They disputed, - the bad gods wanting to be at the head of the government of this world, and the good gods likewise wanting to be at the head. So the following arrangement was agreed to: Whoever, at the time of sunrise, should be the first to see the luminary, should rule the world. If the bad gods should be the first to see it rise, then they should rule; and if the good gods should be the first, then they should rule. Thereupon both the bad Gods and the brilliant gods looked towards the place where the luminary was to rise. But the fox[-god] alone stood looking towards the west. After a little time, the fox cried out: "I see the sunrise." On the gods, both bad and good, turning round and gazing, they saw in truth the refulgence of the luminary in the west. This is the cause for which the brilliant gods rule the world.</p>
+    </body>
+  </text>
+</TEI>

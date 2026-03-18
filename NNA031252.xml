@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Lake-Monster</title>
+        <editor role="collector">Frank Alfred Golder</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NNA031252</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Golder, Frank Alfred (1909): Eskimo and Aleut Stories from Alaska. In: The Journal of American Folk-Lore 22(83), 10-24. Quot. pp. 21-22.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA27710">Aleut</name>
+          <date notAfter="1909" notBefore="1900" type="recorded">Recorded sometime between 1900 and 1909.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>There was a large village close to a lake in which lived a frightful monster. This beast was fed by the people on game which they killed; but when this failed, human beings were substituted. After a time, of all the inhabitants there was left but one woman, who had her hut on the outskirts of the village. She gave birth (at one time) to five boys and one girl. The girl was born with a feather parka on her. The mother took good care of her children; and when they were big enough to run about, she permitted them "to go everywhere except on the south side." They inquired the reason for this command and the cause of so many empty barabaras [native homes] formerly occupied by people. The mother refused to answer their questions, but promised to do so some time in the future, when they were older. They were far from satisfied with this reply, and insisted on being told at once, and even threatened to disobey her instructions. Much against her inclination, and with fear and trembling, she told them, "On the south side there is a large lake, in which lives a monster so huge that his body reaches from one bank to the other. He has devoured all the people of the village; and I understand that he is coming closer now, for he has had nothing to eat for a long time. You must not go near the lake. One of these days he will come and eat us up."</p>
+      <p>The children received the news coolly, and threatened to go the next day to kill the monster. "Ai-Ai-Yah!" cried the mother. "Don't do it. There were many people strong and brave who could not kill him, and how will you do it?" But the children would not be dissuaded. Under the <pb n="22"/>direction of the girl, the boys worked all night making bows and arrows. In the morning, in spite of the entreaties of their mother, they set out to hunt, and succeeded in killing a fur-seal, which the girl cooked and covered with feathers from her parka. Putting the meat on the platter, she started with it towards the lake, followed by her brothers. From a hill nearby they had a good view of the lake and the monster, whose tail was above water. Here the girl ordered her brothers to wait out of danger, while she proceeded. When the monster saw her coming, he opened his mouth, drawing her to him; but before he had quite succeeded, he was obliged to go under. She took advantage of the opportunity, and, after putting down the meat, ran back as fast as she could. When she heard him emerge, she fell down on the ground, clutching with all her might some alder-bushes, and in this way escaped the fate of the meat, which the beast got into his mouth. After the monster had eaten, he went under the water; and in the meantime the girl gained the hill, where her brothers were waiting. They watched to see what would follow, and after a time they were made glad to see the monster appearing on the surface dead. The feathers of the parka in which the girl was born poisoned him, as they would any other animal. With this joyful news, the children hastened home to tell their mother. Around this place the family continued to live, and from them all the inhabitants of Bering Island are descended.</p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>An Orphan</title>
+        <editor role="collector">Glafira Makarina Vasilevich</editor>
+        <editor role="narrator">Putugir A.</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NEE060071</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0">CC BY-NC-SA</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Däbritz, Chris Lasse/Gusev, Valentin/Stoynova, Natalia (2024): INEL Evenki Corpus. Version 2.0. Publication date 2024-12-31. Archived at Universität Hamburg. https://hdl.handle.net/11022/0000-0007-FE38-D. In: The INEL corpora of indigenous Northern Eurasian languages. https://hdl.handle.net/11022/0000-0007-F45A-1. Quot. p. s.p..</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CEE15803">Evenki</name>
+          <date when="1931" type="recorded">Recorded in 1931.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>Earlier they lived Evenks, some of them were ogres.  With these ogres there [lived] an old woman with son.  The old  woman's son was a boy who just had stood up [= started walking].  The old woman was rich, she had many reindeer.   The ogres were beating the old woman and her son.  The ogres  went hunting for elks in autumn.  They were going and chasing an elk.  Having gone  they came home by night.  They started telling their relatives, saying: "We followed an elk on the pasture".   They agreed: "Tomorrow, we'll scare the elk being many [people]".  In the morning they <note>[DCh]: The form "ilbÉnÉËhindÊ¼ÉÅÉËlti" is not clear; maybe -l- is plural marker, but why before 1PL.IN?</note><note>[DCh]: The glossing of </note>went to scare the elk.  The old woman's son prepared his bow, er set the beak of a black woodpecker on the arrow. <note>"tÉÉ£ÉmiËktÉdÊ¼in" is tentative; INSTR should not be -d'i- after vowels, but -t-. </note> In the morning they went off, many [people] had gathered, they took along the old woman's son.   They went to hunt the elk, they were going, they reached it.  They reached it and discussed: "Let's encircle it, one [of us]  who is not visible shall scare the elk so".  The elk ran to the old woman's son, to  the boy.  The boy shot at the running elk [and] missed it.  He wounded it, he went to his arrow, at  the arrow's tip there is blood.  The men came to the boy and said: "What have you done?"   "I wounded [it]." They said to the boys: "Idiot, he missed the elk!"  All ogres  started beating and kicking the boy, they said: "You missed the elk".  They almost killed the boy.  Having beaten him, they went home.  They came home, they started to beat the boy's grandmother <note>[DCh]: Form the context it seems that the boy's mother is </note>as well.  They were beating heavily, they almost killed her.  The boy made it hardly home in the evening. <note>meant, and not his grandmother. </note> In the morning all ogres wandered off, they took along all reindeer of the old woman, they brought them to themselves, they left the old woman and her son in the small  yurt.  The son said: "Granny, let's go there where I  have wounded the elk, it can't be that wasn't hit, he apparently died.  Let's go along the elk's trace."  They went off and followed the trace; when going they got hungry.  The son saw a jay, he shot at it and killed it.   They ate it, again they went on taking along their stuff.   They reached the elk's trace.  They went along the elk's trace.  They were going for a long time along the trace.   [They see:] Their elk is sitting there, being wounded.  Again they went along its trace.  They went along the elk's trace, they  saw their elk lying there dead.  They were very happy and said: "God has given it".   They flayed the elk and started eating.  The elk is fat, he has a lot of fat.  Having eaten they  were living for a long time in the camp.  The old woman's son began to hunt, he killed elks.</p>
+    </body>
+  </text>
+</TEI>

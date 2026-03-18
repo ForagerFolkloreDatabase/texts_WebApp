@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>[The Fox and the Puma]</title>
+        <editor role="collector">Ramón Lista</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NSA020647</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>No English source available. Quot. p. 54.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CSA39102">Tehuelche</name>
+          <date notAfter="1879" notBefore="1877" type="recorded">Recorded sometime between 1877 and 1879.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>A puma found himself at the edge of a haystack with a very gentle fox.</p>
+      <p>(It should be noted that this one had a colorful crest on his head.)</p>
+      <p>"What a beautiful decoration you are wearing, my friend! How did you make it?" spoke the beast.</p>
+      <p>"Very simply: I scraped my head with a flint, and then I inserted the beautiful rhea feathers into it."</p>
+      <p>"How admirable! I wish to submit to the same test. Do you want to go to the trouble of doing it for me?"</p>
+      <p>"With great pleasure."</p>
+      <p>And the fox began to scratch the puma's skull, until he had thinned it enough to break it with a single blow of a flint.</p>
+      <p>And the puma died.</p>
+    </body>
+  </text>
+</TEI>

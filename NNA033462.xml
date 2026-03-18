@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Hunter and the Ducīʼne</title>
+        <editor role="collector">James Teit</editor>
+        <editor role="narrator">Tuu:ʼts ('strong rocks')</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NNA033462</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Teit, James A. (1919/21): Tahltan Tales. In: The Journal of American Folk-Lore 32(124), 198-250; 34(133/134), 223-253, 335-356. Quot. pp. 352-353.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA28403">Tahltan</name>
+          <date notAfter="1915" notBefore="1912" type="recorded">Recorded sometime between 1912 and 1915.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>A man went with his family to trap marmots. He thought Ducīʼne<note>Ducīʼne or Duceʼna are a kind of wild people, partly cannibal, of wicked disposition, believed to inhabit the country, especially to the east. They wear clothes, and look like people. They often sing and dance as they go along. They possess great shamanistic power, and, when hunting in the mountains, conceal themselves in a cloud of down, so that people cannot see them. At a distance the down looks to people just like fog. They are said to eat only the ribs of game they kill. They are good hunters and travellers. At the present day the name is used as a common designation for the Cree Indians.</note> people were near. Therefore he told his wife to build the door of their house in the form of a passage, with a recess on one side where a person could hide. He said, "If you see a fog travelling on the mountains on a clear day, you may be sure that it is a Ducīʼne man." One clear day after this the man was hunting sheep. He killed one, and brought it home to camp. His wife told him that she had seen the fog that day: so at dusk he asked her to hide with the children in the woods near by, while he would wait in camp. He kept up a large fire, and laid the body of the sheep alongside the fire, and covered it with blankets. About midnight the fire had burned down a little. Then he heard a sound as of some one approaching, and he hid in the recess near the door. Soon a man holding bow and arrows entered, and, seeing what seemed to be a man asleep near the fire, he discharged an arrow into the sheep. At the same moment when he lifted his arms to shoot his bow, the man from the recess shot an arrow into his body below the arm. The Ducīʼne ran out, making a noise like a bird flying, and disappeared. The man went out and called on his helper, the snow. Then snow began to fall, and covered the ground. Early in the morning he called his wife and children to camp, and told them he was going after the wounded man. He followed his tracks to a lake, where he came to the Ducīʼne in the water, and a loon sucking <pb n="353"/>his wound to heal it. He called on the man to spare him. The man refused, and shot him again; and his body sank in a deep part of the lake. Next morning he saw the Ducīʼne afloat again, and the loon sucking his wounds. He shot him again, and this time cut off his head. He put his body in the water at one end of the lake, and his head at the other. The next morning the parts had come together, and the loon was attending to him as before. The man shot him again, and cut his body into small pieces. He carried them around, putting them here and there in different lakes and streams some distance apart. In this way he managed to kill him for good and all.<note>See BBAE 39: 214; UPa 8: 168; also Carrier Myths, p. 5.</note></p>
+    </body>
+  </text>
+</TEI>

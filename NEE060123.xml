@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Flying Squirrel</title>
+        <editor role="collector">Konstantin Nikolaevich Rychkov</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NEE060123</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0">CC BY-NC-SA</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Däbritz, Chris Lasse/Gusev, Valentin/Stoynova, Natalia (2024): INEL Evenki Corpus. Version 2.0. Publication date 2024-12-31. Archived at Universität Hamburg. https://hdl.handle.net/11022/0000-0007-FE38-D. In: The INEL corpora of indigenous Northern Eurasian languages. https://hdl.handle.net/11022/0000-0007-F45A-1. Quot. p. s.p..</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CEE15803">Evenki</name>
+          <date when="1913" type="recorded">Recorded in 1913.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>A flying squirrel is shaking a soft bag. "What are the women doing?" "They are lulling [the child]". "How many children do you<note>[KAY]: In the original Russian sentence the word 'Ð·ÑÐ±ÐºÐ°' means 'cradle'.</note> have?" "Ten!" "Give the tenth one!" "I won't!" "Now I'll chop  you!" "What did the flying squirrel do?" "It sways the soft bag!" "What are the women doing?" "They are lulling [the child]!" "How many children do you have?" "Nine!" "Give the ninth one!" "I won't!"  "Now I'll chop you!" "What has the flying squirrel done?" "It sways the soft bag!"  "What  are the women doing?" "They are lulling [the child]!" "How many children do you have?" "Eight!" "Give the  eighth one!" "I won't!" "Now I'll chop you!" "What did the flying squirrel do?" "It  sways the soft bag!" "What are the women doing?" "She(?) is lulling [the child]!" "How many children do you have?" "Six!"  "Give the sixth one!" "I won't!" "Now I'll chop you!" "What  has the flying squirrel done?" "It sways the soft bag!" "What are the women doing?" "They are lulling [the child]!" "How many children do you have?" "Seven!" "Give the seven[th] one!" "I won't!" "Now I'll chop you!"  "What has the flying squirrel done?" "It sways the soft bag!" "What have the women done?" "She(?) is lulling [the child]!" "How many children do you have?" "Five!" "Give the fif[th] one!" "I won't!"  "Now I'll chop you!" "What has the flying squirrel done?" "It sways the soft bag!" "What  are the women doing?" "They are lulling [the child]!" "How many children do you have?" "Four!" "Give the  fourth one!" "I won't!" "Now I'll chop you!" "What has the flying squirrel done?" "It  sways the soft bag!" "What are the women doing?" "She(?) is lulling [the child]!" "How many children do you have?" "Three!"  "Give the third one!" "I won't!" "Now I'll chop you!" "What <note>[DCh]: Suffix forming ordinal numerals is lacking.</note>has the flying squirrel done?" "It sways the soft bag!" "What are the women doing?" "She(?) is lulling [the child]!" "How  many children do you have?" "Two!" "Give the second one!" "I won't!" "Now I'll chop you!"  "What has the flying squirrel done?" "It sways the soft bag!" "What did the women do?" "She(?) is lulling [the child]!" "How many children do you have?" "One!" "Give it!" "I won't!"  "Now I'll chop you!" The wolverine goes off. "What has the flying squirrel done?" "It  sways the soft bag!" A fox is coming. The flying squirrel is crying. The fox says: "Why are you crying?" "My children were taken away by the wolverine!" "Flying squirrel, how did the wolverine use to say?" "It used to say: "Now I'll chop  you! If you don't give, I'll chop you, if you don't give!""</p>
+    </body>
+  </text>
+</TEI>

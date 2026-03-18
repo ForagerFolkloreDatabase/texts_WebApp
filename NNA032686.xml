@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>[Another Tale of Kujavarsuk]</title>
+        <editor role="collector"> anonymous</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NNA032686</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Rink, Henry (1875): Tales and Traditions of the Eskimo. Edinburg/London: Blackwood. Quot. pp. 152-154.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA27908">Kalaallit (West Greenland)</name>
+          <date notAfter="1868" notBefore="1823" type="recorded">Recorded sometime between 1823 and 1868.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <note>There are other tales of Kujavarsuk among the Greenlanders. The following may be taken as a sample of the whole.</note>
+      </p>
+      <p>When Kujavarsuk had grown a man he travelled to a place in the north, where he had had a namesake who died from starvation. The people of those parts followed the pursuit of whale-fishery, and here Kujavarsuk made friends with a youth. Those two were always trying to outdo each other, but Kujavarsuk was more than a match for him. In the beginning of winter they were to try who could detect the first whale. Kujavarsuk had never seen any animal of this kind before. He had by this time taken up his abode with an old man, who said to him, "When a whale is near at hand, it cannot be mistaken; its breathing is at once roaring and hissing." And Kujavarsuk was always on the alert to catch sight of them. One fine morning, when it was quite calm, the old man said, "If the whales are going to be early this year, they'll turn up on a day like this." Kujavarsuk remained out in his kayak all day, listening for the signal, but could not perceive any such sound at all. In the evening he returned after a fair hunt, and tried to go to sleep, but was not able. About midnight he rose, and stepping out he heard a sound of heavy breathing from the sea coming closer to him, and stopping at the mouth of the bay; and on entering he said, "I wonder what sound it was I heard just now." The old man walked out, and returned, saying, <pb n="153"/>"Why, that's just the whale blowing; he did not miss his day." Kujavarsuk now went to rest, and slept soundly. But early in the morning his young friend was heard calling without, "Kujavarsuk, the whale is blowing! thou art too late!" But the old man made answer, "Thou art mistaken, he knew it yesterday, and has just gone to sleep." Soon after, the friend said, "Now let us see which of us is the best hand at making bladders for our whale-catching." And next day they went out together to procure seals for this purpose. Close to land Kujavarsuk got two spotted ones, but his friend got none at all. As the weather continued fine, and more whales appeared, the boats were sent out on the watch. At first Kujavarsuk concluded he was not to be of the party because he had no women to row his boat, but on seeing all the hunters set off along with their housemates, women and all, he, too, felt a strong desire to go; and getting hold of some children, he manned his boat with them, and left shore. The other boats, meantime, had stood farther out to sea, and the people shouted to him, "If thou art on the look-out for the whale thou must come out to us; he'll never rise where thou art now." But he did not mind them, and stayed where he was, his mother having said, "I conceived thee on the sea-shore, and for this reason thou shalt watch thy chance near it." In a little while a whale appeared close by; he at once pursued and harpooned it, and the beast could not even draw his bladder under the water. Again the others cried, "If thou wilt not lose it thou must pursue it more seawards." But he only replied, "All the animals of the sea that I am going to pursue will seek towards shore, close to my dwelling-place." And thus he was left alone to kill it all by himself. Whether he got any more than this one is not known; but perhaps he even got his ten of them. When spring came on he returned to his former <pb n="154"/>home, where he still found the old fisherman alive, and to him he presented all the whalebone; the longest and best splits having been all reserved for him.</p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Man Who Was Pitied by Wolves &amp;c.</title>
+        <editor role="collector">Christiaan Cornelis Uhlenbeck</editor>
+        <editor role="narrator">Káinaikoăn</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NNA037509</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Uhlenbeck, Christiaan C. (1912): A New Series of Blackfoot Texts from the Southern Peigans Blackfoot Reservation, Teton County, Montana. With the help of Joseph Tatsey collected and published with an English translation. Amsterdam: Müller (Verhandelingen der Koninklijke Akademie van Wetenschappen te Amsterdam, Afdeeling Letterkunde, NS 13,I). Quot. pp. 120-123.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA31305">Piegan</name>
+          <date when="1911" type="recorded">Recorded in 1911.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>A man, his two wives, [and] his three children were very hungry. They had nothing to eat. The winter had come. He was hunting about, he did not find any buffalo. And he had suffered very much for something to eat. They moved camp. He looked for his people. Then he camped. It snowed during the night. The snow was deep. [While] they, were still sitting [in their lodge], they heard, [some one] was knocking the snow off himself. He told his wife: Look out. When she looked [out], there were many people, young men. They all had wolf-robes. All of them had packed meat on their back. Then they began to go in [to the lodge]. They said to him: There is some food, go out and get it. There were tongues, boss-ribs, ribs, flanks, a breast, as they are the choicest [parts of <pb n="121"/>the buffalo]. In that way he was brought these things to eat. [The chief of the young men] told him: Over there is somebody corralling. He says to you, he already knows you, [that] you are hungry, [and for that reason he wants you,] that you move over there [where he is]. [When you come there,] everybody will give you some food. And this night, when he got something to eat [from those young men], he was saved by having something to eat. He was happy, having eaten his fill.</p>
+      <p>These many young men would go to sleep. Some of them were going to make a fire outside. That lodge there was very small. That man told them: It does not matter [that means: there is no objection against it], that you all sleep in here. And one of the young men told him: It does not matter, that they sleep outside. All of them went out. That man said to his wives: Do you know them? [When he did not get any answer, he said:] Who is a fool? Women [are fools]. [Then the women said:] We don't know them. That man told [his wives]: They are no human beings. They are false persons. Then they slept. And in the morning he told them [the young men]: It is very cold, so we will not move. They told him: It does not matter, move [anyhow]. These many people will pack your lodge-poles. He said <pb n="122"/>to them: Yes, who is the chief [that means: your chief]? [They answered:] Big-wolf is a chief, Old-coyote is a chief. Red-fox is a chief, Kit-fox is a chief. Big-skunk is a chief. Those are the chiefs.</p>
+      <p>He moved and came to them. They invited him. Big-wolf invited him. Old-coyote invited him also. And Red-fox invited him also. Kit-fox invited him also. Big-skunk invited him also. They all gave him food, that he might eat. They said to him: Just sit there. To-morrow we will corral. You will be given choice parts of meat. Then he suddenly heard, that they made noise. They made the buffalo jump off the cliff. What was brought to him after a long while, were all the choice parts of the meat. And then he had plenty of food. [When] spring was getting near, he was invited by Big-wolf. He was told by him: Be prepared to go quickly. I [that means: we, the whole tribe] am going to separate. These people are no persons. You have been given choice parts of meat. When it was morning, there was nobody at all in the lodges. They all went to enter their holes [being wolves, coyotes &amp;c.]. [Big-wolf] said to him: We belong over there in that other place. They [the man and his family] moved. That man was an owner of beaver-rolls. He got to his tribe. They [the Peigans] were very hungry. From him they got <pb n="123"/>something to eat. He said to [his tribe]: We will move to the buffalo-corral over there. We will take the carcases. From that we shall have something to eat. They moved and came there, and they were all saved by having something to eat. He became a chief, because he found the food. And now the boiling is ended.</p>
+    </body>
+  </text>
+</TEI>

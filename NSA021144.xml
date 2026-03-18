@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Ké-erren the Sun and Ké-re the Moon</title>
+        <editor role="collector">Roberto Dabbene</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NSA021144</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Dabbene, Roberto (2025): Two Yahgan and Four Ona Myths. Trans. for the Forager Folklore Database (FFDB Documents). Quot. p. 5.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CSA39101">Ona</name>
+          <date when="1902" type="recorded">Recorded in 1902.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>Ké-erren was a great hunter <pb n="77"/>and the most beautiful man of his time. One day he returned from hunting loaded with guanaco meat, when he saw his wife Ké-re talking with another woman at the edge of a lake. As Ké-erren approached them and listened, he understood that Ké-re had uncovered a secret that only men should know and was telling it to the other so that all the women would be disillusioned. So, he swiftly hit Ké-re in the face, causing the bruises that today appear as spots on the moon. Ké-re fled and Ké-erren followed her and so they crossed the whole earth, finally Ké-re reached a high cliff over the sea and without hesitation jumped. Ké-erren in turn threw himself after her to follow her and so they continue to this day; but Ké-erren [the sun] has never been able to reach Ké-re [the moon], his wife.</p>
+    </body>
+  </text>
+</TEI>

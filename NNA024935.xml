@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Old Woman Who Transformed Herself into a Man</title>
+        <editor role="collector">James S. Mutch</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NNA024935</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Boas, Franz (1901): The Eskimo of Baffin Land and Hudson Bay. From notes collected by George Comer, James S. Mutch, and E. J. Peck. New York: AMNH (Bulletin of the American Museum of Natural History, 15,I). Quot. pp. 248-249.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA27903">Baffin Island Inuit</name>
+          <date notAfter="1899" notBefore="1883" type="recorded">Recorded sometime between 1883 and 1899.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>At one of the camping-places of the people lived a very old woman and her adopted daughter, in a stone house. During the winter the people moved off to a more suitable hunting-ground, and left the two alone. They lived there for some time, and there was nobody to hunt for them. Then the old woman transformed herself into a man, and married the girl. Then she cut off her toes, and transformed them into dogs; and she made a spear, a harpoon-head, and lines from other parts of her body. Then she cut off the lowest part of her belly,[[See p. 323.]] and made a sledge out of it. Now she went sealing. She caught her first seal at the side of the lamp. It tasted so badly of urine that they could not eat it, and gave it to the dogs. In the evening they went to sleep together. On the following day she caught a seal in the doorway, but it tasted nearly as bad as the first one, and they gave it, too, to the dogs. In the evening they slept again. The next day the old woman went sealing again, and caught a seal at the entrance of the porch. It was a little better than the preceding, although they could not eat it. They slept again, and on the following day she caught a seal in the ground-ice. She took it home, and cut it. It was much better, but still they could not eat it. They slept again, and the following day she went off with her sledge and her dogs. Now she caught a seal on the floe-ice. When they cut it, they found that it was very good, and they ate of it. They went to bed, and on the next day the old woman went out again on the floe-ice sealing, and she caught another seal, which was very good. They lived in this way for some time. Sometimes she went hunting {249} with her dogs, and sometimes she went afoot. After some time the young woman was with child.</p>
+      <p>One day a stranger arrived while the old woman was off sealing. She had left the sledge and the dogs at home. The visitor asked the young woman, "Whose dogs are these?" She replied, "My foster mother's." He asked, "Whose sledge is this?" - "My foster mother's." - "Who caught those seals?" - "My foster mother." And she told him of all that had happened. Suddenly they heard some one speaking to the dogs with a man's voice. It was the old woman who had returned from sealing. She was at the house-door; and when she was about to enter the hut, she saw the legs of the visitor. As soon as she saw them, she knew that a man was inside of the house. She felt ashamed, and suddenly she was transformed into an old woman. She was so weak that she had to ask her daughter to help her into the house. Then the man went home and told the people what he had seen.</p>
+    </body>
+  </text>
+</TEI>

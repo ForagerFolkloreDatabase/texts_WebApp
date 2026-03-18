@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Bringing of the Light by Raven</title>
+        <editor role="collector">Edward William Nelson</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NNA003121</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Nelson, Edward W. (1899): The Eskimo about Bering Strait. In: Eighteenth Annual Report of the Bureau of American Ethnology. Washington: Government Printing Office, part I, 1-518. Quot. pp. 483-485.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA27736">Ikogmiut</name>
+          <date notAfter="1881" notBefore="1877" type="recorded">Recorded sometime between 1877 and 1881.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>In the first days there was light from the sun and the moon as we now have it. Then the sun and the moon were taken away, and people were left on the earth for a long time with no light but the shining of the stars. The shamans made their strongest charms to no purpose, for the darkness of night continued.</p>
+      <p>In a village of the lower Yukon there lived an orphan boy who always sat upon the bench with the humble people over the entrance way in the kashim. The other people thought he was foolish, and he was despised and ill-treated by everyone. After the shamans had tried very hard to bring back the sun and the moon but failed, the boy began to mock them, saying, "What fine shamans you must be, not to be able to bring back the light, when even I can do it."</p>
+      <p>At this the shamans became very angry and beat him and drove him out of the kashim. This poor orphan was like any other boy until he put on a black coat which he had, when he changed into a raven, preserving this form until he took off the coat again.</p>
+      <p>When the shamans drove the boy out of the kashim, he went to the house of his aunt in the village and told her what he had said to them and how they had beaten him and driven him out of the kashim, Then he said he wished her to tell him where the sun and the moon had gone, for he wished to go after them.</p>
+      <p>She denied that she knew where they were hidden, but the boy said, "I am sure you know where they are, for look at what a finely sewed coat you wear, and you could not see to sew it in that way if you did not know where the light is." After a long time he prevailed upon his aunt, and she said to him, "Well, if you wish to find the light you must take your snowshoes and go far to the south, to the place you will know when you get there."</p>
+      <p><pb n="484"/>The Raven boy at once took his snowshoes and set off for the south. For many days he traveled, and the darkness was always the same. When he had gone a very long way he saw far in front of him a ray of light, and then he felt encouraged. As he hurried on the light showed again, plainer than before, and then vanished and appeared at intervals. At last he came to a large hill, one side of which was in a bright light while the other appeared in the blackness of night. In front of him and close to the hill the boy saw a hut with a man near by who was shoveling snow from the front of it.</p>
+      <p>The man was tossing the snow high in the air, and each time that he did this the light became obscured, thus causing the alternations of light and darkness which the boy had seen as he approached. Close beside the house he saw the light he had come in search of, looking like a large ball of fire. Then the boy stopped and began to plan how to secure the light and the shovel from the man.</p>
+      <p>After a time he walked up to the man and said, "Why are you throwing up the snow and hiding the light from our village?" The man stopped, looked up, and said, "I am only cleaning away the snow from my door; I am not hiding the light. But who are you, and whence did you come?" "It is so dark at our village that I did not like to live there, so I came here to live with you," said the boy. "What, all the time?" asked the man. "Yes," replied the boy. The man then said, "It is well; come into the house with me," and he dropped his shovel on the ground, and, stooping down, led the way through the undergound passage into the house, letting the curtain fall in front of the door as he passed, thinking the boy was close behind him.</p>
+      <p>The moment the door flap fell behind the man as he entered, the boy caught up the ball of light and put it in the turned up flap of his fur coat in front; then, catching up the shovel in one hand, he fled away to the north, running until his feet became tired; then by means of his magic coat he changed into a raven and flew as fast as his wings would carry him. Behind he heard the frightful shrieks and cries of the old man, following fast in pursuit. When the old man saw that he could not overtake the Raven he cried out, "Never mind; you may keep the light, but give me my shovel."</p>
+      <p>To this the boy answered, "No; you made our village dark and you can not have your shovel," and Raven flew off, leaving him. As Raven traveled to his home he broke off a piece of the light and threw it away, thus making day. Then he went on for a long time in darkness and then threw out another piece of light, making it day again. This he continued to do at intervals until he reached the outside of the kashim in his own village, when he threw away the last piece. Then he went into the kashim and said, "Now, you good-for-nothing shamans, you see I have brought back the light, and it will be light and then dark so as to make day and night," and the shamans could not answer him.</p>
+      <p>After this the Raven boy went out upon the ice, for his home was on <pb n="485"/>the seacoast, and a great wind arose, drifting him with the ice across the sea to the land on the other shore. There he found a village of people and took a wife from among them, living with her people until he had three daughters and four sons. In time he became very old and told his children how he had come to their country, and after telling them that they must go to the land whence he came, he died.</p>
+      <p>Raven's children then went away as he had directed them, and finally they came to their father's land. There they became ravens, and their descendants afterward forgot how to change themselves into people and so have continued to be ravens to this day.</p>
+      <p>At Raven's village day and night follow each other as he told them it would, and the length of each was unequal, as sometimes Raven traveled a long time without throwing out any light and again he threw out the light at frequent intervals, so that the nights were very short, and thus they have continued.</p>
+    </body>
+  </text>
+</TEI>

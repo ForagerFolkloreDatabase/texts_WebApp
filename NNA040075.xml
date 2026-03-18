@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Grand-Daughter and the Beads</title>
+        <editor role="collector">John W. Chapman</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NNA040075</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Chapman, John W. (1914): Tenʼa Texts and Tales from Anvik, Alaska. With Vocabulary by Pliny Earle Goddard. Leyden: Brill &amp; New York: Stechert (Publications of the American Ethnological Society, 6). Quot. pp. 103-105.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA28601">Deg Xitʼan</name>
+          <date notAfter="1911" notBefore="1887" type="recorded">Recorded sometime between 1887 and 1911.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>There was an old woman who had a grandchild, a girl; and they lived together, and fished in front of their house, the year round. There they lived. They had a fine place. The girl grew to be quite large, and worked with her grandmother. She was old enough to work, and her grandmother was grateful. Now, there came a time when her grandmother said, "My grandchild, go and look down the river!" So she went down the river from the house. There she walked along the bank; and there she saw <pb n="104"/>where houses had been, no one knows how long since. She went down where it appeared that a house had been. She took a little stick and went poking around with it. "What's this?" thought she, and she was glad. She ran back to her grandmother. She ran into the house. "Grandma," she said, "how pretty this is!" - "Why, why!" she said. "Why, my grandchild!" she said, "that was where your grandfather's village was long ago. It used to be his," she said. Then she bathed her, and combed her hair, and dressed her in fine clothes, and that bright ornament hung upon her hair. "My grandchild," she said, "go get some water." So she took her pails and went to the water-hole. She dipped one full of water and the other half full, when she thought she heard something. She listened, and [it was] some one coming from below. She took a good look.</p>
+      <p>There was a big sled with dogs, - three of them. [The man] stopped in front of her and spoke, and said, "Ûʼkgo yuʼgo." But the girl did not understand him, and he went away, and she took up her pails and went up. She went in to her grandmother. "Grandma," she said, "a man came to me with a big sled and dogs, and said, 'Ûʼkgo yuʼgo' to me." And her grandmother said, "Why, why! It is the beads only that he was saying that he wanted. My grandchild," she said, "go take off the curtain. Let's make the fire!" she said. So she went out and took off the curtain. She threw down the wood and made the fire, and her grandmother put on the pot, and they put their meal into it and cooked it; and the poor old woman said, "Come, my grandchild! that's all, put on the curtain." So she put on the curtain, and they ate their meal and went to bed. They woke up in the morning; and the grandmother said, "My grandchild, go and get some more water. Now, if you see a man, if he says Ûʼkgo yuʼgo' <pb n="105"/>to you, give him [the beads]." She went to the waterhole, and saw the man again. He came up to her, and his sled was full of things; and the man spoke, and said, " Ûʼkgo yuʼgo." She gave him [the beads], and he ran off. The girl ran up to her grandmother. "Grandma," said she, "hurry!" And they took the sled up, and put the contents into the house, - oil and fat; and they became rich. She was glad, that poor old grandmother, because she was thankful. And there they lived.</p>
+    </body>
+  </text>
+</TEI>
