@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The War of the Fish</title>
+        <editor role="collector">Jan-Åke Alvarsson</editor>
+        <editor role="narrator">Celestino Màànhyejas Gómez</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NSA006962</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+          <p>By courtesy of Jan-Åke Alvarsson.</p>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Alvarsson, Jan-Åke (2026): Selected Myths and Folktales from the 'Weenhayek. Trans. for the Forager Folklore Database (FFDB Documents). Quot. pp. 90-91.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CSA39401">Wichí</name>
+          <date when="1984" type="recorded">Recorded in 1984.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>We are also going to tell one more story.</p>
+      <p>They say that there was a hole in the riverbed<note>The original text uses the local Spanish term "madrijón", possibly derived from "madriguera".</note> where there was a fish, a single fish. So this fish always came out with its mouth open like this, above the water. And they say that one day a catfish came and swallowed the fish whole. And when the others were missing him, they say that the other sábalos<note>Translator's note: The Spanish term "sábalos" refers to Prochilodus sp.</note> became angry. And they said, "Now, what shall we do? I think it would be pretty to get together and get even with the other one that the catfish killed. Then we can do something against him ... We have our support, we have the dorado, the one with his teeth, he can help us! Although we do not have teeth, but the dorado will help us; he - with other bad critters that are with us - like the old hag and others."</p>
+      <p>Well, the sábalos began to gather, many sábalos, together with the dorado. And they asked him to help them battle against the catfish, to avenge the other one he had eaten.</p>
+      <p>So the sábalos began to battle, to fight against the catfish. They fought [hard]. Sometimes the catfish swallowed one of them, the small fish, but they say that the dorado also hurt the catfish. [However] the catfish was hurting the sábalos, he was scraping them with his teeth. The catfish has something like sandpaper on its teeth, there in front, and with that it was scraping all the tarpon, so they were skinned. And they say that this way the catfish infested all of them, and they were left without scales.</p>
+      <p>So the tarpon thought like this, "Now, what do we do? We have many wounds, yes. But what do we do now?"</p>
+      <p>But another said, "Well, we are already here. Let us think well about it! I recommend that we talk to yeelajitaj, the fish called 'the old woman' who was there in that hole in the riverbed."</p>
+      <p>Then they decided to ask yeelajitaj, "You know how to heal wounds, don't you?"</p>
+      <p><pb n="91"/>She said, "Yes, I am like a healer ... I know how to heal."</p>
+      <p>Then, when [that phase] of the war had passed, they say that the fish went to yeelajitaj with their wounds. They started to be with yeelajitaj. And she began to heal. And as this is the custom of a hiiyawuʼ (shaman), they say that she began to suck, every wound. And sometimes she took out bones, and sometimes she took out scales; she took out everything that the catfish had put in. Then, after another day, they say that the sábalos left there, healthy. And among themselves, they said, "Now yes, we have our hiiyawuʼ (shaman), and our hospital we have here ... Now we are not afraid, not even if it hurts us [a lot], because our yeelajitaj is helping to heal us."</p>
+      <p>And they say that yeelajitaj kept healing and the catfish could not do anything, because the catfish was outside the place where she was, while the sábalos lived together with yeelajitaj. So right there, they had their hospital.</p>
+      <p>That's how they say the story went, but now it's over. That's just it! And that's as far as it goes. I tell what I have heard. I can't say any more.</p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Toad Looks for Honey</title>
+        <editor role="collector">Jan-Åke Alvarsson</editor>
+        <editor role="narrator">Hilario ʼNohitʼàànhen Segundo</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NSA006947</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+          <p>By courtesy of Jan-Åke Alvarsson.</p>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Alvarsson, Jan-Åke (2026): Selected Myths and Folktales from the 'Weenhayek. Trans. for the Forager Folklore Database (FFDB Documents). Quot. pp. 85-86.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CSA39401">Wichí</name>
+          <date when="1985" type="recorded">Recorded in 1985.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>There was a time when a group of families lived in a very good place, where there was a large lagoon. And [their homes] were right there. And that group was very scarce of food (lacked a lot of food). And they didn't know what to do to get food, because it was very difficult for them to find [the honey of] noowalhek or chiguana.<note>Translator's note: The ʼWeenhayek and Spanish terms for a species of honey wasp (Brachygastra lecheguana) and its honey (cf. vol. 6, pp. 291f., and Jan-Åke Alvarsson (1988): The Mataco of the Gran Chaco. An Ethnographic Account of Change and Continuity in Mataco Socio-Economic Organization. Uppsala/Stockholm: Almqvist &amp; Wiskell International (Uppsala Studies in Cultural Anthropology, 11), pp. 288-291).</note> They had to spend a [whole] day searching around there, in the trees, to go to the places where there was a lot of bush, so they could catch (find) the trees with a thick crown.</p>
+      <p><pb n="86"/>But then there was (appeared) their friend the toad. He was always there, on the river bank. And what did he say?</p>
+      <p>"Now we have to eat chiguana, because at this time [their nests] are loaded with worms [larvae] and they have lots of honey! So, there is no hunger, we have something to eat!"</p>
+      <p>But what he was doing was watching the little bees there on the shore of the lagoon.<note>Here is a description of the ʼWeenhayek way of looking for the 'chiguana' honey. See vol. 6 for additional details.</note> When they arose, he was watching where they were going. And [then] he followed them like this, from stretch to stretch, and after a while he reached [their nest] and then he began to take out chiguana [honey].</p>
+      <p>[Promptly] he returned again to the lagoon. And the people [were] just watching. And so, then, people already started with this way of following [the chiguana's flight]. People then knew how to find noowalhek easily.</p>
+    </body>
+  </text>
+</TEI>

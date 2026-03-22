@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ʼAhuutsetajwaj and the Mother of the Rainbow</title>
+        <editor role="collector">Jan-Åke Alvarsson</editor>
+        <editor role="narrator">Celestino Màànhyejas Gómez</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NSA004343</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+          <p>By courtesy of Jan-Åke Alvarsson.</p>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Alvarsson, Jan-Åke (2026): Selected Myths and Folktales from the 'Weenhayek. Trans. for the Forager Folklore Database (FFDB Documents). Quot. pp. 41-45.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CSA39401">Wichí</name>
+          <date when="1983" type="recorded">Recorded in 1983.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <note>This version has been completed with data from another version of this myth, the narration classification number M012, recorded in the same place and on the same day. This version is more detailed in the part of the battle between the protagonist and the Rainbow.</note>
+      </p>
+      <p>They say that there was a woman there in a place. And they say that this woman was kind. Everybody loved her because the girl was very pretty and kind. And the people who were visiting that town, they always loved that woman.</p>
+      <p>But this youngling had been the mother of Lawooʼ, (the Rainbow Monster). And it turns out that when Lawooʼ was visiting his mother, nobody realized anything. It looked like she did not have anything. And that is why some people did not believe it when others said that this was something she had ...</p>
+      <p>And then one day they say that ʼAhuutsetajwaj, when he was there playing his pimpim, they say that after a while his brother arrived, and asked him, "How are you, brother?"</p>
+      <p>Then ʼAhuutsetajwaj answered, saying, "Brother, I am here ... It seems that there is something over there ... I do not know very well, but I think I will go tomorrow to where it is."</p>
+      <p>So, they say that the next day ʼAhuutsetajwaj went to the place where that woman lived. And when he came to that little village, they say that there was a girl who was looking at him when he came.</p>
+      <p><pb n="42"/>Then ʼAhuutsetajwaj thought, "Ah, that's the woman that people say is Lawooʼ's mother ..."</p>
+      <p>Then, when he had arrived he thought, "Now I'm going to go straight there to the girl's house. I am going to visit her parents."</p>
+      <p>But there were other people there, watching. And one woman said, "But why is ʼAhuutsetajwaj coming here? He is not going to live anymore, because those people, when they have visitors, then, on account of their daughter, it always happens that they do ill to anyone ..."</p>
+      <p>And people gathered around the house where the girl's parents were. And when they saw what was happening, a woman said, "But why is ʼAhuutsetajwaj coming here? He must know, then, that there is danger here. Now he is not going to return to his house again!"</p>
+      <p>And the others said, "Go and tell him to leave at once, and not to sleep here, but to leave at once! He has to leave this very day!"</p>
+      <p>But another said, "Well, what is to be done?"</p>
+      <p>And they say that one went there to chat with ʼAhuutsetajwaj, saying, "You can (should) get out of here now! Do you not know that there is danger here?"</p>
+      <p>But ʼAhuutsetajwaj did not heed him, and said, "I do not mind being killed, then, I am not like the others. I do not care if they do that to me ... That is why I have come to seek out this thing, so that they kill me."</p>
+      <p>That is what he had said. And then the others said, "Let him go, he does not want to ... Just let him go ..."</p>
+      <p>Now, at the hour to sleep, they say that the girl came to ʼAhuutsetajwaj and said to him, "ʼAhuutsetajwaj, you can sleep with me ... [It seems that] I am going to fall in love with you ..."</p>
+      <p>"Alright," said ʼAhuutsetajwaj, "no problem. I can be with you and have you as my wife. Very well!" He said so directly.</p>
+      <p>"I love you!" said the girl. "Uh! I love you very much!"</p>
+      <p>Then ʼAhuutsetajwaj answered, "Yes, I love you too, I love you very much ..."</p>
+      <p>So they were there [together]. And when they went to bed, at night, they say that he slept with her.</p>
+      <p>And in the morning, when they had gotten up, the girl said to him, "Now we can go forage, looking for something we lack."</p>
+      <p>Then they got ready to go into the forest. But ʼAhuutsetajwaj knew what was going to happen. And when they had gone a little further, the woman said to him, "Go ahead and I will stay here to dispose (defecate)."</p>
+      <p><pb n="43"/>Well, ʼAhuutsetajwaj already knew from his powers that she had always done this like so, every time she did it like this, in this manner [when she killed the visitors].</p>
+      <p>But they say that she had stayed and he went ahead. And she said, "I will catch up with you! Just go on ahead! Don't worry, because I am going to catch up with you!"</p>
+      <p>And ʼAhuutsetajwaj did as the woman had asked. He went onward. But then all of a sudden he went back, turning like this. He walked straight at first and then turned around like this, and crossed over to the other side, and then came to where the woman was, [peeping].</p>
+      <p>And when he had returned to where the woman was, she was still sitting. And when he was looking at her, they say he saw something coming out [of her vagina], and it wasn't just any old creature, but it was Lawooʼ, the rainbow. And so ʼAhuutsetajwaj thought, "Ah, that is how it has been!"</p>
+      <p>And he was there, watching, while Lawooʼ was still coming out of his mother and was coming down like that, [winding]. And when he had completely come out, then the girl said to him, "Son, go on to catch up with that man who was going ahead! Just go catch up with him! You have to eat that man!"</p>
+      <p>And then her son went to catch up with the man who had gone ahead. But they did not know that the man was right behind them. And when some time had passed, [and Lawooʼ had gone] that way, then ʼAhuutsetajwaj came out and hit the girl with his club. He killed her, clubbing her over the head. Twice he hit her and the girl already died.</p>
+      <p>And then he left, running away. And he left in a hurry, bolting off. And when the beast had found his footprint, then it sniffed out where he had gone. Then, once more, he passed by the location of his mother. And when he got there he found her dead. And he tried to go in [to his mother] again, but it was in vain. Then he realized that she had died.</p>
+      <p>"What a thing!" he said, "Now I no longer have a mother!"</p>
+      <p>And then they say that he tried to follow ʼAhuutsetajwaj. He already smelled his tracks, and felt where he had gone. And then it followed and followed his track, even further. Then when he had arrived further onward, he began to blow hard. And then he blew as if he was the wind coming on hard.</p>
+      <p>And suddenly ʼAhuutsetajwaj heard that something was coming down the path. And he knew what it was, "There he comes! Now the man, Lawooʼ is <pb n="44"/>coming! He seems to be coming to catch up with me. And it seems that he is very angry."<note>Here begins the uncertainty of the M012 version.</note></p>
+      <p>And ʼAhuutsetajwaj was frightened, "Now, what do I do? I am so tired ... Now I am going to die!"</p>
+      <p>And suddenly there came a wind that blew very hard, that made trees fall down. And this wind already made him go back when he wanted to walk forward. But he kept walking until Lawooʼ had come very close. And it happened that when Lawooʼ was coming, getting closer, ʼAhuutsetajwaj could no longer bolt off, because he was very tired.</p>
+      <p>Then ʼAhuutsetajwaj remembered the palm leaves he knew how to use for his crown and neck. [This time] he had put palm leaves all over his body, had tied them to his arms, around his neck and then on his head. He had made something like a crown there. On his feet he had also put some leaves. Then, he said, "Now, I believe this thing is going to defend me ..."</p>
+      <p>And it turns out that when the Rainbow was approaching, they say that ʼAhuutsetajwaj took off a leaf, and threw it down. Then a palm tree was formed there. And he grabbed the palm and then the palm [began to grow] and it had risen and had become a tall tree. And he stayed up there in the palm, where its leaves are. So, he stayed there. And when the wind was blowing hard, they say he did not fall. He was holding on tight up there. But when Lawooʼ came, they say he started to climb that palm tree until he got close to where ʼAhuutsetajwaj was.</p>
+      <p>But when ʼAhuutsetajwaj saw that he was very close he started to get down. He got down and again bolted off. And by the time Lawooʼ had come down from the palm, they say he had already run a distance. And when he had come down, then ʼAhuutsetajwaj was far away again.</p>
+      <p>And again he had to run to catch up with ʼAhuutsetajwaj. But he could not. When he was getting close again then ʼAhuutsetajwaj said, "Now yes, I can do as I did a moment ago ..."</p>
+      <p>Then he took off another palm collar and threw it down to form another palm tree, and again he went up. And he was up there, there on the top of the palm tree. And when the wind came, it began to shake again. ʼAhuutsetajwaj almost fell every time, but he did not fall. And Lawooʼ was getting closer and closer.</p>
+      <p><pb n="45"/>But it turns out that ʼAhuutsetajwaj was watching, so when Lawooʼ was close again, then he went down again. And they say that they were fighting for a while, until there remained one last thing left that ʼAhuutsetajwaj had to defend his life with. He had only his palm crown left. It was the last thing he had. Then he said, "Now yes, this is it ... It looks like I am going to die. Because now I have no more palms to defend myself with. So now, I can only stay like this ..."</p>
+      <p>Then, when Lawooʼ approached again, he took off his crown, threw some leaves and climbed [upon the palm that was rising]. Now he could not run anymore. And they say that suddenly Lawooʼ came, he came winding like a viper. And he had smelled that ʼAhuutsetajwaj was over there, up above. So he also began to climb that palm tree. And he would climb up until he got close to ʼAhuutsetajwaj, there on the crown of the palm, to begin to take revenge.</p>
+      <p>Then ʼAhuutsetajwaj said, "This far! I am ready, for already Lawooʼ is going to kill me! Why did I kill his mother ...?"</p>
+      <p>Only a little further, and Lawooʼ would reach ʼAhuutsetajwaj. But he was up there, waiting for him. And he said, "Now, this is the last leaf I have ...!"</p>
+      <p>And when Lawooʼ reached him, they say that ʼAhuutsetajwaj with his powers, with his power, had said that a lagoon will form where a palm tree was. And [when he threw the last palm leaf], a palm was formed like this, in the middle of a lagoon. And they say that just then Lawooʼ had become tired and when he got there, to the last palm, the last one, then he said, "Here yes, here I am going to be ... I am not going to leave anymore."</p>
+      <p>Then, ʼAhuutsetajwaj could go out calmly and Lawooʼ stayed there in the last palm of the lagoon. Then ʼAhuutsetajwaj went home.</p>
+      <p>And the ancients say that until now Lawooʼ does not know where he is going to live. They say that he used to have a mother, who was a person, but that he no longer has one.</p>
+    </body>
+  </text>
+</TEI>

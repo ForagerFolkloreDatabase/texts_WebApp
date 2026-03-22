@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Spider Teaches the ʼWeenhayek to Weave</title>
+        <editor role="collector">Jan-Åke Alvarsson</editor>
+        <editor role="narrator">Celestino Màànhyejas Gómez</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NSA009293</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+          <p>By courtesy of Jan-Åke Alvarsson.</p>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Alvarsson, Jan-Åke (2026): Selected Myths and Folktales from the 'Weenhayek. Trans. for the Forager Folklore Database (FFDB Documents). Quot. pp. 65-66.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CSA39401">Wichí</name>
+          <date when="1984" type="recorded">Recorded in 1984.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>They say that in that [ancient] time no one knew how to weave. It was only Kyohoot (the spider-woman) who knew how to weave. And it is always like that with Spider - this we can still see today - that when she wants to make her nest, you can see for yourself what she is doing. They say that she began to teach people how to make (weave) whatever she felt like. She said to the people, "[In this way] we can make all the things which we lack!"</p>
+      <p>Because everyone who went to the bush [to forage] did not have something to transport the things of the bush.</p>
+      <p>"I think it would be better ... Let us do a thing! Let's make a llica so that the man can transport [all the things he finds in the bush]! And the women can also have their share. Let us make other llicas, special ones, for them!"<note>In ʼWeenhayek a linguistic distinction is made between the llica for women (sikyet) and the one for men (hiiluʼ).</note></p>
+      <p>Then Spider began to teach the people. She wove a llica in front of all the other women. Then the women were left to learn. And each time, they say she did like four jobs, for the four women. And [then] she had also stayed, monitoring everything that the women were doing. And when they were ready, then she had put another thread [to the llicas] so that [the women] would be able to carry them.</p>
+      <p>When all [the llicas] had their handles [belts/straps], then [Spider] began to call the men together. She said that the man could use a llica, the hiiluʼ. Then the hiiluʼ had come out well and she had also taken out several drawings, which she had thought of putting on. Then she said, "Now it is good! Let the men have this hiiluʼ, like this, all the time! And the women can work on this!"</p>
+      <p>Then she began to weave a special bag for women, a sikyet. And that llica was bigger. She wove it, and when she had finished it later she gave it to the women to carry all the things that are in the bush. Then she saw that it was very good.</p>
+      <p><pb n="66"/>[Then] she had advised the women, saying, "Now, do this all the time! This way, you will not lack [a way to] carry things from the bush. Because if you do not [have these llicas], you do not have a way to carry the things. And we as women also have to do our part."</p>
+      <p>So, as it is the truth, the people followed this and worked like this. Spider taught them how to pull up caraguatá, and how to make thread, and then how to paint it. Spider also knew how to dye it. Then she would pick the fruits in the bush, and also roots. They say that she used to get dye from that, which she put in the threads. So the work turned out very pretty. That is how they say she did it.</p>
+      <p>And that's how [the women] continued to do it all the time, until now they still use [the same]. This work [of caraguatá] exists until now because Spider taught it to the people. And until now, they are still working it; the most recent people of today. And this work is just going on, but it was Spider who taught it [first]. Before they didn't know how to weave, but in the ancient time, Spider was teaching [the women] so that there was all this work. And like what, nowadays, this work is still continuing. And this is the way it had happened in the story that I have heard.</p>
+    </body>
+  </text>
+</TEI>

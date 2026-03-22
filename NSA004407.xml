@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ʼAsiinàj Teaches the ʼWeenhayek How to Hunt</title>
+        <editor role="collector">Jan-Åke Alvarsson</editor>
+        <editor role="narrator">Celestino Màànhyejas Gómez</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NSA004407</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+          <p>By courtesy of Jan-Åke Alvarsson.</p>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Alvarsson, Jan-Åke (2026): Selected Myths and Folktales from the 'Weenhayek. Trans. for the Forager Folklore Database (FFDB Documents). Quot. pp. 56-58.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CSA39401">Wichí</name>
+          <date when="1984" type="recorded">Recorded in 1984.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>Now I think we will begin with another story about ʼAsiinàj, the dog, he who taught the others [dogs] how to kill the animals of the wild. He as well, ʼAsiinàj, he wanted to direct the others who were still new, so that they would come to be experts of the wild animals.</p>
+      <p><pb n="57"/>[But] he also had his owner, the dog. The dog was an expert; he already knew how to kill; he had gone like that many times, that is why he was an expert. That is why he wanted to teach the others who still did not know the animals. And then, they say that one day he went with other animals (dogs) and arrived there [in the forest]. When they were arriving, then he said, "Now, you have to pay attention because we are going to specifically hunt collared peccary<note>Here he refers to the collared peccary or 'taitetú', in local Spanish 'rosillo'. In ʼWeenhayek it is called ʼaawutsaj, and in Latin Tayassu tajacu.</note>- and they are bad - and we are also going to hunt white-lipped peccary.<note>Here it refers to the white-lipped peccary, in local Spanish 'majano' or 'tropero'. In ʼWeenhayek it is called ʼniitsaj, and in Latin Tayassu pecari.</note> Those animals are bad for us and [that is why] you have to be very careful. That's right."</p>
+      <p>And ʼAsiinàj said to them, "[Now], this [the outcome] depends on our owner. If our owner kills an animal quickly; then we are all right; but if he delays until one [of the peccaries] catches [one of us], the peccary will kill someone. Once [it happened like that]; it was because of our owner, who did not hurry to kill the beast; then [the peccary] grabbed one of us and could kill him. Thus we also have to suggest these things to our owner. We have to tell him that once we catch an animal, he has to kill it immediately. [If he does it] like that, then no, nothing will happen."</p>
+      <p>And thus ʼAsiinàj had spoken to them. And so they went to the bush.</p>
+      <p>And one day, they say they went to the bush. And when they found the collared peccary, then they killed it. Well! Nothing had happened. So ʼAsiinàj had taught the other new dogs, saying, "You have to be very careful! When you catch the collared peccary, do like this: You must not be careless and you have to stand a little far away because they can use their snout just like that, and do not go to put yourself in front of [the animal] because this is, oof, this is a dangerous beast! And if it is a white-lipped peccary, then that peccary [is even] worse ...! That peccary is worse, because there are many of them! And then we have to be very careful."</p>
+      <p>That is what he had advised to all the others. And when they went to the bush, they watched out for themselves too.</p>
+      <p>And one day, they say that they came across a white-lipped peccary. The owner began to catch them quickly with his spear, already in one go, because they were very close to the peccary. So, in just one go, the owner wanted to kill it with his spear, because it had already been overwhelmed. And then when they <pb n="58"/>caught [the peccary], but before they had killed it, it was better to catch it in one go. So the owner had done it this way, he looked out for his dogs, so that none of them would get hurt, because if not, then he would have nothing more to live on, because they [the owners], they say that they were their uncles and that they lived off of the dog. [They] lived off of the countryside. They always lived like that ...</p>
+      <p>And then, all the people, each one lived with their dogs and [from the] animals of the bush; and with them, they say that they had hunted a lot; that's how it was. So, all the time they had done thus. And when they arrived at the house [after hunting], then, oof, there was a lot of food, always! And then they always took things [from the bush]. Now they started catching three-banded armadillo, iguana, big hairy armadillo, everything ..., and peccary, brocket ... The dog would catch everything. Then the people did not suffer [for lack] of meat; they had meat all the time. Because that's how people [lived] before.</p>
+      <p>Once the people were chasing all the animals of the bush, in short, so that they would not lack meat. And it is true; there was always meat, every day, because every day the people would go forage. And when they came back with collared peccary, [well] sometimes they would catch two, or three, or four ... And if it was a white-lipped peccary, then they would catch up to five, six, maybe ... It depended ... if they caught ... ... up to six, seven, they would catch. Like that. So there was meat every day; not from the house, but from the bush. And then they, oof, would always try to look for animals from the bush: armadillo, iguana ..., and all that, armadillo at least.</p>
+      <p>Uh, that was the main food! And so it was, says the story. So far, too, the story has also come to the end. We can go no further. This is the end!</p>
+    </body>
+  </text>
+</TEI>

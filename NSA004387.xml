@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Sun and the Moon Compare Their Powers</title>
+        <editor role="collector">Jan-Åke Alvarsson</editor>
+        <editor role="narrator">Celestino Màànhyejas Gómez</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NSA004387</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+          <p>By courtesy of Jan-Åke Alvarsson.</p>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Alvarsson, Jan-Åke (2026): Selected Myths and Folktales from the 'Weenhayek. Trans. for the Forager Folklore Database (FFDB Documents). Quot. pp. 50-52.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CSA39401">Wichí</name>
+          <date when="1983" type="recorded">Recorded in 1983.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>All those who have told stories have said that there is a time when the sun changes [its appearance]. Then it goes slowly. And there is another time when the sun walks fast. The ancestors say that, when his time comes, the sun sets like an old man, and because of this he cannot walk lighter, faster, because he is an old man who cannot walk more hurriedly.</p>
+      <p>And the wintertime arrives, and they say that the sun changes again, becomes young, and then, the elders say, that is why the sun arrives quickly to where it enters [goes down], because he is young and walks more strongly. And this is how they told it.</p>
+      <p>Very well, one time, they say that there were two people who were waiting on the sun, there where it was rising. And those two people, they say that they had turned black, because their bodies had been burned. Every time the sun rose, they say that it shone brightly and that its light always afflicted those who were at his door. They say that they were like gatekeepers of the sun, these two people. They had their little house and lived where their gate was, where the sun rose. And when the hour came, at about five o'clock, then the gate was already open, so that the sun would rise like that. And that is how they worked.</p>
+      <p>But before the sun came up, then first something like lightning had to come out before the sun. And then the flame of the fire afflicted those who were by the gate, their gatekeepers. And they, because of this, their bodies were changed, they turned black, so much so that they were burned. And thus they had held out for a long time, because the sun had hired [them] to be as his gatekeepers. They had carried this out and were there.</p>
+      <p>And they say that one day [the sun] had met the moon. When they were chatting with each other, the sun said, "My friend, why don't you go and visit me at my house?"</p>
+      <p>And the moon accepted. The moon said to the sun, "Yes, my friend, I believe that one day I will come to visit you."<note>The original text reads "between here, between the days"; here interpreted as 'one day'.</note> Thus had the moon indicated that he was going to come to visit.</p>
+      <p><pb n="51"/>They say that one day he came to visit the sun. Early in the morning, they say, the moon left his house to go and visit the sun. The sun had told the [proper] time to the moon, saying, "Look, my friend, you are going to wait there where there are two peons, who are my porters. So, there you are going to wait for me, because there I am going to come out. And there we are going to drink mate, because I have to rest and drink my mate before I continue the journey."</p>
+      <p>When the moon arrived at the sun's porters, he said, "Here I will be awaiting the sun."</p>
+      <p>His porters said, "Good, you have come to visit, but you have to hold on - because before the sun rises, his flames arrive - Which one cannot withstand. Very hot! Before the sun rises. And how would it be if one came near?"</p>
+      <p>Well, and the moon said, "Very well, I am going to wait anyway, as he told me that I have to wait ..."</p>
+      <p>So they stayed like this. At about five [in the morning], the gate began to open. They say that a little while later the flame of the sun came out. They say it was very strong, so strong that the moon could not stand it. And when his friend arrived, he could not chat because he was sick on account of it being so hot. He, the moon, could not stomach it anymore and he got sick. And in that moment he could not talk to his friend, because he was sick since his body was as if it was burned.</p>
+      <p>So the moon went away, silently, and went halfway home. Then when he got home, they say that he was sick because he had been burned. His whole body was as if it had been burned. He was sweating a lot and was sick.</p>
+      <p>Later, when he was better, they say he went to wait for his friend on the road and when he found him, he just waited. He did nothing, they say, because he was very far up [very high].</p>
+      <p>But they say that [the sun and] the moon met [again]. And the moon said, "My friend, now it is your turn to visit me, because I have many things to give you. So you had better come and visit me too."</p>
+      <p>And they say that he appointed such a day, that the moon had to wait for the sun. And when the sun came, that appointed day, then he said, "You will find me here, where my hotel is ..."<note>In ʼWeenhayek, the temporal concept 'noon' is indicated by tà ʼijwáala yààmho laʼwet ('the sun arrived at its place'). Here the narrator translates it with the concept 'hotel' since it is a temporary residence.</note></p>
+      <p><pb n="52"/>Because the sun, they say, arrived at twelve o'clock, arriving just where his hotel was so he could have lunch. After lunch, they say, he went to the house of the moon to visit him. And when he approached that house, they say that he felt very cold. The cold snows came down hard, and he was on the ground and the sun could not stand the cold any longer.</p>
+      <p>But he kept trying to arrive, getting closer to that house, but the cold got worse and worse, so he could not get there. And then, finally, the sun was about to go out and not shine any more, and it seems that the sun was left like that, without light. And when he understood his weakness, then the sun turned back. He also could not reach the other's house.</p>
+      <p>And they say that he arrived where his own house was. He felt his illness. It had made him very ill because he felt very cold. And so it seems that the two were tied [in the struggle] over everything they had wanted to have. They had surely tested each other, for the moon is the master of cold, and the sun is that of heat. So the moon could not endure the flame of the fire, for it is very hot, and neither could the sun endure the cold of the moon. Because of that, the sun also could not reach the house of the moon. And so, they say, it has happened.</p>
+      <p>That's it, the end.</p>
+    </body>
+  </text>
+</TEI>

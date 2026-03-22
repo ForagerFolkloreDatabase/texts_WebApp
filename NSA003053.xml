@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Thokwjwaj and the Singing Competition</title>
+        <editor role="collector">Jan-Åke Alvarsson</editor>
+        <editor role="narrator">Celestino Màànhyejas Gómez</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NSA003053</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+          <p>By courtesy of Jan-Åke Alvarsson.</p>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Alvarsson, Jan-Åke (2026): Selected Myths and Folktales from the 'Weenhayek. Trans. for the Forager Folklore Database (FFDB Documents). Quot. pp. 33-35.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CSA39401">Wichí</name>
+          <date when="1984" type="recorded">Recorded in 1984.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>And when Thokwjwaj was alive once more, he began to wander around the world [again]. Once more he began to walk around the earth. Then he said, "Alright, let us see!"</p>
+      <p>And they say that there were many young women [that enticed Thokwjwaj and the other men], many girls. Then they said that the [man-]birds began to gather, to congregate [to attract the attention of the young women]. And they said, "Now we will sing to see who of us has the most beautiful song."</p>
+      <p>And they say that the bird pàq wanted to start, "Yes, I can sing like this ..."</p>
+      <p><pb n="34"/>But then Thokwjwaj said, "I also want to sing, just with you, in order to have myself a woman ..."</p>
+      <p>And the women were in agreement, they say. The girls had said that, "He who has two songs will have two women. He who has three songs will receive three women. He who has one, one. He who has two, two. He who has four, four. So it will be."</p>
+      <p>So the younglings attempted to sing. First pàq, the 'chacarera'<note>Translator's note: creamy-bellied trush (Turdus amaurochalinus), cf. vol. 6, p. 235.</note> sang. And he had two, three songs. So he indeed received three women. And afterwards ʼispoolop sang, the one they also call 'tordo' ['thrush'].<note>Translator's note: cf. vol. 6, pp. 223f.</note> He only had one song. So he received one woman.</p>
+      <p>Thereafter, ʼistààjweʼ, the 'charata'<note>Translator's note: Chaco chachalaca (Ortalis canicollis), cf. vol. 6, p. 189.</note> sang. He had only sung once. So he received one woman. And afterwards, other birds also sang and only had one song, so that they always received one woman.</p>
+      <p>And it happened that [when they got to] Thokwjwaj, he also played his pimpim, "I also know how to play pimpim. I will do that now as well ..."</p>
+      <p>So Thokwjwaj was playing his pimpim and while he was playing he said, "Oh, I also have a song ..."</p>
+      <p>But Thokwjwaj's song was not so nice. And it turns out that Hoowanaj, the 'gualacate',<note>Translator's note: big hairy armadillo (Chaetopbractus villosus), cf. vol. 6, pp. 157f.</note> [who also wanted to sing,] did not have a nice song either. So the women did not want them. The women moved far away, saying, "What a disgrace of a song [of Thokwjwaj]! Let us distance ourselves ... I do not want to listen to that song anymore! It is no good! He does not know how to sing. And also that Hoowanaj, what a disgraceful song! He does not sing well! Now I do not want to hear anything [from them]. Let's go far away!"</p>
+      <p>Then they went to another place. The girls had already received their husbands and went to another place. And the mothers of the girls who had married the birds who had good songs, they had then stayed with Thokwjwaj. One said, "I will not say anything concerning your song, but I do want to do something with you, I want to marry [you]. I want to make you my husband."</p>
+      <p>And Thokwjwaj said, "Well, there is no problem. We can do it."</p>
+      <p><pb n="35"/>So Thokwjwaj stayed with that woman. And the other one, Hoowanaj, he also stayed with that old woman. Well, she was not that old, very old, she could still have another son.</p>
+      <p>And when Thokwjwaj had lived with her for a while, they say that Thokwjwaj's wife was pregnant. And they say that one day the boy was born. Then Thokwjwaj's wife said, "Thokwjwaj. This is your son! Take your son, hold him for a little while!"</p>
+      <p>[But he] replied, "No, do not tell me 'my son' ... I am ashamed to say 'my son'. I, for my part, can say: 'He is my brother' ... I do not want to have a son like that, but I will call him 'my brother'."</p>
+      <p>Then the woman said, "I cannot say that, because he is your son. This is your son! I cannot speak like this. [You too] can say 'my son'."</p>
+      <p>Then he began to deny it, and said, "No! I cannot treat him like that, as my son. I will call him 'my brother'."</p>
+      <p>And it is true that Thokwjwaj called him his 'brother'. He did not want to say his son. Then finally he said, "I have to get away, because this is not my son ..."</p>
+      <p>Then they say that, because of this man's affair, because of him and this denial, they say that until now this problem just continues. There are some who do not want to acknowledge their children, but say, "This is not my child!" This is because Thokwjwaj had refused first, they say. People put the blame on him. From the beginning, they say, he had denied that it was his child. And now it seems that people come out just the same. That some people do not want to acknowledge their children.</p>
+      <p>Sometimes they respond when the woman says "This is your child" that "No, it is not my child! I do not recognize the boy. That must be another man's." That is how they always deny it, every time.</p>
+      <p>So that had happened with Thokwjwaj. So he called his son 'brother'. And the woman did not like it. And then, finally, the boy did not know who his father was. But his father, indeed, was Thokwjwaj, though he denied it. Then they say the woman at last said: "Well, so far ... I cannot demand any more ..."</p>
+      <p>Thus we have come to the end of this story.</p>
+    </body>
+  </text>
+</TEI>

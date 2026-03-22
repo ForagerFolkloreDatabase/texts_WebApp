@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Woman Who Married the Dog</title>
+        <editor role="collector">Jan-Åke Alvarsson</editor>
+        <editor role="narrator">Celestino Màànhyejas Gómez</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NSA007021</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+          <p>By courtesy of Jan-Åke Alvarsson.</p>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Alvarsson, Jan-Åke (2026): Selected Myths and Folktales from the 'Weenhayek. Trans. for the Forager Folklore Database (FFDB Documents). Quot. pp. 99-100.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CSA39401">Wichí</name>
+          <date when="1984" type="recorded">Recorded in 1984.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>They say that there was a woman who had caught a dog. And it turns out that this woman was single. And at that time, the story goes, there were few people and not many men. There were a lot of women and so she was in need of a man.</p>
+      <p>And after a while, they say that she had raised a dog, a big dog. And when he was a young, she slept together with the little dog until he got big. And as he grew up they had not separated, but slept together.</p>
+      <p>Then finally, of course, they say that the dog was in the mood to use this woman. And since this woman needed a man, then she accepted that the dog would use her. And when the dog had used the woman, they say she liked it. After that, every day, they say that the other countrymen saw that she went alone with her dog and when the woman did not go out to the bush, the dog always cried. And it seems that the dog demanded that they go to the bush like <pb n="100"/>that then, to be able to use that woman. And every time like that, but the others didn't notice.</p>
+      <p>And at one time, they say that she was pregnant and they did not know what had done that to her. And it had been that she had used the dog. And later, they say that the woman was pregnant, and the others asked and did not know anything.</p>
+      <p>And when she was about to give birth, then they said that the dog could not be born, because it could not. "It cannot come out," they said. But when one had been born, then people just knew it was the dog [that he was the father] ...</p>
+      <p>One was born, but, of course, there were several. There were about six dogs (puppies) and each time she gave birth and again she gave birth. And then the last one got stuck and the woman died because of it. And then the people just knew and got scared that she had gone about in that way. In that way no one should go about!</p>
+      <p>Then people began to be afraid, why did she go about like that with the dog, to let herself be used? Well, then there was nothing to be done. The woman died because she had given birth and the last child (puppy) could not come out; it had gotten stuck. And then the woman died. They buried her and then they said, "Then that's it. After [this], we can no longer allow that [one is too close to] the dogs, because they have done this way!"</p>
+      <p>And such was the tale that I have heard also. People [already] were afraid of dogs. When one breeds dogs, then one cannot cuddle any. They have always recommended that they be put far away, because it had happened that way in the past times.</p>
+      <p>That's how the story ended!</p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Brocket Leaves her Child at Home</title>
+        <editor role="collector">Jan-Åke Alvarsson</editor>
+        <editor role="narrator">Celestino Màànhyejas Gómez</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NSA006957</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+          <p>By courtesy of Jan-Åke Alvarsson.</p>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Alvarsson, Jan-Åke (2026): Selected Myths and Folktales from the 'Weenhayek. Trans. for the Forager Folklore Database (FFDB Documents). Quot. pp. 86-88.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CSA39401">Wichí</name>
+          <date when="1984" type="recorded">Recorded in 1984.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>We begin to tell a story that says that there was a brocket, and that this brocket had a son. And they had a home, a little house.</p>
+      <p>And they say that from time to time [the bush caught fire] and a fire burned all the bush where they lived. And they say that every time the fire passed near their house, but it never touched the house itself, where the son was.<note>Here the narrator repeats himself. The repetition has been omitted.</note> But it seemed like it was getting closer and closer every time</p>
+      <p>And one day, when the brocket was about to go out to the bush to forage, she said to her son, "My little son, stay here in the house!"</p>
+      <p>But they say that the youngling was still a little boy and had not gotten used to staying [alone], because he was small ... Then his mother said to him, "Stay here, don't be afraid! Our grandfather always just passes by here, your grandfather will not do anything! Do not be afraid of him!"</p>
+      <p>Then the son answered, "Well, then alright, I will not be afraid ... Go on ahead, mommy! When your grandfather comes, [I will be calm] ..."</p>
+      <p><pb n="87"/>They say that they called the fire their "grandfather". Then, when the fire ran, they said that "grandfather was passing by" ...<note>Here the narrator repeats himself. The repetition has been omitted.</note></p>
+      <p>Well, the brocket went to the bush, searching for something to eat. They say that her food was algarroba; algarroba and then some other things. So she went to do something there. They say that is how the brocket did it every day, she went out foraging to support her son. She always brought back algarroba fruit for her son.</p>
+      <p>But it happened that [the forest caught fire again]. And the fire was reaching that little house where the brocket's son was. And the fire was getting closer and closer to the house where the boy was. And his mother was absent, looking for something to eat for her son.<note>Here the narrator repeats himself. The repetition has been omitted.</note></p>
+      <p>But it turned out that the fire knew that this boy was afraid. So it followed him and suddenly passed by where the little house was and began to burn the house, and that little boy who was there ...</p>
+      <p>And the boy [was afraid and frightened], "What am I going to do? What can I do?"</p>
+      <p>But the fire did not pass. It burned the little boy. He was burned all over. His body became dry and then he became peeled, with his teeth showing. His lips were burned and only his teeth were left.</p>
+      <p>Then, when it was time for his mother to arrive, she saw the fire passing over her house. And when she did not see her little boy, who was always out there [to welcome her], who was always getting happy and started laughing ...</p>
+      <p>[But this time] the boy didn't get up but just stayed [lying] there. Then she said, "Oh! My poor son! Every time when I have arrived at home, I have found him laughing, content ..."</p>
+      <p>But they say this time she found her son heavily burned. He did not have ears or lips anymore. Everything had been burned, only his tooth [could be seen]. And his mother said to him, "My poor little son! Always when he sees me, when I am arriving from the bush he always laughs and is content."</p>
+      <p>But this time, when she was arriving, they say that her son was burning. And she stayed very sad because her son had been burned. And she cried for him. And she began to sing a song, that in the language of the ʼWeenhayek goes:</p>
+      <p>"Tsu, tsu, tsu! Tsooʼnaʼatajilah ... Aʼaʼa-yàs-aje-eʼ ..."</p>
+      <p><pb n="88"/>This is when ʼyàs-ajeʼ is said, it means: 'it is my little son', 'my boy has died', this is what it says ...</p>
+      <p>Then she just kept crying like this. This because her son had been burned.</p>
+      <p>The story is over as well. That's it!</p>
+    </body>
+  </text>
+</TEI>

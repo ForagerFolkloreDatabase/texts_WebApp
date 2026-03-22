@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Three-banded Armadillo, the Fox and the Beehive</title>
+        <editor role="collector">Jan-Åke Alvarsson</editor>
+        <editor role="narrator">Celestino Màànhyejas Gómez</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NSA009313</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+          <p>By courtesy of Jan-Åke Alvarsson.</p>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Alvarsson, Jan-Åke (2026): Selected Myths and Folktales from the 'Weenhayek. Trans. for the Forager Folklore Database (FFDB Documents). Quot. pp. 73-75.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CSA39401">Wichí</name>
+          <date when="1984" type="recorded">Recorded in 1984.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>Now we begin to tell another tale that was told by those elders.</p>
+      <p>They say that there were two men. A man called armadillo, and another called fox. It turns out that these people had been walking in the countryside, the two of them always [together]. And one day [armadillo] said to his friend, "Tomorrow we are going to go to the bush, to look for hives!"</p>
+      <p>So the next day, they went into the bush. And it turned out that these men were testing each other. And when they got to the bush one said to the other, <pb n="74"/>"We have arrived here in the bush. Now you have to go to the other side and I am going to go to this side! You are going to go to that side!"</p>
+      <p>Then they separated and one went to the other side. And it happened that the armadillo crossed paths with the fox further on. They say they did not find any hives. And when they had been foraging for a while, suddenly the armadillo remembered something [he could do] to test his companion.<note>Here the narrator repeats himself; the following repetition has been omitted: "And armadillo had gone to meet up with the fox where the fox was scrounging."</note> So when the fox was approaching, armadillo put himself at the underside of a branch, hanging like [a nest of] bees. And then the fox, when he looked at [that] side, found [a nest of] bees, hanging. And he went over there, content, "Now yes, I have found a hive!"</p>
+      <p>And when he got there, he was looking for a dry stick so that he could turn over [that nest of] bees. And when he had found a dry stick, he broke it into pieces and began to take shots. And when he threw, he missed several times. But then they say that he had exactly struck the hands of [the armadillo], where he was holding onto the tree. And when he had hit his hands, they say that he let go of the stick and fell to the ground.</p>
+      <p>And when he fell to the ground, they say that the fox went over there, in a hurry to have [honey]. But when he moved it, it had been his friend armadillo. Then he said, "Friend, why do you do this to me in this way? This must not be done!"</p>
+      <p>"Well," said the armadillo, "let's drop it. Let's go for a walk, let's look again! Now yes, let's go and search intently!"</p>
+      <p>[But] the armadillo did not know well how the fox thought either. So when he was walking, looking for honey, in that moment, they say that the fox had crossed paths with the armadillo. And when the armadillo was approaching, then the fox started to climb a tree. And as he is long, suddenly the armadillo saw [a nest of] bees, hanging like that, long, it seemed. Then he [became] content. He did not realize [that it was his partner].</p>
+      <p>And when he started to throw, they say that the fox did not fall. Too hard to fall! Sometimes his friend would hit his hands, where he was grabbing the tree, and he did not fall, he did not unfurl, but he peed. And it turns out that when the armadillo saw something that was dripping over there, he said, "Ah, now the honey is dripping, it is already dripping!"</p>
+      <p><pb n="75"/>But when he licked it, trying it, they say that the smell was of fox urine. Then he said to his friend, "My friend, why are you doing this? Get down and let's go!"</p>
+      <p>They were arguing with each other because they were acting this way [to each other].</p>
+      <p>"Well, friend," said the fox, "now let's leave. Now let us go for a walk, calmly. We are not going to act like this anymore. Now we're going to go look for honey!"</p>
+      <p>So they say they tied. And they tarried for a while. And when it was getting late, they say that they came back with nothing, because they were doing that test, one to the other. And in that way they stayed. Because of that it seems that they found nothing. They came [to the house] the same, they didn't bring anything. So they stayed in their houses.</p>
+    </body>
+  </text>
+</TEI>

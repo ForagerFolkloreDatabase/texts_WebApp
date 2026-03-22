@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Thokwjwaj Cuts the Iguana's Tail</title>
+        <editor role="collector">Jan-Åke Alvarsson</editor>
+        <editor role="narrator">Celestino Màànhyejas Gómez</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NSA001908</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+          <p>By courtesy of Jan-Åke Alvarsson.</p>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Alvarsson, Jan-Åke (2026): Selected Myths and Folktales from the 'Weenhayek. Trans. for the Forager Folklore Database (FFDB Documents). Quot. pp. 24-26.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CSA39401">Wichí</name>
+          <date when="1984" type="recorded">Recorded in 1984.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>Let's continue telling yet another story about what the same Thokwjwaj did.</p>
+      <p>It came to pass that Thokwjwaj, when he saw ʼAalhuʼ (the iguana-man),<note>This animal is a lizard (Iguana iguana), called ʼaalhuʼ in ʼWeenhayek and 'iguana', 'caravay' or 'caraway' in local Spanish. In the Spanish translation, the narrator uses the word "caraway", something that, in the wording, has been changed again to the local ʼWeenhayek.</note> entering his cave, he then also wanted to do the same. [So] he entered the cave (of <pb n="25"/>the iguana) and they say that when he had passed to the other side, there was a root that was broken off there.<note>Here the narrator reuses some words again (which have been taken out): "And Thokwjwaj said, 'He went away! He's already gone!'"</note> [He thought that] he had reached ʼAalhuʼ. So he said, "Now I am going to break the tail!"</p>
+      <p>But when he grabbed ʼAalhuʼ's tail, he could not pull it off, nor could he pull it up again. So he broke the tail. And when he got outside he said, "Now yes, I have caught the iguana ... At least, I have caught the tail ..."</p>
+      <p>Then he thought a thing, "Now I am going to do a thing!"</p>
+      <p>And he began to break the tail of the iguana into pieces. And he thought like this, "Now this piece ..." He began to throw it aside like this. It happened that [the piece] became a lizard. Then he threw another piece down, [and that piece] became like an ututu.<note>'Ututu', called wooyelaj in ʼWeenhayek, is the local name for another small, green and white lizard. [Translator's note: spiny lava lizard (Tropidurus spinulosus), cf. vol. 6, p. 262.]</note> Then he threw another, bigger piece, and then the caiman<note>This is the local name for the alligator, or the 'spectacled caiman', in ʼWeenhayek ʼaalhutaj, and in Latin Caiman sclerops.</note> was made. All three came out of this iguana tail.</p>
+      <p>They say that is how it happened. And then he started to do other things. He was thinking of doing things with his powers, [forming] all the little animals that sing when there is a lagoon. [Because] when it rains there [are] always critters that sing, happy [that] there is water.</p>
+      <p>First Thokwjwaj named the frog. He said, "Let there be frog!"<note>Compare Genesis 1:3, 26.</note></p>
+      <p>And they say there was. Then he also remembered the toad. And he said, "Let there be toad!"</p>
+      <p>Well, then there was. And as I said, he knew how to name all the animals. And then he named the other animals, all the frogs, every kind there was. Then he named other frogs, of which I don't know the name in Spanish, but there were several frogs that were singing when there was water.</p>
+      <p>So they say that there were already these little animals. And Thokwjwaj said to them, "Now, you must live in the lagoon, all the time! When it does not rain, you have to be there, where the lagoon is. And when it rains, then the lagoon will rise and then you can start singing. And so I think it is going to be good. <pb n="26"/>Then we will see how it works, when the rainy weather comes." [So] he has done all these things.</p>
+      <p>They say that afterwards Thokwjwaj began to name all the animals in the wild that are birds.<note>In the text a number of birds are mentioned, in their order of occurrence: pàq (creamy-bellied thrush, Turdus amaurochalinus); ʼispoolop (thrush, solitary cacique, Cacicus solitarius); leetseʼniwotaj (shiny cowbird, Molothrus bonariensis); tsʼoolotaj (great antshrike, Taraba major); ʼistààjwe (Chaco chachalaca, Ortalis canicollis); piistaʼ (little green bird); puujtah (small bird); kyʼiiyoʼ (small bird, 'chiyó'?); ʼaasnaaj (brushland tinamou, Nothoprocta cinerascens); lhuumaʼyih (tatupá, partridge); ʼiniikyuʼ (seriema) and suwaalhqolh (nacunda nighthawk, Podager nacunda). For more information, see vol. 6.</note> They say he named them all, but I do not know the names in Spanish. But here, I don't know, later we will know the names. But in the ʼWeenhayek language it is said that he named them like this: first of all a bird that is called pàq; a bird that is called ʼispoolop; a bird that is called leetseʼniwotaj; a bird that is called tsʼoolotaj; a bird that is called ʼistààjwe; a bird called piistaʼ; a bird called puujtah; a bird called kyʼiiyoʼ, a bird called ʼaasnaaj; a bird called 'perdiz' ['partridge'], I think, I know the name of that one. That is, he has named many [birds]. [He has named] ʼiniikyuʼ, the 'chuña' ['seriema'], that's how it was called, I know. He named everything this way and so it was that those birds that he has named already have their names. "Very well," he says, "already, we have solved the matter of everyone having their name." And they say that among the birds he called each one by name, of [which] we have not heard.</p>
+      <p>And to all the birds he told [that which they will do]. To the chacarera he said, "When the time comes, you are just going to sing, the time when all the fruits of the land here ripen, [then] you have the right to sing."</p>
+      <p>Also to other birds, like 'charata' ['Chaco chachalaca'], and other birds [of which] I don't know the name [in Spanish], [he gave his instructions]. And then he already said to suwaalhqolh, [which is a bird] that they call 'chorizo borbo' ['nacunda nighthawk'], and then, he said to him, "Now you, before the mistol ripens, you have to sing. That is your time; and afterwards, when the mistol has matured well, then you can no longer sing, you have to stop, because that is quite forbidden." That is how he advised it.</p>
+      <p>Very well, it was done. Then it is well. And they say that afterwards Thokwjwaj was happy because he had thus made all the animals that are in the land. Now this story is also short. That's it, the story is over.</p>
+    </body>
+  </text>
+</TEI>

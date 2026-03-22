@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Puma Tests if the Brocket Has Teeth</title>
+        <editor role="collector">Jan-Åke Alvarsson</editor>
+        <editor role="narrator">Celestino Màànhyejas Gómez</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NSA006961</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+          <p>By courtesy of Jan-Åke Alvarsson.</p>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Alvarsson, Jan-Åke (2026): Selected Myths and Folktales from the 'Weenhayek. Trans. for the Forager Folklore Database (FFDB Documents). Quot. pp. 88-89.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CSA39401">Wichí</name>
+          <date when="1984" type="recorded">Recorded in 1984.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>After this I have to tell one more story ...</p>
+      <p>They say that there was a brocket and a puma.<note>The original translation uses the word "león" ['lion'], which, in local Spanish, refers to the puma. In ʼWeenhayek, the term is tʼowaalhaj, and in Latin Felis concolor.</note> And the puma was beginning to taunt the brocket. He said to the brocket, "Now what are you going to do since you have no teeth? You have nothing, you only have antlers and hooves ... But I do, I have my nails ..."</p>
+      <p>And they say that in ancient times, at first, the puma had no teeth. So there was no way to hurt any animal, because he had no teeth at all ... So they say that the animals were making fun of each other. And the brocket said to the puma, "You are just like that [without teeth] ... Maybe you cannot do anything to me, because I have everything ..."</p>
+      <p>Then they began to fight among themselves. They fought, and then the brocket pierced the puma with his antlers. And they say that, with his antlers and hooves, the brocket protected his own life. They say that the brocket has sharp hooves to be able to scratch the puma, and he also has his [very sharp] antlers. And they say that the antlers went deep into the puma's flesh each time, until the puma died. And they say that in this way the brocket killed the puma.</p>
+      <p>Then the brocket went elsewhere, well pleased, because the puma had died, so greatly because the puma had mocked him, saying that he had nothing. And he [the brocket] said, "Now yes! I for my part killed the puma."</p>
+      <p>And the brocket was quite pleased. He [felt he] had power.</p>
+      <p>Then someone, some man, we do not know who it was, found the dead puma, killed by the brocket. And when he found him [he was astonished] that such a beast, such a big animal, could not defend himself.</p>
+      <p><pb n="89"/>"What a thing! This beast is big, and the brocket is small!" he said. "Now the puma has to receive a defense. He has to have his nails, [but he also] has to receive teeth. That is how it has to be!"</p>
+      <p>And they say that one day the puma came out with teeth. And the man said, "Now, no one can do anything to the puma, because now he has tremendous things to defend himself with!"</p>
+      <p>And he said to the puma himself, "Now you are the man who can chase all the animals of the wild. Now, you can chase even the brocket ..."</p>
+      <p>Now that the puma had his teeth and also his nails, he then wanted to get even with the brocket for what he had done to him. And he felt good, good ...<note>Here the narrator repeats himself. The repetition has been omitted. In addition, some marginal changes have been made to the chronology in order to tell the story in accordance to the original version.</note></p>
+      <p>They say that he began to walk [looking for an opportunity] to get even with the brocket. He had no [interest] in chasing another creature, but only the brocket. And they say that one day he found him.</p>
+      <p>And he began to watch him, and at siesta time, when the brocket was resting in the shade, he took the chance [and attacked him]. And it turns out that [because of the surprise attack] the brocket did nothing, because the puma took advantage while he was sleeping.</p>
+      <p>But when the puma jumped up, the brocket [was alerted], because he never sleeps very hard, and he ran away. And the brocket knows how to run hard. And the man said to the puma, "Now you are going to chase him! Because if you all do not catch him, you are going to be screwed by hunger since now you can live only on brocket! You will not be able to hunt any other creature, only brockets."</p>
+      <p>And of course the brocket had wronged the puma. So because of that, he chased him to take revenge on the brocket that had killed his fellow countryman. So, that is how it happened in those times, that is how it happened with the puma.</p>
+      <p>And so it was that if the puma did not find the brocket while it was sleeping, then he was hungry; he was very hungry, because he had to look for exclusively brocket to eat. If there was no brocket, then he was screwed. He had to forage a lot because he could not catch another creature. That's how it was in those days, they say.</p>
+      <p>And now this story is over. That's it.</p>
+    </body>
+  </text>
+</TEI>

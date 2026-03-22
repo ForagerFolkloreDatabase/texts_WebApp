@@ -1,0 +1,166 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Thokwjwaj and the Women Who Came from the Sky</title>
+        <editor role="collector">Jan-Åke Alvarsson</editor>
+        <editor role="narrator">Celestino Màànhyejas Gómez</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NSA005488</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+          <p>By courtesy of Jan-Åke Alvarsson.</p>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Alvarsson, Jan-Åke (2026): Selected Myths and Folktales from the 'Weenhayek. Trans. for the Forager Folklore Database (FFDB Documents). Quot. pp. 4-14.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CSA39401">Wichí</name>
+          <date when="1983" type="recorded">Recorded in 1983.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>In the beginning there was a people living in only one place. There was not a single woman, none, only men. They had like, their little village, but without women; only them, the men. And so, Thokwjwaj was with them, always.</p>
+      <p>The men had started to forage in a different place. Every morning they went to that place to hunt kyeenaj ('hidden').<note>This animal is a rodent similar to the guinea pig, called 'oculto' in local Spanish, a spiny rat, in ʼWeenhayek kyeenaj, and in Latin Proechimys sp.</note></p>
+      <p>One day, they [the elders] say<note>"They say" is a very frequent expression in Màànhyejas's narratives; it is an abbreviation of "the elders say," that is, "Thus the elderly knew how to tell." It is an element that reflects the linguistic structure of the ʼWeenhayek language, corresponding to, for example, yookweh (introductory word of direct quotations that can also mark the end of direct speech).</note> that they had been foraging all afternoon. They came with kyeenaj, critters of the forest. And when they arrived [home] they began to roast. It was the case that they always left their roasted food on the mats that they had. They say that they had left their roasted food on their mats but when they came back the same evening, their roasted foods were missing. They found it missing, [and were] saying, "Where will my roast be? I had left a lot of roasted food. I had left quite a bit ... Now there are only a few pieces left!"</p>
+      <p>Another also said, "Yes, I too have lost my roast. Yes, this morning I left a lot of roast. Now there is a small amount (very little) left. I don't know [what's going on] ..."</p>
+      <p>They chatted among themselves about their food. Others said the same, and [the former replied], "I don't know ..." [However] they didn't make a big deal out of it; they continued foraging. But all of a sudden one day, one said, "Now, I don't know what's going on with our roast, but [I think] it's better if someone stays around to look after our things and our place, to see what's going on with our roasts. In fact, [it is] someone who can do harm to us."</p>
+      <p><pb n="5"/>So they agreed on this. And before they left in the morning, first they chose a man who was called ʼEeleʼ, the parrot.<note>ʼEeleʼ is the blue-fronted parrot (Amazona aestiva), a favorite parrot of the ʼWeenhayek.</note> "You can stay today to see what's going on with our roast!"</p>
+      <p>"Alright, very well," he said, "I'm going to stay here. I'm going to climb this white quebracho. Since I'm green, I'm going to put myself in the middle of the leaves, and they are not going to see me, not at all."</p>
+      <p>So, when the others left, he began to climb the white quebracho that was above their houses, [and he put himself] in the shadows. There he stood, and nothing could be seen due to the leaves, which were green.</p>
+      <p>The others left. And the time came about eight or nine o'clock, they say. Then, suddenly, ʼEeleʼ, the parrot, heard a noise coming from the sky. And when he heard that, they say, after a while, [he noticed] that there was laughter.</p>
+      <p>"What is that I hear?" ʼEeleʼ said to himself, "I don't know, what's coming from there? It seems like people are coming from there ..."</p>
+      <p>But the clamor from the sky came closer. Then, ʼEeleʼ saw something that fell from the sky. It looked like ropes. Before the women came down, ropes came down. Then they came down. There were many ropes.</p>
+      <p>Among themselves, the women had urged one another, "You will not take from me! You will not take from me [what is on] that mat that is my husband's!" they had said. And another said, "Yes, but I have a mat that belongs to my husband. You are not going to take it from me," she said. And another said the same thing.</p>
+      <p>Meanwhile, ʼEeleʼ, the parrot, was quiet, "I don't know what's coming over here," he thought.</p>
+      <p>Then, all of a sudden, the women were descending, grabbing the ropes and starting to fall to the ground. It was a tremendous thing, there were so many women, they say, descending from the sky.</p>
+      <p>When they had arrived, then they began to go, each one to the mat [of her favorite man] to eat the roasts that the men had left.</p>
+      <p>ʼEeleʼ placed himself to watch the women. And when they ate, then they did not put [the food exclusively] into the actual mouth, but they also put the roast underneath.<note>This subject, in literature, is called vagina dentata.</note> They put the roast that they were eating underneath. They put <pb n="6"/>more in there than in the mouth. It turns out that the women had another mouth underneath, so they say.</p>
+      <p>[When he saw this], ʼEeleʼ then said, "I do not know, what will these women be like?"</p>
+      <p>Then when they had finished eating, they took a rest. They say that they had started to make threads out of caraguatá, calmly. Some of them were chatting. One said: "Oh, I am going to wait for my husband until he arrives ... Now I am going to weave a llica here."</p>
+      <p>So, they began to weave. And the parrot was up on the branch of the white quebracho and was not to be seen.</p>
+      <p>When the women were bare, with their legs like this [uncovered], starting to make a caraguatá thread, then he said, "Now!" [At once] he took a little leaf of the white quebracho that had a very spiny [pointed] tip, and he threw it underneath. When it fell, it fell directly on the leg of one of the girls. They say that when it fell, it caught on the leg. Then the girls said, "What happened?"</p>
+      <p>"I don't know ... What could be going on around here? I didn't know how to be like this ..." Then, they started looking around, they say. They [especially] looked up. And when they couldn't see anything, then they started to make caraguatá thread again.</p>
+      <p>And in that same little while, they say that ʼEeleʼ had thrown a leaf again. And when the girls looked, they saw him move a little. And that's when they caught him. "Ah, there has been a man here," they said.</p>
+      <p>"There is a man," said one.</p>
+      <p>"Ah, yes, that is ʼEeleʼ, the parrot! Oh, poor parrot, now I have seen him. You're not going to take him from me, because I have seen him [first]. That is going to be my husband," she said.</p>
+      <p>"Oh," said another. "But I have seen him first. Now I am going to make him my husband. You're not going to take me away, because I've seen him first. That one is going to be mine!"</p>
+      <p>Well, then they said, "Parrot, you have to come down here!"</p>
+      <p>So ʼEeleʼ started to come down, they say, and he didn't know what was going to happen. And when he had come down, [the woman] said: "Now ʼEeleʼ, you have to open your mouth, like this! If you are a young man, then I'm going to marry you."</p>
+      <p><pb n="7"/>And she began to check his mouth, whether he was a young man [or an old man], they say. Because if he had been an old man, then he couldn't have married a girl. It's just that one has to look for an [appropriate] age to marry.</p>
+      <p>So they [the women] had brought something like seed from the jwitenukw ('shadow-and-all') tree, so they say. Then, when ʼEeleʼ opened his mouth, they say that she had put it into his mouth and when it entered there, they say that it had been like fire. ʼEeleʼ fainted, fell there and then he could not speak anymore.</p>
+      <p>Then the women fled. They grabbed their ropes and went up to the sky. [Soon] none could be seen.</p>
+      <p>When it was time, the other men returned and found ʼEeleʼ like that. The parrot could no longer say anything. Then the others asked him, "ʼEeleʼ, what is the matter with you?"</p>
+      <p>But he could not answer anything, because he had been struck dumb by the thing the women had put in his mouth. So the parrot said nothing. "Well, [it seems that] the parrot is mute ..." [said one]. "Yes. [But] tomorrow, who is going to be left here to catch [the thieves] in the end?"</p>
+      <p>Well, they knew there had been something. ʼEeleʼ couldn't tell them [about what had happened], he just looked up, the whole time.</p>
+      <p>Then one said, "Maybe," he said, "they came from above ..."</p>
+      <p>And ʼEeleʼ kept looking up. He couldn't mention anything about the women, but he kept looking up, like this.</p>
+      <p>Then another asked, "Now, tomorrow who is going to stay here?"</p>
+      <p>So they chose Wooyelaj, [the lizard called] ututu,<note>Wooyelaj is a small white and green lizard, called 'ututu' in local Spanish (possibly Scincidae sp.). [Translator's note: spiny lava lizard (Tropidurus spinulosus), cf. vol. 6, p. 262.]</note> [as a sentinel for the next day]. In the morning the others said, "Now, Wooyelaj is going to stay here to guard [the camp]."</p>
+      <p>"Ah, yes, I'm going to be here, on the column of the matting, there I'm going to be. They're not going to see me at all, because I'm white, kind of like this little stick."</p>
+      <p>So he had done thus, they say. When the others left, he put himself like this, on the little column of the matting. He hugged the stick, so it seemed that he was nothing, that there was nothing there.</p>
+      <p><pb n="8"/>When the women came from the sky, they say they checked everything. When one woman grabbed the pole of the matting, she grabbed it right where Wooyelaj was. Then he began to move, and the girl was frightened by it.</p>
+      <p>"What a thing!" she said. "Here's one more man! Now, come over here! We are going to look at you!"</p>
+      <p>Then Wooyelaj went to the woman. And to him they said the same thing they had said to ʼEeleʼ [the day before].</p>
+      <p>"Now you have to open your mouth. And if you are healthy, then, if you are handsome, then I am going to marry you." [And the same thing happened with Wooyelaj that had happened with ʼEeleʼ.]</p>
+      <p>Then the women began to laugh at him, because he could no longer speak.</p>
+      <p>Then the women again went to the sky and in the evening again the men returned. [When they saw Wooyelaj], they said, "And why are you like this?"</p>
+      <p>They found that also Wooyelaj, the ututu, was mute, just like ʼEeleʼ, the parrot.</p>
+      <p>"But how is it, what can it be?" [said one].</p>
+      <p>"Now, what are we going to do?" said another, "And who is going to stay [at the camp] tomorrow?"</p>
+      <p>Then Mààʼjwalahiʼ, the hare-man,<note>Mààʼjwalahiʼ is the European hare (Lepus europaeus).</note> said, "I am going to stay first, eh."</p>
+      <p>"What is he going to do?" said one, "Mààʼjwalahiʼ always likes to fall asleep!"</p>
+      <p>But Mààʼjwalahiʼ replied, "I am just going to stay here; I am going to assess well."</p>
+      <p>But the others were [not sure]; they said, "I don't know, because you're a sleepyhead ... Indeed you're going to put yourself there in the garbage; there you're going to sleep and you're not going to see anything that comes around."</p>
+      <p>But Mààʼjwalahiʼ said, "No, I am not going to sleep! I'm going to [be attentive to] assess well who it is that is eating our roast. Now, the other two men have become mute, they can't speak, [but that is not going to happen with me]."</p>
+      <p>Well, then the people accepted that Mààʼjwalahiʼ would remain [as a sentinel]. And when the others went hunting, Mààʼjwalahiʼ went into the garbage and went to sleep.</p>
+      <p>There he was sleeping until the women came down from the sky. They say that he did not see the women because he was sleeping. And even though the women were making noise, he had slept well.</p>
+      <p>When the other men returned, they found Mààʼjwalahiʼ still sleeping.</p>
+      <p><pb n="9"/>"What a tremendous thing! [He is sleeping!]" said one.</p>
+      <p>And when they had awakened him, they asked him, "Now, what has happened? And how is it that we are still losing our roasts? What thing is it that you have seen? What was [the appearance of] the people who ate our roast? Were they people or were they animals, what was it?"</p>
+      <p>Mààʼjwalahiʼ answered, "I did not see them; what a thing, but I did not sleep, and though I looked for them, but I did not see them!"</p>
+      <p>The others said, "No, well then, how have our roasts been lost then?"</p>
+      <p>"But look, then, if I have not slept at all," said Mààʼjwalahiʼ. "Why should this happen? I haven't seen anything. No one has come. How could it get lost like that?"</p>
+      <p>But the others paid no attention even though they had lost the roasts again. "Well," said one, "You must have fallen asleep ..."</p>
+      <p>"No, no, no!" said Mààʼjwalahiʼ. "I have not slept at all. No, not at all! Me, sure, sometimes I sleep, but when I have to take care of things I don't, I do not sleep. So I have not seen the people that arrived here."</p>
+      <p>Well, they stopped arguing and went home. There they started chatting among themselves. They said, "Now yes, I don't know about tomorrow, what can we do tomorrow?"</p>
+      <p>"Tomorrow he can stay, Hatʼàʼ,<note>Hatʼàʼ is a black bird of prey, probably an eagle or a king vulture. [Translator's note: king vulture (Sarcoramphus papa), cf. vol. 6, p. 181.]</note> the eagle! He can stay!"</p>
+      <p>Thus, Hatʼàʼ promised to stay [as sentinel], and said, "Now I am going to stay. But first of all, let's have a chat," he said. "I am going to stand over that log that had been burned that time and turned black."</p>
+      <p>That log had once been burned, then it had remained black. [Further] he said, "I am going to be on that log, and I am going to appear as part of that log. And people are not going to see me."</p>
+      <p>Well, the next day the others went to the bush again. But before they left, Hatʼàʼ said, "Now yes, don't you get careless because, if I see the women, or maybe if I see the people, whatever happens, then I'm going to fly and I'm going to scream. And when you hear that I am screaming, you all have to return here to the house!"</p>
+      <p>"Very good, we know then now," they said. "Hatʼàʼ had already announced everything before (in advance) what that [man] is going to do."</p>
+      <p><pb n="10"/>Then the others left. About nine o'clock in the morning Hatʼàʼ heard a noise coming from the sky.</p>
+      <p>"Ah, then, this is how it has been. They were coming from the sky, it seems, the people," [he said to himself].</p>
+      <p>Then Hatʼàʼ was looking at the women.</p>
+      <p>"Oh, so many kind, pretty and beautiful women," he said. He began to desire to have some woman.</p>
+      <p>The ropes were released from the sky and the women came down. When they stepped on the ground, they said, "You're not going to take away from my husband's mat," said one. "Well," said another. "Now, let's see!"</p>
+      <p>Then they began to eat, calmly. They lifted up the roast and ate, but they ate not only with their mouths above, but also with their mouths below. They say they put more in the mouth below than in the mouth above.</p>
+      <p>Then Hatʼàʼ had been thinking, "What is that thing called? It seems that they have another, bigger mouth."</p>
+      <p>Well, they say that they finished eating and that some of them started to weave llica while others started to make thread. Then they rested.</p>
+      <p>When Hatʼàʼ [saw this] he lifted a piece of charcoal that was on the trunk and threw it where the women were. When [the charcoal] hit the leg of one, [she] said, "Ay, ay, ay, what is the matter, who has thrown this at me here?"</p>
+      <p>Then the women went to where Hatʼàʼ was on the log, and looked all around, "Where is the man, where is the man?"</p>
+      <p>But Hatʼàʼ was there [disguised] as a tip of that log, he looked like part of that log. They could not see that he was a person, they say, because he was as black as the log.</p>
+      <p>So nothing happened, until they stopped looking. They did not find anything. And then the same thing happened again. The third time, however, the women saw that he was moving a little bit.</p>
+      <p>So they said, "Now, you have to get down!"</p>
+      <p>But when Hatʼàʼ heard that, he wanted to fly away. And he started to shout. So the women took the jwiitenukw ('shadow-and-all') seed and threw it towards Hatʼàʼ so that it would go into his mouth [to shut him up]. But he was not careless, he stuck his head under [one] of his wings, so the seed could not do anything to him. And so [he was saved] because his head was under his wing. Nothing hit him.</p>
+      <p><pb n="11"/>[He protected himself] until he was far away, [only] then did he start to shout. And while he was shouting, and flying up, he began to cut the ropes that the women used to go up and down. He was cutting them quickly so that they could not go back, so that they would be left without a path.</p>
+      <p>Now, because of that, they were left on the ground. It was only when this had happened that the eagle began to scream, and he screamed so that Thokwjwaj [noticed] and said to the others, "Ah, it seems that someone has screamed ... Ah, it seems that someone has screamed ..."</p>
+      <p>But the others began to mock Thokwjwaj: "No, no, you are deaf ... What could it be? It cannot be like that ... You are deaf," they said. "It cannot be like that."</p>
+      <p>[But Thokwjwaj insisted,] "Me, I have heard something, well ..." said Thokwjwaj. "I have heard something, some voice I have heard."</p>
+      <p>"No, you lie, uh, I have not heard anything ..." [said another].</p>
+      <p>"But I have heard something," said Thokwjwaj.</p>
+      <p>[So] he just followed. And when Hatʼàʼ cried out again, he said: "There it is now! [That is] what I heard!"</p>
+      <p>[And when the men realized this], they then began to run, all of the group. And, they say that they were all pushing each other [to arrive as the first] ... And the women were on the ground because Hatʼàʼ had cut their ropes. So, indeed, the woman had stayed on the ground.</p>
+      <p>And when the men arrived, they say that each one grabbed a woman. Somebody had two, somebody had three, somebody had one, here. Of all of them, Thokwjwaj came last because when he saw that ʼAalhuʼ, the iguana, the iguana-man,<note>ʼAalhuʼ is the green iguana, the edible lizard of the Chaco (Iguana iguana). In local Spanish it is also called 'caraguay', the term used by the narrator.</note> who was running [ahead], he went into his cave, and then came out much further ahead. Then, when he saw that, Thokwjwaj went into the pit (hollow) to come out somewhere else.</p>
+      <p>But when ʼAalhuʼ had entered his cave, they say he had come out on the other side quickly. But when Thokwjwaj entered that same hole, the other had already come out earlier. But Thokwjwaj came across a root there, inside that hole. So, he said: "But, I say ... I say, what is it? I do not know why you are like that!" he said. "But, ʼAalhuʼ, go! Go! Go! Go! Hurry! If you don't go, I will break your tail, right now! Let us hurry! Let us hurry!" he said.</p>
+      <p><pb n="12"/>And they say that [thus it went on] until Thokwjwaj finally tried to break [the tail of ʼAalhuʼ]. But, as it was a root, he could not break it. So, Thokwjwaj had to go out the back again. And when he came out, then he decided to run.</p>
+      <p>"What a thing, what a tremendous thing," [he was whispering]. And when he had come out of there, he said: "Alas, ʼAalhuʼ has already gone out before ..."</p>
+      <p>Then the men had already lifted up [married] the women. Some had three, some two, so they had chosen. They say that, as is the custom of the Kyʼanhooh, the three-banded armadillo,<note>Kyʼanhooh is the three-banded armadillo, called 'quirquincho' in local Spanish (Tolypeutes matacus).</note> since he does not run very well, when he came [to the place], there were no more women. But Hatʼàʼ said,<note>Here the narrator does not remember the right word and looks for a translation into Spanish: "ha dicho él ... como se llama? el águila ..." ["he said ... what is it called? the eagle ..."].</note> "Now, the women, they already entered in here, into the earth ... Now Kyʼanhooh, why don't you go dig, here you will see the women!"</p>
+      <p>"Well, I don't know ..."</p>
+      <p>So, they say Kyʼanhooh started digging like this, digging here and there. And all of a sudden he grabbed a woman and pulled out a nice woman. Then the others, they made fun of him and ultimately they took the woman away from him. What a thing!</p>
+      <p>So Kyʼanhooh kept digging here, digging there, until he found [another woman]. They say that [when] he found her, he scratched one of her eyes. So he burst her eye, and [she] became like a one-eyed woman. Then the others said, "Fine, then let's just leave her. That one [is going to be] for Kyʼanhooh."</p>
+      <p>So the men married [the women] and all that. That is how it happened, they say.</p>
+      <p>And they began to take the women to themselves. But Hatʼàʼ said to them, "Now you have to be very careful, because I have seen that these women, they did not eat only by the mouth that is above, but they also put it in from below, everything ...<note>Here the narrator repeats exactly the mistake of the previous note.</note> I do not know why it is like that ..."</p>
+      <p>But he told (warned) them that: "Look, guys. Now you have to be very careful, because these women, that we have taken (grabbed), none of us can use<note>Here, and in the rest of this text, the verb 'use' refers to intercourse.</note> them, because who knows what they can do? Therefore, no one can do that, no one can use them!"</p>
+      <p><pb n="13"/>But when they wanted to use the women, then Hatʼàʼ said to them, "I don't know ... Now we can make Thokwjwaj start. I think it has to be him ... He is the one we're going to start with!"</p>
+      <p>But when Thokwjwaj wanted to use a woman, they say the woman had told him, "Thokwjwaj, you have to go deeper inside!"</p>
+      <p>But then she began to bite him, they say, to [eat] the little balls, to eat everything ... There was nothing left! But since this man is wholly a diviner,<note>From a Western perspective, it means he has supernatural powers (see vol. 7).</note> then he did not die ...<note>Here the narrator repeats himself, that is why the following part has been omitted: "They did not bite. But it is, so it has happened. But, but so he says that he had spoken. Then he said, when he put the woman in like that, he said that she began to bite everything and nothing was left."</note> So then, they already knew that the women that they had, those women had their teeth beneath. So we as men, we could not use them because suddenly they were going to hurt us ... So, that is how it happened, they say, and nobody used the women but Thokwjwaj ...</p>
+      <p>So the men said among themselves, that, "Now yes, what can we do?"<note>Here the narrator repeats himself, that's why the following part has been omitted: "Already, they already, have gathered the women then I call the Thokwjwaj. He said, 'Yes.' So already, they already started to make this form. Make this form, then ..."</note></p>
+      <p>Then Thokwjwaj said to them: "Now, nephews; what we are going to do is that I am going to prepare myself like this for going first with the women ..."</p>
+      <p>And Thokwjwaj had thought that, "I'm going to take a stone [in the place of the male member], and I'm also going to form little balls of stones; those things I am going to form ... It will looks like I will have [a member] in the shape of that, but of stone ..."</p>
+      <p>So yes, he started first. He had to go first with all of the women, starting from the song,<note>The expression "from the song on" means 'from the first to the last'. (After this expression the narrator repeats himself, because of this a part has been omitted.)</note> all while he used that stone. So, he used the stone and he could use the women. And the women were not afraid, they did not feel any danger, nothing. And when Thokwjwaj used a woman, they say she started biting.</p>
+      <p>"What ...? How ...?" she would say.</p>
+      <p>Then, when Thokwjwaj was using the woman, she said,<note>Here the narrator repeats himself, that's why a part has been omitted.</note> "Now, you have to put it in deeper already!"</p>
+      <p><pb n="14"/>And he heeded her, and put it further in, but since he had now already formed like [put] stones [in place of his original organs], then she could not do anything. They say that when she suddenly wanted to bite him, they say that the teeth grabbed a stone. And they began to break, all of them, all of them, all of them, until she was left with one, a little one. There was one little one left. They say that all her bottom teeth were broken ...</p>
+      <p>And I think that's all there was left. Until that Thokwjwaj had used all the women ... Then, finally, the husbands could use their wives, because there was no more danger. Thus indeed, they already had their wives.</p>
+      <p>And they say that at that time, we as men, we were always sick with the months.<note>The expressions 'months' and 'their month' refer to menstruation.</note> We were the ones who had our months, they say. And when one got sick with his month, they say that the man could no longer go out, like the women,<note>Until now there is a taboo among the ʼWeenhayek that prevents women from leaving the house when they are menstruating.</note> he could no longer change [places], he had to stay at home.<note>Here the narrator repeats himself. That is why the following part has been omitted: "So that, that ... things he says that when he has had one, he gets sick with his month already ..."</note></p>
+      <p>So now, finally, they all had their wives. Before they had not had them, but now they all had them. That's how these things were. That's how they say it happened. And I think I have reached the end of what I can tell ...</p>
+    </body>
+  </text>
+</TEI>

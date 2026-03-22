@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ʼAhuutsetajwaj and the Man "Iron-Forehead"</title>
+        <editor role="collector">Jan-Åke Alvarsson</editor>
+        <editor role="narrator">Celestino Màànhyejas Gómez</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Forager Folklore Database</authority>
+        <idno type="FFDB">NSA004335</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+          <p>By courtesy of Jan-Åke Alvarsson.</p>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Alvarsson, Jan-Åke (2026): Selected Myths and Folktales from the 'Weenhayek. Trans. for the Forager Folklore Database (FFDB Documents). Quot. pp. 39-41.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized and encoded for use in the Forager Folklore Database.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CSA39401">Wichí</name>
+          <date when="1983" type="recorded">Recorded in 1983.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>And now, the next day, again they say that ʼAhuutsetajwaj had played his pimpim. Then [in the vision] he had seen a man whose name was Iron-Forehead. And then he said, "There is a man on the road. He pursues the people who go visiting that way, and who pass that way. Many have gone to visit, but have not arrived where they wanted to go, because of him. And the man is called Iron-Forehead."</p>
+      <p>So, the next day, they say that ʼAhuutsetajwaj went to meet that man. It came to pass that he arrived there, at Iron-Forehead's house, in the afternoon, at about six o'clock in the evening.</p>
+      <p>Suddenly Iron-Forehead was looking this way, and he saw a boy coming. He did not see ʼAhuutsetajwaj as an old man, for he still looked like a boy. And ʼAhuutsetajwaj greeted him, saying, "Well, it is already late, I would like to stay here. I cannot go along the road there alone [when the sun sets] ...."</p>
+      <p>"Alright," said Iron-Forehead. "Yes, grandson, you can stay with me. And I also think you can stay with me for a few days like this, at least one day. And I also think that tomorrow you can go with me to forage and we can go looking for hives out there ..."</p>
+      <p>And, so they say that ʼAhuutsetajwaj was pleased and replied, "Yes, I can stay here ..."</p>
+      <p>So, he stayed. And they say that the next day the old man, Iron-Forehead, told him, "Well, grandson, now we are going to get ready to go to the countryside, to forage."</p>
+      <p>And they say that they went to forage. And when they had arrived at the place where the old man knew how to go to forage, he said to ʼAhuutsetajwaj, "Now, in this place there is honey that we are going to search for."</p>
+      <p>And they say that he at once had found [a nest of] honey. Then he said, "Be aware, grandson, that here we have honey! Here we are going to take it!"</p>
+      <p>But Iron-Forehead had a thing that was like a bar of iron, a thing to throw where the honey [bees] were. So, surely, I can say that it was like [a club] but it was not made of wood, it was made of iron.</p>
+      <p><pb n="40"/>Then, Iron-Forehead said to ʼAhuutsetajwaj, "Now, you have to go onwards to watch out for my club, so that it will not get lost!"</p>
+      <p>So ʼAhuutsetajwaj went ahead, looking around. But what happened was that that iron, when he threw it upwards, it turned out like this iron came chasing the helper where he was.</p>
+      <p>But since ʼAhuutsetajwaj has his secret, he already knew what was going to happen. And he knew how to defend himself. And when he saw that the iron was coming through the air, chasing him, then he went behind a tree. He was standing against the trunk of the tree. And so the iron hit (found) the same trunk. It did not find ʼAhuutsetajwaj.</p>
+      <p>So he picked up the old man's iron, handed it to him, saying, "Grandfather, here is your iron. Nothing has happened. [It has not been lost]."</p>
+      <p>"Very good, grandson." He was pleased because ʼAhuutsetajwaj helped him. Then he said, "Now, go over there again! And, make sure that you do not lose the iron!"</p>
+      <p>Well, he went that way again, waiting. And when Iron-Forehead threw his iron again, what happened was that ʼAhuutsetajwaj tricked him. He pretended that the iron had hit him and he shouted, crying, "Caaaaa! Caaaa! Caaaa!" he said.</p>
+      <p>Then Iron-Forehead said: "Ay, it seems that the iron hit my honey ... Poor guy!" he said.</p>
+      <p>But after a while ʼAhuutsetajwaj got up and again went to give the iron to the old man. And this one said, "So, what happened to you? Why did you cry?"</p>
+      <p>"Well, the iron almost hit me!" he said.</p>
+      <p>Well, it seems that they overturned [a nest of] bees [but that Iron-Forehead could not kill ʼAhuutsetajwaj]. Then at last he [got tired], called ʼAhuutsetajwaj and said, "Well, now yes! Come here grandson!"</p>
+      <p>And he handed him his iron and said, "Take this, let us see ... And, why not grandson, why don't you hit me here on my forehead? Now, you have to hit me here, on my forehead!"</p>
+      <p>But ʼAhuutsetajwaj knew where his death lay. So he did not hit him directly on his forehead, but hit him below. And he hit him right on his nose. So they say that the iron crushed his nose and broke it to pieces. And Iron-Forehead fell down and died.</p>
+      <p><pb n="41"/>And they say that when the old man had died, ʼAhuutsetajwaj went home again, taking the old man's iron with him. And he said to the people, "Now, the way is clear!"</p>
+      <p>And then his neighbors saw the bar that he had brought, and that it was of pure iron. And ʼAhuutsetajwaj explained to them, "You all, look, this is what was dangerous. This is what had killed those who had lost their way."</p>
+      <p>And the people were pleased, they say.</p>
+      <p>"Now yes, the way is clear. There is no more danger. We can visit anywhere ..."</p>
+    </body>
+  </text>
+</TEI>
