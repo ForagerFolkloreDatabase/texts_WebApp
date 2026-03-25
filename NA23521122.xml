@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>[The Division into Hunter-Gatherers and Herder-Farmers]</title>
+        <editor role="collector">Megan Biesele</editor>
+        <editor role="narrator">ǃUnnǀobe Morethlwa</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NA23521122</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NA23521122</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+          <p>Note that the CC licence only applies to the XML file. Users should also cite the original source of the text.</p>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Biesele, Megan (1975): Folklore and Ritual of !Kung Hunter-Gatherers. 2 vols. Ph.D. thesis, Harvard University, Cambridge, MA. Quot. pp. 122-124.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CAF00235">!Xun</name>
+          <date notBefore="1970" notAfter="1972" type="recorded">Recorded sometime between 1970 and 1972.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p><shift feature="anamyth"/>We who were made first, have come to be last. And those who were created last, have come to be first. Even though they arrived later than we did, Europeans and Bantus have come to be ahead of us.</p>
+      <p>I refuse this thing, that we should have come to be the last of all. I fear this thing. It gives me pain. And I despise that old man of long ago who caused it to happen. I think that if I saw him today I would beat him. But he's dead and there's just nothing that can be done.</p>
+      <p><shift feature="diegesis"/>That old man who was responsible for all this was named <persName>ǀʼtumaǀʼtuma</persName>. He was also called <persName>Karãǀʼtuma</persName>. One day long ago <persName>Karãǀ'tuma</persName> was out hunting. And in the <rs type="plant">bush</rs> he discovered a <rs type="animal">cow</rs>. When he saw the <rs type="animal">cow</rs>, he said, "Is this a <rs type="animal">cow</rs>? Is this a <rs type="animal">buffalo</rs>?"</p>
+      <p>And the <rs type="animal">cow</rs> was not afraid of him; it did not run away. It just stood there. But <persName>Karãǀʼtuma</persName> did not take it home with him to the village. Instead, he shot it. It just stood there, and he shot it. He never asked himself what is this <rs type="animal">creature</rs> that doesn't fear me, but merely shot it with his bow and arrow.</p>
+      <p>Then he went to tell the others. All the people gathered at the carcass of the <rs type="animal">cow</rs> to eat it.</p>
+      <p>Later <persName>Karãǀʼtuma</persName> told the <rs type="color">black</rs> people about the <rs type="animal">cow</rs>. <shift feature="apartmyth"/>(The <rs type="color">black</rs> men were his younger brothers. For <persName>Karãǀʼtuma</persName>'s parents first bore him, then bore a <rs type="color">black</rs> man, and last of all gave birth to a European. All <pb n="123"/>of you Europeans here are small children compared to us.)<shift feature="diegesis"/> He told a <rs type="color">black</rs> man about the <rs type="animal">cows</rs>, and the <rs type="color">black</rs> man said, "Let's go have a look at these things." So they went to see the <rs type="animal">cows</rs>. As soon as the <rs type="color">black</rs> man saw that the <rs type="animal">cows</rs> didn't run away like other <rs type="animal">animals</rs> he said, "Ai! A thing like this which doesn't fear you, you certainly don't want to kill. Let's make a kraal, and drive them into it, and see what will happen."</p>
+      <p>So they chopped down <rs type="plant">thorn</rs> <rs type="plant">trees</rs> and made a kraal and drove the <rs type="animal">cows</rs> into it. One of the <rs type="animal">cows</rs> gave birth in the kraal. So the <rs type="color">black</rs> man took a thong and tied her hind legs, and she still just stood there. And he milked her, and brought the milk to <persName>Karãǀʼtuma</persName>.</p>
+      <p>"You've helped me find this <rs type="animal">cow</rs>, and now let's drink the milk together." But <persName>Karãǀʼtuma</persName> said, "Uh-uh, you eat first, and let me lick the pot!" <shift feature="apartmyth"/>That's what he said! "You eat first, and let me lick the pot!" When I think about it, I want to kill him! It's a good thing he's already dead, because otherwise I'd be in jail for sure. If I had been there that day long ago, I would have killed him. Well,<shift feature="diegesis"/> the <rs type="color">black</rs> man said, "Come on, let's eat! Lick the pot - what kind of talk is that?" But <persName>Karãǀʼtuma</persName> persisted, saying, "No, you eat your fill first, and let me scrape what's left off the sides of the pot."</p>
+      <p>So the <rs type="color">black</rs> man ate, and <persName>Karãǀʼtuma</persName> licked the pot. When they were finished, <persName>Karãǀʼtuma</persName> picked up a leather thong. But the <rs type="color">black</rs> man came and grabbed the other end of it, and they tugged at the thong to see who could pull it out of the other's hands. Finally, the <rs type="color">black</rs> man got the thong away from <persName>Karãǀʼtuma</persName>. He gave <persName>Karãǀʼtuma</persName> a piece of string instead, saying, "You can use string to do whatever you have to do; I need the thong for my <rs type="animal">cows</rs>. You have nothing you need to tie up with leather thongs."</p>
+      <p><persName>Karãǀʼtuma</persName> didn't refuse, but just took the string. Right there he should have put his foot down and fought the <rs type="color">black</rs> man for the thong. But he didn't. He just took the string and started going about snaring <rs type="animal">animals</rs> with it. And the <rs type="color">black</rs> man sat in comfort and milked his <rs type="animal">cows</rs> and drank the milk.</p>
+      <p>One day <persName>Karãǀʼtuma</persName> came across a cultivated field, a field of <rs type="plant">sorghum</rs>. He tried some, and the husks burnt his skin, made him itch. So he went into the field and started a fire, and burned most of the field, leaving a few stalks standing. Then he went back to <pb n="124"/>tell the <rs type="color">black</rs> man what he had done. "I found some terrible things over there that burn your skin. So I set fire to them. But there are some left." And the <rs type="color">black</rs> man said, "Let's go see." And when they got to the field, he said, "Are you crazy? This is <rs type="plant">sorghum</rs>; it's food, you fool. I'm going to take what's left home with me."</p>
+      <p><shift feature="epimyth"/>(Thus <persName>Karãǀʼtuma</persName> ruined us; that day he spoiled the chances of our people for all time.)</p>
+    </body>
+  </text>
+</TEI>

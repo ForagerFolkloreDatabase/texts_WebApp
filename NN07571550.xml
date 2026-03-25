@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Two Brothers Who Went Away Angry</title>
+        <editor role="collector">Edward W. Moser</editor>
+        <editor role="narrator">Roberto Herrera Marcos</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NN07571550</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NN07571550</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+          <p>Note that the CC licence only applies to the XML file. Users should also cite the original source of the text.</p>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Marlett, Stephen A. (2022): Words from Another World. A Collection of Analyzed Seri Texts. Oaxaca: Instituto Lingüístico de Verano. Quot. pp. 155-187.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA33401">Seri</name>
+          <date notBefore="1957" notAfter="1976" type="recorded">Recorded sometime between 1957 and 1976.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>There were two brothers living at <placeName>Tecomate</placeName>, but they got angry about something and left the group. [The following is what happened.]</p>
+      <p>One day the younger brother said to the older brother, "We should leave these people." They were angry [about something]; that is why he said that. His brother agreed, and said "OK, let's leave them." And so right away they left the people.</p>
+      <p>They went to another place in a <rs type="plant">reed</rs> boat. It is not known where they went, and it is not known in what direction they went, but they left Tiburon Island on a <rs type="plant">reed</rs> boat and headed toward Baja California. They crossed the sea and eventually arrived at shore. They beached, got off of the <rs type="plant">reed</rs> boat, and headed toward the mountains.</p>
+      <p>They really didn't know where they were going, but they went into the mountains, and while they were going there, they came upon fresh water. They were there for a while, and then some beings came to where they were. The beings that came were young women giants. The giants saw them and saw how small they were in comparison to themselves and that they were cute. They were curious about them, and so they grabbed them. Now a Seri woman makes a pocket with her skirt to put things into, and that is what those female giants did. One giant woman took one man, and the other took the other, and they returned home.</p>
+      <p>Arriving at camp, they didn't tell the other giants about what they had found and brought. But that night, they lay down to sleep with the rest of the group. There in the dark, the two women giants weren't sleeping, but were laughing and making noise. Then, one of the other women (who did not know what was going on) said to the young giant women, "Go to sleep! It's noisy. What is fondling you and causing you to not sleep?"</p>
+      <p>Eventually they may have slept, and then very early in the morning, they said to the other women, "We have found some things - some cute things." The other women were curious, and so the young women told them what had happened. "We have found some people-like things that are very little. They are little, but they have whiskers." Then they took them out and put them in the palms of their hands and showed them to the other women, who saw how little they were as they stood there.</p>
+      <p>While they were there looking at them, they scraped the soles of their feet and the tops of their heads, to the point where blood oozed out, and they rubbed <rs type="animal">whale</rs> brains with salt into the scraped places. When they finished doing that, they put them down, and night came; day after day, the men gradually grew bigger. In time, they were the same size as the others living there. They were just like them and they integrated and lived with them. During that time, they traveled in <rs type="plant">reed</rs> boats and killed <rs type="animal">whales</rs> to eat.</p>
+      <p>After a long time of living like that, the younger brother said to his brother: "Older brother, the year has ended. Let's go home. The fruit of the <rs type="plant" key="Stegnosperma halimifolium" ref="q:Q17243141">xnejamsiictoj</rs> is ripe."<note>Felger &amp; M. Moser (1985:353) point out that "at various times of the year [this plant] bears fragrant, star-shaoped flowers and juicy <rs type="color">red</rs> fruit." The fruit is quite small, however, and was not listed as being eaten. It is not clear why the brother referred to the ripening of the fruit.</note> The brother was in <pb n="156"/>agreement and it seemed like they would go home. As it turns out, the younger one stayed there<note>Apparently he changed his mind.</note> while the older one returned home. He returned to the Seri people on a <rs type="plant">reed</rs> boat.</p>
+      <p>Now <placeName>San Esteban island</placeName> is there in front of it the place called <placeName>Cyajoj</placeName>, and the Seris were living there. The giant went ashore there and got off of his <rs type="plant">reed</rs> boat. He went to the Seri people, and asked about his wife. They told him that she had married again and was living in the place called <placeName>Xnit</placeName>. With that information, he left right away on foot, crossed the mountains and went to <placeName>Xnit</placeName>.</p>
+      <p>The giant arrived to the Seri people, and apparently asked about his wife, at which point her current husband grabbed his bow and drew an arrow with the intention of doing something against the giant. Suddenly the giant grabbed him, put him in his armpit, squeezed tight and split the man open, and threw him down dead. Then he took a huge piece of cloth, wrapped it on his head and put his wife and children in it and left for another place. That's how he went.</p>
+      <p>He left for another place. And that's how he went.</p>
+    </body>
+  </text>
+</TEI>

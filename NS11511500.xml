@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Man with a Bad Temper</title>
+        <editor role="collector">Walter E. Roth</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NS11511500</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NS11511500</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Roth, Walter E. (1915): An Inquiry into the Animism and Folk-Lore of the Guiana Indians. Extract from the Thirteenth Annual Report of the Bureau of American Ethnology, Washington: Government Printing Office. Quot. pp. 150-151.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CSA36701">Warao</name>
+          <date notBefore="1906" notAfter="1913" type="recorded">Recorded sometime between 1906 and 1913.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>A man and woman once caught a girl <rs type="animal">monkey</rs> and "minded" her: she became quite tame, and when the old people would have to go away for a while, they would often leave the <rs type="animal">monkey</rs> in charge. One day when they had thus gone away on a visit to some friends, the <rs type="animal">monkey</rs> took off her skin, threw it over one of the house-beams, and replaced it with the apron-belt and other ornaments that the household had left behind. She then started with the <rs type="plant">cassava</rs>, which she cooked and ate; finally she put on her skin again. When the house-folk returned, they looked for the <rs type="plant">cassava</rs>, but could find none, and though they were puzzled a good deal, they never suspected the <rs type="animal">monkey</rs>. On the next occasion that they had to leave the place, a young man remained behind, though hidden, to watch lest any one should steal the <rs type="plant">cassava</rs> a second time. After a while the <rs type="animal">monkey</rs> took off her skin, dressed herself as before, and commenced baking the <rs type="plant">cassava</rs>: the young man rushed up and seized her, and a hard struggle took place. "No," said the girl, "I am not fit to be your wife." "But I want you badly" was the rejoinder. "That's all very well," added the girl, "but you will ill-treat me and knock me about." And when he assured her that he would never ill-treat her, she at last consented, and so soon as she agreed to yield to his desires, he pulled the <rs type="animal">monkey</rs> skin down from the beam and threw it into the fire. They remained together a long time. By and by she bore him a little boy. And now her troubles indeed again commenced, because, getting tired of her, he began "lashing" her and kept calling her "<rs type="plant">ité</rs>," and annoying her in every way he could. Suffering so much, at last she said to herself, "I can bear this treatment no longer; I will return to my people." Taking a calabash and some <rs type="plant" key="Mauritia">ité</rs>-starch, she told her husband that she was going to bathe in the pond, but instead of doing so, she really went far away into the bush. Her husband waited long, long, for her to return, and finally followed in search. By this time she was limping along with the help of a stick: she was trying to get back into her original style of walking on four legs, and was just contriving to resume her old habit of jumping from <rs type="plant">tree</rs> to <rs type="plant">tree</rs>; her little boy also was beginning to imitate her movements. And when the husband reached the spot where she had been, there he saw her with the baby jumping from the top of one <rs type="plant">tree</rs> to the top of another. "Come back home!" he kept on shouting, but his wife took no heed; only his child, who felt sorry for his father, threw down the <rs type="animal">spiders</rs> and <rs type="animal">insects</rs> for him to eat. Now, though <rs type="animal">monkeys</rs> eat such things, men cannot eat them, and so he had to proceed hungry. "Come back home!" he again called out to her, as he tried to follow her through the <rs type="plant">bushes</rs> below, but looking down upon him, she said, "No! I have had quite enough punishment from you already." And thus they proceeded on and on, the father running along on the ground below, the mother and child jumping from the topmost branches of <rs type="plant">tree</rs> to <rs type="plant">tree</rs>. At last they came to a wide river, and here the <rs type="animal">monkey</rs> cried out to her people Katanni-tóri [i. e. "Come and fetch us!"]. And they made the <pb n="151"/>wind to blow so strongly that it caused the opposite shore to come close over to the <rs type="plant">tree</rs> where the <rs type="animal">monkey</rs> was, so close that the <rs type="plant">trees</rs> on both sides of the stream touched; by this means the mother and her child jumped across, and once across, the opposite shore with its <rs type="plant">bushes</rs> drew back to their original position. As the separation took place, the <rs type="animal">monkey</rs> called out to the man, "You must swim after us if you want us!" and the little boy, who was really fond of his father, shouted, "Good-bye - I am going!" But the mother would say nothing further. The man was thus left on the nearer shore, and got home again much vexed. He destroyed everything that had belonged to the woman: he cut up her hammock, broke her calabash, and smashed her goblets. <shift feature="epimyth"/>What a bad temper he must have had!</p>
+    </body>
+  </text>
+</TEI>

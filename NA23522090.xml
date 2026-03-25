@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Branding of the Animals (The Black-Backed Jackal and the Brown Hyena)</title>
+        <editor role="collector">Megan Biesele</editor>
+        <editor role="narrator">ǀAsa Nǃaʼan</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NA23522090</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NA23522090</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+          <p>Note that the CC licence only applies to the XML file. Users should also cite the original source of the text.</p>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Biesele, Megan (1975): Folklore and Ritual of !Kung Hunter-Gatherers. 2 vols. Ph.D. thesis, Harvard University, Cambridge, MA. Quot. pp. 90-93.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CAF00235">!Xun</name>
+          <date notBefore="1970" notAfter="1972" type="recorded">Recorded sometime between 1970 and 1972.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>The <rs type="animal">kori bustard</rs> made a fire. In the fire he laid long irons. He used his big wings to blow the fire until the irons were <rs type="color">red</rs>-hot. Then he took the irons and branded the <rs type="animal">horse</rs>, and stood him aside: the <rs type="animal">bush horse</rs>, the one with stripes. The <rs type="animal">kori bustard</rs> created him; he made those stripes on his hide with fire. And he was done with him.</p>
+      <p>He next took the <rs type="animal">eland</rs> and created the <rs type="animal">eland</rs>. And the <rs type="animal">eland</rs> was just <rs type="color">dun</rs>-colored. He went to the hartebeest and did the same to him. Then he made the <rs type="animal">ostrich</rs> his wings, and the <rs type="animal">ostrich</rs> had wings.</p>
+      <p>The <rs type="animal">kori bustard</rs> created all the <rs type="animal">animals</rs> in this way. He took the <rs type="animal">gemsbok</rs>, and the <rs type="animal">gemsbok calves</rs>, and made the stripes on their faces. Then he was finished with all of them. <rs type="animal">Duikers</rs>, all the other <rs type="animal">animals</rs>, he created them too. And they were completed.</p>
+      <p>Then the <rs type="animal">kori bustard</rs> took the <rs type="animal">jackal</rs> and the <rs type="color">brown</rs> <rs type="animal">hyena</rs> and made them nephew and uncle to one another. And the <rs type="color">brown</rs> <rs type="animal">hyena</rs> was a lowly creature and the <rs type="animal">jackal</rs> was a lowly creature. Both these <rs type="animal">carnivores</rs> he made inferior beings.</p>
+      <p>One day the <rs type="color">brown</rs> <rs type="animal">hyena</rs> said, "I am going to set a snare." And he did set a snare. And when he went back to look at it he had caught a <rs type="animal">steenbok</rs>. "I think I'll take my <rs type="animal">steenbok</rs> and go to the <rs type="animal">kori bustard</rs>. I want him to give me beautiful markings like the other <rs type="animal">animals</rs>, to show that I have killed a <rs type="animal">buck</rs> and am a hunter" said the <rs type="color">brown</rs> <rs type="animal">hyena</rs>.</p>
+      <p>The <rs type="animal">jackal</rs> heard this, and said he would precede the <rs type="color">brown</rs> <pb n="91"/><rs type="animal">hyena</rs> to the <rs type="animal">kori bustard</rs>'s camp. There he found cooking in a pot the excrement of people who had been eating <rs type="plant" key="Bauhinea esculenta">tsĩ</rs>, <shift feature="apartmyth"/>these <rs type="plant">beans</rs> that the jũǀwasi roast until they pop, making a noise like "ǃkhwi!"? <rs type="plant" key="Bauhinea esculenta">Tsĩ beans</rs> grow in open places with no <rs type="plant">trees</rs>. Well,<shift feature="diegesis"/> the people had been eating <rs type="plant" key="Bauhinea esculenta">tsĩ</rs>, and they defecated afterwards and put the stuff into a pot and cooked it.</p>
+      <p>When the <rs type="animal">jackal</rs> arrived, the people said, "Fhe, the <rs type="animal">jackal</rs> has come." And this is what they did to him. You know the <rs type="color">black</rs> hairs on the <rs type="animal">jackal</rs>'s back? The people spread the hot <rs type="plant" key="Bauhinea esculenta">tsĩ</rs> excrement over his back, and then laid him down and spilled the rest of it over him. It was hot as fire, and it burned his back <rs type="color">black</rs>. It hurt him terribly! And so he howled.</p>
+      <p>Then the people said to the <rs type="animal">jackal</rs> "Go away!" (Because of course people revile inferior beings.) They refused to brand him nicely and treated him badly instead. So he ran and flung himself down and jumped up again and ran off crying to his uncle the <rs type="color">brown</rs> <rs type="animal">hyena</rs>'s camp.</p>
+      <p>When he got there, he lay down again. The <rs type="color">brown</rs> <rs type="animal">hyena</rs> was packing the <rs type="animal">steenbok</rs>, ready to go to the <rs type="animal">kori bustard</rs>'s camp. He got up and took the <rs type="animal">steenbok</rs> and slung it over his shoulder. He was starting to leave when the <rs type="animal">jackal</rs> said, "<rs type="color">Brown</rs> <rs type="animal">hyena</rs>, where are you going? When I went visiting at the <rs type="animal">kori bustard</rs>'s camp the people there hurt my back. It's not a good place - don't go there."</p>
+      <p>But the <rs type="color">brown</rs> <rs type="animal">hyena</rs> refused to listen, saying, "That won't <pb n="92"/>happen to me just because it happened to you. The people may have burned your back but they won't burn mine as well. I'm going to go there to get beautiful markings."</p>
+      <p>So he went to the <rs type="animal">kori bustard</rs>'s camp. And the children who had been born to the people there shouted, "Father, father, look at the scum which has arrived, this <rs type="color">brown</rs> <rs type="animal">hyena</rs> who dares to come here!"</p>
+      <p>The <rs type="color">brown</rs> <rs type="animal">hyena</rs> was startled, and stopped in his tracks. But the <rs type="animal">kori bustard</rs> said, "Listen to these crazy youngsters! Of course you shall come to me - let me brand you with beautiful markings." And the <rs type="animal">kori bustard</rs> sat down and fanned the fire with his wings until the irons were hot, those same irons he had used to brand the other <rs type="animal">animals</rs>.</p>
+      <p>The people said to the <rs type="color">brown</rs> <rs type="animal">hyena</rs>, "Now lie down." The <rs type="color">brown</rs> <rs type="animal">hyena</rs> first lay his <rs type="animal">steenbok</rs> down and then he himself stretched out on the ground. And the people worked over his hair and worked over his hair. Then they wounded his leg so that he still walks around with the wound. The <rs type="animal">kori bustard</rs> brought the hot poker and stuck it into the top of the <rs type="color">brown</rs> <rs type="animal">hyena</rs>'s leg. "Mem!" he wailed. The people refused to let him cry out, saying, "This won't do: don't complain; just lie quietly." They certainly did treat him badly! The fired burned and burned the <rs type="color">brown</rs> <rs type="animal">hyena</rs>. Then the people said, "Let's also stick the poker in his lower eyelid." And they took it and stuck it beneath his eye - screwed it right in. The fire burned him awfully, and he howled. Then he defecated on the people and ran off.</p>
+      <p>As he ran away the people took the bag of bones and threw it after him. And they said, "Away with you! Go and eat these bones. Henceforth you will go about eating bones."</p>
+      <p>The <rs type="color">brown</rs> <rs type="animal">hyena</rs>'s heart was heavy. He came and took the bag of bones and slung it over his shoulder and limped away. After that his only food was bones. <shift feature="epimyth"/>Thus it is that when people are away he comes to their camps and goes about eating old bones. The story ends here.</p>
+    </body>
+  </text>
+</TEI>

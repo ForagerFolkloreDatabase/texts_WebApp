@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>[Origin of Death]</title>
+        <editor role="collector">William Lipkind</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NS07902480</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NS07902480</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+          <p>Note that the CC licence only applies to the XML file. Users should also cite the original source of the text.</p>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Lipkind, William (1940): Carajá Cosmography. In: The Journal of American Folk-Lore 53(210), 248-251. Quot. pp. 248-249.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CSA40501">Carajá</name>
+          <date notBefore="1938" notAfter="1939" type="recorded">Recorded sometime between 1938 and 1939.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>More people kept being born. Nobody died. There wasn't room enough. When a man got old, he sat there in one place without moving. <persName>Kaboi</persName> couldn't add any more houses to the village. It was full. A new father was lying on the mat. It was time to eat honey. He went off hunting honey. While he was hunting he heard a <rs type="animal">seriema</rs> [Portuguese name of a bird] sing. He scooped a hole toward it and came out. He found fruit at once and decided to return. When he got back he gave his folk the fruit to taste. They found it very good and wanted to come out. They invited the others to come with them. <persName>Wobedu</persName> sent his folk out first and he went first among them. <persName>Kaboi</persName> came <pb n="249"/>among the last. He got stuck in the hole. His belly was too big. He decided to go back. It was a dead leaf that he spied. He spoke to his wife, 'Let's go back. There is death there.' They went back again. Those that had come out were very happy. They were all happy. Then one of them climbed a <rs type="plant">tree</rs>. It was a child that climbed. He fell and died. They all mourned. Suddenly they got cheerful again. For this reason they were angry, his mother and father. His brother and sister, married to each other, were angry. <shift feature="epimyth"/>For this reason there was keening. They say that there in the depths of the water there was no death.</p>
+    </body>
+  </text>
+</TEI>

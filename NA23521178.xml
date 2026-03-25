@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Two Boys and the Lions</title>
+        <editor role="collector">Megan Biesele</editor>
+        <editor role="narrator">ǁUkxa Nǃaʼan</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NA23521178</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NA23521178</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+          <p>Note that the CC licence only applies to the XML file. Users should also cite the original source of the text.</p>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Biesele, Megan (1975): Folklore and Ritual of !Kung Hunter-Gatherers. 2 vols. Ph.D. thesis, Harvard University, Cambridge, MA. Quot. pp. 178-182.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CAF00235">!Xun</name>
+          <date when="1971" type="recorded">Recorded in 1971.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p><persName>ǃGara</persName> sired two sons, one named <persName>ǃXoma</persName>, the other named <persName>Kanǁa</persName>. Once the two boys were chasing an <rs type="animal">eland</rs>. <persName>ǃGara</persName> followed their tracks but did not catch up with them. He had with him the <rs type="animal">tortoise</rs>, and the two of them were following <persName>Kanǁa</persName> and <persName>ǃXoma</persName>.</p>
+      <p><persName>ǃGara</persName> and the <rs type="animal">tortoise</rs> came to the remains of a fire where the boys had slept along the way. <persName>ǃGara</persName> told the <rs type="animal">tortoise</rs> to stick his head in the fire to see whether the centre was cold. The <rs type="animal">tortoise</rs> stuck in his head and left it there a while, then told <persName>ǃGara</persName> that the fire was dead.</p>
+      <p>So they kept on tracking and tracking until they saw another old fire. Again <persName>ǃGara</persName> told the <rs type="animal">tortoise</rs> to stick in his head and feel the heat. The <rs type="animal">tortoise</rs> left his head in the <rs type="plant">ashes</rs> a while but at last reported that this fire, too, was dead.</p>
+      <p>Again they tracked the boys. When night fell they came <pb n="179"/>to the place where the <rs type="animal">eland</rs> had died. They came to the fire the boys had lit the day before, the fire they had lit when they killed the <rs type="animal">eland</rs>. This time the <rs type="animal">tortoise</rs> put his head into the fire and cried "dzi dzi dzi dzi!"</p>
+      <p><persName>ǃGara</persName> said, "My father's namesake, hooray for you!" They had come very close to where the boys were, so that the <rs type="animal">tortoise</rs> had burned his head in a living fire.</p>
+      <p><persName>ǃGara</persName> and the <rs type="animal">tortoise</rs> jumped up and ran, ran to where the <rs type="animal">eland</rs> had been butchered. There they found that <rs type="animal">lions</rs> had been making waterbags of the <rs type="animal">eland</rs>'s stomach. They had taken out the <rs type="animal">eland</rs>'s stomach, and had made waterbags of it. With the chyme from the stomach the <rs type="animal">lions</rs> had made a pile to bury <persName>Kanǁa</persName> and <persName>ǃXoma</persName>. <shift feature="apartmyth"/>(That's what <rs type="animal">lions</rs> do. <rs type="animal">Lions</rs> kill a thing to eat, and they bury its chyme in the sand.)<shift feature="diegesis"/> Yes, the <rs type="animal">lions</rs> had made <rs type="animal">eland</rs> waterbags for fetching water.</p>
+      <p><persName>ǃGara</persName> came up to the pile of chyme and saw his sons imprisoned in it. "<persName>ǃXoma</persName> and <persName>Kanǁa</persName> - is this you here?"</p>
+      <p>They said, "Yes, here we are." Then <persName>ǃGara</persName> went to hang the bones from the back of the <rs type="animal">eland</rs>'s neck in a <rs type="plant">tree</rs>. He meant to make lightning, this fire which comes down from the sky with the sound "huru!" <persName>ǃGara</persName> hung the bones in a <rs type="plant">tree</rs>. He hung them up, but they fell down and went "ǁoh" in the sand. "No," he said, "these bones won't do." So he went and hung up the horns instead. The horns stood up straight and stayed there. In this way <persName>ǃGara</persName> was calling the lightning to come and kill the <rs type="animal">lions</rs>.</p>
+      <p><pb n="180"/>When he had hung up the horns, <persName>ǃGara</persName> moved off a little way and gathered small <rs type="animal">birds</rs> together, gathered them so they could speak to him. He tied the <rs type="animal">birds</rs> all around his head and they cried, "khwai, khwai, khwai!"</p>
+      <p>He untied them and said, "Why do these things chatter so much?" <persName>ǃGara</persName> threw the <rs type="animal">birds</rs> away. Next he took the little <rs type="animal">bird</rs> tshwe and tied him on his head, and sat down to wait for the <rs type="animal">lions</rs>.</p>
+      <p>After he had sat a while, <persName>ǃGara</persName> made the night come. He spoke to the night, saying, "ǀeǀe! Grow <rs type="color">dark</rs> so the <rs type="animal">lions</rs>, who have gone to fetch water, will have to return." It grew <rs type="color">dark</rs>, and the <rs type="animal">lions</rs> returned. They came up to <persName>ǃGara</persName> and offered him water. They gave him the biggest waterbag, but he refused it. "Give me that little waterbag over there, let me just sip a little, so that the water will go around," he said. Then he took the biggest waterbag and gave it to the <rs type="animal">tortoise</rs>. They all drank and drank and drank.</p>
+      <p>Then <persName>ǃGara</persName> said, "Now that you have finished, let's eat." So the <rs type="animal">lions</rs> cut the fat from the carcass and they all ate. Next <persName>ǃGara</persName> said, "We're going to dance. Let's dance, so it will rain." <persName>ǃGara</persName> led off and the <rs type="animal">tortoise</rs> came behind him. The <rs type="animal">lions</rs> came behind the <rs type="animal">tortoise</rs>. <persName>ǃGara</persName> said to the <rs type="animal">lions</rs>, "Now you two dance together; don't separate. The <rs type="animal">tortoise</rs> and I will also dance close to each other, so that there will be a space between us and you <rs type="animal">lions</rs>."</p>
+      <p>So they danced and danced and the dance began to be strong. <pb n="181"/>"Now descend!" bellowed <persName>ǃGara</persName>. And the lightning came down - "hobo!" and struck the <rs type="animal">lions</rs> flat. <persName>ǃGara</persName> called out, "<persName>ǃXoma</persName>, you and Kanǁa come out and help me beat these pawed things!" The boys came out of the pile and ran to their father's side to help him beat the <rs type="animal">lions</rs>.</p>
+      <p>Then <persName>ǃGara</persName> stood back and said in surprise "What will I do now ... how will I powder myself with sã so my brains won't be spoiled by this killing I've done?" So he went and got the <rs type="animal">eland</rs>'s hoof. He put coals in it and took a big whiff of the smoke - "he-e-eh." But it didn't work, he didn't go into a trance. So he said, "No good! What kind of dried up, tasteless thing is this?" He walked back and forth thinking. Finally he killed the <rs type="animal">tortoise</rs>, his nephew who had accompanied him. He grabbed the <rs type="animal">tortoise</rs> so he shrieked "ee!" and snapped his neck in two. Then <persName>ǃGara</persName> scooped out the meat from the shell. He took <rs type="animal">eland</rs> fat and poked it into the shell. He put in the fat and heaped coals on top of it and sniffed the smoke, and this time he began to trance.</p>
+      <p>He rubbed fat on himself and rubbed fat on himself and rubbed fat on his arms. Then <persName>ǃGara</persName> and his sons began to eat the <rs type="animal">eland</rs>. <persName>Nanamitagum</persName> ate all that was given to him; he kept stretching out his hand and eating what was put into it over and over again. Each time he finished a morsel, <persName>ǃGara</persName> would have to take another piece of roast meat out of the coals, knock <pb n="182"/>the ashes off, and give it to <persName>Nanamitagum</persName>. <persName>Nanamitagum</persName> ate and ate, and after a while, the meat was all gone.</p>
+      <p><persName>ǃGara</persName> went off alone and asked himself, "Now that this guy has eaten all the meat, what will I give my sons to eat? Why did <persName>Nanamitagum</persName> eat it all up?" <persName>ǃGara</persName> then removed his own anus. He pulled it right out and chopped it off and carried it home. <persName>Kanǁa</persName> and <persName>ǃXoma</persName> tried to eat it but it refused. The two boys were surprised. "What is this our father has brought home?" they wondered. They would pull a piece of it out of the coals and knock the <rs type="plant">ashes</rs> off, but it was hard and would refuse to soften when they beat it with a stick. Then the piece would leap out of their hands and vanish into <persName>ǃGara</persName>'s asshole. <persName>Kanǁa</persName> and <persName>ǃXoma</persName> were left to wonder what kind of meat their father had brought them.</p>
+    </body>
+  </text>
+</TEI>

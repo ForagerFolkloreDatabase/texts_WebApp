@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Haregirl and the Moon</title>
+        <editor role="collector">Megan Biesele</editor>
+        <editor role="narrator">ǃUnnǀobe Morethlwa</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NA23522098</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NA23522098</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+          <p>Note that the CC licence only applies to the XML file. Users should also cite the original source of the text.</p>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Biesele, Megan (1975): Folklore and Ritual of !Kung Hunter-Gatherers. 2 vols. Ph.D. thesis, Harvard University, Cambridge, MA. Quot. pp. 98-102.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CAF00235">!Xun</name>
+          <date when="1971" type="recorded">Recorded in 1971.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>Long ago the <rs type="animal">animals</rs> of today were people, and lived together like people. And the big moon we'll see tomorrow night was also a person, and lived with the others. Sometimes the moon disappears and the next day we say he has died. But he always comes back. They all lived together, and the moon died. Everyone said "Oo, our old man has died. Who will take care of us now that the old man is dead?"</p>
+      <p>So they stayed and stayed at that place and finally moved on. The little waterhole where they were drinking stood there and they lived near it. When the water dried up they went and lived beyond it. They camped in a new place and the <rs type="plant">nǀn</rs> berries ripened in their abandoned camp. The <rs type="plant">nǀn</rs> ripened, so they left their new camp and came back to gather it. They came and picked it and picked it and brought it home, they picked it and brought it home.</p>
+      <p>One day they were gathering the <rs type="plant">nǀn</rs>. One of the women was a <rs type="animal">hare</rs>: the <rs type="animal">hare</rs>, the little <rs type="animal">hare</rs> was a woman, a jũǀwa woman who lived with the others. They all went gathering <rs type="plant">nǀn</rs> together. When they entered the field of <rs type="plant">nǀn bushes</rs> the others deceived the <rs type="animal">hare</rs>, telling her "What we do is to eat the <rs type="plant">nǀn</rs> that is <rs type="color">red</rs> and collect the <rs type="plant">nǀn</rs> that is <rs type="color">white</rs>. Now you gather that way, too. Don't pick <rs type="color">red</rs> fruits and put them in your kaross." In this way they deceived her. So she ate the <rs type="color">red</rs> ones and collected the unripe ones, ate the ripe and collected the unripe.</p>
+      <p><pb n="99"/>When their karosses were full, the women brought their loads down to the little waterhole and sat beside it. Then they said, "<rs type="animal">Hare</rs>, take off your kaross and let us see what you've gathered." So she took it off and was horrified to see that they were unripe. But the other women said "Is this the only one of us who has gathered well and the rest of us have collected bad ones?" They took their karosses off and their <rs type="plant">nǀn</rs> was beautiful and ripe.</p>
+      <p>Then the <rs type="animal">hare</rs> said "You <rs type="color">white</rs>, <rs type="color">white</rs>, <rs type="color">white</rs> (diseased) crotches! Why have you done this to me?" The others replied "Dump out your unripe <rs type="plant">nǀn</rs> and go back for more - we'll sit here and wait for you. Now go gather <rs type="plant">nǀn</rs>, and then come back and we'll leave together."</p>
+      <p>So the <rs type="animal">hare</rs> dumped out her fruit and went collecting again. The other women said "Let's not wait for her; let's just go on home. Why should we sit and wait here?" Then one of them said to the others, "Now you all piss. And tell your piss that it should call out to the <rs type="animal">hare</rs>; the piss should answer when the <rs type="animal">hare</rs> calls." When they had finished pissing, they left.</p>
+      <p>Meanwhile the <rs type="animal">hare</rs> had gone off collecting. She dug up a big <rs type="plant">ǃkəma</rs> root and returned, munching on it. She was listening for their talk, but heard nothing. So she called out. And the piss answered her. But when she got there she couldn't see anyone. Again she called out and the piss answered but she still saw no one. While she was looking around she heard a chopping sound. The old moon had managed to find a knobkerrie somewhere <pb n="100"/>and was sitting in the doorway of his grave, where they had buried him. He was widening the entrance. He sat there and chopped at it with his stick. "ǁa! ǁa! ǁa! ǁa!"</p>
+      <p>"Who is this?" wondered the <rs type="animal">hare</rs>. "Someone else?" She looked around for him. She searched for him and didn't find him. She was about to pass by but the moon said "Yi!" And the <rs type="animal">hare</rs> turned to look. The moon said "Come here!" She stood still in fear. But the moon called from where he was, saying "Come here quickly and bring me what you're eating, that <rs type="plant">ǃkəma</rs> you're carrying."</p>
+      <p>The <rs type="animal">hare</rs> said to herself, "Who can this be; this man died long ago!" But she came a little closer. She came about as close as to the door of this house [4 feet] and stuck the <rs type="plant">ǃkəma</rs> on a stick and gave it to him. The moon refused it, saying "Come on, I won't do anything to you, now just come and give it to me. What could I possibly do to you?" But the <rs type="animal">hare</rs> kept her distance.</p>
+      <p>Just then some other people went by; they were moving to a new camp. The <rs type="animal">hare</rs> felt bolder and stepped forward to hand the old man the <rs type="plant">ǃkəma</rs>. The moon took hold of it and pulled the <rs type="animal">hare</rs> into the hole after him. He said "are you afraid of me? Where do you think I've been all this time that you should fear me so? I'm still alive, and am the same person you knew before. I'm not going to hurt you, I just want to tell you something. I came to tell you so you could take the message to <pb n="101"/>the others over there. Those who are passing by just now. If I send you as my messenger will you do that for me?"</p>
+      <p>The <rs type="animal">hare</rs> answered "Yes, of course." So the moon said "Then run. Run to them and tell them that any person who dies will do as I have done and will return to life. He will die and be reborn. He won't just die; no, he will die and return, die and come to life again. In this way people will live forever and not die." The <rs type="animal">hare</rs> answered, "I understand, I'll take the message."</p>
+      <p>"Have you understood me thoroughly, will you tell them just what I've said?" "Yes, I understand perfectly," answered the <rs type="animal">hare</rs>.</p>
+      <p>So she ran and ran after the people. She came as close to them as those houses standing over there [100 feet] and called out to them so that they stopped. Then the <rs type="animal">hare</rs> said "The old moon says that when you die you will just die and go away and won't ever be alive again. And he says that dead people's remains will rot and smell foul." The people asked themselves "Where does this person come from, talking like this?" The <rs type="animal">hare</rs> said "That's what the old moon told me to tell you. He said 'You're going to die. Don't you dare come back to life.'" And the <rs type="animal">hare</rs> turned and went away. The people asked each other "Who is this who has brought us such news?"</p>
+      <p>Meanwhile the <rs type="animal">hare</rs> went back to the moon. She wanted to hurry back and tell him she had delivered the message and <pb n="102"/>returned. She entered the hole and came to him. "What message did you take to them?" he asked. "Like you said, I told them that they would die and not return, and that the remains of dead people smell foul."</p>
+      <p>So the moon came to her, took an axe and split her lip with it, so that <rs type="animal">hares</rs>' mouths are split that way today. The <rs type="animal">hare</rs> took off the <rs type="animal">gemsbok</rs> kaross she wore, and started a fire and held the kaross over it. Then she threw it over the moon's face. That's why the moon's face is streaked with dirt. She made the kaross sooty and when she had covered the moon's face with it, she ran away. The moon took the kaross off but the streaks remained on his face. That's what the moon and the <rs type="animal">hare</rs> did to each other.</p>
+    </body>
+  </text>
+</TEI>

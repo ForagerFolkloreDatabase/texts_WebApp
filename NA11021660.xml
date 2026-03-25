@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>[Why the Mbuti Live in the Forest]</title>
+        <editor role="collector">Paul Schebesta</editor>
+        <editor role="narrator">anonymous</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NA11021660</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NA11021660</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+          <p>Note that the CC licence only applies to the XML file. Users should also cite the original source of the text.</p>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Schebesta, Paul (1933): Among Congo Pygmies [1932]. Trans. from the German by Gerald Griffin. London: Hutchinson. (Repr. New York: AMS, 1977.) Quot. p. 166.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CAF00111">Mbuti-Sua</name>
+          <date notBefore="1929" notAfter="1930" type="recorded">Recorded sometime between 1929 and 1930.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>In the beginning all people lived with <persName>Mungu</persName>, the Babali as well as the Basua. One day <persName>Mungu</persName> sent them all out to hunt <rs type="animal">swine</rs>. The Babali started out first, and came back in the evening empty-handed. The Bambuti then tried their luck, and killed a <rs type="animal">pig</rs>, which they ate on the spot. When <persName>Mungu</persName> heard this he was so annoyed that he banished them into the forest, where they live to this day. The leader of the Bambuti whom <persName>Mungu</persName> banished into the forest was called "<persName>Mbera</persName>," the ancestor of all the pigmies. Although <persName>Mungu</persName> was very angry with the pigmies, he was not cruel to them, and gave them <rs type="plant">fruit trees</rs> from which they could eat to their heart's content. These <rs type="plant">trees</rs> were the <rs type="plant">akbu</rs>, the <rs type="plant">akasi</rs>, the <rs type="plant">tobe</rs>, the <rs type="plant">giezi</rs> and many others."</p>
+    </body>
+  </text>
+</TEI>

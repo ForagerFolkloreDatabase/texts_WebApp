@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Elephant First Found Water</title>
+        <editor role="collector">Megan Biesele</editor>
+        <editor role="narrator">ǀAsa Nǃaʼan</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NA23521223</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NA23521223</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+          <p>Note that the CC licence only applies to the XML file. Users should also cite the original source of the text.</p>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Biesele, Megan (1975): Folklore and Ritual of !Kung Hunter-Gatherers. 2 vols. Ph.D. thesis, Harvard University, Cambridge, MA. Quot. pp. 223-224.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CAF00235">!Xun</name>
+          <date when="1971" type="recorded">Recorded in 1971.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>The <rs type="animal">elephant</rs> discovered water. It was the <rs type="animal">elephant</rs> who saw the water first. He hid his discovery from other people and drank it alone. He drank it all by himself. But the mud, the mud of the waterhole stuck to his legs so that after he had gone to sleep, <persName>ǃXõǁəmdima</persName> said "hey, everybody! What kind of man is this who has found water to drink and hasn't told us?"</p>
+      <p>But the next day her husband denied it, and said, "I haven't found any water to drink. It's only mud that you see here."</p>
+      <p>But there came another day when <persName>ǃXõǁəmdima</persName> said to her brothers, "Oh, people, I'm sure this husband of mine has found water and is keeping it from us. Let's go stand where we can watch. Let's find out what it is he is drinking." So they got up and followed his tracks and tracked him to where he had drunk the water and had then gone gathering. <shift feature="apartmyth"/>(Because the <rs type="animal">elephant</rs> eats <rs type="plant">trees</rs>, of course.)<shift feature="diegesis"/> He went gathering and ate <rs type="plant">trees</rs>. Meanwhile <persName>ǃXõǁəmdima</persName> and her people went back to the waterhole and drank up all the water. Then they urinated into the waterhole until it was full of urine.</p>
+      <p>All this time the <rs type="animal">elephant</rs> was eating <rs type="plant">trees</rs>. When the sun was high in the sky he returned to the waterhole. It was full, and he thought it was plain water. He scooped up the urine with his trunk and began to drink. "Aagh!" He spat it out. It wasn't water at all! He looked over his shoulder. There were all of <persName>ǃXõǁəmdima</persName>'s brothers sitting at the edge <pb n="224"/>of the waterhole. They were heating spears in a fire. The <rs type="animal">elephant</rs> saw his wife, too, sitting in her brothers' midst. The <rs type="animal">elephant</rs> ran towards them, thinking to pluck <persName>ǃXõǁəmdima</persName> away from her brothers with his trunk. But the brothers surrounded him. They attacked him, calling out to <persName>ǃXõǁəmdima</persName>, "We'll protect you! Today we're going to kill this <rs type="animal">elephant</rs>!" The brothers' spears clanged together. Their spears clanged together as they met inside the <rs type="animal">elephant</rs>'s body. The brothers, who were the little <rs type="animal">rainbirds</rs>, darted here and there. With each dart they thrust their spears into the <rs type="animal">elephant</rs>. Soon he toppled over dead and they rolled him aside.</p>
+      <p><shift feature="epimyth"/>That is the story of how the <rs type="animal">elephant</rs> first found water. Since then the rain comes down and people have water to drink.</p>
+    </body>
+  </text>
+</TEI>

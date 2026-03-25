@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Fish-Hawk and His Daughter</title>
+        <editor role="collector">Jeremiah Curtin</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NN02062870</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NN02062870</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Curtin, Jeremiah/Dixon, Roland B. (1909): Achomawi Myths. Collected by Jeremiah Curtin. Ed. by Roland B. Dixon. In: The Journal of American Folk-Lore 22(85), 283-287. Quot. pp. 287-288.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA29602">Achumawi</name>
+          <date notBefore="1835" notAfter="1906" type="recorded">Recorded sometime between 1835 and 1906.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p><rs type="animal">Fish-Hawk</rs> lived down at <placeName>Pit River</placeName>. When Sun travelled in winter, he left his daughter at home, but he carried her about with him in summer. Sun did not want his daughter to marry any poor person, but a great man, like <rs type="animal">Pine-Marten</rs>, <rs type="animal">Wolf</rs>, or <rs type="animal">Coyote</rs>. <rs type="animal">Fish-Hawk</rs> got angry at Sun because he talked in this way of poor people, so he started and went down to the ocean, to Sun's place, and slipped into the sweat-house. It was winter now, and Sun's daughter was put away inside the house in a basket. <rs type="animal">Fish-Hawk</rs> stole her, carried her on his back to <rs type="animal">Coyote</rs>'s house, and hid her away. He made the journey in one night.</p>
+      <p>Next morning Sun could not find his daughter, and did not know where she had gone. That morning <rs type="animal">Fish-Hawk</rs> took the basket with the woman in it, and put it away under the rocks in muddy water, to hide it so that Sun could not see and could not find his daughter.</p>
+      <p>Sun searched everywhere in the air and on the ground, but could not find her. Then he hired all men who were good divers or swimmers to hunt in the water, for he thought she was hidden in the water. All searched until they came to <placeName>Pit River</placeName>. One would search part of the way, then another. <rs type="animal">Kingfisher</rs> was the last man to go in search of her. He went along slowly to look where the water was muddy. At last he thought he saw just a bit of something under the water. Then he went over the place carefully again and again.</p>
+      <p>Many people were going along the river, watching these men looking for Sun's daughter. <rs type="animal">Kingfisher</rs> filled his pipe, smoked, and blew on the water to make it clear, for he was a great shaman. Then he went up in the air and came down over the place. The people were all excited, and thought surely he would find something. He came along slowly, and sat and smoked again, and blew the smoke over the water. Then he rose, rolled up his pipe and tobacco, and put them away. Then he took a long pole, stood over the water, pushed his pole down deep, and speared with it until he got hold of the basket and pulled it out. Old Sun came, untied the basket, took his daughter out, washed her, then put her back. He paid each of the men he had hired. Part of their pay was in shells.</p>
+      <p><rs type="animal">Kingfisher</rs> said that it was <rs type="animal">Fish-Hawk</rs> who had hidden the basket. Sun put the basket on his back and started home. He was so happy to get his daughter back that he did no harm to <rs type="animal">Fish-Hawk</rs> for stealing her.</p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>[ǃXõǁəmdima and Hyena]</title>
+        <editor role="collector">Megan Biesele</editor>
+        <editor role="narrator">Tshuǃo nǃa</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NA23522043</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NA23522043</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+          <p>Note that the CC licence only applies to the XML file. Users should also cite the original source of the text.</p>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Biesele, Megan (1975): Folklore and Ritual of !Kung Hunter-Gatherers. 2 vols. Ph.D. thesis, Harvard University, Cambridge, MA. Quot. pp. 43-45.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CAF00235">!Xun</name>
+          <date notBefore="1970" notAfter="1972" type="recorded">Recorded sometime between 1970 and 1972.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p><shift feature="anamyth"/>The girl I first told you about yesterday,<shift feature="diegesis"/><persName>ǃXõǁəmdima</persName>, was taken to live with the <rs type="animal">elephants</rs>. Later she was married to the <rs type="animal">hyena</rs>. <persName>ǃXõǁəmdima</persName> and the <rs type="animal">hyena</rs> lived for awhile at the <rs type="animal">hyena</rs>'s camp. But the <rs type="animal">elephants</rs> had made the <rs type="animal">hyena</rs> promise to bring her home to visit them. So one day the two of them were on their way to the <rs type="animal">elephant</rs>'s camp.</p>
+      <p>As they neared the camp, they saw many tracks. "What can have been walking around here with feet like <rs type="animal">lions</rs>' feet, making tracks like these?" the <rs type="animal">hyena</rs> asked his wife.</p>
+      <p>"These aren't <rs type="animal">lion</rs> tracks; they're the tracks of my brothers. Quit talking like that."</p>
+      <p>"We are standing in the midst of <rs type="animal">lion</rs> tracks, yet you don't agree we should turn back and go home?" squeaked the <rs type="animal">hyena</rs> in fear.</p>
+      <p>"Good grief. These are the tracks of my father and his sons. They're out hunting. Come on, let's go on into camp. Stop such foolish talk. <rs type="animal">Lion</rs>? What <rs type="animal">lion</rs>? It's only my little brothers and sisters," said <persName>ǃXõǁəmdima</persName>. So they walked and walked and finally arrived at the camp. They sat down to visit the women who were there. They talked together for awhile. Then when <persName>ǃXõǁəmdima</persName> and the <rs type="animal">hyena</rs> went to fix a sleeping place for themselves, they were roared at by <rs type="animal">lions</rs>. It was her brothers, and they were roaring ferociously. "Ku - ku - ku!" said the <rs type="animal">hyena</rs>. "Are there <rs type="animal">lions</rs> coming?"</p>
+      <p>"Yo!" answered <persName>ǃXõǁəmdima</persName>. "You know perfectly well it's my brothers, my father's own flesh and blood who are coming home. <pb n="44"/>So why are you calling them <rs type="animal">lions</rs>?"</p>
+      <p>"No, it's <rs type="animal">lions</rs>. Come on, let's ..." But the brothers were already coming into the camp. Since they were <rs type="animal">carnivores</rs>, they were barking. They barked like regular <rs type="animal">dogs</rs> bark. It had been a long time since they had seen their older sister, so they greeted her over and over. She ran to meet them, and they all embraced each other. "See, here are my brothers, just as I told you. What did you mean with all that talk?" she said to the <rs type="animal">hyena</rs>. "It was my brothers all along, so why don't you just shut up and sit quietly?"</p>
+      <p>"Yo!" said the <rs type="animal">hyena</rs>. "I'm in a camp full of <rs type="animal">lions</rs> and you say I shouldn't be afraid?"</p>
+      <p>"Oo-oo, it's only my brothers, silly! What do you mean - <rs type="animal">lions</rs>?"</p>
+      <p>Now, <persName>ǃXõǁəmdima</persName>'s father still had not come home. He was approaching the camp, and he let out a bellow so big that the whole countryside trembled and the <rs type="plant">trees</rs> nearly fell over. "Koo! I'm as good as dead!" said the <rs type="animal">hyena</rs>. "Why didn't I stay at home? What am I doing coming right into an <rs type="animal">elephant</rs>'s house and making him bellow like this?"</p>
+      <p>"Yo!" said <persName>ǃXõǁəmdima</persName>. "It's only my father coming in. Now just sit down and wait patiently." And she sat him back down. "Here, eat this <rs type="plant" key="Ziziphus mucronata">nǂa</rs>." The <rs type="animal">hyena</rs> was trembling terribly. He shivered and shook. So <persName>ǃXõǁəmdima</persName> went to get a <rs type="animal">tortoiseshell</rs> powder box. She pretended she was going to calm his nerves with sã powder. But what she did was to grab his nose and break it <pb n="45"/>off! She broke her husband's nose off! "I told you to sit still and wait for my father, but you wouldn't, so I've broken your nose for you."</p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Myth of Crab and Crow (version 1)</title>
+        <editor role="collector">William Edward Hanley Stanner</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NP08991551</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NP08991551</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by-nc-nd/4.0">CC BY-NC-ND</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Stanner, William E. H. (1963): On Aboriginal Religion. Sydney: Sydney University Press (Oceania Monograph, 11). (First published 1959-63 in Oceania 30-34. Repr. as Oceania Monograph 36, 1989. New ed. 2014.) Quot. p. 155.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CIPN0030">Murriny Patha</name>
+          <date notBefore="1932" notAfter="1959" type="recorded">Recorded sometime between 1932 and 1959.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p><rs type="animal">Crab (bali)</rs> was mutjiŋga (very old woman). She was very sick. Everyone thought she was dead. They buried her in a hole. But she was not dead. She stayed there about five days. She made a new shell and left the old one in the ground.</p>
+      <p><rs type="animal">Crow</rs> was there waiting. The people were crying. Yau! <rs type="animal">Crab</rs> was there! The mutjiŋga came back. Everyone was happy. <rs type="animal">Crow</rs> was angry. He said to <rs type="animal">Crab</rs>: "That way takes too long. This is what we people must do." He plucked <rs type="animal">Crab</rs>'s eyes out. Then he died immediately.</p>
+    </body>
+  </text>
+</TEI>

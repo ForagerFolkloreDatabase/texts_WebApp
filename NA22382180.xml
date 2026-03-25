@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Tortoise and the Bees</title>
+        <editor role="collector">Oswin Köhler</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NA22382180</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NA22382180</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+          <p>Note that the CC licence only applies to the XML file. Users should also cite the original source of the text.</p>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Köhler, Oswin (2021): The World of the Khwe Bushmen in Southern Africa. A Self-portrait in Their Own Language. Vol. 5,2: XI. Myths and Legends, Fairy Tales and Narration. XII. World and Nature. Ed. by Gertrud Boden and Anne-Maria Fehn with assistance from Thaddeus Chedau. Berlin: Reimer. Quot. pp. 218-220.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CAF00223">Kxoe</name>
+          <date notBefore="1959" notAfter="1992" type="recorded">Recorded sometime between 1959 and 1992.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>The <rs type="animal">tortoise</rs> told the <rs type="animal">bumblebee</rs>: "You <rs type="animal">dini bees</rs>, <rs type="animal">tcinde bees</rs>, <rs type="animal">xom-dini bees</rs> and <rs type="animal">tcʼipa bees</rs>. You must all come together then I must tell you." Thus he told. Then the <rs type="animal">bumblebee</rs> refused. "I am old and you are also an elder. You cannot tell me [what to do]. I refuse." Thus [the <rs type="animal">bumblebee</rs>] spoke and went away. Then [the <rs type="animal">tortoise</rs>] told the <rs type="animal">dini bee</rs> and the <rs type="animal">tcinde bee</rs>: "<rs type="animal">Dini bee</rs>, you settle down in the big tree hole and build an opening. <pb n="219"/>Then when you collect tree blossoms, you enter there in the opening and then you produce children, and you also produce grease. I told the <rs type="animal">tcʼipa bee</rs> like that. "<rs type="animal">Tcʼipa bee</rs>, you settle down and build a house in the big tree hole with your breed." "<rs type="animal">Tcinde bee</rs>, you settle down like that in a good tree hole, you collect tree blossoms, and then you enter the homestead." With the <rs type="animal">tortoise</rs> telling like that, the <rs type="animal">tcinde bee</rs> settled down in a good tree hole, collected blossoms and kept-producing offspring. Like that it told the <rs type="animal">xom-dini bee</rs>. <rs type="animal">Tortoise</rs>: "<rs type="animal">Xom-dini bee</rs>, you yourself dig in the soil. Then you dig deeply, reach, and then you build your homestead. Then you collect tree blossoms, enter the homestead and keep producing children." These are the words which the <rs type="animal">tortoise</rs> was saying. The ones who did it like that, they did well. The <rs type="animal">bumblebee</rs> ignored it. The <rs type="animal">tortoise</rs> assembled in order to tell. Then: "Because it did like that, it is without a homestead in a bad <pb n="220"/>condition." The ones whom the <rs type="animal">tortoise</rs> told, they were doing well. As it happened like that, <rs type="animal">dini bees</rs>, <rs type="animal">xom-dini bees</rs>, <rs type="animal">tcinde bees</rs> and <rs type="animal">tcʼipa bees</rs> were with honey. Then they became many as the <rs type="animal">tortoise</rs> said. The <rs type="animal">bumblebee</rs> who had refused was bad and without honey. <shift feature="epimyth"/>Thus they behaved with each other. This is the fairy tale of the <rs type="animal">tortoise</rs>.</p>
+    </body>
+  </text>
+</TEI>
