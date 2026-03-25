@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The First Appearance of the Horse in Aino-Land</title>
+        <editor role="collector">Basil Hall Chamberlain</editor>
+        <editor role="narrator">Penri</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NE00880221</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NE00880221</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Chamberlain, Basil Hall (1888): Aino Folk-Tales. With Introduction by Edward B. Tylor. Privately printed for the Folk-Lore Society. Quot. p. 22.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CEE15701">Ainu</name>
+          <date when="1886" type="recorded">Recorded in 1886.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>A very beautiful woman had a husband. He was a very skilful fellow. Once he went to the mountains, and disappeared. But at night he returned, bearing a deer on his back. After feasting on the deer, they went to bed. But in the middle of the night, the woman wept and screamed, saying: "This man is not my husband. Though with shame, I will declare the fact as it is. His penis is so big, so big, so big, that it will not get into my vagina; and if it did get in, I should die."</p>
+      <p>Alarmed by her cries, the neighbours ran out, and came into her house; and one strong fellow took a stick, and beat the husband, saying: "You must be some sort of devil," whereupon the husband turned into a horse, and ran away neighing. Afterwards he was beaten to death.</p>
+      <p>The truth was that the husband had been killed and supplanted by the horse. That was the first the Ainos saw of horses. In ancient days every sort of creature could thus assume human shape. So it is said.</p>
+    </body>
+  </text>
+</TEI>

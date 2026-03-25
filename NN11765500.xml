@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Owl-Woman</title>
+        <editor role="collector">James Teit</editor>
+        <editor role="narrator">Tuu:ʼts ('strong rocks')</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NN11765500</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NN11765500</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Teit, James A. (1919/21): Tahltan Tales. In: The Journal of American Folk-Lore 32(124), 198-250; 34(133/134), 223-253, 335-356. Quot. p. 252.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA28403">Tahltan</name>
+          <date notBefore="1912" notAfter="1915" type="recorded">Recorded sometime between 1912 and 1915.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <note>Compare Kaska, "The Owl-Woman" (JAFL 30 : 462).</note>
+      </p>
+      <p>Once a man married a young girl who had not finished her training, and still wore the robe with large hood used by girls at this period. Her mother lived with them. The man was a good hunter, and always brought home plenty of meat. He brought home the paunch of a caribou for his wife to eat, for, being adolescent, she did not eat meat. That evening he said to his wife and mother-in-law, "We will camp to-morrow. You women will carry everything over there; and I shall go hunting, and join you at night." The following morning the women started with their loads, and on their way passed a tree where the owl lived. The mother said, "Oh, there is an owl's nest in this tree! " The girl looked up, and at once had a strong desire to go there. The owl's influence had come over her. She said, "I will climb up to see it." While she was doing so, she began to hoot, and went into the nest, where she disappeared. When her mother called her, she looked down, and said, "I shall eat you." Her mother noticed that her daughter's face already looked like that of an owl. Her clothes had dropped off on her way up the tree. Her mother now picked them up and put them on, intending to deceive her son-in-law. She hid her face with the hood. The man came home. He mistook the old woman for his wife, and asked her where her mother was. The woman answered, "She has gone out." The man gave her a paunch to cook and eat. As the old woman had very few teeth, she put charcoal in her mouth along with the food to make a crunching-noise. She thought the sound was exactly like that of some one chewing: she said to her son-in-law, "Don't you think I chew well? Listen to me." He was made suspicious by this question, and thought the sound was different from that of some one chewing. He pulled back the hood, and discovered that she was his mother-in-law. He asked her where his wife was; and she answered, "On a big tree. She has turned into an owl." Her husband went to the tree and called his wife. She flew down repeatedly close to her husband's head, saying, "I shall take my husband's hair." He tried to catch her, but in vain. The owl took the girl because she looked up. An adolescent should only look along the ground.</p>
+    </body>
+  </text>
+</TEI>

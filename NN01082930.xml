@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Tales of Quarrels, Murder, and War (#11)</title>
+        <editor role="collector">James S. Mutch</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NN01082930</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NN01082930</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Boas, Franz (1901): The Eskimo of Baffin Land and Hudson Bay. From notes collected by George Comer, James S. Mutch, and E. J. Peck. New York: AMNH (Bulletin of the American Museum of Natural History, 15,I). Quot. pp. 293-294.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA27903">Baffin Island Inuit</name>
+          <date notBefore="1883" notAfter="1899" type="recorded">Recorded sometime between 1883 and 1899.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>At Kemertsoo lived a quarrelsome man, Apartsoo by name, who was reputed always to wish for the death of his enemies. For this reason he was hated. One winter many people built their snow houses at Kemertsoo. He was afraid of them, and moved to the extreme end of Black Lead Island with all his belongings. At one time he desired to procure some caribou-skins from the people, but he met with refusal. Therefore he resolved to kill the people who had not granted his request. He visited the house in which a man lived whom he had in vain asked for the skins. While he was inside, the men of the village hid themselves near the entrance. As soon as he came out of the doorway, they jumped up, took hold of him, threw him down, and stabbed him with their knives, but they did not quite kill him. He succeeded in reaching his own house. As soon as he entered his dwelling, his wife went out. She saw the men coming who had stabbed him, and was about to re-enter, as she wished to save her husband, who was alone in the house, groaning with pain. The pursuers warned her not to enter, telling her that her husband would certainly kill her; but she did not listen to their advice. As soon as she had {294} entered, her husband stabbed her. She ran out screaming, and soon died. About the same time Apartsoo died.</p>
+      <p>The men took the corpses of the man and his wife away to another island. Then they went home, and told that Apartsoo and his wife had died together. When the people heard this, they went to Apartsoo's hut and cut up all their belongings, with the exception of a caribou-skin that an old woman took. Inside this skin was some thread. When the other people saw it, they exclaimed, "Oh, you have taken a nice lot!" Then they went home.</p>
+    </body>
+  </text>
+</TEI>

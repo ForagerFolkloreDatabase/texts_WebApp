@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A Mouse</title>
+        <editor role="collector">Natalia Mitrofanovna Tereshchenko</editor>
+        <editor role="narrator">Stolypina (née Silkina) Ekaterina Nikolaevna</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NE02089012</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NE02089012</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0">CC BY-NC-SA</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Shluinsky, Andrey/Khanina, Olesya/Wagner-Nagy, Beáta (2024): INEL Enets Corpus. Version 1.0. Publication date 2024-11-30. https://hdl.handle.net/11022/0000-0007-FE1D-C. Archived at Universität Hamburg. In: The INEL corpora of indigenous Northern Eurasian languages. https://hdl.handle.net/11022/0000-0007-F45A-1 Quot. p. s.p..</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CEE15008">Forest Enets</name>
+          <date when="1962" type="recorded">Recorded in 1962.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>A mouse. A mouse goes down the river in a boat with the flow. While going it appeared in front of a fishermen tent.  Mouse, where are you going? Land on the shore and eat!  The fishermen said. I'm going downstream, I'm going downstream. What kind of fish are you eating, asked the mouse.  Pikes, perches! I donât want to, I have a small throat!  The mouse went further. It found one more tent. Mouse, where are you going? Land on the shore and eat!  I'm going downstream, I'm going downstream. What kind of fish are you eating? White fish, peleds!  I donât want to, I have a small throat! The mouse went even further. It goes, and âit found one more  tent. Mouse, where are you going? Land on the shore and eat! I'm going downstream, I'm going downstream. What kind of fish are you eating? We are eating barika, we are eating sturgeon.  I'll eat, I'll eat! The mouse landed on the shore and pulled its boat onto land. It eats a lot. After eating, it barely dragged its body into the boat. It went further.  Its boat goes very slowly, it is carried only by the flow. It goes, and âit found one more tent.  Mouse, where are you going? Land on the shore and eat! I'm going downstream, I'm  going downstream. What kind of fish are you eating? Whitefish and nelmas! I'll eat, I'll eat!  The mouse landed on the shore and pulled its boat onto land. The fishermen fed the mouse with different things.  While the mouse was eating, the fishermen placed needles in its path. The mouse, while  walking to its boat, pricked its entire belly with these needles. Mouse, what happened to you?  I have died, I have died! Mouse, that's how we taught you a lesson, ha-ha, ha-ha! So you have killed me on purpose?!<note>[ShA:] My interpretation of the whole sentence is unsure.</note> So the mouse died. They chopped up mouse's boat with an ax, and threw the dead mouse into the water. After it ate so much into its belly, the mouseâs belly burst. So,  there are such edacious mice! The tale is over.</p>
+    </body>
+  </text>
+</TEI>

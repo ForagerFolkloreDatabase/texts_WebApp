@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Rhea and the Tick Have a Running Competition</title>
+        <editor role="collector">Jan-Åke Alvarsson</editor>
+        <editor role="narrator">Celestino Màànhyejas Gómez</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NS00530840</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NS00530840</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+          <p>By courtesy of Jan-Åke Alvarsson.</p>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Alvarsson, Jan-Åke (2026): Selected Myths and Folktales from the 'Weenhayek. Trans. for the Forager Folklore Database (FFDB Documents). Quot. pp. 84-85.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CSA39401">Wichí</name>
+          <date when="1983" type="recorded">Recorded in 1983.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>Now I am going to tell one more thing. I am going to tell of another race. [Because] when Wàànʼlhàj, the rhea, returned from the [first race against the toad],<note>See myths nos. 008 and 304.</note> he met Jweekyʼetaj [the tick], walking slowly as he usually does. And it so happened that the rhea began to mock him, the tick, saying, "Well, why don't we go and have a running competition?"</p>
+      <p>And the tick replied, "But, [why not?], I can do it. No problem, I can run with you!"</p>
+      <p>But the rhea mocked him, "Ha ha! How will you be able to run, if you don't run, or anything?"</p>
+      <p>"Yes, yes, yes! I'm running now. If you do not believe me, we are going to compete<note>The narrator uses the verb 'to play'.</note> in a race! Let's see if I can't run. Yes, I know how to run!"</p>
+      <p>"Well, then let's just run," [said the rhea].</p>
+      <p>And when they got [a little further] there, then there was an empty place (plain). Then the rhea said, "Now yes, here we are going to be!"</p>
+      <p>And the tick was getting ready to jump to that feather of Wàànʼlhàj [which is] near his backside. And when the rhea started to run, then the tick jumped to the back feather, just like that. And it turns out that when the rhea looked back [all the time he saw the tick].</p>
+      <p>"Here it comes," he said to himself. "It seems that this tick is running hard. He keeps coming!"</p>
+      <p>So now the rhea, every time he looked back [and saw the tick, he said to himself], "Here he comes! He is running hard!"</p>
+      <p>But he did not know that the tick was hanging on to his feather back there. [So] he kept running and running, harder and harder, until he could not run anymore.</p>
+      <p>But when he looked back [he saw the tick and said], "Here comes the tick! How can he be running so hard?"</p>
+      <p><pb n="85"/>And when they reached the table, the rhea fell (to the ground from fatigue).<note>The use of the word 'table' in this context is not very clear. There are no 'tables' (or tabletops) in the Western sense in the Gran Chaco. Possibly it refers to the same (presidential) 'table' of myth no. 008.</note> And they say that the tick began to hop, saying, "Ha ha! Did you see, rhea? I beat you, then! How could you say I do not know to run? I know how to run! Look how I beat you!"</p>
+      <p>But they say that the rhea was already very tired. He was so tired that he could not run anymore. But the other one calmly jumped over there, and then he said to him, "Ha ha! Here am I! I can run!"</p>
+      <p>But now he [the rhea] answered, "Let us run again ..."</p>
+      <p>But the tick said to him, "No! I've already beaten you! What were we going to do again?"<note>Here follows a comment that seems unsuitable: "But I don't know what I can do to be so close."</note></p>
+      <p>Then, they say that the tick also beat the rhea when they played (did a) race.</p>
+      <p>Then I believe that this is the story that I knew. And now I think that's just it, that I have told what I can say ...</p>
+    </body>
+  </text>
+</TEI>

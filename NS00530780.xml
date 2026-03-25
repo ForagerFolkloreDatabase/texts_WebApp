@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Three-banded Armadillo Acts Sick and Kills the Jaguar</title>
+        <editor role="collector">Jan-Åke Alvarsson</editor>
+        <editor role="narrator">Ignacio Noolnejen Pérez</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NS00530780</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NS00530780</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+          <p>By courtesy of Jan-Åke Alvarsson.</p>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Alvarsson, Jan-Åke (2026): Selected Myths and Folktales from the 'Weenhayek. Trans. for the Forager Folklore Database (FFDB Documents). Quot. pp. 78-79.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CSA39401">Wichí</name>
+          <date when="1985" type="recorded">Recorded in 1985.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>It happened that the jaguar had eaten the son of the armadillo. [But] the armadillo found his son's shell, he was crying and realized that it was the jaguar that had eaten him. He was already very angry and was crying, saying, "What am I going to do now? I have to find a way to kill that man, so vile, who is eating people, all the time he eats someone ... But I am going to kill him!"</p>
+      <p>And one night, the armadillo had come [to his house], which was right along the road where the jaguar always passed. The jaguar was coming and the armadillo was lying there, belly up. The jaguar arrived, looked at him and said, "What are you doing armadillo, why are you like that?"</p>
+      <p>But [the jaguar] was already ready to eat him. He was looking for food and when he saw the armadillo like that, he thought about grabbing him.</p>
+      <p><pb n="79"/>"No, I am very sick! Why don't you do me the favor of curing me? My stomach is very sore! It hurts me very much and I want you to take out this sickness I have in my stomach!"<note>Here he refers to the cattle-raising population of Creole or Mestizo origin.</note> answered the armadillo.</p>
+      <p>"Let's see!" said the jaguar, who was thinking of taking the opportunity to eat him, since he had told him to suck his stomach.</p>
+      <p>"You," said the armadillo, "put yourself here in the middle of my stomach!"</p>
+      <p>But when the jaguar began to suck a little bit, the armadillo closed his shell and squeezed his nose and his whole mouth, [so] he could not open it. And since his mouth was [stuck] to the armadillo's belly, it was blocking his breathing. The jaguar wanted to take his mouth out, and he grabbed like this with his hand, but he could not take it out because [the armadillo's carapace] was so strong [so tight].</p>
+      <p>[So] immediately the jaguar was choking, running from one side to the other, hitting it with its paws, until it fell down. [But the armadillo] did not loosen [his grip] yet. [When] a day had passed, he loosened his grip, little by little, until it seemed to him that the jaguar was dead.</p>
+      <p>And so the jaguar died.</p>
+    </body>
+  </text>
+</TEI>

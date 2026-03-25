@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Hyena's Revenge</title>
+        <editor role="collector">Wilhelm Heinrich Immanuel Bleek</editor>
+        <editor role="narrator">ǁKabbo ('dreams')</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NA21101240</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NA21101240</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Bleek, Wilhelm H. I./Lloyd, Lucy C. (1911): Specimens of Bushman Folklore. London: Allen. Quot. pp. 124-127.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CAF00211">ǀXam</name>
+          <date notBefore="1871" notAfter="1873" type="recorded">Recorded sometime between 1871 and 1873.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>The Hyena was the one who went to the Lion's house, then, the Lion acted grudgingly towards the Hyena; then, the Hyena became angry about it, therefore, the Hyena deceived the Lion, that he should also come to his house. The Hyena said: "O Lion! Thou must also visit my house; while he felt that he deceived the Lion; therefore, the Lion visited his house on account of it; he went to deceive the Lion with soup.</p>
+      <p>The Hyena said: "I am accustomed to pour soup <pb n="127"/>into this child's mouth, I also pour soup into this child's mouth, I also pour soup into the child's mouth; I also pour into my wife's mouth soup."</p>
+      <p>Therefore, he poured soup into the Lion's mouth, he put the Lion's head into the pot, while he felt that he altogether put the Lion's head into the pot, that he might altogether kill the Lion with the soup's heat; while he feels that he is a Hyena who deceives other people; he speaks; therefore, he talked to the Lion about it. The Lion also speaks; they talked to each other; therefore, the Lion assented, because he also is a foolish Lion, because he is a Lion who kills people; he also eats people. The Hyena also kills people, while the Hyena feels that he also eats people; therefore, the Hyena carried off the old woman<note>This is an allusion to a favourite Bushman story. Vide § 80 of Dr. Bleek's "Brief Account of Bushman Folklore and other Texts", Cape Town, 1875.</note> on account of it.</p>
+      <p>Therefore, the Hyena took up the stick, he struck the Lion down, while the Lion's head was inside the pot; he beat him with the stick, while he felt that the Lion died, when his head was inside the pot.</p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Nemelon (The Reindeer with Nine Feet)</title>
+        <editor role="collector">Glafira Makarina Vasilevich</editor>
+        <editor role="narrator">Kiltyno Semyon</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NE02091045</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NE02091045</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0">CC BY-NC-SA</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Däbritz, Chris Lasse/Gusev, Valentin/Stoynova, Natalia (2024): INEL Evenki Corpus. Version 2.0. Publication date 2024-12-31. Archived at Universität Hamburg. https://hdl.handle.net/11022/0000-0007-FE38-D. In: The INEL corpora of indigenous Northern Eurasian languages. https://hdl.handle.net/11022/0000-0007-F45A-1. Quot. p. s.p..</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CEE15803">Evenki</name>
+          <date when="1930" type="recorded">Recorded in 1930.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>An old woman was making carpets.  She made her daughter make poles [for the skins], she gave her knife, a <note>[DCh]: A "kumalan" is a traditional Evenki carpet used for sitting in the tent, but also for covering loads when nomadizing. </note>woman's knife.  The girl went out, it started to chop off bushes, it cut its hand, it began to bleed, there she started to cry.   A small bird came flying and said: "Chi-chi-cha, chi-chi-cha, why are you crying?  Chi-chi-cha, chi-chi-cha, lick  up your blood!"  She licked it up and said: "Mother and the younger sister are tasty as well, apparently".  The girl went off, it  killed its mother, it killed its younger sisters, it ate [them].  Her elder brother came from hunting.   She heard it and said: "Bleed, bleed, bleed, now, when the big brother is coming, now?"  Then she  said again: "Bleed, bleed, bleed, now, when the younger brother is coming?"  There he went to the reindeer traces.   He is looking for Nemelon.  He caught Nemelon, mounted it, rode to the younger sister, he was riding and said: "Little sister, hey, hey!"   The younger sister hid, when he was saying so.  The younger sister put a  kettle on her shoulders, she took her axe, she went off.  He was riding on Nemelon, was riding.   It turned dark, behind himself he heard the younger sister's footfall, she is chasing [him].  After  the sunset she caught him up.  She threw her axe forwards and said: "Nemelon, give me a leg for overnighting".   The axe chopped off one leg of Nemelon's.   [The elder brother] is riding like before; she overnighted and ate Nemelon's leg.  In the morning she started to chase Nemelon again.   In the evening she caught up Nemelon again.  Again her footfall is sounding.  Again the sun set, again she said:  "Nemelon, give me a leg!"  The sun set, again she threw her axe forwards, again she chopped off one leg of Nemelon's.   So the girl chopped off nine legs of his.  Again [her brother] heard her footfall, the sound of her  kettles.  She was about the catch him up.  She caught up Nemelon, she threw her axe and said: "Nemelon, give me  your tenth leg at sunset".  She threw her axe forwards,  she chopped off Nemelon's leg, [that one] fell down.  She ate Nemelon up.  The elder brother was now escaping by foot.   He was running there, he was running, again he heard footfall and clinking behind him.   She comes constantly closer.  In the evening she has almost caught up the elder brother.  The elder brother started to sing: "Heat, heat, heat!   Mother sun, cover the trace with a carpet, as big as the trace of an elk, make [my] traces as big as traces of an elk!   Devordybgin, devordybgin!" He turned into an elk.  He turned into an elk and ran off.  He was <note>[DCh]: This interjection appears to be a curse, whose literal meaning is unclear. </note>running and running, he ran there, in the evening he got tired, again he heard footfall the clinking of her kettle behind him, again he started to sing: "Heat, heat, heat!   Mother sun, cover the trace  with a carpet, cover the trace!  Make [my] trace as big as the trace of a bear, make [my] trace!  Devordybgin, devordybgin!"  He turned into a beat and ran off.  He was running and running, in the evening he got tired, again she caught [him] up, again her footfall and the  clinking of her kettles were heard, again he started to sing: "Heat, heat, heat!  Mother sun,  cover, cover with a carpet!  Make [my] trace as big as the trace of a wolf!  Devordybgin, devordybgin!"  He ran off,  when he had turned into a wolf.  In the evening he got tired, again her clinking and her footfall were heard, again he started to sing: "Heat, heat, heat!   Mother sun, cover!  Cover with a carpet!  Make [my] trace as big as the  trace of a wolverine!  Devordybgin, devordybgin!"  He turned into a wolverine and ran off.  He was running and running, there he got tired again at  night, again her footfall and her clinking were heard, again she caught [him] up.  Again  he started to sing: "Heat, heat, heat!  Mother sun, cover!  Cover with a carpet!  Make  [my] trace as big as the trace of a lynx.  Devordybgin, devordybgin!"  He turned into a lynx and ran off.  In the evening he got tired again, again  the clinking of her kettles and her footfall were heard, again she caught [him] up, again he started singing: "Heat, heat, heat!   Mother sun, cover!  Cover with a carpet!  Make [my] trace as big as the trace of a fox!   Devordybgin, devordybgin!"  He turned into a fox and ran off, at night he got tired again, again her clinking and her footfall were heard.   Again he started singing: "Heat, heat, heat!  Mother sun, cover!   Cover with a carpet!  Make [my] trace as big as the trace of a sable!  Devordybgin, devordybgin!"  He turned into a sable and ran off.   In the evening he got tired again, again her footfall and the clinking of her kettle are heard, again he started singing: "Heat, heat, heat!   Mother sun, cover, cover with a carpet!  Make [my] trace as big as the  trace of a polecat!  Devordybgin, devordybgin!" He turned into a polecat, he was running, again he got tired, again her clinking and her footfall were heard, again he  started singing: "Heat, heat, heat!  Mother sun, cover, cover with a  carpet!  Make [my] trace as big as the trace of an ermine!  Devordybgin, devordybgin!"  He  turned into an ermine and ran off.  In the evening he got tired again, again her footfall and her clinking were heard, again he started singing: "Heat, heat, heat!   Mother sun, cover, cover with a carpet!   Make [my] trace as big as the trace of a mouse!  Devordybgin, devordybgin!"  He turned into a mouse and said: "Mice, scatter in the hollows  along the creek!"  They scattered.  There the chasing one lost him.  She hit  empty places with the axe, the axe broke.  When it broke, [the girl] said: "Elder brother, wait for me!   I'll bring my leather wrinklers and my scrapers!"  She went back, she brought her leather wrinklers and her [different kinds of] scrapers.   She broke all scrapers, she broke all leather wrinklers, she broke everything.   Then the younger sister got lost, there she died.</p>
+    </body>
+  </text>
+</TEI>

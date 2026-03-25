@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Tales of Accident and Starvation (#5)</title>
+        <editor role="collector">James S. Mutch</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NN01082790</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NN01082790</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Boas, Franz (1901): The Eskimo of Baffin Land and Hudson Bay. From notes collected by George Comer, James S. Mutch, and E. J. Peck. New York: AMNH (Bulletin of the American Museum of Natural History, 15,I). Quot. pp. 279-280.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA27903">Baffin Island Inuit</name>
+          <date notBefore="1883" notAfter="1899" type="recorded">Recorded sometime between 1883 and 1899.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>At a place named Ichagatto, near Sikosuilaq, while the ice was forming on the ponds, a number of men were crossing a lake on their way to the caribou-hunting grounds. The ice was still thin; and three of the men - Noodlooapik, Angmatcheak, and Angoomishik - broke through, and were unable to get out again. Pudawallow and Mikiejew tried to throw ropes to them in order to pull them out, but the ropes were too short. The cold water soon benumbed them, and they were drowned.</p>
+      <p>Mikiejew ran to the shore and called his mother. She came to him as fast as she could, and, while they were walking to the hole through which the men had broken, Mikiejew told her of what had happened. Mikiejew's mother, when seeing the bodies, thought they were rocks. She tried to pull them out of the water, but she broke through herself, and was only rescued with great difficulty by Pudawallow.</p>
+      <p>Keyooksaak, an old man, and his wife Ooagejalaw, heard of what had happened. They took a pole to sound the ice until they were near enough to the bodies to reach them with a long stick. Then they drew them back, and took {280} them to shore. The old man said, "Was it not too bad for them to try to walk on the ice when it was so thin?" Pudawallow replied, "We thought it was strong enough" Then they all went back to their homes. Then the old man said again, "Was it not too bad for them to try to walk on the ice when it was so thin?" And Pudawallow and Mikiejew replied again, "Yes, but we did not know any better. We thought it was strong enough."</p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Ōʼᵋmāł abtains the Tides</title>
+        <editor role="collector">Franz Boas</editor>
+        <editor role="narrator">Qǃōʼmg‧ilis</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NN01142280</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NN01142280</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Boas, Franz (1910): Kwakiutl Tales. New York: Columbia University Press &amp; Leyden: Brill (Columbia University Contributions to Anthropology, 2). Quot. pp. 228-233.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA29010">Kwakwakaʼwakw</name>
+          <date when="1894" type="recorded">Recorded in 1894.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>Then Ōʼᵋmāł borrowed the head of the squid and put it on his head, and went to his house and cried, "Oh, my good younger brother, my good younger brother, died at Sea!" Thus said Ōʼᵋmāł. Then the news was reported to Wolf. "Ōʼᵋmāł has a hard time. His younger brother died at sea." Thus was said to Wolf. Then Deer was put down on the ground behind the house of Ōʼᵋmāł. <pb n="231"/>Wolf came and went around the place where the box with the Deer was. Then he felt with his tail for Deer. "Swing it about, swing it about, swing it about!" said Ōʼᵋmāł. Then he again felt with his tail for Deer. Then Deer took his knife and cut off the tail of Wolf. He was just notched behind. The Wolf had no tail.</p>
+      <p>Then Deer went out of the grave-box. Ōʼᵋmāł entered, and said, "Split, split, split!" Then there was a fire in the house, and [the tail] was pushed into the wood [like a peg]. Then the Mouse went and told Wolf. "Oh, great one! your tail has been put up." Thus said Mouse. Then Wolf said, "Don't! Don't do this in the house to my fellow-warrior! [The sea] shall run down two fingers' widths, and the barnacles shall emerge." Thus said Wolf. Then Mouse went. "Don't do this in the house! Stop in the house!" Thus said Mouse. "It shall be two finger-widths. The barnacles shall emerge." - "The barnacles are too little," said Ōʼᵋmāł. "Farther down, farther down, farther down!"</p>
+      <p>Then the tail of Wolf was lowered, and Mouse started, going to the house of Wolf. "Yours has only been lowered." Thus said Mouse to Wolf. "Don't, don't do this in the house! The clams shall emerge." Thus said Wolf. Then Mouse went again. "Don't do this! Stop in the house. The clams shall emerge." - "That is too little," said Ōʼᵋmāł. "Farther down, farther down, farther down," said Ōʼᵋmāł. Then they put down the tail of Wolf. Mouse went again. "Your tail has just been lowered," said Mouse. "Don't, don't do that in the house. It shall never be flood-tide in the world. They shall only carry <pb n="233"/>up from the beach fishes, - halibut, red-cod, black-cod." Mouse started. "Don't do this in the house, stop, in the house!" said Mouse. "Your world will be dry." Thus said Mouse. Then Wolf got his tail.</p>
+    </body>
+  </text>
+</TEI>

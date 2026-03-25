@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Orphan and Shaman</title>
+        <editor role="collector">Konstantin Nikolaevich Rychkov</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NE02094027</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NE02094027</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0">CC BY-NC-SA</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Däbritz, Chris Lasse/Gusev, Valentin/Stoynova, Natalia (2024): INEL Evenki Corpus. Version 2.0. Publication date 2024-12-31. Archived at Universität Hamburg. https://hdl.handle.net/11022/0000-0007-FE38-D. In: The INEL corpora of indigenous Northern Eurasian languages. https://hdl.handle.net/11022/0000-0007-F45A-1. Quot. p. s.p..</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CEE15803">Evenki</name>
+          <date notBefore="1900" notAfter="1909" type="recorded">Recorded sometime between 1900 and 1909.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>The little orphan. There lived an old man. A tree, it has no branches. There was a little orphan in the tent of the old  man. The orphan hunted wild reindeers, he/she fed the old man. So the old man and  the orphan lived. [On] a bad day, the orphan didn't see a single wild reindeer.  He came to the tent. Three days they(?) are sitting hungry. [On] the fourth day the orphan is crying.<note>[DCh]: "tÉÉ£Ét-" 'to sit' seems to be used as auxiliary here (cf. "olor-" 'id.' in Sakha/Dolgan). </note> The old man says: "Why are you crying, little one?" The orphan says: "This night I saw a dream.  Tomorrow there shall be a lot of reindeers around the tent. Don't go <note>[DCh]: </note>out of(?) the tent! Don't look at those reindeers! You lie in the tent for three days!"<note>Case-marking of "dÊ¼ulaji" is strange, since a lative case does not make sense here.</note> So the orphan said to the old man. In the morning many reindeers came to the tent.  The old man and the orphan are lying in the tent for three days. On the fourth day the orphan says: "Now, old man, now let 's go, one has to look!" The old man stood up: "Let's go", he says.  They went out(?) of the tent, they saw: There are many reindeers running. The orphan caught a reindeer calf.  Having caught he/she boiled the meat and ate. Tomorrow there are again many reindeers.  Again the orphan caught a reindeer calf, again he/she boiled it, again he/she ate it. So it was for one year.  The old man was living very richly. People came.<note>[DCh]: The meaning 'to live' of "tÉÉ£Ét-" seems to be a calque from Sakha/Dolgan, where "olor-" has exactly the ambiguity 'to sit/to live'.</note> The people said: "How do you have so many reindeers?" The old man is silent, there is not a single word. The people went off. The old man was  wandering. He was sitting at the edge of a river. The orphan says to the old man: "Stand up early in the morning tomorrow, then go to the  river where you see a tree. Catch this tree!" On the other day, the  old man went to the river early in the morning. He found one(?) trunk with roots. Having found he went to the tent.<note>[DCh]: Plural marking at "kokor" is unclear.</note> The orphan says: "Did you find a(?) trunk with roots, old man?" The old man says: "I have found one."  The orphan says again: "Old man, make me a tambourine [out of] the trunk with roots!" The old man says: "I will do." The old man makes a tambourine. One human came. This human's daughter is sick. The human says: "My daughter is ill.  Orphan, help!" The orphan says: "Tomorrow I'll go, she won't die." On the  other day, the orphan and the old man went together to ill girl. They reached the tent.<note>[DCh]: The analysis of "istamÉtÉmi" is insofar </note> The orphan says: "Make a big tent!" Then they made a big tent.<note>tentative, as a finite verb is missing here.</note>The orphan says again: "Bring wood! Let's heat for three days!" Then the orphan took the tambourine, he/she is  shamanizing. The orphan is shamanizing five days, he/she is shamanizing five nights.  The people are hungering for three days. The orphan is shamanizing. Then the people ate.  Having eaten they fell asleep. The orphan is shamanizing. The people went off. The orphan is  shamanizing alone. [On] the fourth day, the old man came. There the old man saw: The orphan had climbed halfway into the  earth. [On] the fifth day, the old man came again. There he saw only(?) the  back of the orphan. The back is shining. On the other day, the old man came again. There he  doesn't see [anything], the orphan had climbed completely into the earth. The old man yelled: "Where did the  orphan go?" Then the old man found a bell. Then he is ringing the bell towards the earth.  The orphan jumped into the hole. There he/she says: "I went far away, a devil brought [me] to the ground of the world."  The orphan was the first shaman.</p>
+    </body>
+  </text>
+</TEI>

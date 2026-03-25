@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Sinew Rope (Magic Rope)</title>
+        <editor role="collector">Frank Alfred Golder</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NN04160220</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NN04160220</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Golder, Frank Alfred (1909): Eskimo and Aleut Stories from Alaska. In: The Journal of American Folk-Lore 22(83), 10-24. Quot. pp. 22-23.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA27722">Koniag Alutiiq</name>
+          <date notBefore="1900" notAfter="1909" type="recorded">Recorded sometime between 1900 and 1909.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>There were a great many successful hunters in a certain village; but one there was who had never killed anything, and he and his parents lived off the game secured by others. This humiliated the young man very much. He often asked his mother why he in particular was so unfortunate, and what he ought to do to have better luck.</p>
+      <p>His mother advised him to go to the point of the cape and look about, but under no circumstances to go farther. He set out, and, when reaching the designated spot without seeing anything of note, he decided to go on until something happened. Towards evening he came to a beach, and in the sand he detected fresh human footsteps. After pulling up his boat on the kelp, he threw himself alongside of it, giving the impression of having been thrown up by the waves. He lay there a short time when he heard footsteps followed by a voice saying, "Ha, ha, here is another one!" The young man was carefully examined by the new-comer to make sure that he was dead; then tying a sinew rope about the body, the person swung him on his shoulders and walked off. On the way they passed through alder-bushes; and when a good opportunity offered itself, the young man reached out and gave a strong pull at a bush, almost upsetting the bearer, who called out, "Who is pulling me?"</p>
+      <p><pb n="23"/>When they reached a barabara, the young man was conscious of a woman and several children gathered about him in the expectation of a feast. The baby coaxed so much for a piece of meat that the father told the mother to cut off a toe for the child. Painful as the operation was, the young man did not in the least betray his feelings. The man had started a big fire and was sharpening the knives, when his attention was drawn to the choking baby, who had attempted to swallow the toe but could not. While the whole family was assisting the baby, the young man decided it was about time to escape. So he made a dash for the outside, and ran as fast as he could to the beach for the boat. He had barely time to get in it and push out, when the other man came up and said, "Give me back my sinew rope, and I will give you something also."</p>
+      <p>The young man, however, refused to have any dealings with him, and pulled away, taking the rope with him. On the way home he killed much game; and as long as he retained the rope he was successful, and in time became a renowned hunter.</p>
+    </body>
+  </text>
+</TEI>

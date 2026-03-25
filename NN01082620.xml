@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Tale of an Agdlaq</title>
+        <editor role="collector">James S. Mutch</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NN01082620</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NN01082620</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Boas, Franz (1901): The Eskimo of Baffin Land and Hudson Bay. From notes collected by George Comer, James S. Mutch, and E. J. Peck. New York: AMNH (Bulletin of the American Museum of Natural History, 15,I). Quot. pp. 262-263.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA27903">Baffin Island Inuit</name>
+          <date notBefore="1883" notAfter="1899" type="recorded">Recorded sometime between 1883 and 1899.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>Early one autumn three brothers went out caribou-hunting together beyond Aggo, not far from a large lake. They were all walking along together one day, when they saw an agdlaq pursuing them. The oldest said, "Let us go to the lake. It is frozen over, and the ice is slippery." Soon they were there. Then the oldest brother said to the others, "Go on. I will stay here and await the animal." He had a long pole, to the end of which he fastened his knife. The agdlaq was fast approaching. The man held his pole out toward the animal, which ran right against the knife. It came with such force that the man was pushed along over the ice in the position he had taken, in the direction of his brothers. As they passed along, the youngest brother shot an arrow at the animal, but it hardly pierced its skin. Then the other brother shot, but with no better result. The oldest brother, while being pushed along, drew his lance out of the animal and pushed it in again, which he hoped would kill it in time. Finally the animal fell down dead.</p>
+      <p>They divided the carcass, skin and all, cutting it into three pieces. Then they took off the skin, and dragged the flesh ashore. The parts were all covered up under the snow except one shoulder, which they dragged to their home. When they reached there, some of the other men had not yet returned from their day's hunt. Their father, too, was off {263} in his kayak, but he came back soon after their arrival. Those who were at home told the father that all his sons had nearly been killed by an agdlaq. The father said, "Neither bear nor agdlaq will kill my eldest son. He is so clever that no beast is able to catch him."</p>
+    </body>
+  </text>
+</TEI>

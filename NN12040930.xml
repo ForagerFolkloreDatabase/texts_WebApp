@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Woman and the Beaver</title>
+        <editor role="collector">Christiaan Cornelis Uhlenbeck</editor>
+        <editor role="narrator">Síkimiåχkitopi ('Black-horse-rider')</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NN12040930</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NN12040930</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Uhlenbeck, Christiaan C. (1912): A New Series of Blackfoot Texts from the Southern Peigans Blackfoot Reservation, Teton County, Montana. With the help of Joseph Tatsey collected and published with an English translation. Amsterdam: Müller (Verhandelingen der Koninklijke Akademie van Wetenschappen te Amsterdam, Afdeeling Letterkunde, NS 13,I). Quot. pp. 93-95.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA31305">Piegan</name>
+          <date when="1911" type="recorded">Recorded in 1911.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>There was a man, [who] camped alone. He liked trapping about [literally: his liking was his trapping about]. Then he came to St. Mary's lake. Then he camped there. [After] he had camped there a long time, he was trapping a beaver. Then his youngest wife went after water. She came to [the place], where she was to get her water. She saw, there was a young man, who was standing [by her]. He told her: I have come to see you [and to get you]. And that woman told him: I don't know you. And he told her: No, let us go home together. Now I made think your husband [by means of my supernatural power], that he should camp here on St. Mary's lake, so that he might trap about. For your sake I made him think, that he should camp here, so that I might go away with you. Now don't refuse [literally: don't say a word]. He told her: Now, shut your eyes. And that woman shut her eyes. Then she was brought in under the water. It was St. Mary's lake. After a while he, who brought her in the water, told her: Now, open your eyes [literally: look]. And she opened her eyes [looked]. Then she saw, [that] it was a lodge, she was sitting in. It was a big lodge. She married the young man, who brought her in the water.</p>
+      <p><pb n="94"/>Then her [former] husband and her elder sister, who were looking for her, did not know, how she was gone [what had become of her]. And it was near winter, and her husband moved away. Then it was winter. And [when] it was summer, her husband came back to camp, where he had camped before. And that woman was told by her [new] husband: Now your husband has come again. You shall go ashore over there [to your husband's lodge], you shall come back again. Then she went ashore. She had already a child born. That child was a little beaver. Her new husband was a beaver. Then she came to her [former] husband's lodge. She, being outside, said through [the lodge] [to her elder sister who was in]: My elder sister, I have come. Make incense, I shall come in, that you may see me. And they made incense, and there was a song for it, when she was going in [to make her entrance holy]. And [when] she was going to sit down, there was another song for it. Then she told them the story, how she had disappeared. Her husband was not angry with her, when she told him, that she had married a beaver. Her husband respected her as holy. Then she told him: I shall go back again [to my home in the water]. Then she went home again.</p>
+      <p><pb n="95"/>And her husband the beaver asked her: Was your husband angry with that child? She told him: He pitied it very much, he was not angry with it. Then she was told by her husband: Now because your husband pitied my son, you shall go back to him. Now I shall give you something, that you may go back with to your husband, because he pitied my son. Then she was given his beaver-rolls by him. Then she went back to her husband. She told him: These beaver-rolls are given to you by my husband [the beaver]. He took them. And then, when he slept, the beaver taught him [in his dream], how he must sing [at the beaver-dance]. That is how he came to have the beaver-rolls [literally: to have water]. Then he knew, how he must sing. He said to the Sun, the Moon, [and] the Morning-star: Teach me twice seven songs. They then taught him [the twice seven songs]. When they had done teaching him, he was told by the Sun: Now when the [new] moon is there, then sing these [songs], that I have taught you. That is how it was, that [the beaver-medicine] came to the beaver-roll-owners [literally: water-owners].<note>Cf. Wissler-Duvall mbi 74 sqq.</note></p>
+    </body>
+  </text>
+</TEI>

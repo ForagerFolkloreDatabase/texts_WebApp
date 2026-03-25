@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Water-Being as a Lover (version 1)</title>
+        <editor role="collector">James Teit</editor>
+        <editor role="narrator">Tuu:ʼts ('strong rocks')</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NN11764710</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NN11764710</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Teit, James A. (1919/21): Tahltan Tales. In: The Journal of American Folk-Lore 32(124), 198-250; 34(133/134), 223-253, 335-356. Quot. p. 242.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA28403">Tahltan</name>
+          <date notBefore="1912" notAfter="1915" type="recorded">Recorded sometime between 1912 and 1915.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <note>See BBAE 59 : 304, note I (Assiniboin, Bellacoola, Caddo, Carrier [pp. 4, 5, 22, 23], Cheyenne, Chippewayan, Chukchee, Cree, Lillooet, Ojibwa, Passamaquoddy, Shuswap, Sioux, Thompson, Tsʼᴇtsʼaut, Tungus [Yana]); also this number, pp. 239-240.</note>
+      </p>
+      <p>A man had a wife who fell in love with a water-being who lived in a lake near their camp. The husband noticed that his wife was always sick and could do little work. When she went for fire-wood, she brought only a little. Yet every day she painted her face and combed her hair as young girls do. He became suspicious; and one day, instead of going hunting, he watched her. She went to the edge of the lake, where the roots of a stump extended into the water. Here she gave a signal. The water-being looked up in the middle of the lake, disappeared again, and came to the tree, where he made love to the woman. Afterwards she went home lame. The next day the man asked his wife to bring in some meat of the game that he had killed; but she protested, claiming to be too sick. Finally she went. Then the man painted and dressed himself to resemble his wife, went to the tree at the lake, and gave the signal. The water-being came out of the lake and embraced the man, who at once stabbed and killed him. He cut off his large privates and carried them home. He boiled them with pieces of fat and other meat. When his wife returned, he said, "I am sure you must be tired and hungry. I have cooked something nice for you." When she had been eating a short time, he remarked, "Women now eat their lovers' privates." She looked, and recognized a piece of the meat, and at once became very sick. Her husband killed her and cut off her head. He then returned to where the other people lived, and told them what had happened.</p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Origin of the Narwhal</title>
+        <editor role="collector">James S. Mutch</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NN01081680</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NN01081680</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Boas, Franz (1901): The Eskimo of Baffin Land and Hudson Bay. From notes collected by George Comer, James S. Mutch, and E. J. Peck. New York: AMNH (Bulletin of the American Museum of Natural History, 15,I). Quot. pp. 168-171.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA27903">Baffin Island Inuit</name>
+          <date notBefore="1883" notAfter="1888" type="recorded">Recorded sometime between 1883 and 1888.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>Once upon a time there lived north of Padli a woman who had two step-children, - a blind boy and a girl. One day a bear came to their house and looked in at the window. The mother gave a bow and arrow to the blind boy, and aimed the arrow for him. Then she told him to shoot, and he killed the bear. He said, "Indeed, I have killed it." The step-mother replied, "No, no, your arrow only struck the side of the window." The blind boy heard the growling of the bear grow weaker and weaker, until the animal fell over, and tumbled down from the roof of the house into the snow. The woman went out and skinned the bear, but she told the girl not to mention it to her brother. Although the woman had now plenty of meat, she kept the blind boy starving. The girl, when eating, would sometimes hide a piece of meat under her sleeve, and give it to her brother when her mother was absent.</p>
+      <p>One day the blind boy said to his sister, "Don't you see a pond not far away from here?" - "Yes," she replied, "I see a small lake." - "Are there any birds on it?" - "Yes, there are some." - "Then take me by the hand and lead me to the lake." When they reached there, they saw two birds, and the boy asked his sister to go home, and leave him alone. Soon the birds came ashore, and one of them said to him, "Sit down on top of my kayak!" He did so, and the bird paddled away with him to the middle of the lake. Then suddenly the bird dived with him, and staid below water for quite a while. When they came up again, the boy found himself on top of a {169} kayak, and the bird asked him, "Can you see now?" He replied, "No, I cannot see;" but he could discern a shimmer of light. Then the bird dived with him again, and staid under water much longer. When they came to the surface, the bird asked him again, "Can you see now?" The blind boy replied, "I can see better now, but not very well." They dived again, and staid under water still longer. When they came up again, the bird asked him, "Can you see now? Can you see that lake and the things that look like pins in the water?" The blind boy replied, "No, I cannot see them." They dived once more, and staid under water a very long time; and when they came up the bird asked once more, "Can you see those things like pins standing in the water?" The blind boy replied, "Yes, I see them." Then the bird took him ashore. The boy had a very keen eyesight now.</p>
+      <p>He went to his mother's tent, and saw a bear-skin drying outside the house. He said to his mother, "Where did you get that bear-skin?" She replied, "I got it from people who were passing in a boat."</p>
+      <p>He got his harpoon-line and his other hunting-implements ready, and went to hunt white whales. He said to his mother, "Won't you go with me? I am going to hunt white whales." She agreed. When they reached the floe-edge, he said to his mother, "Make fast the end of the line around your waist, and hold on to it when I harpoon a white whale. You shall help me hold it." Now a white whale emerged. It was of a dark color. Then the woman shouted to her stepson, "Harpoon that one!" But he replied, "No, it is too strong." Quite a number of white whales emerged, but he waited until a very large one came near, then he speared it with his harpoon. Then he pretended to help his mother hold the line, but gradually he pushed her on to the edge of the floe, and the whale pulled her under water. When the whale came up again, the woman also rose to the surface; and she cried and shouted to her stepson, "Don't you remember the time when I cleaned you when you were a child?" The white whale dived again, and took the woman along. Then they heard her crying, "Luk!" and her head went under water. {170} When the whale came up again, she lay on her back. She took her hair in her hands, and twisted it into the form of a horn. Again she cried, "O stepson! why do you throw me into the water? Don't you remember that I cleaned you when you were a child?" She was transformed into a narwhal. Then the white whale and the narwhal swam away.</p>
+      <p>The boy returned to the shore. He left that place with his sister, and they went travelling for a long time. Finally they came to a place where they saw a snow house. When they came close to it, the boy built a house for his sister and himself. Then he requested his sister to go into the other snow house and ask for a drink of water. The people in the snow house, who had very long finger-nails, were afraid of the strangers. They thought they were not real people; and when the girl asked for a drink of water for her brother, one of them said to her, "Take off your jacket, and take the water out of the bucket." She took off her jacket and her shirt; and while she was reaching out to take some water, they scratched her until her skin was tom. She began to cry. When her brother heard her cries, he ran into the house, and killed the people with his knife. He kept his sister wrapped up in rabbit-skins until her wounds were healed. He took her on his back, inside of his jacket, and travelled on with her. After they had journeyed for a long time, he met some people, the Ikingan, who were very kind to them. About this time the girl was able to walk.</p>
+      <p>The people were standing outside of their huts, and the girl saw a great deal of caribou-fat lying about. She took up a piece and began to eat it, when they cried out, "Don't eat that! It is dirt. Come into the hut; we have plenty of food there." She went in, and saw plenty of meat, of which she and her brother ate. She found that the people did not eat any meat, but just took a piece of fat, which they chewed and spit out again. They had no anuses.</p>
+      <p>The girl married one of these men. Soon she was with child. One day her mother-in-law made some thread of caribou-sinew, which she plaited. The young man asked, "Why are you making that thread?" The woman replied, "It is {171} for your sister, - to sew her up after they have taken out her child." The young man said, "That is not necessary. She does not need to be sewed up; she can give birth by herself." And the people were surprised to find that her child was born without her being cut open. It was a boy, and they were well pleased with it. It had an anus. They shouted to the mother, "What are you going to call the child?" And when one of, the women replied, "Poriolee" ['mittens'], another one thought that she was asked to put on mittens. She did not understand that this was to be the child's name. When the people saw that the child had an anus, they wanted to have one also. They put some pegs into the ground, and sat down on them vigorously, thus forcing them into their bodies, and made anuses for themselves. Only a few of them died by the operation: most were successful.</p>
+    </body>
+  </text>
+</TEI>

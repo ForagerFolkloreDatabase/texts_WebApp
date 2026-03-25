@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>[Further Changes of Form]</title>
+        <editor role="collector">Lucy Catherine Lloyd</editor>
+        <editor role="narrator">ǃnanni</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NA21104042</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NA21104042</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Bleek, Wilhelm H. I./Lloyd, Lucy C. (1911): Specimens of Bushman Folklore. London: Allen. Quot. pp. 404-407.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CAF00235">!Xun</name>
+          <date when="1880" type="recorded">Recorded in 1880.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>The sun rose, and ǀχụé was a duì;<note>The flower of the duì is light-coloured; its fruit is green; another day, [when] its fruit has ripened, its fruit is red.</note> and the sun set, and ǀχụé was an Omuhereró and lay down; and the sun rose, and ǀχụé was ǀχụé, and went into another country and was a shàö<note>The shao is a tall tree, like the ǃkuni [palm?].</note>; and the sun <pb n="407"/>set, and ǀχụé was a Makoba, and lay down; and the sun rose and ǀχụé was a ǃnáχane.<note>[One kind of] ǃnáχane lies upon the earth; another [kind of] ǃnáχane is a tree. The ǃnáχane are numerous. The fruit of the tree ǃnáχane is yellowish. The fruit of the tree ǃnáχane is large; and the ground ǃnáχane fruit is small, and resembles the ǀkŭì fruit, is red, is small, and abundant.</note></p>
+    </body>
+  </text>
+</TEI>

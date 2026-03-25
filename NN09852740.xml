@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Angakok's Flight to Akilinek (#2)</title>
+        <editor role="collector"> anonymous</editor>
+        <editor role="narrator">Ammon</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NN09852740</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NN09852740</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Rink, Henry (1875): Tales and Traditions of the Eskimo. Edinburg/London: Blackwood. Quot. pp. 274-276.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA27908">Kalaallit (West Greenland)</name>
+          <date when="1860" type="recorded">Recorded in 1860.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>Of an angakok called Ipisanguak, who was still a novice in his art, this tale is told: On a certain evening, when he was just ready to set out on a flight, he said, "I intend to go away in search of the little house my forefathers have often spoken of, outside of which lies the bloody sword." Having spoken thus, he set off, making a circuit all round the horizon, without having anything particular to relate on his return; but the next time he flew straight across to Akilinek, and alighted right in front of a house, where lay the bloody sword which was to be taken by him. He went up to the entrance, from whence a man emerged whose eyes were all dim, like those of an unborn seal. He re-entered the house without noticing the stranger, and <pb n="275"/>another man now appeared whose eyes were like the blackest berries, and this one asked him to step inside, where the inmates of the house welcomed him, saying, "Thou art just in time to join us at our meal." After a while the angakok observed, "I want another to fill my place at home to-night, otherwise my relatives will not believe that I have been here." The dim-eyed man answered him, "I should very much like to be thy substitute, but I am rather a slow one." They now proceeded to have him tied. Presently he was lifted up within the house, and then soared out into the open air, while Ipisanguak enjoyed a happy night in the company of his pleasant hosts. At dawn of day he broke off, saying, "The night is done; I must be off." Again he crossed the sea; and about midway he saw a glare as of a great fire shining about him, which appeared to be from his substitute, who likewise was on his way home, and thus meeting, both aimed at each other. Ipisanguak again visited Akilinek next evening, and at the same time his substitute exclaimed, "I hear him coming; behold, there he is!" whereupon he also went off, and again they encountered each other on the way, and smiled as they met, and returned in the same way at daybreak. On the following day, when Ipisanguak returned from a trip in his kayak, he said he had met several kayakers from an adjoining place, called Kagsimiut, and likewise reported that he had heard them say of himself, "Ipisanguak has turned angakok, and almost every day exchanges place with an angakok from Akilinek. Let us go and hear him." On the following day a great many kayakers and several boats' crews arrived; and when he suffered himself to be tied, and left for Akilinek, he was soon replaced by his comrade, who entered the house, and entertained the guests all the night long. Some time after this Ipisanguak paid a visit to Kagsimiut; and during his stay one of the seal-hunters said: "Seals are rather scanty with us at present: a clever <pb n="276"/>hunter can hardly get one at a time; thou mightest bring on the seals, I should think, and thus improve the hunting." At the same time Ipisanguak observed a handsome young woman, to whom he at once took a fancy, standing outside the house. In the evening he conjured spirits; and during that interval an immense iceberg appeared, fast approaching the beach. He now let the women advance one by one; but she to whom he had taken a liking would not come. At length one appeared with a fine new ribbon round her topknot, and at that very moment the iceberg began to waver and shake; the angakok immediately sank down beneath the floor, and reached his own house by an underground way, while the iceberg came rolling on, tumbling right across the beach, crushing the house to atoms. On getting home he had all the lamps lighted; but in less than a moment the angakok from Kagsimiut made his appearance to avenge his people. However, they hit him with stones, and drove him back, and his voice had become inaudible. The following day Ipisanguak went to have a look at the destroyed house, but not a trace was left of it. The girl with the new topknot was possessed of an anghiak [the ghost of an abortion, or a child born in concealment], and it was all owing to her that Ipisanguak had been the cause of the accident that had happened to her housemates.</p>
+    </body>
+  </text>
+</TEI>

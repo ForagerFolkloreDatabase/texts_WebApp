@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Sedna Myth</title>
+        <editor role="collector">James S. Mutch</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NN01081630</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NN01081630</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Boas, Franz (1901): The Eskimo of Baffin Land and Hudson Bay. From notes collected by George Comer, James S. Mutch, and E. J. Peck. New York: AMNH (Bulletin of the American Museum of Natural History, 15,I). Quot. pp. 163-165.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA27903">Baffin Island Inuit</name>
+          <date notBefore="1883" notAfter="1899" type="recorded">Recorded sometime between 1883 and 1899.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>In Padli lived a girl named Avilayoq. Since she did not want to have a husband, she was also called Uinigumissuitung. There was a stone in the village, speckled white and red, which transformed itself into a dog and married this girl. She had many children, some of whom were Eskimo, others white men, others Inuarudligat, Ijiqat, and Adlet. The children made a great deal of noise, which annoyed Avilayoq's father, so that he finally took them across to the island Amituaqdjuausiq. Every day Avilayoq sent her husband across to her father's hut to get meat for herself and her children. She hung around his neck a pair of boots that were fastened to a string. The old man filled the boots with meat, and the dog took them back to the island.</p>
+      <p>One day, while the dog was gone for meat, a man came to the island in his kayak, and called Uinigumissuitung. "Take your bag and come with me!" he shouted. He had the appearance of a tall, good-looking man, and the woman was well pleased with him. She took her bag, went down to the kayak, and the man paddled away with her. After they had gone some distance, they came to a cake of floating ice. The man stepped out of the kayak on to the ice. Then she noticed that he was quite a small man, and that he appeared large only because he had been sitting on a high seat. Then she began to cry, while he laughed and said, "Oh, you have seen my seat, have you?" [According to another version, he wore snow-goggles made of walrus-ivory, and he said, "Do you see my snow-goggles?" and then laughed at her because she began to cry.] Then he went back into his kayak, and they proceeded on their journey.</p>
+      <p>{164} Finally they came to a place where there were many people and many huts. He pointed out to her a certain hut made of the skins of yearling seals, and told her that it was his, and that she was to go there. They landed. The woman went up to the hut, while he attended to his kayak. Soon he joined her in the hut, and staid with her for three or four days before going out again sealing. Her new husband was a petrel.</p>
+      <p>Meanwhile her father had left the dog, her former husband, at his house, and had gone to look for her on the island. When he did not find her, he returned home, and told the dog to wait for him, as he was going in search of his daughter. He set out in a large boat, travelled about for a long time, and visited many a place before he succeeded in finding her. Finally he came to the place where she lived. He saw many huts, and, without leaving his boat, he shouted and called to his daughter to return home with him. She came down from her hut, and went aboard her father's boat, where he hid her among some skins.</p>
+      <p>They had not been gone long, when they saw a man in a kayak following them. It was her new husband. Soon he overtook them; and when he came alongside, he asked the young woman to show her hand, as he was very anxious to see at least part of her body; but she did not move. Then he asked her to show her mitten, but she did not respond to his request. In vain he tried in many ways to induce her to show herself; she kept in hiding. Then he began to cry, resting his head on his arms, that were crossed in front of the manhole of the kayak. Avilayoq's father paddled on as fast as he could, and the man fell far behind.</p>
+      <p>It was calm at that time, and they continued on their way home. After some time they saw something coming from behind toward their boat. They could not clearly discern it. Sometimes it looked like a man in a kayak. Sometimes it looked like a petrel. It flew up and down, then skimmed over the water, and finally came up to their boat and went round and round it several times, and then disappeared again. Suddenly ripples appeared, the waters began to rise, and after a short time a gale was raging. The boat was quite a distance from {165} shore. The old man became afraid lest they might be drowned; and, fearing the revenge of his daughter's husband, he threw her into the water. She held on to the gunwale; then the father took his hatchet and chopped off the first joints of her fingers. When they fell into the water, they were transformed into whales, the nails becoming the whalebone. Still she clung to the boat; again he took his hatchet and chopped off the second joints of her fingers. They became transformed into ground-seals. Still she clung to the boat; then he chopped off the last joints of her fingers, which became transformed into seals. Now she clung to the boat with the stumps of her hands, and her father took his steering-oar and knocked out her left eye. She fell backward into the water, and he paddled ashore.</p>
+      <p>Then he filled with stones the boots in which the dog was accustomed to carry meat to his family, and only covered the top with meat. The dog started to swim across, but when he was halfway the heavy stones dragged him down. He began to sink, and was drowned. A great noise was heard while he was drowning. The father took down his tent and went down to the beach at the time of low water. There he lay down, and covered himself with the tent. The flood tide rose over him, and when the waters receded he had disappeared.</p>
+      <p>The woman became Sedna, who lives in the lower world, in her house built of stone and whale-ribs. She has but one eye, and she cannot walk, but slides along, one leg bent under, the other stretched out. Her father lives with her in her house, and lies there covered up with his tent. The dog lives at the door of her house.</p>
+    </body>
+  </text>
+</TEI>

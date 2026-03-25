@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Foxes</title>
+        <editor role="collector">James S. Mutch</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NN01082150</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NN01082150</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Boas, Franz (1901): The Eskimo of Baffin Land and Hudson Bay. From notes collected by George Comer, James S. Mutch, and E. J. Peck. New York: AMNH (Bulletin of the American Museum of Natural History, 15,I). Quot. pp. 215-216.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA27903">Baffin Island Inuit</name>
+          <date notBefore="1883" notAfter="1899" type="recorded">Recorded sometime between 1883 and 1899.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>At Agagidjen there once lived a mother and her daughter, a young girl. One day the mother said, "I wish some living being would come!" Soon she heard a sound like the feet of some animal approaching quite close to the dwelling. The daughter ran out to see what it was. When she returned, her mother asked her what she had seen. She replied, "There are a number of caribou." The mother said, "I do not want them." The girl went out and said to the caribou, "My mother does not want you. Go away!"</p>
+      <p>After the caribou had left, the mother called out as before. Again they heard the noise of something coming. The girl ran out to see what it was, and returned to her mother, telling her that there were rabbits outside. The mother said, "I do not want them. Go out and tell them to go away." The girl went out and sent them away.</p>
+      <p>Once more the mother heard a noise, and the girl went out and came back. Her mother asked her what was making the noise, and said to her, "Go and tell them I do not want them. Let them go away." The girl went out and sent them away.</p>
+      <p>She repeated her call, and again there was a noise. The mother told the girl to go out and see what had arrived this time. The girl went out and then ran in again. When her mother asked, "Who is making that noise?" she replied, "There are many bears." The mother said, "Run and tell {216} them that I do not want them." She ran out and sent them away.</p>
+      <p>The mother called out once more. Again they heard a noise of feet, but this time the sound was much lighter. The girl ran out and saw an ermine. Her mother ordered her to send it away.</p>
+      <p>Then the old woman called again. They heard the sound of feet, and the girl was sent out to see who was there. She returned and said that there were many foxes. Now the mother said, "Tell them to come in." The girl went out and invited the foxes in.</p>
+      <p>They entered. The girl staid outside till the house was quite full of foxes; in fact, so full that there was no room for more, and not air enough to breathe, so that they all died from suffocation. The girl had remained outside, and made a place on the porch for herself to sleep in. She skinned the foxes, and made clothes of the skins. She had no needles and no thread, but in place of them she used strings to fasten the skins together. The flesh of the foxes she used for food. When every part of her dress - jacket, shirt, trousers, and stockings - was made, she left the place where they had been living. She followed the shore until she reached the head of Cumberland Sound. There she met people with whom she staid.</p>
+    </body>
+  </text>
+</TEI>

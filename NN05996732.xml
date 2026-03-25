@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Partnership (Sagim Tayaguu Uluuqidax - The Man of Sagix Dried Meat)</title>
+        <editor role="collector">Waldemar Jochelson</editor>
+        <editor role="narrator">Isidor Solovyvov</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NN05996732</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NN05996732</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Jochelson, Waldemar/Yarmolinsky, Avrahm (1944): Aleutian Manuscript Collection. In: Bulletin of the New York Public Library 48(8), 671-680. Quot. pp. 673-674.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA27710">Aleut</name>
+          <date when="1910" type="recorded">Recorded in 1910.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>Uluqídax̂, who lived in the village of Ság̣ix̂, and his cousin Simlúdax̂ went to sea in their skin-boats on a hunting trip. When they reached the Unimak pass they halted. After killing many fur-seals they turned their heavily loaded boats homeward. On their way home a storm broke and it became dark. The cousins could hear but not see each other. Then the waves separated them, but after a while they came together again and Uluqídax̂ heard his cousin's boat speak to its master as follows:</p>
+      <p>"You are in danger and there is no escape for you. I will not carry you to safety, because when you get up from your bed in the morning you do not rub your warm skin against me to share with me the warmth of your wife's body."</p>
+      <p>After Uluqídax̂ heard this, his own skin-boat spoke to him:</p>
+      <p>"Don't be anxious, I will carry you to the shore, because when you get up from your wife's side you share with me the warmth of her body."</p>
+      <p>Then they were again separated by the waves. Uluqídax̂ called his cousin, but not hearing any answer, he directed his boat to the shore and soon reached his settlement, Ságix̂.</p>
+      <p>The next morning the weather became calm and Uluqídax̂ started out in search of his cousin. Traveling in his boat he soon saw in the sea-weed the skin-boat of his cousin, which he at first mistook for a tree trunk. As he came closer to it, he saw that the hatch was broken in two and the dead body of Simlúdax̂ was lying in it. Uluqídax̂ freed his cousin's boat from the weeds and attaching a line to it, towed it to the shore. After landing, he took his own boat ashore and lifting his dead cousin by his arm-pits, he put the body on the ground. Then he mended the split hatch of Simlúdax̂'s skinboat and putting the body into the boat, he tied it to the hatch. Then he took <pb n="674"/>a waterproof sheet, tied the top of it under the armpits of the corpse, fastened the lower edge around the rim of the hatch, so as to keep the water out of the boat, and attached inflated floats to both sides of it. Then tying it by a line to his own skin-boat, he towed his cousin to his village Ságix̂. When he landed, he brought his cousin's wife with her little son down to the shore. When they reached the shore, he got hold of the boy by the hind part of his clothing and wading with him into the sea where his dead father lay in his skin-boat, he said to the boy:</p>
+      <p>"When you marry, you marry, will you too fail to pass on to your skin-boat, by rubbing against it, the warmth of your wife's body after leaving your bed?"</p>
+      <p>Then he returned the crying boy to his mother and said to her:</p>
+      <p>"Teach your boy when he marries, not to keep his wife to himself only, but to include his skin-boat as a partner in his marriage union. Look at your dead husband and do not expose your son to the same fate."<note>This apostrophe inserted by Mr. Jochelson embroiders upon the original which reads thus: "When he [i.e. the boy] is married, will you make him keep his wife to himself only, will you? Look at your dead husband yonder."</note></p>
+      <p>She began to weep and said that she would do as he had said.</p>
+      <p>Uluqídax̂ took the body of his cousin out of the skin-boat and preparing a burial hut for him, he placed him in it.</p>
+      <p>Then he went to his own house. Grieved by the loss of his cousin, he took ill, they say.</p>
+    </body>
+  </text>
+</TEI>

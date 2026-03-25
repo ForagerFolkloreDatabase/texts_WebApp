@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Saved by a Dream</title>
+        <editor role="collector">Walter E. Roth</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NS11513420</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NS11513420</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Roth, Walter E. (1915): An Inquiry into the Animism and Folk-Lore of the Guiana Indians. Extract from the Thirteenth Annual Report of the Bureau of American Ethnology, Washington: Government Printing Office. Quot. p. 342.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CSA36701">Warao</name>
+          <date notBefore="1906" notAfter="1913" type="recorded">Recorded sometime between 1906 and 1913.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <note>For another Warrau version of this story, see Sect. 136A.</note>
+      </p>
+      <p>A certain man had two wives, but unfortunately they did not agree, the elder being jealous of the younger. At last there was so much contention, that the husband was obliged to send the younger one away, and she took her baby with her. He had no bad mind toward her, but he could not stand the continual quarreling. When taking her departure, he gave her a sharp knife with which to protect herself on the road. The poor woman wandered on until nightfall, when she came upon a fine ite [Mauritia] palm; cutting a forked stick, she planted it against the tree, and climbed on it. Taking the youngest as-yet-unopened leaf, she spread it out and made a sort of temporary basket of it, into which she coiled herself together with her baby, and there she tried to sleep. Now, upon this particular palm, the fruit was plentiful - some seven or eight bunches - and around the stalk of each bunch she had taken the precaution of cutting a little ring, so that with the slightest touch, any bunch would fall to the ground. Somehow or other, the unhappy mother could not sleep, and late in the night she heard the growling of the tigers who had been attracted by her scent. One of these brutes climbed the palm and jumped on one of the fruits, but no sooner had he touched it than it gave way and he fell with a crash into the very midst of his fellows below who, believing him to be the woman they were in search of, promptly tore him to pieces. Another tiger made a similar attempt, climbed the tree, jumped on the fruit, and ended in the same disastrous manner. And so with a third, fourth, fifth, and sixth tiger - all were similarly destroyed. By this time the dawn had broken, and the carcasses were left rotting at the bottom of the tree. What a sight for the terrified mother nestling up above! She could see all the tigers lying still and quiet, but was afraid to come down lest they might still be alive. She therefore waited a little and when, after the rising of the sun, she recognized a wasp settling on each of their protruded tongues, she knew that the tigers must all be dead and could now do her no harm. As soon as she got down she continued her journey, and wandering along all day, she arrived about nightfall at a big manicole tree, which she climbed, with the baby fastened on her back. Tigers were likewise very prevalent here, and scenting her presence, they started digging around the roots with the result that by and by, the tree fell with a crash, but fortunately into an immense spider-web, where its living freight became stuck. Now the woman's father was a celebrated piai, and while the first night's occurrences were taking place, he was dreaming all about her and the tigers. Next morning he started to search and came upon her while resting in the spider-web. It was owing to the baby making water that he had cause to look up and discover his daughter. By daylight he had shot the tigers that were prowling around, and then helped down the woman and his grandchild. Both daughter and father cried; the former had been so strongly punished, the latter was so glad to have her home again.</p>
+    </body>
+  </text>
+</TEI>

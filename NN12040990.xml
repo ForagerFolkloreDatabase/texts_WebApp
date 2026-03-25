@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Elk and His Wife (version 2)</title>
+        <editor role="collector">Christiaan Cornelis Uhlenbeck</editor>
+        <editor role="narrator">Nínoχkyàio</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NN12040990</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NN12040990</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Uhlenbeck, Christiaan C. (1912): A New Series of Blackfoot Texts from the Southern Peigans Blackfoot Reservation, Teton County, Montana. With the help of Joseph Tatsey collected and published with an English translation. Amsterdam: Müller (Verhandelingen der Koninklijke Akademie van Wetenschappen te Amsterdam, Afdeeling Letterkunde, NS 13,I). Quot. pp. 99-101.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA31305">Piegan</name>
+          <date when="1911" type="recorded">Recorded in 1911.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>There was an elk-bull, and his wife was a female elk, and he was jealous of her. She ran away from that elk-bull. He called on <pb n="100"/>the crow. He said to him: Look for my wife. He was told by him: Yes, I shall look for her. That crow then started to fly away. He flew to [a place], where there were many elks. Then he saw there one [female] elk, sitting [literally: she sat] by herself, away from the others. He flew to her, he lighted down on her back. She jumped up. Then he knew, [that] it was the elk-bull's wife. The crow then flew back. He said to the elk-bull: There is your wife, I have found her. Then he [the crow] went with him [to her], then they came to her. That elk-cow saw, that her husband had come. Then she told her husband: Now this is the reason why I went away. It was bad, that you falsely said to me, [that] I was stealing a young man [that means: that I had sexual intercourse with a young man]. She told her husband: Here is a big tree. If you knock it down, you are right, [that] I steal a young man. If you don't knock it down, if I knock it down, I am right, [that] I do not steal a young man. And that elk-bull used his full medicine-power, and batted it. He could not knock down that tree.</p>
+      <p>And that elk-cow got up. She asked her husband: Will you call on some one for help? That elk-bull said to the crow: Go and toll the moose-bull [to come and help me]. The crow flew to him, and brought him back. And that <pb n="101"/>moose kicked the tree. He could not fell it by kicking it. And that elk-cow said to them: You have not been right. She herself butted the tree. She felled the whole of it. And the wise woman, that elk-cow, was told by the moose: You are a wise woman, here are my hoofs, I help you with them. Tie them to your wooden pin. And the crow told the elk-bull: Here are my tailfeathers. Your wife there is already a wise woman, you will be with her, when she makes the medicine-lodge. You will wear them [the feathers] on your head. And this is it, that the medicine-lodge started from. And that is all.<note>Cf. the first version of this story above, and the reference given at the end of it.</note></p>
+    </body>
+  </text>
+</TEI>

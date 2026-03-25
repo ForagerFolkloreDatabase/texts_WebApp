@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Man Who Caught the Ground-Seal</title>
+        <editor role="collector">James S. Mutch</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NN01082350</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NN01082350</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Boas, Franz (1901): The Eskimo of Baffin Land and Hudson Bay. From notes collected by George Comer, James S. Mutch, and E. J. Peck. New York: AMNH (Bulletin of the American Museum of Natural History, 15,I). Quot. pp. 235-236.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA27903">Baffin Island Inuit</name>
+          <date notBefore="1883" notAfter="1899" type="recorded">Recorded sometime between 1883 and 1899.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>One day in the early summer two young men from Shamaneto or Shoumane went sealing in their kayaks. The name of one of them was Koocharoun. One day Koocharoun's friend caught a ground-seal. At Koocharoun's request they towed it to a piece of ice, and were about to cut it up when Koocharoun killed his companion. Then with his sealing-line he fastened the ground-seal to the body of the man and threw it into the water, and both sank.</p>
+      <p>After he had thus disposed of the body, he went home and told that his friend had been lost. The father of the latter, who was highly respected by the people, went in search of his son, while his mother remained at home crying.</p>
+      <p>In winter the people built a dancing-house; but the lost boy's father and mother did not join the others, because they were still mourning for their son. They built a house some distance away from the dancing-house.</p>
+      <p>The people assembled in the dancing-house nearly every night, Koocharoun among them. One night when Koocharoun was standing in the centre of the dancing-house, the one whom he had killed entered, went up to him, and said, calling him by name several times, "You know, when I caught a ground-seal, that you made me fast to it, and sank me in the water;" then he disappeared in the ground. Koocharoun turned ghastly pale, and nearly fainted. Again the drowned man appeared beside the murderer, repeated the same words as before, and disappeared. Koocharoun followed him, the soles of his boots being the last that was seen of him.</p>
+      <p>Now the murdered man returned, and remained in the dancing-house, where he told how Koocharoun had murdered him. He had returned to life.</p>
+      <p>The parents of the murdered man had not yet heard of the return of their son, nor that he had been murdered by Koocharoun. The people did not dare to tell them of what had happened. They were afraid that the father might accuse them of not telling the truth, and might kill them. Finally {236} some one suggested that a certain old woman should go and inform them. Although she was much afraid, the people prevailed upon her to go. She entered the parents' house, and said, "Your son has come, and is in the dancing-house. Come and see him." The father, taking her words as an insult, quickly asked his wife to pass him a knife, saying that he wanted to kill the woman for thus insulting them. The wife gave it to him, but begged of him to wait, saying, "Let us go and see him of whom she speaks." The man handed the knife to the old woman, and told her to use it to sharpen her knife on. Then they all went to the dancing-house. There the parents saw their son. Then they returned home, and left their son in the dancing-house. The father took his large sledge and put on it walrus-tusks, a kayak, and many other things, for he owned considerable property. The place where his hut stood was on the brow of a hill. The father sent the sledge, with all the goods on it, off down the hill, and asked the people to come out and to gather up the load which was scattered when the sledge upset. The son went home with his father and mother well pleased. Here the story ends.</p>
+    </body>
+  </text>
+</TEI>

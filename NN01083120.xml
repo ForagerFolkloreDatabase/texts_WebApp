@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Igimagajug, the Cannibal</title>
+        <editor role="collector">George Comer</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NN01083120</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NN01083120</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Boas, Franz (1901): The Eskimo of Baffin Land and Hudson Bay. From notes collected by George Comer, James S. Mutch, and E. J. Peck. New York: AMNH (Bulletin of the American Museum of Natural History, 15,I). Quot. pp. 312-313.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA27803">Kivallirmiut</name>
+          <date notBefore="1897" notAfter="1901" type="recorded">Recorded sometime between 1897 and 1901.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>Igimagajug was hunting seals one day. He caught a ground-seal, and brought it to his hut. His wife, a short time before, had had a still-born child. When he reached the door, he called to her to come out and haul the seal in. She replied that it would be better for her to remain in the hut, telling him what had happened; but he only became angry, and commanded her to come, and to haul the seal in. This offended Nuliayoq, who withheld the seals from the people, who became very hungry. Then Igimagajug killed his father-in-law and his mother-in-law, and ate them. He killed all the other people near by, and ate them. His wife became afraid that he might want to eat her also, and therefore one day when he was away sealing, she prepared to escape. She was a powerful angakok. She made a figure by filling her clothing with moss. She told it to turn its back toward the door when Igimagajug should enter, and to cry, "Uk, uk!" if Igimagajug should stab it with his knife. Then she built a small snow house near by, and made a peephole in its walls.</p>
+      <p>Soon Igimagajug came back from hunting. The figure turned its back upon him, and he stabbed it. Then it cried out, "Uk, uk!" But after a little while he discovered that it was nothing but clothing filled with moss. He sat down angry, and, being very hungry, he cut a piece out of his leg, which he ate. The wound hurt him, and he said, "I did not think it hurt the other people when I killed and ate them; but I find it hurts me."</p>
+      <p>Now Igimagajug wished to know whether his wife had gone far, therefore he wrought a spell by pulling upon a seal-line. He asked the line a question, and when the answer was in {313} the affirmative, the line would become heavier; but if the answer was in the negative, the line would become lighter. He asked, "Is my wife near by?" The line became a little heavier. "Is she close by?" The line became very heavy. Now he took his spear, and went out and probed the snow to find her. Once he struck the small snow house that she had built, and his spear passed between her fingers, but still he did not find her.</p>
+      <p>On the following day Igimagajug went sealing, and while he was gone his wife started for the village where her brother was living. When Igimagajug came back from sealing, he saw her tracks, and started in pursuit. When she saw him coming, she hid behind some hummocks of rough ice. When he came to the place where her tracks stopped, he kicked the snow away, but could not find her, and he returned. In the mean time she continued to run toward her brother's house. When she reached there, she told her brother and his friends of what had happened.</p>
+      <p>The following day Igimagajug started out in search of his wife, and arrived at the village. He found the men at play, swinging on a tight-rope, with a line tied around each wrist. He joined the game, and tried it once; then he took a rest, and the other men had their hands tied, and each swung in his turn. Finally Igimagajug's turn came again. The line was tied around his wrists, and while he held his hands up, his brother-in-law, who up to this time had pretended to be very friendly, said, "You killed and ate my father, my mother, and the other people!" Here Igimagajug said, "Who said so?" - "Your wife." - "What is my wife's name?" - "Pubelarleyark," replied her brother. "I don't see her," said Igimagajug. He had hardly said so, when his wife stepped forth from her hiding-place. When he saw her, he said, "You ate your father's and your mother's hands and feet!" But she replied, "No! I took them out of the kettle. I only pretended to eat them, and I cried very much to lose my father and my mother." When she had said so, the other people rushed upon Igimagajug, and killed him with their spears.[[See No. 20, p. 194.]]</p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Piv, Resin Tree</title>
+        <editor role="collector">Valentina Vladimirovna Shilova</editor>
+        <editor role="narrator">Turutina Polina Gilevna</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NE02111260</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NE02111260</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0">CC BY-NC-SA</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Budzisch, Josefina/Wagner-Nagy, Beáta (2024): INEL Nenets Corpus. Version 1.0. Publication date 2024-12-31. https://hdl.handle.net/11022/0000-0007-FE37-E. Archived at Universität Hamburg. In: The INEL corpora of indigenous Northern Eurasian languages. https://hdl.handle.net/11022/0000-0007-F45A-1. Quot. p. s.p..</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CEE15002">Forest Nenets</name>
+          <date when="2002" type="recorded">Recorded in 2002.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>Piv, Resin Tree. Once Piv was on a hunt. He killed a spotted sable. Then the older people told him: âThis is a sacred beast.  Having killed such a beast, Shesama, Smolyany, is called. If the Shesams are called, then they become rich.  They ask Shesama for good luck. In the evening, while preparing for bed, Piv calls for Shesama to dream about  him, and asks him to come to him. He dreamed at night. Shesamy came to him, burst into him with the noise of the wind, with bird  voices. In the morning he got up and went into the deep thicket of the forest.  He found a place, cut down a tree, made a stump a little higher. He lit a fire next to the tree stump.  He made it so that the wind from the stump was heading in the other direction. He laid branches for on the windward side.  He also laid branches on the side opposed to the wind, prepared a seat for Shesama. Between these two places he lit a fire, from fir-tree poles.  He divided the extracted sable into three parts, strung it on a ramrod. He stuck the head part, the middle part,  the back part near the fire. Then he wrapped  the chest and stomach with boiled birchbark, tied it to himself. And so that Shesamy would not  tickle him, he put on a malitsa [nenets fur coat] back to front. He put his feet around the stump and sat down.  A stump turned out to be inside the malitsa, in the bosom. He was tied at the top with a belt.  He put a cast-iron on his head, bought from the Russians. He pulled out the steel, which was  attached to the girdle in a bag. Then he pulled out a dry birch mushroom, which is used to kindle a fire. He put this dried mushroom on the  animal skin, kneaded the mushroom, and struck it with a flint and flint near the softened mushroom.  He flared up the mushroom, then brought it to the fire. The whole fire was lit up.  Then he began to call Shesamy: âShesamy, show yourself to my eyes, come here to me.  I'm waiting for you". He shouted three times. Here the forest stirred, stirred, and something swept through the tops of the trees.  Then he called again: âShesamy, you are too big, become smaller, like me, otherwise my heart is timid.â  Then over the tops of the trees the Great Bird swept.  He appeared in different bird voices. In the image of the Great Bird, it sounds in different voices. Piv calls him again:  âShesamy, become smaller. Come in the form of a man." Finally, Shesamy sat down on the  opposite side of the fire in the place prepared for him. He sat there, stretched out his hands, and his fingers and claws were long, long.  These claws began to tickle him. Piv sat there without a sound. Then he blew on Piv, who even leaned forward a little bit  towards the stump.  Piv with a staff, stirred the fire, and the wind directed all the fiery sparks to Shesamy.  It fell on Shesamy's back. And his voice is heard: "Look, this little man is sitting like a stump,  the magic of fire has reached." Shesamy could not tickle Piv.   After all, Piv covered with birchbark those places where Shesamy tickled. The Old Man Shesamy could not blow it either.  After all, Piv tied himself to a stump with a rope. And  Shesamysays: âThree parts of a sable are stuck near the fire. Head, middle and back.  Which one will you take? [If] you take the head part, you will become the main rich man. You won't live your life to the end.  [If] you choose the middle part, you will be a person of average income. You will live to middle age.  [If] you choose the back part, you will be without deer, you will walk on foot. You will live until the end of your life.  Here, take one of the pieces and take it away.â Piv thought, chose the middle part and took it home.  So Piv and all his descendants always lived in average prosperity.  Here is the end. The tree that Piv used when he joined Shesamy's shamanism was a spruce.  And the sable lives on the spruce. In the tales of Shesamy, he licks the resin, eats it, that's why he is called Shesamy.  Piv achieved the magic of Shesama and therefore his surname is Shepya.</p>
+    </body>
+  </text>
+</TEI>

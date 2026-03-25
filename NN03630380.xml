@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Stealing of Fire and Water</title>
+        <editor role="collector">Leo J. Frachtenberg</editor>
+        <editor role="narrator">Jim Buchanan</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NN03630380</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NN03630380</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Frachtenberg, Leo J. (1913): Coos Texts. New York: Columbia University Press &amp; Leyden: Brill (Columbia University Contributions to Anthropology, 1). Quot. pp. 38-43.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA29402">Coos</name>
+          <date when="1909" type="recorded">Recorded in 1909.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p><pb n="39"/>The earth was inhabited. All kinds of people [lived] in a mixed-up fashion. They had no fire, nor water. Whenever they intended to eat something, they would put it under their arms, and dance with it. The old people would sit on it; and as soon as it became warm, they would eat it. Whenever salmon came ashore, they would scoop them up. In this manner they had hardly any food. They were talking about the fire. "How would it be if we should go after it?" - "Let us go there!" Surely, they went there. Surely, they arrived there. Indeed, that fire was burning when they entered. [One] saw the water right away.</p>
+      <p>The man to whom they came was sitting there. He was sitting sideways. "Halloo, cousin! we two will play." It seemed as if he did not hear it. [The visitor] sat down on the opposite side. After a while he looked up. "In what way are you my cousin?" Thus he spoke. "You must tell a story." - "You are older than me." Then he went out. For a long time he remained outside. Then he entered again. "Halloo, cousin! Look! this is your cradle, and this is my cradle. Your cradle is new, my cradle is old. And this is your shinny-club,<note>The informant was mistaken in the use of these terms. The chiefs played the game of "guessing," and not "shinny."</note> while this is my shinny-club. And this is your ball,<note>The informant was mistaken in the use of these terms. The chiefs played the game of "guessing," and not "shinny."</note> while this is my ball. Your ball is new, mine is old. Does it not seem to be so?" There he placed [the things] before him.</p>
+      <p>Indeed, he saw them. "It is certainly so, cousin. Sit down there, we two will play." Now, indeed they two gambled. "With what shall I point at him when a player puts his hands behind his back?" He was thinking, "How <pb n="41"/>would it be if I should put a piece of abalone-shell into my eye? I will sleep in the inside part [of my eye]. You shall support me when I put my hand behind my back." Thus he was talking to the crowd. Indeed, thus it was [done].</p>
+      <p>Then he pointed his finger at him, when he put his hand behind his back. Two men were supporting him. [It is a] surprise, how things happened! Maggots ate up his anus, his face, his nose, his ears. Not long afterwards the maggots ate him up. He did not look at them. He kept on sitting there. Two men supported him from the back. He put an abalone-shell into his eye, and slept in the inside part [of it]. It seemed as if he surely looked at it. To his surprise, he saw an abalone-shell in his eye. just [his] bones were sitting. The maggots went halfway deep [into his body] as they were eating him up.</p>
+      <p>He may have been sitting there for a long time. Then he began to think thus: "With what shall I point at him? He does not seem to get scared very much, when I point at him with this." Thus he was thinking. Still he did not look at the maggots. However, [with his] bones joined together [he was sitting]. Still he did not look. "Don't you forget to seize upon that fire if we win. You shall also run away with this water." Thus he spoke. One man was speaking thus: "I will run away with the water. - You here shall run away with the fire." Thus he told it to him.</p>
+      <p>"It is your turn now [to] put your hand behind your back." Thus he said to him. "With what shall I point at him? There is nothing that scares him very much. This must be good, if I should point at him with a snake." The fire was burning without [ever] becoming extinguished. Surely, he pointed at him with a snake. The snake coiled around his thighs. It seemed as if something had happened, but still he did not see it. The snake reached his <pb n="43"/>waist, and threatened [to go] into his mouth. The snake was continually sticking out its tongue. It seemed as if it was about to enter his nose. He became scared when he saw this. He shook it off to one side, and ran away from it. People shouted at him.</p>
+      <p>The fire was seized. A very poor man ran away with the fire. A very insignificant man kicked the water. They ran homewards. The fire was put into his ear. He ran with it. When he kicked the water, it was laid bare. It started to rain at once from there. The fire he threw into some brush. He threw it into a willow. As soon as he threw it, it began to burn. Then they went back there.</p>
+      <p>From that time on they had fire. From that time on it rained. This is the reason why it rains. Only in this manner people know [the story]. This is the end.</p>
+    </body>
+  </text>
+</TEI>

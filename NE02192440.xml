@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Raven Tale</title>
+        <editor role="collector">Waldemar Jochelson</editor>
+        <editor role="narrator">Grigoriy Spiridonoff</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NE02192440</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NE02192440</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Jochelson, Waldemar (1924): The Yukaghir and the Yukaghirized Tungus. 3 vols. Leiden: Brill &amp; New York: Stechert 1910/26 (Memoirs of the American Museum of Natural Hisory, 13; Publications of the Jesup North Pacific Expedition, 9,I-III), pt. II. Quot. pp. 244-248.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CEE15401">Yukaghir</name>
+          <date when="1902" type="recorded">Recorded in 1902.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>Raven and Ptarmigan lived together. They were neighbors. Once Raven came to Ptarmigan and said, "My friend, tell me something." - "My food," answered Ptarmigan, "has grown well, it seems, this year."</p>
+      <p>Then Ptarmigan asked Raven, "Dear guest, now you tell me, how you are this year regarding food?"</p>
+      <p>Raven said, "I am well provided this year." - "What are you hunting for?" asked Ptarmigan. Raven answered, "I have plenty of food. When my older sisters are migrating and I sit down on snow banks and places where tents of nomads stood, I see everywhere marrow of wild reindeer<note>He means excrements of men and dogs.</note> lying about. When I peck at it, my beak disappears in it to its end. In the cold of the morning I make the round of all seven river heights and before the people come to their traps I eat the hares caught in them. You see what a brave hunter I am."</p>
+      <p>Ptarmigan said, "My guest, I think that it is not good to steal from the traps of hungry people." Raven grew angry and went away. On the third day Raven came again and entered Ptarmigan's house. Ptarmigan was not in. Raven killed her children, took all her belongings and went away. Ptarmigan returned home in the evening. Seeing her children dead and not finding her garments, she began to cry. She went crying to Buzzard and said, "Somebody took my garments and killed my children, do you not know who did it?" Buzzard said, "I do not know, but what do you think yourself, who may have killed your children?" Ptarmigan answered, "I do not know." Then they both went to Eagle and told him what had happened. Eagle summoned all the birds and asked them whether they knew anything about the affair. But nobody knew. As it appeared that Duck was missing, Eagle ordered Duck to be called. Duck came and Eagle asked, "Do you know who killed Ptarmigan's children?" Duck said, "I do not know." Eagle continued, "You live on the lake. You must have seen something." Then Duck said, "Once on a very hot day I was lying on my back in my nest on the shore of the lake and saw Raven flying above me. He was cawing and carried a burden." Eagle then said, "Call Raven, let three men go to him and look over his garments." Sea-Gull, Wood-pecker, and Face-painted <pb n="248"/>Duck went. They reached Raven's house and said to him, "Eagle calls you." - "I shall not go," answered Raven. Wood-pecker said, "We shall take you by force."</p>
+      <p>At once Raven struck the eyes of Wood-pecker, and made them bleed. Then the three took Raven and tied his legs with grass. They searched his belongings and found the garments of Ptarmigan. They dragged him to Eagle. Eagle asked him, "Did you kill the children of Ptarmigan?" - "No, I did not," answered Raven. "Did you take the garments of Ptarmigan?" asked Eagle. "No, I did not," answered Raven. Wood-pecker said to Eagle, "There are Ptarmigan's garments which we found in Raven's house." Eagle said, "Raven, where did you take these garments?" - "I do not know," answered Raven. Eagle said, "Beat Raven." He was beaten until he became black. Then Eagle stopped beating and once more he asked Raven, "Raven, did you really take Ptarmigan's garments?" - "No, I did not," answered Raven. "Well," said Eagle, "beat him again, beat him to death." Raven was beaten again until he was covered with blood. Then raven said to Eagle, "My grandfather, I am near death, don't kill me. I will confess I took Ptarmigan's garments and killed her children. I shall not be such a man in the future." But Eagle said, "Beat him still harder." Raven said, "In the name of the Sun, let me off!" Then they left him. They dragged him to his dwelling. For three months he was sick. He got well finally, but from that time on, Raven has been black. The end.</p>
+    </body>
+  </text>
+</TEI>

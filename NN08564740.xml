@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The-One-Who-Finds-Nothing</title>
+        <editor role="collector">Edward William Nelson</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NN08564740</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NN08564740</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Nelson, Edward W. (1899): The Eskimo about Bering Strait. In: Eighteenth Annual Report of the Bureau of American Ethnology. Washington: Government Printing Office, part I, 1-518. Quot. pp. 474-479.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA27733">Norton Sound Inuit</name>
+          <date notBefore="1877" notAfter="1881" type="recorded">Recorded sometime between 1877 and 1881.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>Once there was a small, ugly-face young man who could never find anything that he looked for. Whenever he went out with his sled for wood, he returned without any, because he could never succeed in finding any, not the least piece. Then he entered the kashim and sat down in his place over the entrance way. When he sat down there he would remain quiet for a long time. The one sitting beside him sometimes gave him water, which he would drink and then become quite still again.</p>
+      <p>If forced to go out, he would put on his boots and go, but would return again very soon and sit as before. Once when thirsty he went out to the water hole for a drink, but when he came to the place he could not find the water hole, as it seemed not to be there. Then he returned to the kashim again without drinking and sat down in his place, the one beside him giving him water.</p>
+      <p>At night in bed, not being able to sleep and being thirsty, he went out to find his elder brother's house. After much searching he could not find the place, so went back to the kashim and lay down, Awaking in the morning, he took some fishing tackle and went fishing. When he came to the water he could not find it, and after looking for it unsuccessfully he returned without fishing. Thus he came back once more without anything and was hungry also when he sat in his place as usual.</p>
+      <p>Then he thought, "If I go to pick berries I suppose I will not be able to find any." Taking a wooden bucket he went for berries. After looking, but failing to find any, he returned to his place in the kashim. The next morning, becoming hungry, he took his arrows and went hunting for wild geese. Not finding any, and seeing nothing else, he returned again. Other men brought back hair seals they had killed. The One-who-finds-nothing took his kaiak and putting it into the water went out seal hunting. He hunted long for the seals, but there seemed to be none; and seeing nothing, he came back to his place in the kashim.</p>
+      <p>Winter came, and he thought, "I do not know what to do with myself." The next day he took his miserable bed and rolled it up with his poor tool bag, put the bundle on his back, and went out to the landward side of the village, beyond the houses, and sat down. Being seated, he took his bundle from his back and, opening it, untied his tool bag. This being done, he scattered the tools about him and threw away the bag. Then he spread down his bed and, sitting upon it, lay back, saying, "Here will I die."</p>
+      <p>There he lay all night without moving. When the sun came up he heard a Raven croaking, and then its mate. He remained quiet and the Raven came, alighting near him with its mate just beyond. The <pb n="475"/>nearest Raven spoke, saying, "Look! here is something to eat. We have not eaten, and we had better not wait. Let us have his eyes." The farthest Raven answered, "No, he is not dead." "Why does he lie there, then, as if he were dead?" said the first Raven. "No, he is not dead; for look there, there is no smoke<note>Of his burial fire.</note> by him," replied the second one.</p>
+      <p>Then the first Raven became enraged and cast himself about, saying, "Why is he thrown out, then? Look at his things scattered about him." "I do not wish any of it," said the mate, "there is no smoke by him. I will leave you." And he flew away. "All right; you can fly off," said the first Raven, "I will have his eyes."</p>
+      <p>Then the man opened his eyes very slightly and looked sidewise at the Raven. This one, coming toward the small, ugly-face young man, stood there holding up his beak, which became a fine knife. He went nearer, and between his eyelashes the man saw, raised by the hilt, a fine knife. He thought, "I have no knife." Then the point came close to him. He thought again, "I have no knife." He suddenly caught it and snatched it away from the Raven.</p>
+      <p>Back sprang Raven, and the man sat up. "Give me my knife," said Raven. The man answered, saying, "I have no knife, and this shall be my knife." The Raven replied, "I will pay you for it with all kinds of game."</p>
+      <p>"No," said the man, "I will not give it back. I always go out hunting and can get nothing." "Then," said the Raven, "if you wish to go back to the village you will not reach there when you try." "I have no knife," replied the man. Here the Raven coughed and fell down, saying, "Thus will you do. Keep my knife, if you prize it," said he, and flew away.</p>
+      <p>The man sat up, still keeping the knife. Then he started to go back to the village. As he was going his throat contracted, his back bent over in front, and he rested his hands on his knees. Suddenly he became an old man. He could not walk. He lay on his face. He did not stir. He was dead.</p>
+    </body>
+  </text>
+</TEI>

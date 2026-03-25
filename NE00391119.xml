@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Another Legend of a Famine</title>
+        <editor role="collector">John Batchelor</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NE00391119</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NE00391119</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Batchelor, John (1888/90/93): Specimens of Ainu Folk-Lore. In: Transactions of the Asiatic Society of Japan 16(2), 111-150 [Legends I-VII]; 18(1), 25-85 [Legends VIII-IX]; 20(2), 216-227 [Legends X, XI, XII]. Quot. p. 119.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CEE15701">Ainu</name>
+          <date notBefore="1882" notAfter="1888" type="recorded">Recorded sometime between 1882 and 1888.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <note>The following curious lines were sung to me by an aged Ainu to whom I had just been explaining the dangers and evils of drinking too much wine, and to whom I had been endeavouring to show how much better it is to worship God in spirit and in truth than by offering Him wine and whittled pieces of willow wood. The old man's object in singing this tradition to me was to enforce upon my mind the fact that, notwithstanding all I had said, the gods were, at the time of the famine indicated below, pleased with these offerings, and are still delighted when the devout worshipper indicates his sincerity by setting these things before them. <lb/>This song, tradition, legend, or whatever it may be called, is quite typical of the way in which the Ainu convey their thoughts on religion and other serious matters to one another; and I give it here as an example thereof.</note>
+      </p>
+      <p><pb n="119"/>Kimta na.<note>Kimta na is the name of the tune or tone of voice in which this legend is recited.</note></p>
+      <p>[1] There was something upon the seas bowing and raising its head.</p>
+      <p>[2] And when they came to see what it was, they found it to be a monstrous sea-lion fast asleep, which they seized and brought ashore.</p>
+      <p>[3] Now, when we look at the matter, we find that there was a famine in Ainu-land.</p>
+      <p>[4] And we see that a large sea-lion was cast upon the shores of the mouth of the Saru river.</p>
+      <p>[5] Thus the Ainu were able to eat [i.e. obtained food].</p>
+      <p>[6] For this reason inao and wine were offered to the gods.</p>
+      <p>[7] So the gods to whom these offering were made were pleased and are pleased.<note>The first and second of these verses are a kind of introductory statement of the theme. The remote ancestors of the Ainu race are represented as having seen some large and curious object floating about upon the tops of the waves of the sea, and rising and falling with them. The men, therefore, launch their boats and go to see what the object <pb n="120"/>may be. They find it is a mighty sea-lion (shietashbe). They then seize the animal, and, by some means or other (how is not stated) bring it ashore. <lb/>The third and fourth verses make known the fact that at this particular time there was a famine in Ainu-land, and that the Ainu of to-day, in looking back upon this sad calamity, see in the sleeping sea-lion the hand of the gods working to preserve the race from starvation and certain destruction. This mighty sea-monster is said to have been cast upon the shores of the mouth of the Saru river. Saru, it should be remembered, is regarded by the Ainu of the south of Yezo as the chief district in this island; and the Shishiri-muka is the largest river in Saru. <lb/>Verses six and seven are intended to show that libations of wine and the offering of inao (i.e. whittled pieces of willow wood having the shavings left attached) have always been a well-pleasing sacrifice to the gods, and therefore are so now. They pleased the gods at that time, and that they please them now is seen from the fact that food is still extended to the Ainu race. Hence one great reason why such ancient religious customs should not be abolished. Hence too, according to Ainu reasoning, this race of men have no cause to change one form of religion and its accompanying ceremonies and rites for another. Thus we see that the Ainu, though without knowledge, are by no means without reason, nor are they so stupid and easily led as some people may have us suppose.</note></p>
+    </body>
+  </text>
+</TEI>

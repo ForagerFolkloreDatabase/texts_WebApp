@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Shiktowul, Dorongo, Tenchu</title>
+        <editor role="collector">Konstantin Nikolaevich Rychkov</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NE02094042</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NE02094042</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0">CC BY-NC-SA</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Däbritz, Chris Lasse/Gusev, Valentin/Stoynova, Natalia (2024): INEL Evenki Corpus. Version 2.0. Publication date 2024-12-31. Archived at Universität Hamburg. https://hdl.handle.net/11022/0000-0007-FE38-D. In: The INEL corpora of indigenous Northern Eurasian languages. https://hdl.handle.net/11022/0000-0007-F45A-1. Quot. p. s.p..</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CEE15803">Evenki</name>
+          <date when="1913" type="recorded">Recorded in 1913.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>Shiktovul marches forward with a bow sheathed in cherry [lit. from bent prosmoliv (?????)] - these are oars. Only Shiktovul is shot by men - avengers [lit. going to kill]. This Shiktovul does not know what to do [lit. does not do in any way]. What, where, where is the ingots sticking from? The people at the entrance are seated - full. He sits by the heads. Then what else are Dorongo's men? 	They killed Tengchu [and his kin]. He killed Dorongo's son by spear. First, they say, he made a spear, Dorongho says. Then, after that, they gathered the reindeer in a Kucha. Then, after that, he killed the sleepers [lit. making a sleepover]. Then they see Tyrucha persuading Tengchu and his relatives. The latter says, "Only shall we not kill?" After that they killed Dorongo [and his relatives]. One ran away to his father. There he told his father. Said: "It is good [that] they then Tengchu killed well when! This his father says: "The song of Tengchu [and his kinsmen], their song will be sung next year in autumn on the saddles - let it be so!" He says, "Father, let's go tramping!" He says, "The tramps will kill us!" "Now when would they, perhaps, roast?" - he said to his father. The reindeer gathered, went home and came back. This one ran away - no [him]. What's there? He dived into the water. After that he dived and dived, then, after that the real devil became [lit. became with the devil]. First he swam in the boat. Then he went. Ran all day [lit. the day came], pushed the boat off, dived. Then he got to Chilcha's father. Talked to this father of his. They ran away from them they were killed, went to see. Then they only on the boat, on that boat of theirs came back. They then put the ones they killed in their boat. That their father goes crying, Chilcha is crying. They reached their house. He pushed the boat away, then, after that he found the killers. They rode in the boat to the Russians. They ride all the time with their devils. Those, they say, came to life. [They] were slaughtered by Dorongo's younger brother. This Dorongo says: "Give me everything! "Spear me with spear!" Then the son of this Dorongo drowned in the water. Dorongo's younger brother cries all the time. Then this Dorongo began to call the devils, called Tengchu and their devils. Saying, "This Dorongo's younger brother drew his bow." He cried, he cried. That arrow of his fell into the water. Then he wanted to pick it [the arrow] up - he could not. It plunged into the water [lit. dived] and stuck into the deadwood. This [arrow] was taken out by nets. They say about this one that got caught [in the net]: "This is the arrow of his younger brother". They reached the tent of this Dorongo. Those then ran away from the tent. They ran to the Russians. They lived [with the Russians] for a year, then returned home again. Those then said [i.e. they were convinced] - they had frightened [them]. Again they say: "Let's go to Tengchu!" Those say: "Let [i.e. they were convinced] - they had frightened [them]. Again they say: "Let's go to Tengchu!" Those say: "Let them bring their faeces! He has a sister! Why was she their sister before?" "We don't know if she was?" Then their father was shamanising. They heard Tengchu and his family and their father. He says his strength is gone. He punishes their father with a stick, without hitting him, and puts [the stick] down. Then they persuade him: "They will catch him!" Then he shot at his tent. He said: "At whom is it [lit. what doing] that thou shootest? The one shouted: What are you doing [lit. what is doing]? - they heard. He says: Now you realise why you have been hit!" He struck Chilcha on the back of the head. This younger Chilcha became stunned. This Chilcha is moving his hands, fingers. His father cured him - then he came back to life. He crawled into the tent, entered crying. He [for this] harms Dorongo. This Dorongo has nowhere to go! He fell down on his back, fell down on his back at once. Now this Dorongo and his Sym are conspiring. And now he's hurting him. That one stopped, that one stopped [lit. does not do] - how did they do it? He began to treat Dorongo. Dorongo's son is crying. Then this one, Dorongo's younger (?) wife trembled. Then this son of his says, "Are you trembling?" He says, "Why are you trembling?" Says, "Mum, have they begun to harm you [lit. go crazy because of you?]?" She says, "I almost killed them!" He ran away, ran to the devils. The devils came at once. The woman immediately froze, and came back to life. Then he went to visit the Russians. He woke up his comrades: they were asleep in the boat, drunk. Their sons were separated. Their sons then went to Chilcha. He killed Chilcha alone [i.e., while he was alone?] When he [killed him], they cried. Their sons went home crying. Chilcha, only Chilcha was there! They threw the meat.</p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Meeting of a Wild Reindeer with a Sturgeon</title>
+        <editor role="collector">Natalia Mitrofanovna Tereshchenko</editor>
+        <editor role="narrator">Bolin Petr Spirindonovich</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NE02089004</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NE02089004</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0">CC BY-NC-SA</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Shluinsky, Andrey/Khanina, Olesya/Wagner-Nagy, Beáta (2024): INEL Enets Corpus. Version 1.0. Publication date 2024-11-30. https://hdl.handle.net/11022/0000-0007-FE1D-C. Archived at Universität Hamburg. In: The INEL corpora of indigenous Northern Eurasian languages. https://hdl.handle.net/11022/0000-0007-F45A-1 Quot. p. s.p..</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CEE15008">Forest Enets</name>
+          <date when="1962" type="recorded">Recorded in 1962.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>Meeting of a wild reindeer with a sturgeon (legend). It happened a long time ago. One day, a wild reindeer bull  descended from the rocky side onto the bank of the Yenisey. The wild reindeer bull is thinking of crossing the Yenisey.  And so he swam across the water of the Yenisey. In the middle of the Yenisey, he came across an underwater island.  The wild reindeer bull climbed onto this island for a rest. Suddenly a big sturgeon appeared from under the water in  front of him. The wild reindeer got very happy about this meeting and said.  I've been looking for you for a long time. What for? The sturgeon said.  It's good if our meeting goes well. In what way? When we reindeer eat moss  in winter, it goes bad. We need cartilages for our noses. And you have a lot of that.  Then let's change, said the sturgeon, we also have something we need.  What? We sturgeons need meat. When we swim in deep <note>[ShA:] My interpretation </note>water, it is necessary for heavy weight. Then what's the matter? Let's change.<note>of ÑÑÐ¹Ò«Ð¸Ð´Ð¾ is unsure.</note> I'll give you meat, and you give me a cartilage. Well, that's fine. The sturgeon gave the reindeer a cartilage  from his head, and the deer gave him a piece of meat. Henceforth, there is such a legend. Until that time, reindeer had no cartilage in their  noses, and sturgeons had no meat on their cheeks. After this, the reindeer got a cartilage in their  noses, and the sturgeons got meat on their cheeks. The meeting place of the wild deer and the sturgeon  is now called Chervinsky Island. Previously, in the 80s, before our years, this island was called as follows, a Nenets shaman  lived there, his name was Yelka, and the island was also called Yelka.  By now, there are still images of the idols of the shaman Yelka on the rocky side of the Yenisey.</p>
+    </body>
+  </text>
+</TEI>

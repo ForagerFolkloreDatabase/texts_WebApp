@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Tales of Quarrels, Murder, and War (#5)</title>
+        <editor role="collector">James S. Mutch</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NN01082830</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NN01082830</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Boas, Franz (1901): The Eskimo of Baffin Land and Hudson Bay. From notes collected by George Comer, James S. Mutch, and E. J. Peck. New York: AMNH (Bulletin of the American Museum of Natural History, 15,I). Quot. pp. 283-285.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA27903">Baffin Island Inuit</name>
+          <date notBefore="1883" notAfter="1899" type="recorded">Recorded sometime between 1883 and 1899.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>In Akudnirn there was a woman who had two sons. The elder one was a very strong man; but the other people feared and hated him, because he was a bad man, and because he cohabited with his mother. His mother also was angry with him on account of his bad ways. Her younger son, Keyakjuak, said to her one day, "I think I am able to throw my brother;" but she told him that it would not be right for him to do any harm to his brother. Keyakjuak had a cousin who also wished to kill the bad man.</p>
+      <p>One day Keyakjuak and his cousin were out together. The {284} one said to the other, "Let us see which is the stronger." The cousin jumped at Keyakjuak, and tried to take him by one of his legs, but Keyakjuak jumped back. Now they stood face to face again; and this time Keyakjuak jumped at his cousin, grasped one of his legs, and threw him down. He did so a second time, and then they knew that Keyakjuak was the stronger of the two.</p>
+      <p>Another day Keyakjuak and his cousin were together, and they saw the bad man coming toward them. When he was near by, they took him by the legs and threw him down. Keyakjuak took his knife, stabbed his brother, and killed him. They carried his body away some distance, and covered it with stones.</p>
+      <p>After several days the people shouted to Keyakjuak, "Your brother is calling from his grave." Keyakjuak said, "I will go and see." He went to the grave, removed several stones, and put in his arm to feel whether his brother was alive, but he found that he was stiff and cold. After some time, when Keyakjuak and his cousin were again together, Keyakjuak's mother asked, "Who killed my son?" Keyajuak replied, "My cousin and I killed him."</p>
+      <p>Autumn came. The people were playing at ball. Keyakjuak's opponent, after he had played with him for some time, suddenly stared at him. Keyakjuak asked, "Why do you stare at me?" but he received no answer. Keyakjuak repeated his question. He noticed that the man was very angry. Then he took him by the knees, shouting, "I have caught a stranger!" and walked away with him towards a bowlder, intending to knock him against it; but his cousin ran after him, and said, "Although your brother was a bad man, you must, not kill other people too." Then Keyakjuak let the man go.</p>
+      <p>The following summer the people were out caribou-hunting. One day a large buck came in their way, and all the people shot their arrows at it and killed it. Keyakjuak and his cousin were the first to speak. His cousin said, "I hit it first." But Keyakjuak said, "No, I do not think so. It was my arrow that killed it." They kept on quarrelling {285} for some time, and finally another man said that he had killed it. Then Keyakjuak grew angry, and took the caribou by the hind-legs and dashed it to pieces on the rocks. Then nobody dared to claim it.</p>
+    </body>
+  </text>
+</TEI>

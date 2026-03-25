@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Dwarf People</title>
+        <editor role="collector">Edward William Nelson</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NN08564802</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NN08564802</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Nelson, Edward W. (1899): The Eskimo about Bering Strait. In: Eighteenth Annual Report of the Bureau of American Ethnology. Washington: Government Printing Office, part I, 1-518. Quot. pp. 480-481.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA27733">Norton Sound Inuit</name>
+          <date notBefore="1877" notAfter="1881" type="recorded">Recorded sometime between 1877 and 1881.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>Very long ago, before we knew of the white men, there was a large village at Pikmiktalik. One winter day the people living there were very much surprised to see a little man and a little woman with a child coming down the river on the ice. The man was so small that he wore a coat made from a single white fox skin. The woman's coat was made from the skins of two white hares, and two muskrat skins clothed the child.</p>
+      <p>The old people were about two cubits high and the boy not over the length of one's forearm. Though he was so small, the man was dragging a sled much larger than those used by the villagers, and he had on it a heavy load of various articles. When they came to the village he easily drew his sled up the steep bank, and taking it by the rear end raised it on the sled frame, a feat that would have required the united strength of several villagers.</p>
+      <p>Then the couple entered one of the houses and were made welcome. This small family remained in the village for some time, the man taking his place in the kashim with the other men. He was very fond of his little son, but one day as the latter was playing outside the house he was bitten so badly by a savage dog that he died. The father in his anger caught the dog up by the tail and struck it so hard against a post that the dog fell into halves. Then the father in great sorrow made a handsome grave box for his son, in which he placed the child with his toys, after which he returned into his house and for four days did no work. At the end of that time he took his sled and with his wife returned up the river on their old trail, while the villagers sorrowfully watched them go, for they had come to like the pair very much,</p>
+      <p>Before this time the villagers had always made a bed for their sleds <pb n="481"/>from long strips of wood running lengthwise, but after they had seen the dwarf's sled with many crosspieces, they adopted this model.</p>
+      <p>Up to the time when they saw the dwarf people bury their son in a grave box with small articles placed about him, the villagers had always cast their dead out upon the tundra to be the prey of dogs and wild beasts. But thenceforth they buried their dead and observed four days of seclusion for mourning, as had been done by the dwarf.</p>
+      <p>Since that time the hunters claim that they sometimes see upon the tundra dwarf people who are said usually to carry bows and arrows, and when approached suddenly disappear into the ground, and deer hunters often see their tracks near Pikmiktalik mountains. No one has ever spoken to one of these dwarfs since the time they left the village. They are harmless people, never attempting to do any one an injury.</p>
+    </body>
+  </text>
+</TEI>

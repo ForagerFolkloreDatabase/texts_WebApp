@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>How Raven Stole the Rich Man's Daughter (version 2)</title>
+        <editor role="collector">John W. Chapman</editor>
+        <editor role="narrator">anonymous</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NN01760300</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NN01760300</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Chapman, John W. (1914): Tenʼa Texts and Tales from Anvik, Alaska. With Vocabulary by Pliny Earle Goddard. Leyden: Brill &amp; New York: Stechert (Publications of the American Ethnological Society, 6). Quot. pp. 30-32.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA28601">Deg Xitʼan</name>
+          <date notBefore="1887" notAfter="1911" type="recorded">Recorded sometime between 1887 and 1911.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>There was a big village where a great many people lived. And they had only one kashime, and in this village there lived a Raven man. There was a girl, too, who did not want to get married. All the young men wanted her, <pb n="31"/>but she did not care for any of them. It came summertime, and all the women went to get berries, and this girl went with them. After they had gone, the Raven got up and put on his little dog-skin parka and boots, and went out of the kashime, and went looking around, and found a canoe laid up. He took it down and looked at it, and found that it was made of fish-skin. He put it in the water and got into it, and found the place where the girls had gone to get berries. He saw their canoes drawn up on the shore, and took them all across the river, and then went off down the river again. In the afternoon he came up again; and by that time the women were coming back, down the mountain. "Oh, my!" said one of them, "our canoes are all on the other side of the river. How shall we get across?" Then they saw the Raven coming up the river in his canoe; and they all called out to him, "Oh, my dear grandfather! please, will you bring our canoes over for us?" But the Raven said, "No, I can't do that, because it will be too much work. I'll tell you what I will do. I will take you all over, one at a time." So they all said, "Yes," and he took them all over except that beautiful girl. "Come on!" said he, "and I will take you over, too." So she got into his canoe; but, instead of taking her across, he went off down the river with her; and she screamed, because she didn't like him. He went on about twenty days, and one day the girl said that she would like to take a walk on the shore. So the Raven said she might; and he went ashore and took a big dog-harness out of his canoe, and tied a long rope to it, and put it on the girl, and told her to go ahead. So she went up the bank, into the brush, and found a big stump, and took off the dog-harness and put it on the stump, and went off a little way. "Come on!" said the Raven; and the Stump said, "By and by, I am not ready yet." <pb n="32"/>And after a while the Raven pulled on the rope, and hauled the big Stump out to the bank; and he became angry and went up on the bank, looking through the brush. Pretty soon he came back, and saw the girl sitting in the canoe; and he said, "Come on, come and get me!" But the girl said, "I don't like you." And the Raven said, "If you won't take me, give me my arrows and my bow." But she broke them in pieces, and threw them into the water, and paddled away home. Then the Raven began to cry, because he had no canoe to go home in; and he made his way home walking on the beach, and reached the village in about twenty days, very ill and sore, and went to his grandmother's house. "Where have you been?" said his grandmother. "I don't know," said he. He was sick one day and one night, and the next morning he died. His grandmother wailed for him, and all the women wailed, too, and that night all the people made songs. But some of them made bad songs, and the Raven made trouble for them. In the morning, when it grew light, the Raven flew away, and afterward all the men and women flew away, too.</p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Rotten-Feathers</title>
+        <editor role="collector">Franz Boas</editor>
+        <editor role="narrator">Moses</editor>
+        <editor role="narrator">Chief Mountain</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NN01090940</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NN01090940</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Boas, Franz (1902): Tsimshian Texts. Washington: Government Printing Office (Bulletin of the Bureau of American Ethnology, 27). Quot. pp. 94-101, 234-235.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA28913">Nishga</name>
+          <date when="1894" type="recorded">Recorded in 1894.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>There was a town, and a large prairie on which many children were playing. They were always making a noise. They did so every morning all the year round. Then the Heaven heard it. He was much annoyed, and therefore he sent down feathers. They came down, soaring over the children. One boy saw them. He was almost grown up and was very strong. He took the feathers and put them on his head. Then he ran about.</p>
+      <p><pb n="95"/>The children had a stick with which they struck a wooden ball. After a little while that boy began to rise, his feet leaving the ground. Then another one rushed up to him and took hold of his feet. His hands stuck to the feet of the first boy, and his feet also left the ground. Then another boy rushed up to him and took hold of his feet, but he also went up. Still another one rushed up to them, taking hold of the feet. He also was lifted upward. Still other ones ran up to them, until all the children were gone. Then a man saw it and rushed up to the children. He also hung onto them. Another one rushed up to them, and took hold of his feet. They all went up to heaven, the whole town, and nobody was left. The Heaven took them all up. He was annoyed on account of the noise of the children. <pb n="96"/>Therefore the Heaven took them all up. Not even one was left. The whole town disappeared. Only dogs were there, running about howling.</p>
+      <p>Now there was a young menstruating girl who had been in a small house behind the village. She was there with her little grandmother. When she left her little house and went back to the village, she saw that the whole great town was empty. Then the woman walked along the street crying. Now she found an old wedge made of crab-apple wood, one made of sloe wood, one of spruce wood, and she found a little grindstone, a little knife, and some snot. She put them into her belly and went to the rear of the house. She did not put them aside. Then she lay down for four days and four nights. Then she <pb n="97"/>came to be with child and gave birth to a boy, to another one, and to still another one, and to two more. They were very strong. There were three males and one stone and one knife and one snot. The one was named Little-crab-apple-tree, the next one Little-sloe-bush, the next one Little-spruce, the following Little-mountain, the next one Little-knife, and one more was called Snot. The woman had six children.</p>
+      <p>The woman and her little grandmother suckled them. Now they were a little older, and then they were grown up. Now they also began to play. They took a stick and played ball. [In olden times the people called this "ball-play."] Then the mother said to her children: "Stop, children! Your grandfathers were killed on account of this <pb n="98"/>game. The Heaven took the whole tribe up. Long ago the children did the same thing that you are doing now. Therefore do not do so."</p>
+      <p>One day the children did so again. Their mother and the little grandmother were unable to stop them. Now they were young men. There were five Young men and one girl. They were called Little-crab-apple-tree, Little-sloe-bush, Little-spruce, Little-grindstone, and Snot; but the little girl was called Little-knife. They were playing all the time. They were very strong. The little girl was the sixth one.</p>
+      <p>Now the Heaven heard them again when they started playing. <pb n="99"/>Then he sent the feathers. They came down again, soaring over the children. The eldest boy saw them and took them. He put them on his head and ran about, playing. Then his feet began to rise from the ground. The sky took him up. His younger brother, Little-sloe-bush, ran up to him, but his feet were lifted from the ground. He could not pull his brother down. When he felt that he was getting weak, he said, "Break, my roots!" and his feet left the ground. Then the Little-spruce-tree rushed up to them. He tried to keep his feet to the ground, but when he grew weak, he also said, "Break, my roots!" Then Little-grindstone rushed up to them, and suddenly there was a great mountain. He also tried to keep his feet down while the Heaven was pulling him upward. He did not move because the <pb n="100"/>mountain was all stone, but after a while the mountain moved. Then Snot rushed up to them. He also stuck to the ground. The little girl was running about, rubbing her hands. She was called Little-knife. When Snot's feet were also lifted from the ground, she rushed up to them and climbed her brothers' heads until she reached the eldest one. Then she cut the feathers over her eldest brother's head. She cut them right in the middle, and the children fell down to the ground. They did not go up to the sky. The feathers always stayed on the eldest brother's head, and he was called Rotten-feathers.</p>
+      <p>Now Rotten-feathers and his younger brother went on all alone. They came to a town, and there Rotten-feathers married a woman. Then he returned to his own town, and there he stayed with her. <pb n="101"/>They had a boy. When he was grown up, his father, Rotten-feathers, named him. Then he went . . . . <note>For continuation, see page 234.</note></p>
+      <p><pb n="234"/>[The continuation of this story from page 100, line 6, was told by Chief Mountain, as follows:]</p>
+      <p>Twice she tried to cut it, then the feather snapped and the boys all fell down. The eldest one kept the feather and received the name Rotten-feathers. At the same time when the boys fell down a great many bones fell down from heaven. Rotten-feathers moved the feather over them four times and the bones became again living people.</p>
+      <p>Then the brothers went to Skeena river. Little-grindstone ate of the berries that were growing there and was transformed into a mountain that may be seen to this day. The brothers traveled on and reached a mountain which they were unable to pass. Rotten-feathers moved his feather over it and the mountain melted down. The molten rock may still be seen.</p>
+      <p>Finally they came to a canyon. They saw a town on the other side of the river and a bridge leading across to it. Here they met a woman named Great-goose [Wī-ksᴇm-haʼx], who warned them. She said, "You cannot cross this bridge. If you try to do so, it will break and you will be drowned. On the other side lives Chieftainess Knife-hand [Haqʼôʟᴇm-anʼoʼn], who has a beautiful daughter. She cuts off with her hands the heads of all her daughter's suitors." Rotten-feathers thought he could overcome her by means of his magic feather. He crossed the bridge in safety and entered the house. The old woman laughed when she saw him, and immediately asked her daughter to spread the bed. At night he lay down with the young woman. He had his hair tied in a bunch on top of his head and in it he had hidden his feather. As soon as the young woman was fast asleep he arranged his own hair like that of a woman and tied the young woman's hair in a topknot. Then he pretended to be asleep. Soon the old woman came. She felt of the heads of the sleepers. She believed her daughter to be the stranger and cut off her head. Then Rotten-feathers tied up his hair again and put the feather on top. He took the labret of the dead woman. Therefore he received the name Labret. The feather carried him back across the river. Great-goose greeted him, saying, "My son, did you come back safely?" He told her what had happened. On the following morning Knife-hand came across the river wailing, "My child! my child! Sister Great-goose, how did it happen that your child became a great supernatural being?" Great goose replied, "The heavens were clear when my child was born, therefore she has become a great supernatural being, sister." Then Knife-band said, "O, yes, sister Great-goose."</p>
+      <p><pb n="235"/>Rotten-feathers, who had now the name Labret, heard that a supernatural being named Sleep had a beautiful wife. He desired to abduct her, and, notwithstanding Great-goose's warning, he set out. He reached the house and found Sleep fast asleep. He told Sleep's wife that he had come to abduct her. She was willing to elope with him. She told him that Sleep had a very fast canoe, which traveled by itself. They went aboard this canoe and escaped. Sleep had a chamber-pot whose office it was to wake him if any danger approached. The pot knocked him on the head and the urine ran over his face, but he did not awake. Then a wooden maul, whose office it was also to wake him, knocked him on the head until he awoke. The maul said, "Labret abducted your wife." Immediately Sleep launched a canoe and set out to pursue the fugitives. Soon he descried them. He shouted, "Stop, Labret, else I shall raise rocks in front of you." When the couple paddled on Sleep raised a mountain right in front of them, but Labret moved his feather against it and thus opened a passage. Sleep continued his pursuit. When he approached he ordered Labret to stop, threatening to put his comb in front of him. When Labret paddled on, Sleep threw the comb ahead and thus made a dense forest in front of the fugitives. Labret, however, moved his feather against the woods and so made a passage through it. Thus the couple escaped safely. The mask of Sleep is used up to this day by the G·ispawaduwᴇʼda.</p>
+    </body>
+  </text>
+</TEI>

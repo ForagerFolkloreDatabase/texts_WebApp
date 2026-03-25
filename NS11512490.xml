@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Moon-Sick Girl and the Water Spirit</title>
+        <editor role="collector">Walter E. Roth</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NS11512490</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NS11512490</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Roth, Walter E. (1915): An Inquiry into the Animism and Folk-Lore of the Guiana Indians. Extract from the Thirteenth Annual Report of the Bureau of American Ethnology, Washington: Government Printing Office. Quot. p. 249.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CSA36701">Warao</name>
+          <date notBefore="1906" notAfter="1913" type="recorded">Recorded sometime between 1906 and 1913.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>There was once a little girl by the river-side catching fish with a cassava-sifter. She caught one little fish entirely different from anything she had ever seen; it was so pretty, with beautiful eyes, and a slim body, covered with red spots. "What a pretty fish you are!" she exclaimed; "I must really keep you all for myself." So she put it alive in water in her calabash and took it home, where she dug a little hole near the house. Into this hole she poured water, and there she placed the fish. Then she tended it, and strange to say the water never dried up. The fish gradually grew bigger and bigger, and when it had arrived at a good size, its guardian, who had already entered womanhood, took it down to the water-side just where she used to bathe. There she set it free. As soon as she got into the water, it would approach and nestle quite close to her. The mother often saw it swimming about there, and would often warn her daughter that it was not a real fish, but something else, and when it got very big, she recognized it as the Ho-aránni, or the Water Spirit. Then she warned her girl especially to keep out of the stream when she was moon-sick. "Don't go anywhere near the water until so many days are passed," the mother repeated; but her advice was not heeded, and the young woman, although sick, insisted next day on bathing. As soon as she touched the fish, as had hitherto been her wont, it became much excited, and instead of coddling up to her, swam zigzag around her. This was repeated three times: the fish meant to tell her that she must return at once to shore, but she evidently did not understand, because she touched it a fourth time. But on this occasion the Water Spirit swallowed her. The father was sorely grieved at this, and came and asked the Ho-aránni why he had treated his daughter in that shameful manner, but the latter defended himself by saying that she had insisted on bathing herself too soon after she had been moon-sick, and that he had already warned her three times. So saying, the Water Spirit withdrew. When he was gone, the father exclaimed, "As Ho-aránni has eaten my daughter, he must eat me too: I cannot rest until he does." Being a piai, he knew where to find the Water Spirit, so collecting his relatives around him, he told them what he proposed doing, and that when they heard him blow his shell they must dig at the very spot indicated. With this, he dived into the water, right down below the river bank under an overhanging hill, straight into the underground cavern of the Water Spirit. And there Ho-aránni killed him, but before he died, he blew his shell; his friends heard him, and digging quickly, soon unearthed the pair. They killed the Water Spirit, and left his bones to rot. Some fifteen years ago, when I was so high [indicating his size], I saw the bones rotting on Wakapoa Creek, above where the Mission now stands. Why was the piai killed? Because he ought not to have gone alone; when people start on such expeditions they should always have company.</p>
+    </body>
+  </text>
+</TEI>

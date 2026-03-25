@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>[How Fawns Shared Food with Rabbit]</title>
+        <editor role="collector">Alfred Louis Kroeber</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NN06502750</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NN06502750</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Kroeber, Alfred L. (1901): Ute Tales. In: The Journal of American Folk-Lore 14(55), 252-285. Quot. pp. 275-276.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA30714">Uintah Ute</name>
+          <date when="1900" type="recorded">Recorded in 1900.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>Two young Fawns sat on the ground. They were two boys without a mother. We used to have a Deer for our mother," they said. The Rabbit came to them and said, "I am hungry. I travelled without eating. I have come a long way." The Fawns said, "We have nothing to eat here; our food is not here." "Where is it?" asked the Rabbit. "It is not here, I say to you," said one of the Fawns. The Rabbit said, "Tell me about it. I am hungry and I want to eat." He continued talking about their food for a longtime. They concealed how they obtained it. Then the Rabbit said, "I think you are too lazy to go to get it. Show me the path and I will go after it; I will cut off enough for us and bring it." "We never eat here," they said. "You boys do not know me. I am your grandfather. You did not know me; that is why you hid your food from me," said the Rabbit. Then one of them nudged the other and whispered to him, "I think he is our grandfather; I will tell him where we eat." The other one said nothing for a while; then <pb n="276"/>he said, "What we eat is not on the ground; our food is far up in the sky; we eat at a certain time. When we ask for our food, something always comes down from the sky; it is white, like a cloud. At the hind end it is like a person; it has an eye, and a mouth, and it watches us. It comes only at a certain time. If we ask before this, it will think that some one else wants it. But when we ask for it, we will hide you under the bedding." Then they hid him. One ran towards the East, the other towards the West; then they ran towards each other, and when they met, they cried like animals at play. Then they circled about, met each other, crying, and gradually came nearer to their tent. Something white came from the sky. The Rabbit saw it coming down. It was like a cloud, and above it was like a face; like a man sitting on their food. The boys took up dull knives; and when the food came down, they cut off a piece. They cut off more than usually, in order to give their grandfather some. Then the thing ran back. It flew up just like lightning, being hardly visible. The boys cut up their food, and the Rabbit came out and ate with them. The food tasted very sweet, and the Rabbit wanted more, and he asked them to make it come again. They said to him: "It comes only at certain times." Then he said to them, "I will live with you, for your food is good." He made a burrow in the brush near by, and watched. Then the food came down again. The person on it looked around like an antelope watching. The Rabbit took a bow and arrow from his quiver; just before it came low enough for the boys to cut off a piece, he shot at the part that looked like a man. The whole object fell down in a heap. "I thought that was what he would do," said the older brother to the younger, blaming him. The Rabbit said to them, "Well, my grandchildren, I will leave you. You have something to eat and it will last you long. After you have eaten it all, you will go up into the mountains and eat grass and be Deer."</p>
+    </body>
+  </text>
+</TEI>

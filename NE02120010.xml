@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Ravens and Hares</title>
+        <editor role="collector">Angelina Ivanovna Kuzmina</editor>
+        <editor role="narrator">Kunina Rita</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NE02120010</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NE02120010</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0">CC BY-NC-SA</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Brykina, Maria/Orlova, Svetlana/Wagner-Nagy, Beáta (2021): INEL Selkup Corpus. Version 2.0. Publication date 2021-12-31. https://hdl.handle.net/11022/0000-0007-F4D9-1. Archived at Universität Hamburg. In: The INEL corpora of indigenous Northern Eurasian languages. https://hdl.handle.net/11022/0000-0007-F45A-1. Quot. p. s.p..</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CEE15004">Northern Selkup</name>
+          <date when="1969" type="recorded">Recorded in 1969.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>Ravens and hares. There lived a raven hen and a doe hare with their children. Once the hare left for the forest. In the forest she saw a <note>[AAV:] lit. "raven's and hare's families (mothers with their children)"</note><note>[OSV:] "ukkÉ¨r (tot) ÄÊ¼ontoËqÉ¨n" - "once upon a time".</note>sledge with fat in it. An old man was standing near the sledge. The doe hare said so: "Snowstorm, come, raise the snow, so that nothing can be seen".<note>[OSV:] The form "qanÉqÉ¨n" has been edited into "qanÉqqÉ¨n".</note> The snowstorm came. The hare went there [to the sledge] and grabbed the fat. Then she went back home. Her  children were happy. They began to eat it. Then a raven fledgeling came along. He ran back home.  His mother came. "Where did you find the fat?" "I stole it from the old man". "Tomorrow we'll go there together". In the morning they both went off. The old man was driving the sledge with fat in it. The raven flew up to the sledge and sat on it.  She cried: "Kraa-kraa!" The old man turned back and hit the raven. The raven died. The hare said:  "Snowstorm, come". The snowstorm came. The hare came and grabbed a piece of fat. Then she went home.  She came. [That] raven fledgeling [and others] ask: "Where is mum?" "Your mother  cannot bring the fat". They themselves started to eat. The raven fledgeling came again. "Mum is still not there".  "The old man killed your mother". He went home and told about that. Then they all began to cry. They popped out through the <note>[AAV:] unclear sentence</note>chimney hole. [?]</p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Quarrel of the Fish</title>
+        <editor role="collector">Alfred Métraux</editor>
+        <editor role="narrator">Pedro</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NS08900700</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NS08900700</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Métraux, Alfred (1939): Myths and Tales of the Matako Indians (The Gran Chaco, Argentinia). In: Ethnological Studies/Etnologiska Studier 9, 1-127. Quot. pp. 70-71.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CSA39401">Wichí</name>
+          <date when="1933" type="recorded">Recorded in 1933.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>One day Wetyamʟi<note>I was unable to obtain any information about this character. The word wetyamʟi means a "liar", a man who tells fish stories. It is possible that our Wetyamʟi is a sort of baron Munchhausen of the Matako folklore. See tale p. 74.</note> who was walking through the forest, heard two fish insulting each other. He went closer and saw the tsonatáx and the ḳalé quarreling. The tsonatáx told the ḳalé that he was ugly and the latter told the tsonatáx was even more ugly.</p>
+      <p>The Wetyamʟi again started walking and heard two other people fighting. This time it was the kantax who was telling the xwolít that he was bad looking and the former replied that the xwolít was still uglier.</p>
+      <p>Further on Wetyamʟi came upon two other people fighting, they were the natsax and the silót. The natsax told the <pb n="71"/>silót he was homely and the silót replied that the natsax was even uglier because of his big mouth. Natsak in turn said that although his mouth was big, he was not as ugly as the silót whose mouth was too little.</p>
+      <p>Further on Wetyamʟi heard the tsoktax tell the etékak that he was very ugly because his head was flat and the etékak replied that he could not be as ugly as the tsoktax with his too big fins.</p>
+      <p>Still further on Wetyamʟi heard two more species of palometa<note>Palometa or piranha (Serrosalmo sp.).</note> quarreling. The nisčútax was calling the timetes very ugly because his nose was so long and the latter replied that even if his nose was long the eyes of the nisčútax were too deeply set in their sockets and his mouth was always open, as if he could not shut it.</p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Woman and the Doer of Violence</title>
+        <editor role="collector">Waldemar Bogoras</editor>
+        <editor role="narrator">Miluʼtaṛak</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NE00634322</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NE00634322</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Bogoras, Waldemar (1913): The Eskimo of Siberia (Memoirs of the American Museum of Natural History, 12,III; Publications of the Jesup North Pacific Expedition, 8,III). Quot. pp. 432-433.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA27741">Sivokakmeit</name>
+          <date when="1901" type="recorded">Recorded in 1901.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>In the village of Kukuʼlik<note>Now wholly starved out, as well as several other villages.</note> there was a man stronger than all his neighbors. Therefore he took the food from everybody by force. If a man had killed a walrus and hauled home a sled filled with meat, the strong man would take possession of the hauling-strap, and take home sled and all. The people were afraid to show resistance. He would kill those who were disobedient. One day a man killed a thong-seal, and was taking the meat home. The strong man met him on the way. "Oh, you have killed a thong-seal?" - "Yes, I have." The Doer of Violence put his foot upon the runner of the sled. "What are you doing?" - "Be quiet, or I shall kill you!"</p>
+      <p>He left the sled and came to his wife. "And where is the meat?" - "In truth, I was bringing it, but the Doer of Violence took it away from me." - "But why didn't you defend it? Our little children have no food." - <pb n="433"/>"He threatened to kill me." - "Ah, but I will go and get back the meat!" She went, and soon overtook the strong man, who was hauling the meat. "You there! Why have you taken the food from my little children?" - "Go away!" - "Give me my meat." - "Let me alone, or I shall kill you!" - "Will you?" She caught him by the arms a little below the shoulders, and broke the humerus of either arm. "Ah, ah, ah! Please do not tell our neighbors! They will kill me. Do not bring such shame upon me! I have plenty of meat and peltries. I will give you everything. Let me escape with just my bare life!" And, indeed, she did not tell what had happened. He gave her everything he had, and they lived in wealth and joy. <shift feature="epimyth"/>From that stock came the family of Kuvaʼr.<note>A rich Eskimo of the village of Čibuʼkak, on St. Lawence Island. There was another Kuvaʼr much richer, in the village Uñiʼsak, on the mainland of Asia.</note></p>
+    </body>
+  </text>
+</TEI>

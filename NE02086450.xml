@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Two Brothers</title>
+        <editor role="collector"> anonymous</editor>
+        <editor role="narrator">Palchin Nikolay Sergeevich</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NE02086450</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NE02086450</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0">CC BY-NC-SA</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Shluinsky, Andrey/Khanina, Olesya/Wagner-Nagy, Beáta (2024): INEL Enets Corpus. Version 1.0. Publication date 2024-11-30. https://hdl.handle.net/11022/0000-0007-FE1D-C. Archived at Universität Hamburg. In: The INEL corpora of indigenous Northern Eurasian languages. https://hdl.handle.net/11022/0000-0007-F45A-1 Quot. p. s.p..</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CEE15008">Forest Enets</name>
+          <date when="1990" type="recorded">Recorded in 1990.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>Two brothers. There lived two men together, brothers, one of them was the elder brother, the other one was younger.  In Russian â two brothers. They lived in one tent. Two persons â the elder brother and  the younger one. They live well: they get any pray, they do not know any troubles.  Once the second one, the younger one, said to his brother: "Now we live well, now I have no misfortune. People say "I  suffer", but what is a misfortune?"  What if we look for a  misfortune? So, I would suffer. And the other oneâ¦ Of course, they ate in the evening. The elder now said:  "What kind of misfortune, where will you find a suffer?" "No, â  his brother says, and he is also stubborn: â They say people are suffering, I will look for trouble, I will go to suffer."  The second one said: "Stop, stop, where will you find a misfortune?"  "No, â he said, â still I will go look for a misfortune." So, he does not listen to his brother, well, he has skis, he started shaking the skis in the morning.  The other one said: "Where will you go?" "So I will look for a misfortune for myself", â he said. Well, they live well in the tent, they eat all kinds of meat, they get all kinds of prey.  At that time, you can't say: they eat bread, they eat something, according to their words.  And that one put food, any sort of meat into his sack.  So he said to his brother: "I will go, I will look for a misfortune".  The second one was left alone, the elder one. The eldest lives like this after his brother leaves.  Some days have already passed (after the brother left). His brother, when he sometimes went hunting, would always come in the evening, and when he came, of course, he brought  some prey.  His brother has been gone a long time. Many days have passed since he left. The second  brother who was left at home was called Dyonayku. Dyonayku thinks: "Where is my brother, he has been gone for a long  time." Dyonayku thinks: "These footprints of him are visible so far, should I follow his footprints, I'll look for him, it would be good to  look for him, apparently.  He's been gone a long time." Dyonayku shook his skies in the morning and went on skis following his brother's footprints.  Thereâ¦ he went on skis.  Dyonayku thinks soâ¦ Dyonayku thinks so: "It seems like, seven days have passed  since I left the tent." The other brother kept walking.  Dyonayku probably also had some food. One cannot live without food,  after all. But the food, the food to eat seems to finish soon. Dyonayku says: "As for now, â he says, â if I  don't find my brother, I'd better go back."  His brother's footprints, where he went on skis is seen. After a while he went a bit more forward, not far away.  Oh, my brother is lying there, I don't know if he is sleeping, he is lying there.  It was winter. On the snow. He reached there and  began to lift his brother up. Well, the second one was dead, weakened without food.  Aha, several days without food. Dyonayku said: "What should I do with this one, if I leave him here, this place is far away, perhaps it's good to take him home".  He put his brother on his shoulders, the dead brother.  He brought him home. Well, maybe he buried him, or what he did.  Dyonayku said now, after burying his brother: "You said, what kind of misfortune exists, from now on the misfortune will be like  this, while walking, one can die."</p>
+    </body>
+  </text>
+</TEI>

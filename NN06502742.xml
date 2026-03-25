@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>[Owl-Hawks Steal a Deer from the Insects]</title>
+        <editor role="collector">Alfred Louis Kroeber</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NN06502742</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NN06502742</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Kroeber, Alfred L. (1901): Ute Tales. In: The Journal of American Folk-Lore 14(55), 252-285. Quot. pp. 274-275.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA30714">Uintah Ute</name>
+          <date when="1900" type="recorded">Recorded in 1900.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>Insects <note>tuvātʼainc; the species could not be determined </note> killed a White-tailed Deer among the willows. There were them. Two Owl-Hawks lived among the wire grass and While hiding there, they saw the ten Insects kill the Deer. said to each other, "We will deceive them; before they cut meat we will tell them, 'Why did you kill our brother?' As soon as <pb n="275"/>we reach them, we will begin to cry loudly, and will tell them to go away from that place. We will say, ' We will drag him away and bury him.'" So the Owl-Hawks went to them and said, "Go away. You killed our brother. We had the same mother and father. Go away. We want to bury him." Then one of the Insects said, "He does not look like you. You have wide eyes, and wings, and feet that are different. You are altogether different. You do not belong to him." The Owl-Hawks said, "He has been away from us since he was a boy, living in the willows; that is why he looks different." The same man said to them, "You lie to us. You have nothing to eat; therefore you want this Deer to eat. You wish to deceive us." The Owl-Hawks said, "We tell you the truth; he was our relative. If you continue to talk to us, we shall shoot at you." "What will you do with him? Where will you bury him?" they asked. "We shall not bury him, we shall burn him," said the Owl-Hawks. The Insects said, "Very well, we will go. We did not know that he was your brother. We thought he was a Deer; that is why we killed him. We made a mistake." They went away. Then the Owl-Hawks, who were hungry, and had deceived the others, dragged the Deer a little distance off, and made a fire near the Deer. The ten Insects looked back and saw the fire. They believed that they were burning the Deer. The Owl-Hawks cut up the Deer and carried it home. When they arrived at home, they ate it. They laughed about those others. They said, "We tricked them. We deceived them agreeably. Long-tailed Deer always tastes good. That is why we eat it."</p>
+    </body>
+  </text>
+</TEI>

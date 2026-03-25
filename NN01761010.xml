@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Fish-Hawks</title>
+        <editor role="collector">John W. Chapman</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NN01761010</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NN01761010</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Chapman, John W. (1914): Tenʼa Texts and Tales from Anvik, Alaska. With Vocabulary by Pliny Earle Goddard. Leyden: Brill &amp; New York: Stechert (Publications of the American Ethnological Society, 6). Quot. pp. 101-102.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA28601">Deg Xitʼan</name>
+          <date notBefore="1887" notAfter="1911" type="recorded">Recorded sometime between 1887 and 1911.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>There were two brothers who went out to hunt; and the younger found a nice young girl, and asked her to be his wife. She said, "Yes, I will go with you." Then they went home; and his brother said, "I will take your wife away from you." He answered, "No, you will not. I want her for my wife." - "Well," said he, "if you want her, go a long way off, and you will find a high mountain." And he said, "Yes, I will go, because I want my wife." So he went away, and came to the mountain, and went up the mountain, and came to a tree that had a big nest on it; and when he climbed up to it, he saw a little girl and a little boy in the nest. He killed the boy, and asked the girl where her mother was, and her father. She said, "My mother and father have gone out to hunt." And he said to the little girl, "I will not kill you, but I will ask you what time your father and your mother are coming back." She said, "It will rain when my mother comes, and it will snow when my father comes." And he said, "Now I will hide;" and she said, "I think that when my father comes, he will kill you." It was the Fish-Hawk and his wife. When her mother came, she cried, "Oh, where is your little brother?" and the little <pb n="102"/>girl said to her mother, "He fell down and killed himself." - "Oh," she said, "who, who? Where is my dear little boy?" And while she was crying, the youth killed her; and after a while the father came, and he said, "Where is your mother?" The little girl said, "She has not come back yet," and he was very angry. And the young man killed him, and the little girl too; and afterward he went home and asked his brother for his wife, but his brother refused; so he killed his brother and took his wife, and was very happy because he had her to live with him again.</p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Underground People</title>
+        <editor role="collector">Harry Hull St. Clair</editor>
+        <editor role="narrator">Tom Hollis</editor>
+        <editor role="narrator">Jim Buchanan</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NN03631342</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NN03631342</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Frachtenberg, Leo J. (1913): Coos Texts. New York: Columbia University Press &amp; Leyden: Brill (Columbia University Contributions to Anthropology, 1). Quot. pp. 134-139.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA29402">Coos</name>
+          <date when="1903" type="recorded">Recorded in 1903.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>There was a village in Coos [Bay] called Baltiasa. The people [had] underground houses. Way [down] inside these underground [houses were]. The people were big, <pb n="137"/>tall. Their fish-poles [were] big. Whatever they caught [hung on their poles], they would swing it far. Whenever they played, they would go down into the water. Whenever [some one] dove in [from] there, he would come out on the other side, and would crawl just like a snake. About one mile they would dive, and would come back the same [distance]. They made stone pots, and they used to float stones. They would talk loud. Thus the stones would not sink. If [one] does not talk loud, the stone sinks. They would place rocks on the top of their heads, and walk in [inside of] the water. That way they would gather oysters. This was their food. When they would float a rock and stand there [on it], the rock would not sink. They would float small feathers, [stand on them], and they would not sink. Carbuncles were their hats. They would make knives out of large bones. They used to turn over their carbuncle hats. They used to hit one another with bone knives. They would not hurt one another. Thus they would practise.</p>
+      <p>They [were] bad people. All the other people feared them. [No matter] how many [of] all [the other] people [there were], just as many [of] the Baltiasa would follow them. And they would abuse them. The people did not like them any longer. And the people talked about them. "Suppose [we] drive them away." They made two rafts, and they went down the river on them. They watched [them] from both sides. They followed them behind. They shot arrows at them. They came to the mouth of the river. And they were on the lookout. And the current took the rafts out into the ocean. They dropped anchor for a while. They poured seal-oil [grease] over the water, and the waves died down. There [was] no wind. And when evening came, one raft went [over the water] to the north, and one raft went to the south. One raft was <pb n="139"/>[making] lightning, the one that went north. Thus people know it. No one knows where they went.</p>
+    </body>
+  </text>
+</TEI>

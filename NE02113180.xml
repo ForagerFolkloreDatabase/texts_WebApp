@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A Tale of Fortune</title>
+        <editor role="collector">Aleksandr Chapixovich Logany</editor>
+        <editor role="narrator">Ajvaseda Pavel Yanchevich</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NE02113180</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NE02113180</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0">CC BY-NC-SA</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Budzisch, Josefina/Wagner-Nagy, Beáta (2024): INEL Nenets Corpus. Version 1.0. Publication date 2024-12-31. https://hdl.handle.net/11022/0000-0007-FE37-E. Archived at Universität Hamburg. In: The INEL corpora of indigenous Northern Eurasian languages. https://hdl.handle.net/11022/0000-0007-F45A-1. Quot. p. s.p..</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CEE15002">Forest Nenets</name>
+          <date when="1998" type="recorded">Recorded in 1998.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>A story of happiness. Once, it is said, there lived a woman and her husband. Regardless of whether they had a  long or short life, they eventually had two children, two boys. The eldest of the sons is always  out hunting. At some point, the woman and her husband had two daughters-in-law. Her daughters-in-law are  beautiful, identical, do a good job and work. Unfortunately, they had one bad quality: they were greedy.  Once, when they were still alive, a poor [man] came to their house, a man on foot, went into the house on foot, and sat down.  In the warm house, their faces and hands warmed, the daughters-in-law sat with their backs to the fire, facing the bed,  and it was time for tea.  The kettle did not go to the fire.  Finally, the poor man says: "My day is over.  I'm going on foot, without reindeer, I don't even have a dog, I'm going in the direction of my country."  Of course, eventually out of this tent, without warming his insides, he went outside. At some point, these children, the  hunting children, the fishing children, no longer made their fortune. On one day they go empty-handed, on  the second day they go empty-handed and are empty-handed again. On the third day, the children came and said: "There's nothing left at all in the forest,  in the tundra. The animal tracks are gone, the fish are gone.  What does the case we have reached look like?" One day her father was told, "Come on, father, remember this word, this deed," he said, "Tambourine this deed, why have we  become this way of life."  Of course, the father then says: "Okay, I'll see. I also say in my mind: Why did we go this  way?" My father said the same thing. He was a shaman, took out his tambourine and began to  shamanize. He shamanized for a long time. After shamanizing: not a word, not a sound.  He sat down again, put the tambourine back in its place and just said: "Again.  What will the words be?"  Children say: "One more time. After you've shamanized, let's see what word comes out."  On the first day, the children went hunting. Suddenly it got darker, [it was] darker than usual.  The older of the two came in. At home, they are asked: "What have you brought?"  He has nothing in his pocket. He shakes out his sack and says: "I took a squirrel with me, so I don't go home empty-handed."  A squirrel was brought in. A little later,  while they were sitting there, the youngest came in. The younger of them was fishing the whole time. The youngest has nothing either.  Some time later, after they had questioned him, he said to his comrades: "I was unlucky, I only caught one fish."  And while they were living like that, the same poor man who had come once before came again at some point.  The poor man shook off his clothes and sat down on the bed. At some point, the kettle was hung on the  fire. "Life was bad for us," the locals began to think. This poor man, who was on foot, was  drinking tea when he came in for the second time. He drank his tea, warmed his meat, warmed his clothes and then said: "The day is passing, it will  soon be dark. I'm going on foot, I'll be out early."  The locals, the daughters-in-law, the husband and wife, the children, said, "This poor [man] has nothing, he is wandering, he is poor, when else will he arrive, let's quickly give him something to eat for the journey."  They filled his sack, gave him food and  continued on foot. By the time this footman left, a few days had passed and the sons were doing their own  thing, one going hunting, the other fishing. When they arrive,  they can barely run, they can barely walk. Sacks full of them were brought in. Since then, the rule has been: if anyone, whether Chante or Russian, comes to a  village without drinking tea, they are not allowed to leave. This will greatly affect their  happiness. The man up there sees all the affairs of the universe. That is the end of the  story.</p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Thokwjwaj and the Origin of Illnesses and Shamanism</title>
+        <editor role="collector">Jan-Åke Alvarsson</editor>
+        <editor role="narrator">Celestino Màànhyejas Gómez</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NS00530170</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NS00530170</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+          <p>By courtesy of Jan-Åke Alvarsson.</p>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Alvarsson, Jan-Åke (2026): Selected Myths and Folktales from the 'Weenhayek. Trans. for the Forager Folklore Database (FFDB Documents). Quot. pp. 17-19.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CSA39401">Wichí</name>
+          <date when="1983" type="recorded">Recorded in 1983.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>They say that in the beginning there was no sickness. There was no one who got sick. They say that at that time people lived to be very old, because they had no disease.</p>
+      <p>But they say that one day Thokwjwaj came. And he was teaching the people, saying, "Now we are going to prepare<note>The original expression is: "we can prepare".</note> a chicha and then we are going to drink!"</p>
+      <p>And the people obeyed him, and they say that they made a bateón [a large wooden pan] for the aloja.<note>Translator's note: An alcoholic beverage typically made of the fruit of the algarrobo tree.</note> [Then] they prepared an aloja. And when the aloja was ripening, they say that they [Thokwjwaj and the people] began to drink together. And when they had drunk, they began to feel a drunkenness. They got drunk, and they didn't know what they were going to do since they were drunk.</p>
+      <p>So, they say, they finished drinking and later they woke up bad (sick). They say some were with headache, some were with eye pain. Everyone ..., everyone [had something]. And they say that someone had fought and they felt pain in their body where [the other] had hit them. And they could not heal. They say [everyone] was a little sick, like that, weak.</p>
+      <p>And when one day Thokwjwaj appeared again, he said, "Why do you all [just] look at these people who have their sickness? Now, if you cannot cure them, I will attempt to cure."</p>
+      <p>But the people did not think that he was going to [be able to] do like the hiyaawuʼ (shaman). But since Thokwjwaj had his diviner, and also his secret, then he could do like the hiyaawuʼ. And like that, he said thus, "If you all cannot cure someone, then I can cure them."</p>
+      <p>And then they say that he was a healer (a hiyaawuʼ).<note>The original text says: "And then they say that there was already a healer." Logically it is not very clear whether this refers to Thokwjwaj or not. Here, from the context, I have indicated that yes, Thokwjwaj is the first healer.</note> He cured those who were drunk; he cured what did not go away. It seems that they had become ill because of what they had drunk. So he began to heal, until they were healed. <pb n="18"/>They were healed and were well again. Then Thokwjwaj said, "Now, there is (another) disease<note>Here the narrator repeats himself. The repetition has been omitted.</note> which is going to give (attack) someone every time."</p>
+      <p>And they say that one day someone got sick.<note>Here the narrator repeats himself. The repetition has been omitted.</note> He was with pain from the rib, he could not lie down. Then Thokwjwaj said, "Here, this sickness, they say it is the devil who has his arrow; and when he has arrowed someone, they say he is like this; he has pains of the rib and cannot lie down because of the arrow he has."</p>
+      <p>And it turns out that the devil had arrowed that person and that is why he was left with rib pains because the arrow was straight in his rib. That's why, when the arrow had grabbed (hit) his rib, he could not move.</p>
+      <p>Then, when Thokwjwaj had arrived, he said: "Now yes, here is the arrow. Now, how can we cure it?"</p>
+      <p>And he started sucking. And when he sucked, then it seems like the arrow was short. He sucked until the arrow came out [of the rib] and went into his mouth. And when he threw the arrow out, they say that a splinter of wood appeared, one that was black. Then Thokwjwaj said, "This is an arrow of sickness. And when this arrow hits someone, then one cannot lie down. One cannot sleep either, because this is a piece of stick."</p>
+      <p>So the people already knew the disease, that it has its armaments, pieces of sticks that they say are its arrows. And when [one] arrowed someone, then it stayed like that. Then Thokwjwaj said, "It is hardly convenient for me to work like this alone. It would be better if there were also other hiiyawulh (shamans)."</p>
+      <p>Then people began to [get used to] and like [appreciate] Thokwjwaj's way. And they say that several more men became like hiiyawulh (shamans) because of Thokwjwaj, who in the olden times [was the only one] who had his healing.</p>
+      <p>Then Thokwjwaj said, "You have to do this for a long time. The whole time you have to do this, heal the sick."</p>
+      <p>And they say that afterwards, finally, there were many hiiyawulh (shamans) to cure the sick. And they also say that every illness, if it was diarrhea, they stopped it for a little bit of caraguata thread.<note>Here the preposition is decisive. It can be 'with', indicating that the caraguata thread is used to cure. However, considering what follows, my interpretation is that the preposition should be 'for', thus indicating that it is payment for curing diarrhea.</note> It costed nothing. And then, if one was sick because of fishing, then one had to give a hiyaawuʼ a net. And thus he <pb n="19"/>could be healed as well. And if it was an illness of the bush, then you had to give him a thread, too, so that he could heal someone. And like this, they always paid the hiyaawuʼ. And it was always ordered that way, that it cost these things.</p>
+      <p>And if one had a cough, then when the shaman cured it, one had to give him a small necklace. And if it was an 'evil eye', then they were paid only with a mirror.</p>
+      <p>And that's how they had stayed, that's how much it cost. It did not cost a lot of things, seeing [considering] that we were poor. We do not have to respond to (pay) with many things. That is why it had to be this way. A hiyaawuʼ could not charge so much, because he saw that the others had nothing. And so, according to the illness, he did not ask for so much. And in this way the sick were being healed. And so they say that in the first time a hiyaawuʼ (shaman) almost did not earn anything because he was helping the others who had [nothing].</p>
+      <p>And so I think that was the story I heard at that time. And now, that's it, the end.</p>
+    </body>
+  </text>
+</TEI>

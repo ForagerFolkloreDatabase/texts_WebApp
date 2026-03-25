@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Taapyatsàʼ, Thokwjwaj and the World Fire</title>
+        <editor role="collector">Jan-Åke Alvarsson</editor>
+        <editor role="narrator">Celestino Màànhyejas Gómez</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NS00530190</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NS00530190</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+          <p>By courtesy of Jan-Åke Alvarsson.</p>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Alvarsson, Jan-Åke (2026): Selected Myths and Folktales from the 'Weenhayek. Trans. for the Forager Folklore Database (FFDB Documents). Quot. pp. 19-24.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CSA39401">Wichí</name>
+          <date when="1984" type="recorded">Recorded in 1984.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>Now we are telling a story about the fire, but it is no longer the fire that Taatsʼiʼ and the others called upon.<note>Here he refers to the bird taatsʼiʼ (Furnarius rufus), or 'hornero' in Spanish, who is the protagonist of myths M007 and M106 as 'the man who could not stop laughing'.</note> Now, from the beginning they say that there was a thing that they saw [in the sky]. Every night, it seems they were seeing something on a part of the north side. They say it was burning every night and the people did not know what it was.</p>
+      <p>And there is a story that says that [once] this fire came to where they were.<note>Here referring to the myth M105, in which the world perishes by fire.</note> They say that someone had mentioned that the fire came from that way. The fire came to the whole world, from corner to corner. And they say that during the time they were waiting [for the fire to come] there was always something like a light there [in the sky]. And it turns out, they say, that one day it was burning <pb n="20"/>even closer. And they were amazed, saying, "We don't know ... What thing could it be that is happening now?"</p>
+      <p>And when the fire was closer, the animals began to appear that were running from the fire. Then when the animals arrived, they say that they were very thirsty, and that when they reached the river, they went to drink water [there].<note>Here the narrator adds: "They say that there were other people."</note></p>
+      <p>Then, they say that Taapyatsàʼ<note>Taapyatsàʼ is a small overo bird, protagonist in many tales of the ʼWeenhayek but of uncertain scientific classification. [Translator's note: lark-like brushrunner (Coryphistera alaudina), cf. vol. 6, pp. 241f.).]</note> was asking questions, asking the animals that were plunging into the water, saying, "Why are you all this thirsty?"</p>
+      <p>The white lipped peccary's body was almost burned, as the fire had almost gotten him. And he told him, saying, "We have come onwards now and the fire is coming after us. And we do not know where to escape to, because this fire comes from edge to edge, and by force we must go on ahead! So we have come away from this fire and now we have arrived here, weary."</p>
+      <p>The people were there waiting for a while. They say that one day the fire arrived. [And in front of it] came all the animals of the wild; the three-banded armadillo, the iguana, the peccary came, and [all] were a little burned. Then Taapyatsàʼ asked, "What is the matter with you, why do so many come?"</p>
+      <p>[So they answered,] "Well, we have come ahead of the fire, because you know that thing that is glowing there, on the north side, is the fire that comes from corner to corner and we do not know where to escape to. We were forced to come ahead. And now we are here ..."</p>
+      <p>Then the people were distressed to hear that news. And [later], they say that the animals passed over the river.</p>
+      <p>[But] the people who lived by the river were with the man who is called Thokwjwaj. He was [visiting] the house of Taapyatsàʼ, as well as his family. And it turns out that Thokwjwaj had notified the people who were on the other side of the river, "They say the fire is coming!"</p>
+      <p>So Thokwjwaj had told the other people. [But] it turned out that the people did not believe it. Some said: "Uh, this Thokwjwaj, he is just a liar! How is a fire going to come ...?" they said.</p>
+      <p>When Thokwjwaj again returned to Taapyatsàʼ's house, he said, "Now, what shall we do, how can we save our lives?"</p>
+      <p><pb n="21"/>Then Taapyatsàʼ said to him: "I don't know, maybe we can dig a pit, a hole, and then go in there when the fire is coming. When the fire comes, then we would have [a way] to defend (save) our lives!"</p>
+      <p>Thokwjwaj<note>The narrator (erroneously?) calls the respondent Taapyatsàʼ as well.</note> agreed and said, "Yes, yes, let us start digging because the fire is already near!"</p>
+      <p>And the others were watching when they began to dig.<note>The original text says: "And others were speaking when they saw the others digging."</note></p>
+      <p>Then the animals came; every kind that is in the land came. They came to the river and they kept saying that the fire was coming after them and the people were [even more] frightened. And the people who lived on the other [side of the river] said, "Well, even though we are here, with the river [as protection]; if the fire comes, we are still going to get in there [in the water]. The river is going to defend us, because the river is big and it is also deep. What can it do to us?"</p>
+      <p>They trusted the river, because it is big. [But] it turns out that Taapyatsàʼ with Thokwjwaj had begun to work on digging a hole. And when the hole was ready they settled in there with their family. Already the fire was near, they were already seeing it, it was burning, pure smoke was coming. Then [Thokwjwaj] said, "It is already near, we can get ready."</p>
+      <p>Then Taapyatsàʼ said, "You all must prepare water to take in there, inside the ground where we are!"</p>
+      <p>And they prepared a few big jars with water, then they put them there, under the earth, where they were going to be. And when the fire was near, then Taapyatsàʼ said, "Now, let us get into that hole!"</p>
+      <p>And he got in there, they say, with his family. And when they had all entered, then he began to close the door (the entrance). And then he said to Thokwjwaj, "You have to be like a doorman! You watch the door and touch it every time! And if it heats up by the side of the door (entrance), then you have to pour water like this so that it does not get hot!"</p>
+      <p>And Thokwjwaj agreed and said, "Yes, I am going to be sitting by the side of the door (entrance) guarding it so that it does not get hotter."</p>
+      <p>So Thokwjwaj went over there, sitting there with the water pot. And every time (repeatedly) he would touch the ravine with his hands to see if it would get warm. When he felt a little heat, then he would just pour water like this so that it would not get hotter.</p>
+      <p><pb n="22"/>So, they say that this fire was on the earth for about three months. And in those three months, they say that there was nothing in the bush. And the others, who had not prepared themselves, they say that when the fire came, they entered the river. And when the fire reached it, they say that the river was as if it had little water. And the river began to boil, and all the people who had entered there were all burned, [they were] as if boiled. Then there was nowhere else to [take refuge].<note>The original expression is "to defend".</note></p>
+      <p>And during those three months, they say that [Thokwjwaj, Taapyatsàʼ and his family] were inside the ground. They say that there was nothing left [up above]. Only they, who had dug out earth, had stayed alive.</p>
+      <p>After the three months, they say that little by little they began to come out. Like so, very carefully, because the earth was hot. And, as they had been [in a deep pit], he fire passed them by and as they also had water to wet [the ravine], they had thus not been warmed much.</p>
+      <p>And afterwards, they tried to come out little by little. But the earth was still very hot. And still the fire was in the tree trunks, because it had entered all the way into the roots of the dry trees ... And when the three months had passed, they say that Taapyatsàʼ came out with Thokwjwaj. And they looked at the land, [and saw] that there was not a single tree; it was all bare. And then he said, "Now what shall we do, how shall we go out, if there is no shade ...?"</p>
+      <p>And they looked at the land. The next day, they say that a very heavy rain came and the ground was very cool. So they started to pass through there. And when they saw a sprout, Taapyatsàʼ said, "There is a tree that has sprouted. Now what can we do? I believe that we should tend to this tree."</p>
+      <p>And the next day, they say that Thokwjwaj had begun to tend to that tree.<note>Here the next sentence has been omitted: "They say that he had to enforce." The narrator repeats himself.</note> They say that he started to fix his pimpim,<note>Translator's note: a drum.</note> and when it was fixed, then he went there and would play it, every day, above that tree, so that it would grow more. Thus he was healing that tree.</p>
+      <p>Every day he was playing his pimpim above that tree so that it would grow more,<note>Here the narrator repeats himself. The repetition has been omitted.</note> so that he would have its shade. They say that Taapyatsàʼ suffered with his family, who were inside the earth, because there was no shade out there. So <pb n="23"/>the whole family was inside the earth [all day]. Only at night would they go outside to refresh themselves.</p>
+      <p>Then, for a while, they say they saw the tree, which was about a quarter,<note>Here possibly referring to a "quarter of a 'braza'"[Translator's note: A historical unit of length similar to the English fathom.] (1/4 of 1.7 meters = about 42.5 cm); or, less likely, a "quarter of an 'ana'" [Translator's note: A historical unit of length.] (1/4 of 59.38 cm = 14 cm).</note> like so. They say it was growing a little. And Taapyatsàʼ, as he is small, he tested that tree, because in a month they already had it like that. For a month, they say that he saw that the tree was coming along. It already gave shade and then he put himself under the tree, in the shade, so he was happy to have that shade. Then he said, "Now yes, I will keep playing pimpim all the time above this tree so that it will grow more." So he kept singing over it until the tree got bigger. Then, when it was a little bit bigger, the whole family went outside. They say they were in the shade. They were happy. Then Thokwjwaj said, "Now what do we do? We cannot find anything here. There is nothing [to eat] here, [the only thing is that] yes, it has rained. [But, still] what can we do?"</p>
+      <p>[But], one day, they say that they had been looking out over the land. Many things sprouted there that they did not know about. Then Thokwjwaj said, "This tree is called chañar! This tree is called algarrobo! Those trees will serve as our food, [they will be] for us poor people here."</p>
+      <p>They say that there were no other people, only that family of Taapyatsàʼ that lived. Then, they say that Taapyatsàʼ did not know what he was going to do with his family, because he had girls and young boys and he did not know what he was going to do with them. Until, finally, as there were no people, then they began to marry among their own siblings.</p>
+      <p>"[This is what we do] so that the population will grow again," said Taapyatsàʼ.</p>
+      <p>Taapyatsàʼ could do nothing, as there were no more people. What could he do?</p>
+      <p>Then Thokwjwaj said, "It doesn't matter! The population just will grow out of this family!"</p>
+      <p>And thus it was so. And Thokwjwaj began to go over that whole land, [and discovered] that there was already bush. And that tree that Taapyatsàʼ was healing, it was already big. It already had shade so they could live there, in the shade. Then the people began to go outside and they say that they put up (built) their <pb n="24"/>huts once more and they were at peace. Then Thokwjwaj went out to get to know the trees that were growing on the land. And he told the others about them, "Here we have the tasi plant,<note>Translator's note: latexplant (Araujia odorata, formerly Morrenia odorata), cf. vol. 6, p. 117.</note> here we have the algarrobo plant, here we have the chañar plant, here we have the other fruit plants! This is going to be our food, because this is going to give fruit later! We have to take good care of this!" he said.</p>
+      <p>Then Thokwjwaj went over (watched) that nothing would happen until the bush had grown more. And after a while, they say that Taapyatsàʼ's family spread out again. The population spread out through that same family. They say that they lived in a small village once more. The people were happy and they saw all the fruits of the bush that were there. They had tasted that they were very sweet, so they were good (good food) for them and that's what people lived on. That is how it happened.</p>
+      <p>So for all of my time, when I was with my old folks [parents], before, when we used to go out together, when they saw a burned log in the bush, they [always] remembered this story. They would say that the burned log that was there in the forest was from the time when the fire ran through there. They said so. Since then it had remained there in the land, because nobody made fire over there, far away, but [it was from the time when] the fire was burning all the forest. That's what they told me. So I knew the story, that this was what had happened. That's how the old people told it, and I think that's it, the end.</p>
+    </body>
+  </text>
+</TEI>

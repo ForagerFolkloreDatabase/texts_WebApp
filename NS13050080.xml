@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Origin of the Pucarara (Southern American bushmaster) and of Other Vipers</title>
+        <editor role="collector">María Alejandra Verna</editor>
+        <editor role="narrator">Pedro Machuqui</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NS13050080</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NS13050080</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Verna, María Alejandra (2026): Six Ese’ejja Myths. Trans. for the Forager Folklore Database (FFDB Documents). Quot. pp. 8-10.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CSA37404">Ese Ejja</name>
+          <date when="1982" type="recorded">Recorded in 1982.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>This woman, who was the daughter of the vultures and who had married Docuei'ai, continued walking in search of another husband since the brocket had gone to the bush. She walked for a long time until she found the snake, the pit viper. He was a person and then said to her, "I don't even have enough teeth to eat a little mouse." The girl said to him, "I will make you teeth with this thorn." She made them and put them in. "Well, let's try it," said majjásha, the pit viper. He tried it on the woman's hair and it bent. "Let's try somewhere else," he said again. The pit viper bit the girl and she died. Her sister managed to escape, but from behind came majjásha, following her. She arrived at a man who asked her, "What are you doing here?" "The pit viper is coming, following me, please help me!" she answered. "I will defend you, but hide inside my daquidei," said the man. When majjásha arrived, he asked the man if he had seen a woman coming. "There is no one around here," answered the man. The pit viper sniffed around and said to him, "This is where that girl has gotten to." "She's not here, go somewhere else, she's already gone," said the man. "No, she is here, I am smelling her, she is around here," answered majjásha. The angry man grabbed his machete and dealt him several machete blows until he broke his neck into a few pieces. From each of these pieces came out the snakes of the whole world. The woman then wanted to marry this man who had defended her. They just lived together for a few weeks because her husband kept turning into an animal. His wife had become pregnant and one day she walked and arrived to where the jaguar lived with his sister. This one said to her brother the jaguar, "Brother, a lady has arrived and said that you are a pig." "Now I will kill her," said the jaguar, shouting and bellowing. When the pregnant woman saw him, she hid inside a thick tacuara. The jaguar searched and searched everywhere. When he grabbed the tacuara where the woman was, he heard a noise like this: Cha, cha, chachararararai! It was the necklace of teeth of this woman that sounded like this inside the tacuara. The jaguar broke the trunk open and ate the whole woman and the boy too. But the boy escaped through the beast's backside and went to where his grandmother was and when she saw him she covered him with a tutuma<note>The tutumo (Crescentia cujete) is a regional crop tree whose fruit the natives call tutuma. It has an oval-shaped pericarp with a diameter of about 18cm. It is split in the middle, the pulp is extracted and left to dry in the sun, so it will acquire a hard consistency. It is widely used by Ese'ejja women in all domestic chores</note>&gt;. The jaguar was pleased after having eaten the girl. <pb n="71"/>Just a little later his sister came and said to him, "Brother, the woman you ate was pregnant." "Howcome you didn't tell me?" replied the jaguar. But after a short time the boy had grown up and was wandering everywhere on his own. His grandmother told him to be careful because the jaguars could eat him like his mother. One day he went to the bush and saw a chonta palm tree and another chima, he returned home and asked his grandmother to help him fell them. "With these branches I will make weapons to take revenge on the jaguar that killed my mother," said the boy to his grandmother. When the bow and arrow were ready, the boy went to his enemy, the jaguar. He tried to shoot it several times but it did not die, the arrows did not kill it. When he tried with the salón<note>The salón is a very rudimentary rifle, .22 caliber, single shot.</note> he killed it with just one shot.</p>
+    </body>
+  </text>
+</TEI>

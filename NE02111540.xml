@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Dyatpashelaha</title>
+        <editor role="collector">Valentina Vladimirovna Shilova</editor>
+        <editor role="narrator">Turutina Polina Gilevna</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NE02111540</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NE02111540</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0">CC BY-NC-SA</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Budzisch, Josefina/Wagner-Nagy, Beáta (2024): INEL Nenets Corpus. Version 1.0. Publication date 2024-12-31. https://hdl.handle.net/11022/0000-0007-FE37-E. Archived at Universität Hamburg. In: The INEL corpora of indigenous Northern Eurasian languages. https://hdl.handle.net/11022/0000-0007-F45A-1. Quot. p. s.p..</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CEE15002">Forest Nenets</name>
+          <date when="2002" type="recorded">Recorded in 2002.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>Dyatpashelaha, or Swan-like.  There lived one man. He had a daughter, her name was Dyatpashelaha, who looked like a swan.  The man loved his girl very much. If he gets the beast, first, he gives it to his daughter.  Over time, he had two wives. They were sisters.  But Dyatpashelaha was treated badly.  When the husband went hunting, one of the wives said: "Let's kill Dyatpashelaha."  And then one day there was a thunderstorm. Here is one of the wives and says: âLet's say to Dyatpashelaha that, they say, a thunderstorm is approaching,  it is necessary to strengthen the tent. And we ourselves will hide in the tent. Let's say to her: Dyatpashelaha, crawl into the tent on your back, open  your mouth and say: a-a. Dyatpashelaha strengthened the tent.  Her two stepmothers can be heard saying: âDyatpashelaha, crawl into the tent on your back.â  She slowly lay on her back and began to crawl, sticking her head under the door shutter.   And the wives say: "Say: ah." Dyatpashelaha says: âWhy?â  Immediately, as soon as she opened her mouth and  said "why," the stepmothers threw a red-hot thimble into her mouth.  The thimble went down her throat. And the poor Dyatpashelaha died. Then the husband  returned from hunting and said: âAtpashelaha, come here for the bird.â  Nobody comes.  The two wives came out of the tent, they say to their husband: âDyatpashelaha has died.â The husband was surprised: âBut she didnât get  sick, did you?â The corpse of Dyatpashelaha was wrapped in new beautiful clothes and placed on a sled. The father  harnessed the old stags, says: "Take my daughter to distant lands." The stag  went, to distant lands, reached the other world, got up. A woman looks out of the tent and says: âThe bride came to us and there is no need to look, she  came herself.â They took their wife to their son. It turns out that an old man and an old woman lived in this tent, and they had a son. Here the woman says: âOh, our bride is silent.â  The old man struck the girl between the shoulder blades with his palm, then a thimble came out of her mouth and jumped out.  Dyatpashelaha jumped up, grabbed the thimble and ran outside.   She sat on a harnessed sled, drove the deer, drove away. And the old woman, audibly, swears at  the old man, says: âWhat have you done, if you had not pulled out a thimble, this girl would not have gone home.  She would live with us." And the stag brought Dyatpashelaha to her father.  She says to her father: âWhen you left, your two wives did this: they put a thimble down my throat.â  The father took the wives by the legs and tore them in two. And  they began to live as before.</p>
+    </body>
+  </text>
+</TEI>

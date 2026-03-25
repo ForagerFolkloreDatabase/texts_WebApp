@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Ancient Kavdlunait's Ruin Near Arsut</title>
+        <editor role="collector"> anonymous</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NN09853190</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NN09853190</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Rink, Henry (1875): Tales and Traditions of the Eskimo. Edinburg/London: Blackwood. Quot. p. 319.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA27908">Kalaallit (West Greenland)</name>
+          <date notBefore="1823" notAfter="1868" type="recorded">Recorded sometime between 1823 and 1868.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>A kayaker one day went to the bay of Iminguit to catch thong-seals. Arriving there he observed a tent belonging to some Kavdlunait. He heard them jesting and prating inside, and was strongly minded to go and look in upon them. Accordingly be left his kayak, went up to the place, and began to strike on the sides of the tent. This made them apprehensive, and they now became quiet, which only encouraged him to continue all the more, until he succeeded in silencing them altogether. Then he took a peep in at them, and behold! they were all dead with fear. At Ikat, the Kavdlunait living there were also taken by surprise by the Kaladlit, and four fathers fled with their children out upon the ice, which, however, being too thin, broke through with them, so that all were drowned; and it is said that only a few years ago they might be seen at the bottom of the sea. It is a common tradition at Arsut, that whenever they become visible it is a sure foreboding that one of the people will die.</p>
+    </body>
+  </text>
+</TEI>

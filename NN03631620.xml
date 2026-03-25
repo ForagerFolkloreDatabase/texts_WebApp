@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Woman Who Married the Wolf</title>
+        <editor role="collector">Harry Hull St. Clair</editor>
+        <editor role="narrator">Tom Hollis</editor>
+        <editor role="narrator">Jim Buchanan</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NN03631620</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NN03631620</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Frachtenberg, Leo J. (1913): Coos Texts. New York: Columbia University Press &amp; Leyden: Brill (Columbia University Contributions to Anthropology, 1). Quot. pp. 162-167.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA29402">Coos</name>
+          <date when="1903" type="recorded">Recorded in 1903.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>A girl lived in Takimiya. [She had] five younger brothers. Everybody wanted to buy her, but she did not want a husband. In the afternoon she was always chopping wood. She had five pack-ropes. Once she went to pack [wood]. <pb n="165"/>She came back four times. The fifth [pack] she put on the top of a log. "This may be a good load." She put the pack-rope on the top of her head. She could not stand up. Something was holding it [back]. She shook it around [to see] whether she wouldn't tie and untie it; but there was nothing holding it. "I don't know what's the matter with my load." For a long time she did it thus; she got tired and began to cry. All at once a man stood [there]. "You are my wife. I was holding your load. That's [why] you couldn't stand up." He had called her thus: "My wife." The woman became somewhat ashamed. She did not know the man. She never had seen him. Then she was thinking thus: "I will go with him." The fifth pack she still had left there. Her folks found the pack. "Some one must have killed her." They all looked for her everywhere.</p>
+      <p>So they went back of the shore into the forest. And he took her up there to a big lumber-house. When he had taken his wife up there, [he said,] "Please [wait] here, your mother-in-law will take you in." So she was sitting there waiting. Suddenly a Wolf ran out. She became frightened, and it seemed that he was growling. He opened his mouth and growled. The woman turned back. The Wolf said to the boy, "This woman does not want to come in. The woman is frightened." Then the boy got angry. "What's the matter with you? You shall change yourself into a person. She will not be afraid of you [then]." [Wolf] went out again, and assumed the shape of an old woman. Thus he said to the woman: "Come in!"</p>
+      <p>So she entered. Many other old people were lying inside when she entered. The people had gone hunting, and hadn't returned yet. Then in the evening the young men came back. Each of them had as a load a deer, and they threw it down outside the house. They had all <pb n="167"/>sorts of things inside, - much money and all kinds of dried meat.</p>
+      <p>She staid there, and had two children. And the children grew up. Thus she said to her children: "You mustn't play down the river." When the children grew up very large, they two went down the river. They saw some people. [The hair on] their heads was cut [short]. They were walking around the forest, and they cried. When the two came back, they told what they had seen. Thus she said: "They must be looking for me."</p>
+      <p>Then one day the husband took his wife to her folks. They carried large loads, - all kinds of meats, and all kinds of money and valuables. He was hiding a little ways off in the brush, and said thus to his wife: "Go and see your folks. You shall come back soon." So, when she arrived there, she said thus to her folks: "I am all right. Don't worry about [it]. I am living with a husband." So thus she spoke to her folks: "After this I will always give you meat. I will say thus to my children, [and] they will continually drive meat here." Then the two went back. They were driving live deer and elk there, and then they killed [them] themselves. Her husband was a Wolf.</p>
+    </body>
+  </text>
+</TEI>

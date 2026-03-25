@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Mink Legend (Mink wants to marry Sawbill-Duck-Woman)</title>
+        <editor role="collector">Franz Boas</editor>
+        <editor role="narrator">Yāʼgōlas</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NN01141302</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NN01141302</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Boas, Franz (1910): Kwakiutl Tales. New York: Columbia University Press &amp; Leyden: Brill (Columbia University Contributions to Anthropology, 2). Quot. pp. 130-133.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA29010">Kwakwakaʼwakw</name>
+          <date when="1900" type="recorded">Recorded in 1900.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>Then he wanted to marry again. I want to marry Sawbill-Duck-Woman." - "Go on," said Mother. Then he went to his future wife. He had white feathers on her head. He was sitting down at the place of his wife. There were many sea-eggs. Then said his sister-in-law [the younger sister of his wife], "Does not your husband eat sea-eggs?" - "Not I," said Born-to-be-the-Sun: "I spit blood if I eat them." - "I must go and empty them out." - "Don't empty them carelessly. Let their place <pb n="133"/>be a nice spot." Then the sea-eggs were emptied out. Then Born-to-be-the-Sun went out to eat among the sea-eggs. He was eating the sea-eggs well on the ground, like one crazy, although he had said that he would not eat them. "Where is your husband?" said the younger sister of his wife. Go and see if he went to what you emptied out." Then the younger sister of his wife came in. "Is not this rascal eating among the sea-eggs? Strike him, even if he should die at once." Then they took poles and struck him. Now there was only foam on his mouth, and he was dead. Then he was found by women. "Oh, is not this Born-to-be-the-Sun who is foaming at the mouth?" "T, t, t, t!" he said, on his part. "Indeed, I have slept very long."</p>
+    </body>
+  </text>
+</TEI>

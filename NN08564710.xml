@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Giant</title>
+        <editor role="collector">Edward William Nelson</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NN08564710</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NN08564710</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Nelson, Edward W. (1899): The Eskimo about Bering Strait. In: Eighteenth Annual Report of the Bureau of American Ethnology. Washington: Government Printing Office, part I, 1-518. Quot. pp. 471-473.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA27733">Norton Sound Inuit</name>
+          <date notBefore="1877" notAfter="1881" type="recorded">Recorded sometime between 1877 and 1881.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>One dark winter night a woman ran through the village of Nĭkhʼ-tă and out on to the snow-covered tundra; she was fleeing from her husband whose cruelty had become unbearable. All through the night and for many days afterward she traveled on toward the north, always going around the villages she came near, fearing that she might be pursued. Finally she left all signs of human life behind, and the cold became more and more intense; her small supply of food was exhausted and she began to eat snow to lessen her hunger. One day, as evening drew nigh, she was in such a wind-swept place that she forced herself to go on. At last she saw before her what seemed to be a hill with five elevations on its crest; when she came to it she saw that it looked like an enormous human foot. Removing the snow from between two elevations, that looked like huge toes, she found it warm and comfortable, and slept there until morning, when she started and walked toward a single elevation that showed in the snowy level. This she reached near nightfall and noticed that it appeared to be shaped like a great knee. Finding a sheltered place by it she stayed there until morning, when she went on. That evening a hill like a huge thigh sheltered her for the night. The next night she was sheltered in a round pit-like hollow, around which grew scattered brush; as she left this place in the morning it appeared to her like a great navel.</p>
+      <p>The next night she slept near two hills shaped like enormous breasts; the night following she found a sheltered, comfortable hollow, where she slept. As she was about to start from there in the morning a great voice seemed to come from beneath her feet, saying: "Who are you? What has driven you to me, to whom human beings never come?" She was very much frightened, but managed to tell her sorrowful tale, and then the voice spoke again: "Well, you may stay here, but you must not sleep again near my mouth nor on my lips, for if I should breathe on you it would blow you away. You must be hungry. I will get you something to eat."</p>
+      <p>While she waited it suddenly occurred to her that for five days she had been traveling on the body of the giant, Kĭñʼ-ă-gʼâʼkʼ, or Kiñʼ-äk. Then the sky became suddenly obscured, and a great black cloud came swiftly toward her; when it was near she saw that it was the giant's hand, which opened and dropped a freshly killed reindeer, and the voice told her to eat of it. Very quickly she got some of the brushwood that grew all about, made a fire, and ate heartily of the roasted flesh. The giant spoke again: "I know you wish a place in which to rest, and it is best for you to go into my beard where it grows most thickly, for I wish to take breath now and to clear from my lungs the hoarfrost which has gathered there and which bothers me; so go quickly."<pb n="472"/>She barely had time to get down into the giant's beard when a furious gale of wind rushed over her head, accompanied by a blinding snowstorm, which ended as quickly as it began, after extending far out over the tundra, and the sky became clear once more.</p>
+      <p>The next day Kiñ-äk told her to find a good place and build herself a hut of hairs from his beard. She looked about and chose a spot on the left side of the giant's nose, not far from his nostril, and built her hut from hairs taken from his mustache. Here she lived for a long time, the giant supplying her wants by reaching out his great hand and capturing deer, seals, and whatever she wished for food. From the skins of wolves, wolverines, and other fur-bearing animals that he caught for her she made herself handsome clothing, and in a little time had on hand a great store of skins and furs.</p>
+      <p>Kiñ-äk began to find his mustache getting thin, as she used the hairs for firewood, so forbade her using any more of it, but told her to get some of the hair growing down the side of his face whenever she needed any. Thus a long time passed.</p>
+      <p>One day Kiñ-äk asked her if she would not like to return home. "Yes," she replied, "only I fear my husband will beat me again, and I shall have no one who will protect me."</p>
+      <p>"I will protect you," said he. "Go and cut the ear tips from all the skins you have and put them in the basket. Then set yourself before my mouth, and whenever you are in danger remember to call, 'Kiñ-äk, Kiñ-äk, come to me,' and I will protect you. Go now and do as I have told you. It is time. I have grown tired of lying so long in one place and wish to turn over, and if you were here you would be crushed." Then the woman did as she had been told, and crouched before his mouth.</p>
+      <p>At once there burst forth a tempest of wind and fine snow, and the woman felt herself driven before it until she became sleepy and closed her eyes. When she awoke she was on the ground before the houses of Nĭkhʼ-tă, but could not believe it was so until she heard the familiar howling of the dogs. She waited until evening, and after placing the basket of ear tips in her storehouse, entered her husband's home. He had long mourned her as dead, and his pleasure was very great when she returned. Then she told her story and her husband promised never to treat her badly again. When he went to his storehouse the next day he was very much surprised to find it filled with valuable furs, for every ear tip brought by his wife had turned into a complete skin during the night.</p>
+      <p>These skins made him very rich, so that he became one of the headmen of the village. After a time he began to feel badly because they had no children, and said to his wife, "What will become of us when we are old and weak, with no one to care for us? Ah, if we could but have a son." One day he told his wife to bathe herself carefully; then he dipped a feather in oil and with it drew the form of a boy on her abdomen. In due time she bore a son and they were very happy. <pb n="473"/>The boy grew rapidly and excelled all of his youthful companions in strength, agility, and marksmanship. He was named Kiñ-äk, in memory of the giant. Then by degrees the husband became unkind and harsh as he had been before, until one day he became so enraged that he caught up a large stick to beat his wife. She ran out of the house in fear, but slipped and fell just outside, and her husband was close upon her when she remembered the giant and called "Kiñ-äk, Kiñ-äk, come to me." Scarcely had she said these words when a terrible blast of wind passed over her, blowing her husband away, and he was never seen again.</p>
+      <p>The years passed until young Kiñ-äk grew to be a handsome and powerful young man and became a very successful hunter, but he had a fierce and cruel temper. One evening he came home and told his mother that he had quarreled with two of his companions and had killed both of them. His mother remonstrated with him, telling of the danger he would be in from the blood revenge of the relatives of the murdered men. Time went on, and the matter seemed to be forgotten.</p>
+      <p>Again Kiñ-äk came home with a tale of having killed a companion. After this every few days he would quarrel with someone and end by killing him; at last he had killed so many people that his mother refused to permit him to live with her any longer. He seemed greatly surprised at this, saying, "Are you not my mother? How is it that you can thus treat me?"</p>
+      <p>"Yes," she replied, "I am your mother, but your evil temper has ended in killing or driving away all our friends. Everyone hates and fears you, and soon no one will be left living in the village except old women and children. Go away; leave this place, for it will be better for all of us."</p>
+      <p>Kiñ-äk made no reply, but for some time he hunted continually until he had filled his mother's storehouse with food and skins. Then he went to her, saying, "Now that I have provided you with food and skins, as was my duty, I am ready to leave," and he went forth.</p>
+      <p>By chance he took the same road his mother had traveled during her flight, and came at last to the giant's head. When the giant understood that he was the son of the woman who had been there he permitted the young man to stay on his face, but told him never to come about his lips, for if he ventured there evil would befall him. For some time Kiñ-äk lived there quietly, but at last made up his mind to go upon the giant's lip and see what was there. After a great deal of hard work in getting through the tangled thicket of beard on the giant's chin he reached the mouth. The moment he stepped upon the lips and approached the opening between them a mighty blast of wind swept forth and he was hurled into the air and never seen again.</p>
+      <p>The giant still lives in the north, although no one has ever been to him since that day; but whenever he breathes the fierce snow-drifting north winds of winter make his existence known.</p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Legend</title>
+        <editor role="collector">Konstantin Nikolaevich Rychkov</editor>
+        <editor role="narrator">Beyun</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NE02094001</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NE02094001</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0">CC BY-NC-SA</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Däbritz, Chris Lasse/Gusev, Valentin/Stoynova, Natalia (2024): INEL Evenki Corpus. Version 2.0. Publication date 2024-12-31. Archived at Universität Hamburg. https://hdl.handle.net/11022/0000-0007-FE38-D. In: The INEL corpora of indigenous Northern Eurasian languages. https://hdl.handle.net/11022/0000-0007-F45A-1. Quot. p. s.p..</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CEE15803">Evenki</name>
+          <date when="1912" type="recorded">Recorded in 1912.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>A story. In [the clan] Hirogir there was the man Jeha, their strong one (?).  In [the clan] Kundogir there was the man Haj.<note>[DCh]: The last clause is unclear.</note> Jeha's wife calles Haj her father. From [the clan] Hirogir the strong man Jeha. From [the clan] Kundogir the strong man Haj. Haj's rich  people got annoyed at Jeha. They say: "Let's go to Jeha!" Being many people they went off.  Jeha is living in one tent, the people are constantly chatting in the tent. It was summer.<note>[KAY, DCh]: Here the verb 'hinkÉtÉ' means metaphorically 'to talk quickly and much, without stopping'.</note> A woman is watching. "People will come", they said, "maybe they'll kill [us(?)]", they said.<note>[DCh]: The sense is quite unclear, since pn-marking is not consistent apparently.</note> The Kundogir people came silently. The watching woman entered the tent. She went in and the Kundogir people damaged the smoke hole. The tent collapsed. They started piercing the tent covering. Jeha doesn' t move. One human of his relatives went out from the place of honour. The Kundogir people were about  to chase [him]. Haj is standing outside and says: "How(?) didn't it kill Jeha?"<note>[DCh]: The form "onÊ¼ÉkÉmi" is unclear.</note> Saying: "Jeha!" "Haj!" he says. He says: "Are you healthy?" "Healthy!" He says: "Go off now!" Jeha went off. He took along a fishing rod, and he  took along his bow and his arrows. Haj shouted and said: "Jeha went off!"  One human came and [Jeha] started to run. Jeha was running and running, going and going. Between <note>[DCh]: The usage of the imperative mood is unclear here.</note>two rivers they(?) chased [him] up. He found the river mouth. He caught [them(?)] up and jumped. His arrows were <note>[KAY]: Here in the</note>scattered, [he stayed] with empty hands (?). When he has gathered all [Kundogirs], he'll kill them!<note> last clause there might be an idiomatic expression 'Ð¾ÑÑÐ°ÑÑÑÑ Ñ Ð³Ð¾Ð»ÑÐ¼Ð¸ ÑÑÐºÐ°Ð¼Ð¸' (lit.: 'Ð¾ÑÑÐ°ÑÑÑÑ Ð½Ð¸ Ñ ÑÐµÐ¼'/'stay without anything').</note> Jeha went off. He caught fish with his fishing rod. Going around he returned home. He found  his wife. At that time one didn't kill women. Killing a woman is a shame. After that they heard: Jeha is <note>[DCh]: The form "hald'a" appears to be incomplete.</note>alive. Again they say: "Let's go to Jeha!" Then early spring came. Jeha found again another  clan(?). They settled together. Haj came again. He came there, he/she says (?), they shoot  at each other. A swan's wing shall become Haj's arrow (?). The Kundogir <note>[DCh]: The syntax is completely unclear.</note><note>[DCh]: The original </note>people gathered. Haj says: "I will kill Jeha! I [want] to kill!<note>translation of RKM implies "munn'ak-" being a variant of "nÊ¼uÅnÊ¼akiË" 'goose'.</note> You won't, I myself will kill [him]!" Here the Kundogir people, there the Hirogir people.  Haj watched his arrows and recognized [them]. The Kundogir people finished all Hirogir people. Jeha was left behind alone.  They shot Jeha's neck a bit. Jeha was lying [as if] he died. The Kundogir people returned  home. They were living for a while. Haj says: "Jeha's knife is good, I'll go for it!"  He went off. He came and said: "How are you doing, are you alive?" "I am alive", Jeha says. He took the arrow, it was in [his] neck. Then he lit a fire. "Be here", he says, "at my  fire!" Now he went off, he took away his knife. They(?) wandered one day of wandering.  "Well, now", he says, "let's separate, friends!" They separated. He came back to Jeha. Jeha has got healthy. They(?) separated, he got healthy. Haj went off to his own land.  After that they didn't come. From Jeha the clan Hirogir developed. There far away were the clans Udigir and  Hukochar.</p>
+    </body>
+  </text>
+</TEI>

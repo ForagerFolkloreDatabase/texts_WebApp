@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Red-Head</title>
+        <editor role="collector">Christiaan Cornelis Uhlenbeck</editor>
+        <editor role="narrator">Nínoχkyàio</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NN12041230</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NN12041230</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Uhlenbeck, Christiaan C. (1912): A New Series of Blackfoot Texts from the Southern Peigans Blackfoot Reservation, Teton County, Montana. With the help of Joseph Tatsey collected and published with an English translation. Amsterdam: Müller (Verhandelingen der Koninklijke Akademie van Wetenschappen te Amsterdam, Afdeeling Letterkunde, NS 13,I). Quot. pp. 123-126.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA31305">Piegan</name>
+          <date when="1911" type="recorded">Recorded in 1911.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>There was a young man of the ancient Peigans, he had no clan, he camped about alone. That young man killed the Peigans. He had a mother. His mother was called Crow-woman. His pets were crows and magpies. [Women] would come to that young man, they came to marry him. His pets used to tell Red-head [this was the name of that young man]: Kill that woman. There was a chief of the ancient Peigans, whose [literally: his] daughter did not [want to] marry. There was a good-looking young man, he went towards that girl. He said to her: Let us be together. She told him: If you kill Red-head, I shall marry [you]. And that young man was pitied by wolverines. And that Red-head could not be killed. That young man told the girl: Yes, I shall kill Red-head. That young man sharpened [literally: <pb n="124"/>put in order] an elk-horn [that lie had]. It got to be very sharp, he put it away along the calf-side of his leg. He went to Red-head. He came close to him. He turned into a woman. He was [now] a very good-looking woman. Then he came there in the night, he did not enter. Then he hid himself near by, where that old woman [Red-head's mother] had got her water. Before day-light he [Red-head] went to hunt, and that old woman went after morning- water [that means: went early after water]. That woman [viz. the young man who had. turned into a woman] got up, she kissed her [Red-head's mother]. She [that young man] said to that old woman: Mother, help me, I have come, that I might marry your son. I am not married. She was told by that old woman: My son kills his wives. His pets are the ones [that tell him to do so]. Now I shall help you. She [that young man] went home with her.</p>
+      <p>When they entered, these crows and magpies told that old woman Crow-woman: She has a man's eyes, and she has a man's legs. They Hew towards him [Red-head]. There he was, he came home with the pieces of the carcase. They flew to him, they told Red-head: There is one with a man's eyes and with a man s legs, kill him. Red-head came home, his mother went out to meet him. She told him: Listen <pb n="125"/>to me, now I get tired. Your pets eat awfully much. Don't kill her. There is a woman, she came in. That old woman entered, and her son came in the last. She [Red-head's mother] stood before that woman. Her son finally went to the upper part of the lodge, he was seated already. And that woman [the young man] went to the upper part of the lodge. She kissed him, she gave him moccasins, ornamented with quills, and pemmican, mixed with medicine, that he might love her. And he ate that pemmican, and he liked her. She cheated him. Those pets never slept. They told Red-head: She is not a woman, she has a man's eyes, and she has a man's legs. Four nights passed, and his pets got tired. They flew away, they were watching about, if there were some people coming- [that they might tell Red-head to kill them].</p>
+      <p>Five nights passed, and in the morning that woman was told by Red-head: Let us go into that forest over there, that you may look on my head for lice. It was not a long while, then he fell asleep. That woman put his head down, and took the elk-horn, she hammered it in into his ear, and she killed him, and she scalped him, and she ran away. She was far away. And those magpies flew to [the lodge]. They said to that old woman: This one [meaning: you] may die a bad death. Red-bead is killed. <pb n="126"/>You used to say "She is a woman". Then that old woman ran. And she saw her son, [that] he was killed. That old woman was told by the magpies: We let you go [that means: we won't have anything to do with you]. We shall go to the forest, and the crows will go to the hills. And that young man [that had been turned into a woman, and who had taken now his own shape] then came home. He came up going in a circle [and showing: his scalp]. He then gave his scalp to that girl. Then she married him, and then he took his father-in-law's chieftainship. And from that time he was the leader of the ancient Peigans, while they were moving. And now the boiling is ended.<note>Cf. Wissler-Duvall mbi 129 sqq. Cf. also Dorsey-Kroeber ta 126 sqq. 133 sqq.</note></p>
+    </body>
+  </text>
+</TEI>

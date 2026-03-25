@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Tales of Quarrels, Murder, and War (#8)</title>
+        <editor role="collector">James S. Mutch</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NN01082880</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NN01082880</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Boas, Franz (1901): The Eskimo of Baffin Land and Hudson Bay. From notes collected by George Comer, James S. Mutch, and E. J. Peck. New York: AMNH (Bulletin of the American Museum of Natural History, 15,I). Quot. pp. 288-289.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA27903">Baffin Island Inuit</name>
+          <date notBefore="1883" notAfter="1899" type="recorded">Recorded sometime between 1883 and 1899.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>One spring Kokoparoolee's brother went out hunting young-seals, and became snow-blind by exposing his eyes too much to the sun's rays. Four young men, his enemies, who were also out hunting, took this opportunity to attack him. He was unable to defend himself, and the oldest of the four men stabbed and mortally wounded him. He did not feel the wound, and said to them, "I do not want you to kill me," and died. The four young men left the body and went home.</p>
+      <p>When Kokoparoolee heard that his brother had been killed, he resolved to avenge his death. He was a small man. His companions often said of him that he was more like a girl than a man. He waited a whole year. When spring came, and it was again time for hunting young-seals, the four young men moved to a place which is favorable for their pursuit. When they were settled, three of them went out sealing. The one who had stabbed Kokoparoolee's brother was at home. He had to stay in bed because he was snow-blind. His wife saw Kokoparoolee coming, and rolled her husband up in seal-skins, of which they were going to make a new tent. Soon Kokoparoolee arrived. He saw the outer jacket and the spear of one of the men in a small snow house near the tent-door. He went inside and asked the woman to whom the jacket in the small snow house belonged. "It is my boy's," she replied. "And whose is the spear?" - "It is my boy's." - "Whose bow and arrow are these?" - "They are my boy's."</p>
+      <p>Then Kokoparoolee stepped up to the bed and thrust his knife through the bundle of seal-skins lying there. His knife passed through the body of the hidden man and killed him.</p>
+      <p>Then Kokoparoolee went away. The three brothers saw him approaching on his sledge. While the sledge was still some distance off, the eldest one asked, "Who are you?" - "I am Kokoparoolee, the young girl of whom you have no fear." As soon as he came close enough, he shot the two elder ones {289} with his arrows. The youngest one ran to the shore. As soon as the others were disposed of, Kokoparoolee followed until he came within throwing distance. The young man attached his line to his spear and threw it at Kokoparoolee, but the latter dodged it. Then Kokoparoolee shot his arrows at the young man. Neither the first nor the second arrow killed him, and he still endeavored to hit Kokoparoolee with his spear. It was only after a number of Kokoparoolee's arrows had hit the young man that the latter died. So many arrows had struck him, that his body did not touch the ground when he fell down dead. Kokoparoolee took out all the arrows but one, the head of which broke off in the body. He had to cut the body in two crosswise, in order to find it.</p>
+      <p>Another summer came, and Kokoparoolee was making a kayak. One day a boat arrived, and one of the crew went up to Kokoparoolee's tent. When he came near, Kokoparoolee jumped over his kayak to the other side. The stranger went slowly round towards Kokoparoolee, but the latter jumped across again to the other side. In this way they continued, but the stranger did not succeed in reaching him. While he went round and round the kayak, trying to catch Kokoparoolee, one of the other men took a human skull from the shore to their boat. Finally the stranger gave up trying. He went back to the boat and told his companions that he was not able to catch their enemy. Before the boat left, they put the human skull into the water at the place where they started. They thought that it would frighten Kokoparoolee to death.</p>
+      <p>The boat left; and when it was some distance off, Kokoparoolee went down to the shore. There he saw the skull. As he could not reach it with his hands, he took a kayak-paddle and lifted it out of the water. Then he jumped into the kayak and took it some distance from shore. The people in the other boat went to a place not very far away, and there they all died, but Kokoparoolee lived on.</p>
+    </body>
+  </text>
+</TEI>

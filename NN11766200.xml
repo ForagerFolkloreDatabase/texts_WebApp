@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Girl Who Married a Toad</title>
+        <editor role="collector">James Teit</editor>
+        <editor role="narrator">Tuu:ʼts ('strong rocks')</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NN11766200</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NN11766200</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Teit, James A. (1919/21): Tahltan Tales. In: The Journal of American Folk-Lore 32(124), 198-250; 34(133/134), 223-253, 335-356. Quot. pp. 340-341.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA28403">Tahltan</name>
+          <date notBefore="1912" notAfter="1915" type="recorded">Recorded sometime between 1912 and 1915.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <note>See Tlingit (BBAE 39: 53); RBAE 31: 749.</note>
+      </p>
+      <p>A wealthy man had a daughter who lived in a little room by herself. She had just finished the training that girls undergo at puberty. For several successive mornings she noticed a toad [or frog?] lying at door, and kicked it out of the road. One night the toad changed into a young man, and asked the girl if she wanted him for a husband. She did not know that it was the toad, and answered, "Yes." The girl put on her marten robe and eloped with the young man.<note>Compare No. 53 for the preceding incident.</note> That night they went to a big lake, where the house of the Toad chief, the <pb n="341"/>wealthy father of the youth, was located. Her parents and all the people searched for her, but could find no trace of her.<note>Some narrators say that they found her robe.</note> After she had been with the Toad people a while, the chief, her father-in-law, told her to go and visit her parents. Her people saw her coming, followed by her husband. Her father invited them into the house, and gave them a good [or high] place<note>Place where nobles or people of rank sit down.</note> to sit in. He ordered his slaves to cook for them and give them to eat. They noticed that the Toad ate no meat, so they gave him berries to eat. He and his wife finished their dishes. The chief asked his daughter not to go back with Toad, but to stay with them. She told her husband, and he left her. Now the people closed all the chinks of the house, so that no Toads could enter. In the morning they saw that many Toads had surrounded the house. Soon they came in; and finally they filled the house, much to the terror and annoyance of the people. The girl's father offered to pay the Toads for the girl, but they paid no attention. Then the girl said to her father, "Let me go with them!" The girl returned to the Toad chief's house, and all Toads left. For this reason women are now afraid of toads, who steal people.</p>
+    </body>
+  </text>
+</TEI>

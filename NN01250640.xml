@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Wren and Grizzly Bear</title>
+        <editor role="collector">Franz Boas</editor>
+        <editor role="narrator">Ēʼwŭltǃāla</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NN01250640</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NN01250640</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Boas, Franz (1928): Bella Bella Texts. New York: Columbia University Press (Columbia University Contributions to Anthropology, 5). Quot. pp. 64-71.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA29022">Bellabella</name>
+          <date when="1897" type="recorded">Recorded in 1897.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>Three men wanted to get all the animals / in the woods. They went along. They were walking along, but they did not / get what they wanted to get for their food. They arrived / and did not get anything. They did not get anything at all. Again they tried to go up the mountains. The youngest one was Wise-Counsellor. / Four times they did not get anything. Then started the youngest one. / "Let me try," said / Wise-Counsellor, the little one. "Go and try, my dear," said / his mother. He was a small man. He was young. Then the young man took his arrows. / The young man put on his little belt, he put on his little cape. He took the fire drill / of his mother. "Now go, my dear. You are going to do what your / elder brothers could not do." He went along. The little one walked along. / The youth went to the beach and the bushes were bad. Then the young man made up his mind. The youth resolved that he would / call the animals in the woods. Wise-Counsellor was sitting on the beach. / Then he shouted, "Come to the beach, come to the beach, / animals of the woods!" Then Squirrel came down to the beach. "Are you the one / I mean, you with your high eyebrows?" He ran away. Then he shouted again, / "Come to the beach, come to the beach, animals of the woods!" / Then Mink came. "Are you the one I mean, you musk <pb n="67"/>smeller?" He ran away. Then he did so again. / He shouted "Come down to the beach, animals of the woods," / said he. Then the Marten came down to the beach. "Are you the one / I mean, you yellow one?" He ran away. Then he did so again. He shouted again, "Come to the beach, come to the beach, animals of the woods!" / Then the Raccoon came down to the beach. "Are you the one I mean, you with the black stroke across you?" / He ran away "Come to the beach, come to the beach, animals of the woods!" / said he. Then the Wolverene came down to the beach. / "Are you the one I mean, you carrying a basket on your back?" He ran away. Again he did so. He shouted, "Come to the beach, come to the beach, / animals of the woods!" Deer came down to the beach. "Are you the one, whom I mean, you with your thin legs and big eyes?" Thus he was told. / Then he ran away. Again he did so. He shouted., "Come to the beach, come to the beach, animals of the woods!" Then came down to the beach the mountain goat. "Are you the one whom I mean, you long face?" Then he ran away. / He did so again. "Come down to the beach, animals of the woods!" / said he. Then Black Bear came down to the beach. "Are you the one / whom I mean, small eyes?" He ran away again. He did so again. "Come to the beach, come to the beach, animals of the woods," thus he said again. Then the Grizzly Bear came down to the beach. "Ah, you are the one I mean!" / Thus he said. He stood on the beach. Then he hopped about and said, 'You are the one / I mean, you with the big hole at each end." "What did you say? / I am going to snuff you up." "Go on, snuff me up." Then little Wise-Counsellor was snuffed up / and he went right into the inside of the grizzly bear. / He jumped out of the anus of the grizzly bear. "Did I not / come out of your big opening behind?" "What did you say, little one? I will snuff you up." / <pb n="69"/>"Again Wise-Counsellor was snuffed up. Then he made up / his mind to take his fire drill inside of the bear. / Then he drilled and he started a fire inside the grizzly bear. / Then he broke up his fire drill and threw his cape on the fire. Again he jumped out of the anus of the grizzly bear. / Now the inside of the grizzly bear was burning. Smoke came out of / the nostrils, anus and mouth and the big one died. / Then he lay on the ground. Wise-Counsellor left him. / He reached his mother's house. "There is some thing, Mother. Hire four men, Mother." - "Do not fool me, my dear. Your elder brothers could not get anything." / "It is true, Mother." - "Go my dear, and cut off a piece." / He was given his mother's knife and he went there and cut off / a piece from the grizzly bear. "Indeed it is true, my dear," said his mother. Then his mother engaged her tribe to carry it down. "Mother shall think that she should hire me," [thought Real Chief]. "'Come, give us advice, Real Chief', / Mother shall think." - "Come give us advice, / Real Chief, for our children," [said the mother]. Then they went to carry down [the meat]. / They were going along. They arrived at the place where the grizzly bear lay. / They cut it up. "What is Real Chief going to carry?" It will be the hind quarters. - "Nn, 'Real Chief carried the hind quarters,' be said, and that will come down to our younger brothers" [i.e. later generations.]- / Wat shall Real Chief carry?" / "Maybe Real Chief shall carry the forelegs." "Nn, Maybe 'Real Chief carries the forelegs,' / they will say, and it will come down to our / younger brothers. "What shall Real Chief carry?" / "Maybe Real Chief will carry the kidney fat." "That is it, / younger brothers." He tied it up and was carrying it along. "You shall be leader, Real Chief." - "I do not <pb n="71"/>want to be leader. / My feet are like foolish when I lead." - Then Real Chief will be in the middle." They were walking along. "Shift / your pack, Real Chief." - "Let me shift it, let me shift it," said Real Chief. "Shift your pack, / Real Chief!" "Come on, go ahead that I may fix my / pack." He sat down and ate his pack. / He ate it all. "G̣ax, g̣ax g̣ax g̣ax," said he / as he was eating his pack. Then he finished it all. He had enough having eaten his pack. Then his brothers were watching for him. He reached his brothers. / "What kept you so long, Real Chief?" "Did I not / hurt myself! I fell down a steep precipice [and lost my pack].' / "Let us look for it." - "You cannot get it. It is way down below. Look how I hurt myself." Then they went along. They reached the house. The tribe was called in. Then all were in / the house and the tribe were eating. Real Chief did not / go in. He just lay with his back to the fire. Real Chief had a child, / his child was called Madzɛʼlx. "Come and scratch my back, Madzɛʼlx." Then he went and scratched his back. Then something showed its end at the backside of Real Chief. Madzɛʼlx bit it and it was fat / out of the rectum of Real Chief. / "Nn, it is hair," / said Real Chief as Madzɛʼlx bit the end of it. "That is what you did with your pack. Wa." /</p>
+    </body>
+  </text>
+</TEI>

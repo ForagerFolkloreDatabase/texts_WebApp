@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Evenks</title>
+        <editor role="collector">Glafira Makarina Vasilevich</editor>
+        <editor role="narrator">Bayaki Nyoturcha</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NE02091083</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NE02091083</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0">CC BY-NC-SA</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Däbritz, Chris Lasse/Gusev, Valentin/Stoynova, Natalia (2024): INEL Evenki Corpus. Version 2.0. Publication date 2024-12-31. Archived at Universität Hamburg. https://hdl.handle.net/11022/0000-0007-FE38-D. In: The INEL corpora of indigenous Northern Eurasian languages. https://hdl.handle.net/11022/0000-0007-F45A-1. Quot. p. s.p..</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CEE15803">Evenki</name>
+          <date when="1930" type="recorded">Recorded in 1930.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>Earlier, there was always a shaman here.  Two Evenks died. He dreamt, he found [= saw that] they were killed <note>[DCh]: Second part of the clause is not clear.</note>close by. In the dream he started to see a shaman, who lived on a mountain. That one had eaten the Evenki. The shaman saw this in a dream, so he went to the mountaineer.  He took fifty Evenki with him. He left, crossed <note>[GVY:] há»¥rrÃ¤n '</note>the Yenisei and went along the river mouth of [the river] Pit. He met the others. There was a shaman on the other side [of the river].<note>dives' is probably misprinted hururÃ¤n 'went'</note> They met by the river mouth of Pit and talked. They talked and talked and the shaman asked the other one:  "Where are you going?" "I walk along this [path]." They walked together along the river Pit and  fifty Evenki became a hundred. They walked away from the river mouth for five days.  They arrived. The two shamans walked along two traces. One walked across the land for  three days. On the third day the shaman said: "We will walk one day then we will see the smoke coming from the big mountain."  On [the mountain] Namur there are houses, forty houses.  They walked quickly, walked around, the shamans' Evenki surrounded [them]. The shaman said: "Light fires."  He forced his Evenkis, leading them around it. The Evenki started to shout, preparing to go to war.  Again they started to shout, they shouted three times. The mountaineers did not come out.  An old man warned them, having untied his string [=shoelaces?]. That  shaman said: "Leave now and prepare to fight." The old man went back. They  shouted, were still shouting, the old man came, again the shaman scolded that one, again he went home.  The mountaineers' shamans came, moving their coats (?). They came, prepared their swords, the  two shamans sat down together. The shaman who had eaten the Evenki said: "Why, we do not know anything about  the ones that were eaten." He asked to marry three women. The other said: "I will give [them to you]." The local stopped ranting now. The Namur shamans said: "Now, be our visitors."  They became guests, they visited for a long time, for seven days. He said  while leaving that they were not to do it like that, they were not to repeat it, they were not to catch them again. The local shaman  said: "Do not do it like that, now they will not leave the dogs there." The shaman  gave the mountaineer three women. They left for the houses with the stinking women. They carried them across the water. They made the ogre go away, they left, they fought, half of them came apart, a few came with tied hands and wounds.  Half of them were not there.  The other ones left for home, they were not visible. They came home, they brought two beautiful women.</p>
+    </body>
+  </text>
+</TEI>

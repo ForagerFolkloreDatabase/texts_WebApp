@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Inupajukjuk (#1)</title>
+        <editor role="collector">George Comer</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NN01083141</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NN01083141</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Boas, Franz (1901): The Eskimo of Baffin Land and Hudson Bay. From notes collected by George Comer, James S. Mutch, and E. J. Peck. New York: AMNH (Bulletin of the American Museum of Natural History, 15,I). Quot. p. 314.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA27803">Kivallirmiut</name>
+          <date notBefore="1897" notAfter="1901" type="recorded">Recorded sometime between 1897 and 1901.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>A long time ago there was a man by the name of Inupajukjuk. He was so large that he could scoop up a walrus in the hollow of his hand. He used to speak of whales as of codfish. One day he walked out into the water and caught two whales, one in each hand. Two people watched him. After he had caught the whales, they asked him for some of the meat. Inupajukjuk had teeth like a squirrel, and the men said in asking him, "You have teeth like a squirrel." This made the giant angry, and he rushed to attack the men, but one of them turned himself into a giant of equal size. They wrestled, and endeavored to throw each other down. The other man had remained small, and he cut the sinews in the heel of Inupajukjuk. The latter fell and was stabbed to death, but before dying he called his wife to come and help him. She came at once, and seized the man who had transformed himself into a giant. She hit him on the head, and it seemed as though she were going to kill him, when the other man cut the sinews in her heel, and she fell and was killed. Then the two men started to go to the house of Inupajukjuk. On the way they found the young child of the latter, which his wife had dropped when she went to help her husband. It was lying on the ground, crying. The man who had remained small tried to raise the baby's head, but it was so large that he could not lift it. Then they went up to the house, and, on looking into the doorway, they saw two large boys sitting on the bed. They became frightened, because they thought they would not be able to vanquish the two boys, so they ran away.</p>
+    </body>
+  </text>
+</TEI>

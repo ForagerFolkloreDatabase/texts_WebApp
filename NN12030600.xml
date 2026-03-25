@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Wolverine</title>
+        <editor role="collector">Christiaan Cornelis Uhlenbeck</editor>
+        <editor role="narrator">Joseph Tatsey</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NN12030600</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NN12030600</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Uhlenbeck, Christiaan C. (1911): Original Blackfoot Texts from the Southern Peigans Blackfoot Reservation, Teton County, Montana. With the help of Joseph Tatsey collected and published with an English translation. Amsterdam: Müller (Verhandelingen der Koninklijke Akademie van Wetenschappen te Amsterdam, Afdeeling Letterkunde, NS 12,I). Quot. pp. 60-61.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA31305">Piegan</name>
+          <date when="1910" type="recorded">Recorded in 1910.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>There was a young man, [that] hunted in the mountains. He killed there an elk. He started to skin it, and he cut it to pieces. He stood up, [and] then he suddenly saw, there was a <pb n="61"/>woman. She came [to where he was skinning]. He said to her: Sit down here. He washed the entrails. He said to her: Will you eat of these? She said to him: Yes, I shall eat of them. She held, what she was eating, with her fingers' ends. That young man looked at her. He thought, that she was a good-looking woman. He said to her: Where is your home? She answered him: I live in these mountains. Over there is my home. That young man said to her: I am not married. She said to him: Then we shall live together.</p>
+      <p>They built a lodge there, where he skinned. They lived there a long time. That man beat his wife. She went out. After a little while that man followed her. He saw her, the way she was walking. He walked fast. When he got near her, she disappeared into this cliff of rocks. When he got there, he could not find her. He just saw there a hole. He sat by it. He saw wolverines. Then he knew: This my wife is not a real woman. From there he went home. When he got close to those lodges, he became sick [literally: he became not a person], because he smelt fire. Then he entered. He got very sick. He said to his people: Such kind of woman I was living with, that I shall die through her. Then he died. That is why nowadays we are afraid of wolverines.<note>Cf. C. WISSLER - D. C. DUVALL, Mythology of the Blackfoot Indians, New York 1908, p. 162.</note></p>
+    </body>
+  </text>
+</TEI>

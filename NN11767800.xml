@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Woman Taken by Kūʼstakāʼ</title>
+        <editor role="collector">James Teit</editor>
+        <editor role="narrator">Tuu:ʼts ('strong rocks')</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NN11767800</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NN11767800</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Teit, James A. (1919/21): Tahltan Tales. In: The Journal of American Folk-Lore 32(124), 198-250; 34(133/134), 223-253, 335-356. Quot. pp. 355-356.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA28403">Tahltan</name>
+          <date notBefore="1912" notAfter="1915" type="recorded">Recorded sometime between 1912 and 1915.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>A Wrangel woman was camped with her husband and children. At this time people were afraid of enemies attacking and enslaving them. Her husband was away hunting, and the woman was afraid that their camp might be discovered. She took her children and went into the woods. Here she left her children hidden at the foot of a tree, saying that she had to go back to camp for something she had forgotten. She never came back. The husband came home, and, finding neither wife nor children, looked around for tracks. He lowed them, and found his children in the woods. The children told their father that they had heard a noise, and that their mother had <pb n="356"/>left them to go back to camp for something she had forgotten. The husband found no trace of his wife. He took the children and returned to Wrangel. This happened in the spring-time, about early in May, and at a place about thirty miles from Wrangel. The woman had been taken by a Kūʼstakāʼ man, who kept her for about two months. For that time she was under his influence. Finally the Kūʼstakāʼ deserted her, and then she recovered her senses. In summer the people moved camp to a salmon creek. The woman was then on this creek, living on raw salmon. She had no clothes and no fire. One day two young men happened to go up the creek, and saw her. She ran into a hole among the roots of trees. They went to the hole and asked her to come out. She was ashamed because she was naked. The men turned their backs, and one of them took off his shirt threw it to her. She put it on, and accompanied them in a canoe to Wrangel, where her husband was living. When they came near her husband's house, they called out that they had recovered wife, but he would not believe them. Her husband was a rich man. He gave a great potlatch because of his wife's return, and paid young men liberally.</p>
+    </body>
+  </text>
+</TEI>

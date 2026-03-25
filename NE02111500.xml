@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>An Old Man and His Two Daughters</title>
+        <editor role="collector">Valentina Vladimirovna Shilova</editor>
+        <editor role="narrator">Turutina Polina Gilevna</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NE02111500</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NE02111500</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0">CC BY-NC-SA</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Budzisch, Josefina/Wagner-Nagy, Beáta (2024): INEL Nenets Corpus. Version 1.0. Publication date 2024-12-31. https://hdl.handle.net/11022/0000-0007-FE37-E. Archived at Universität Hamburg. In: The INEL corpora of indigenous Northern Eurasian languages. https://hdl.handle.net/11022/0000-0007-F45A-1. Quot. p. s.p..</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CEE15002">Forest Nenets</name>
+          <date when="2002" type="recorded">Recorded in 2002.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>An old man and his two daughters Once upon a time there was an old man.  And he had two daughters. One day it got cold.   And they had a tent made of grass.  They froze. The old man says to his eldest daughter, âGo get some warmth from  the Old Man of the South.â  Her father led her to the well, they stopped near the well, and the father said: âJump head down into the well.   You will find two lakes.  Go across the  lake.  When you cross the lake, the laces of the shoes will be untied, but until you cross the lake to the end, do not tie these laces.   Behind the lake, on the other side, you will find a small crow.  It will be on the land bridge of the first lake.   It will begin to swallow the perch starting from the tail.   You should turn this perch head first and let it swallow.   After you go further, you will find a jay bird on the shore of another lake.  The jay bird will swallow the ruff backwards.  Turn this ruff head first and so give it to the jay bird.â After these  instructions, the eldest daughter went looking for warmth.  Here she jumped under the water, reached the edge of the lake.  She looked around the lake, and it seemed to be like on the upper earth.  The weather is calm and it isnât windy.  The lake was just where she needed to go.   So she went there. In the middle of the lake, the lace of the shoes got untied, she thought, âFather  said not to tie it.â  She goes and goes further.  The leg has got very cold.  But she does not tie the lace. She reached the far side of the lake.  She tied the shoelace and looked around.  She saw the land bridge of the  lake.  A crow swallows a perch starting with the tail.  It cannot swallow at all.   She approached the crow, slowly pulled out the perch, turned her head forward and tuck it into the throat of the crow.   From there she went forward. When crossing the other lake, she reached its middle and the shoelace got untied again.   Immediately, she remembered the instructions of her father: do not tie it.   So she went further.  But the leg has got cold.  But she does not tie the lace.  She reached the other  shore, the leg turned into a stock, just after that she tied the lace.  She has looked around and sees the jay bird is trying to  swallow the whole ruff starting from the tail.   The ruff stuck in the throat.  She went there, put  slowly the ruff out, turned it and tuck slowly into the throat.   She looked ahead: she saw the edge of the forest.  She took a closer look: there was one tent visible and  she went there.  She entered the tent, she looked opposite the entrance and saw unskinned animals, ungutted birds, that have not been emptied out, lying.   There were man shoes on the bed, which are to wear in the tent, and a man fur coat.  She went outside and chopped wood.   She cleaned the tent, brought water, after that she kindled a fire, skinned the animals, and gut the birds.   She cooked animal meat.  She took the meat out of the kettle and put it in a bowl.  She did not eat by herself.  She put it on  the table.  She pulled out the man shoes and hung them on the poles.  After she has finished, she hears a man come and say, âWhy  is it a shadow in my tent, who has come?â.  The girl looks out: the man has come.   He got fur and feather, entered the tent, the woman gave him meal.  The man says, âHave you eaten?â   She replied, âNo.â  The man says, âThen eat.â  The man ate, lay down to have a rest.   And the woman began to sort and gut the wild fowl.  When she finished everything, she reposed on the female half of the bed, closer to the door.  The next day even the crows were still asleep, he had already gone hunting.  In the morning the old woman came.   And she says, âSew me a backing for the fur coat.â  The girl looked and saw that there were swan skins.   The girl says, âOkay, I'll do it.â  And the old woman says, âTomorrow Iâll come for the backing.â   She thought, âOh, no, how can I sew it in one day!â  The next morning she finished the backing for the old woman.   The old woman came and looked at the backing.  She took it by the shoulder straps, shook it, wrapped it, put it on the crook of her elbow.  She put out the casket from her bosom.  She gave it to the girl and said, âOnly when you come to your father's tent, only there  you will open it.â  The girl went home.  She opened the box near her father's tent and lost consciousness.  Here she woke  up, she hears deer walking outside and she has even sweated.  She looked around: it turned out she was in a new tent.   A man is lying next to her.  Black haired, handsome. And the Fairy Tale went to the  parental home now.   The youngest daughter sees a new tent is standing, deer are walking around.   She says, âOh, a new tent has appeared near us.  Let's look into it."  When they got there, what was there.   It turned out that the sister is there, it was she who said, âCome to me, you will live with us.â   After they went there,  the younger sister said, âFather, send me there too.â   The father again brought his daughter to the well.  He gave the same instructions to his youngest  daughter. The girl jumped into the well, head down.    Oh, she reached the edge of the lake, as her father said, then she went to the other side of the lake.   In the middle of the lake, the lace of the shoe got untied.  She went on for a little bit.  The girl thinks, âFather doesnât see me, Iâll tie the  laces, otherwise I feel that my leg is completely freezing.â She tied the lace and  moved on. She reached the other side of the lake.  And there is the crow.  It is trying to eat the perch from the tail.   She went there.  She stuffed the perch, as he was - tail first, into  the throat.  And she said, âHere, eat it up!â  Then she moved forward again.  She  reached the middle of the next lake.  The lace of the shoe got untied, she went a little more, she thinks, âI feel that my leg is completely frozen.   My father doesnât see me.  Iâll tie the lace.â  She tied it.   She went ahead and reached the other side.  She looks and sees a jay bird trying to eat perch backwards.   She hopped over there.  She stuffed a perch down in the poor jay bird tail first.  And  she said, âHere, eat it up!â  She crossed this lake and moved on.  She looks ahead and sees a tent near the forest.  She came, entered the tent, laid the fire, warmed up the kettle, put out the meat, ate  all the fat.  She hears the man come and say: âWhy is it a  shadow in my tent.â  The girl looked outside and said, âI have come.â   The man entered the tent, took off his shoes, put on house shoes, he thinks: âThe shoes are wet, clothes are wet.â   He started eating, he looked and saw there was no fat at all in the meat.  They went to  sleep. The man went hunting.  The girl did not gut the fur and feather, they kept lying, as the man left them lying.  The old woman came and said, âSew me a backing cloth.â   She brought the skins of loons.  Then she says, âPlease do have a look, something is itching in my head.â  The girl just says, âI  don't want to.â  The old woman shook her little head and left. And the girl soaked these skins with water and began to sew  them together. The next morning the old woman came and asked, âDid you sew the backing cloth for me?â  The girl said, âYes.  Look.â The old woman pulled it out of the female part of the tent.  She  took it by the shoulder straps.  She shook it outside.  Immediately, the undressed skins were torn.  The old woman put her hand in her bosom.  From there, she put out the box.  She gave it to the girl, she said, âOnly when you come to your father's tent,  only there you will open it.â  And the old woman left. And the girl went home.   Before reaching her sister's tent, she opened slowly the box.  She didn't realize how she lost  consciousness. She woke up, froze, opened her eyes.  And she has a little tent all in holes.  She looked at the sacred place: there are dead, rotten pike and perches lying around.  She looked nearby: the man was sleeping.   His throat is bandaged, one arm is bandaged, one leg is bandaged, his head is white and his face is white.  Here, Num looked at the hard-working girl with a good eye, at the lazy one - with a bad eye.   Here is the end.</p>
+    </body>
+  </text>
+</TEI>

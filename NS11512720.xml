@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Obstinate Girl Who Refused the Old Man</title>
+        <editor role="collector">Walter E. Roth</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NS11512720</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NS11512720</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Roth, Walter E. (1915): An Inquiry into the Animism and Folk-Lore of the Guiana Indians. Extract from the Thirteenth Annual Report of the Bureau of American Ethnology, Washington: Government Printing Office. Quot. pp. 272-273.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CSA36701">Warao</name>
+          <date notBefore="1906" notAfter="1913" type="recorded">Recorded sometime between 1906 and 1913.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>An old man asked a woman to come and live with him. She, however, was young and wanted a younger husband, so she declined him. This made the old man much vexed, and he threatened to punish her badly. By and by the woman took as husband a young man. He was a splendid hunter, and always killed anything and everything; even at night, if he heard a tiger growling anywhere in the neighborhood, he would never hesitate to go out into the darkness and slay it. One day he went into the bush to cut out honey, his wife accompanying him. "That will do," she said when she thought he had cut enough, but he wanted to cut one more tree. "No, don't cut another," she repeated, "I feel frightened. I feel strange, as if something were about to happen."<note>This was really the token.</note> But he insisted upon cutting one tree more, and no sooner had he done so than two creatures like tigers rushed out of a neighboring thicket and killed him. They were not exactly Hebus, and they were not exactly tigers: they were Spirits of some sort whom the old man had sent to revenge himself with. Now the deceased husband had left two brothers behind him, and when they heard of his death, they made inquiry and examined the place in the forest where he had <pb n="273"/>been attacked, but could find no trace of the body. The young widow then wanted to take unto herself one of these brothers-in-law, but he was afraid after what had happened to her first husband. Nevertheless, she loosened her hammock, and slung it next to his; she even brought him food, water, and other things, but he refused to handle anything that she offered. Had he done so, she would have said to herself, "He loves me" [Sect. 275]. Nevertheless, she persisted in her attentions, and followed him everywhere; where he went, she went. He told her he was going to cut out honey and that she must go back; she refused, so he threw her into the river. She did not mind, but clung to the edge of the corial, and though he bashed her fingers with the paddle, she refused to let go her hold - well, at last he gave way and let her join him. So they went together to the place where the honey was to be procured, and filled all their goblets. The woman said, "Don't cut any more. I feel strange. Something is about to happen." He stopped cutting, and helped to pack the corial ready for the return journey. While doing so, the two Tiger creatures came from out of their hiding-place and killed him. And the woman was for the second time a widow. The remaining brother and other members of the family came and visited the spot as before, but there was no trace of the body to be found. It was this remaining brother that the woman next wanted, but after what had happened, he was too much afraid to have anything whatever to do with her. However, she persisted so much, that he was finally forced to consent. They went for the honey as before, the strange feeling came over her, she warned him to stop, they started packing, and the two Tiger creatures appeared. On this occasion, the man killed one of his assailants before being himself dispatched by the other. At any rate, the woman was for the third time a widow. Did she then marry the old man who wanted her originally? No; she would not even look at him.</p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Ts!ūmqǎlǎqs</title>
+        <editor role="collector">Franz Boas</editor>
+        <editor role="narrator">Ēʼwŭltǃāla</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NN01250360</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NN01250360</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Boas, Franz (1928): Bella Bella Texts. New York: Columbia University Press (Columbia University Contributions to Anthropology, 5). Quot. pp. 36-45.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA29022">Bellabella</name>
+          <date when="1897" type="recorded">Recorded in 1897.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>Secretly some body came to Tsǃūʼmqălăqs. He was not recognized by her. / She did not know her lover. Then often / she was secretly visited by her lover. Sho did not / recognize him among the people. Then she made up her mind how she could succeed in recognizing her lover. Daylight came again. Then / she took out her red ochre. It was night again, / and her lover came again. Again she lay down with her lover. / Her lover was about to arise when it was / nearly daylight. Then she took her red ochre and she put ochre on the front of the blanket / of her lover, Now she was pregnant. This was her intention in doing so, / she wanted to recognize her lover. Then / it was morning. Then she arose, and it was he who had paint on his chest, / a big dog. Behold, the big dog was her lover! Immediately her heart became bad / when she knew that she was made pregnant / by the big dog.</p>
+      <p>Then she gave birth to / little dogs. Now it was discovered that / Tsǃūʼmqălăqs had given birth to little dogs. Her father made up his mind to desert / his princess. He went through the village and said that they should all go and / leave his princess. Als tribe made ready / and loaded the canoes. Just nothing was left on the ground of the houses / of the tribe. All the boards of the walls of the houses were taken away. Then the fire was extinguished. / Water was poured on it. The grandmother, the old woman, put [some fire] into it. Her grandmother / hid some of the fire and put it into a sucked-out fern root. Now she made fire with it / and put it into a shell. Then she closed the shell. "Here <pb n="39"/>is fire for you, Tsǃūʼmqălăqs," / said she, pointing it out to Tsǃūʼmqălăqs. / She went away, and she was left by her tribe. / All had just gone. It was the plan of her father. Her father made houses at one / place.</p>
+      <p>Then Tsǃūʼmqălăqs had for her children the little dogs / As soon as it became night it was low water. / Then Tsǃūʼmqălăqs went and walked on the beach / digging clams during the night. Now her little children had sense. As soon as she went again walking on the beach / digging clams her children took off their blankets, the little dog skins. / Then Tsǃūʼmqălăqs noticed that it was / just like the voices of human beings. / There was a sound of playing in the little house of hemlock branches. When they thought that their mother was about to come, / they put on their blankets, their little dog skin blankets. Tsǃūʼmqălăqs went again / to dig clams when it was again night. Then / they took off again their little dog skins. / Now Tsǃūʼmqălăqs knew, oh wonder, indeed, her children were human beings. Then she / went and stuck her torch in the ground, and then / she went slowly to the / door of her house. There her little children were playing on the ground. / Oh, wonder! They were little human beings. One went to look out from time to time, but Tsǃūʼmqălăqs / torch was just sticking in the ground at the place where she used to dig. Then she jumped into the house and / gathered up the dog blankets of her little children. One of them / put on in time the dog skin blanket. "Indeed, you are / human beings and you make me ashamed," said she, gathering up the dog skin blankets of her little children. Then she throw them into the fire. / The little ones were sitting on the ground. It was as though they did not / have any sense. The little ones were sitting on the ground. <pb n="41"/>Then all their dog skin blankets were in the fire. Then / the little ones made up their own minds what they would do for / their mother. They shouted to make their mother feel good. /</p>
+      <p>They had not been talking long, then they covered the house that was to be their mother's. A large pole was there, / with a large eagle sitting on top of it, in front of the house of / their mother. As soon as anything floated from time to time to the beach of / their house, then would screech the one sitting on top / of the pole of the house, "Now look at it," he would say at times. Then it was morning and / a salmon would lie on the beach of the house. / It was morning again and again would screech / the big eagle sitting on the pole of the house. Then / a seal lay on the beach of the house. It was morning again and again would screech / the big eagle sitting on the pole in front of the house. Then a big sealion lay on the beach of the / house. Then it was morning again and it screeched again. / Then the mother of sea-lions lay on the beach of the house. Then it was morning again, / then it screeched again. Now a big whale / lay on the beach of the house. Then / they had plenty and there was nothing that did not come to their house, / all kinds of fishes and all kinds of game of the sea / and all kinds of spouting sea animals.</p>
+      <p>Then / Tsǃūʼmqălăqs saw a gull flying along. "I wish you were / a man that I could send you / to my grandmother!" "What may I be if I am not a man." - "Come here, I / will send <pb n="43"/>you to my grandmother." [The gull] was given meat and blubber / and a piece of halibut. Then it left. It arrived / and gave it to the grandmother of Tsǃūʼmqălăqs. "Do not let / anyone know, else it will be seen by my father," [said Tsǃūʼmqălăqs before the gull left.] The little old woman was sitting with her back to the fire / mending a blanket, / a cedar bark blanket. She ate while she was working / at the place back of the fire. Then she was discovered. "What are you doing, little old woman? It looks as though you were eating meat." / "It is part of what I am mending," / said the little old. Then it happened again. / She was eating again. "Indeed / meat is eating / the little old woman." Then they were sure that the little old woman was eating meat again. / They put her down on her back. "Surely it is true. It is meat / that is in front of the little old woman where she is / sitting with her back to the fire. 'Where did you get / the meat you are eating?" "It came from her whom we deserted long ago. It was sent to me by her / whom we have deserted. Indeed there is a stench on her beach of / all the fish and all / kinds of meat and of all the spouting animals, on the beach of her whom we deserted," said the little old woman. / At once her father and his tribe made ready. / They went to her whom they had deserted. / They started. Her father wanted to enter / Tsǃūʼmqălăqs house, but she did not want him to come in. Then he just made a house at one side of / her house. Then screeched the one sitting on top of the house pole of Tsǃūʼmqălăqs; and <pb n="45"/>a seal lay on the beach of / the house. Then it was morning and a sea lion lay / on the beach of the house. Again it was morning and it screeched again, / and then, behold, a big whale lay on the beach of the house! Then her tribe had enough to eat. / Then they took care of cutting up / the whale. That is the end.</p>
+    </body>
+  </text>
+</TEI>

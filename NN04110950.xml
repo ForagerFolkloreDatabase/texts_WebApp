@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Boy Who Became a Mink</title>
+        <editor role="collector">Frank Alfred Golder</editor>
+        <editor role="narrator">Nicoli Medvednikoff</editor>
+        <editor role="narrator">Mrs. Reed</editor>
+        <editor role="narrator">Corneil Panamaroff</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NN04110950</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NN04110950</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Golder, Frank Alfred (1903): Tales from Kodiak Island. In: The Journal of American Folk-Lore 16(60/61), 16-31, 85-103. Quot. pp. 95-98.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA27722">Koniag Alutiiq</name>
+          <date notBefore="1900" notAfter="1903" type="recorded">Recorded sometime between 1900 and 1903.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>In a small barrabara [native home], away from other barrabaras and other people, lived an old woman and her young grandson. While the boy was small, the grandmother supplied both with food and clothing by hunting and fishing. She also taught him how to hunt and fish; and when nearly full grown, she surprised him one morning by telling him that a one-hatch bidarka [which she had made unbeknown to him] was on the beach ready for him.</p>
+      <p>It was there, sure enough, equipped and ready for hunting. He was supremely happy; for he had obtained that which for years he had been looking forward to. Every morning he went out hunting and fishing, and in the evening returned loaded with fish and game. In a little while he became very skilful in the handling of the bidarka, and daily ventured farther and farther out to sea.</p>
+      <p>His grandmother called him one morning, and said to him, "Son, you may go anywhere, except into yonder bay, and you will be safe; if you ever go there, you will never return to me. Take this mink skin, put it into the nose of your bidarka; this bag containing four tiny bows and arrows keep about your person. Should you ever be in trouble, turn to them, and they will help you."</p>
+      <p>He promised never to venture inside the bay, accepted and disposed of them as he was told.</p>
+      <p>In those days, when this boy lived, there were no winds at all; the waters were always smooth and calm. One could go long distances from shore, and not be in danger of the winds and the waves. Not many days after the promise to his grandmother, the boy, while pursuing a seal, went much farther from shore than one would dare go now, and when he finally stopped paddling, after killing the seal, he found himself at the mouth of the bay.</p>
+      <p>The interior of the bay looked so inviting and alluring that he laughed at his grandmother's fears, and steered for the beautiful island in the middle of the bay. He beached his bidarka, took the mink skin, and started for the summit of a hill where he noticed a barrabara. As he began to ascend, large rocks came rolling down, blocking his way and nearly crushing him. The farther up he went the more difficult and dangerous it became. In order to save himself he jumped into a hole. The rocks fell over the hole, covered and blocked it.</p>
+      <p>He tried vainly to get out; the rocks were too heavy to be pushed off, and the openings too small to crawl through. While thinking over the situation, the mink skin occurred to him. Seizing it, he <pb n="96"/>commenced chewing and stretching it until he pulled it over his head. As he did that, he changed into a mink. By scratching and squeezing, leaping and dodging, he escaped from his prison, and reached the summit, where he was surprised to see that all the rocks came from the barrabara.</p>
+      <p>Taking off the mink skin and becoming a boy again, he went into the barrabara. On the floor sat a very large woman making mats. When she saw him, she screamed in a loud and angry voice,</p>
+      <p>"Who told you to come here!"</p>
+      <p>Reaching behind her, she pulled out a long, sharp spear and threw it at him. Before the spear reached him, he changed himself into a mink; the spear went over his head, sticking into the wall. Quickly assuming his boyish shape, he grabbed the spear, and called to her, "Change and save yourself if you can!" and hurled it at her, cutting her in two.</p>
+      <p>A loud report and earthquake followed his action. The barrabara trembled, tumbled in, and he was again a prisoner. His mink skin came into good use; by scratching and dodging he managed to crawl out and run down to the shore, and, after pulling off the skin, pushed the bidarka out and started homeward.</p>
+      <p>He had not gone very far when he heard some one calling, and on looking around saw people on the shore motioning to him. An old man greeted him as he landed, and taking him by the hand, led him into a barrabara where sat several girls. Pointing to one of them, he said, "You can have her for a wife."</p>
+      <p>This made him very happy, and glad he did not obey his grandmother. A dish of seal meat was placed before him, and after eating, they all lay down to sleep. The following morning the old man asked him to go to the woods, and bring wood for sled runners. In his position of prospective son-in-law he could not refuse any request of his prospective father-in-law, so he went.</p>
+      <p>A gruesome sight met his gaze on entering the woods. Human bones and skeletons were scattered everywhere; and he began to fear lest another trap was laid for him. He went about his work, however, and the woods soon rang with the reports of his axe.</p>
+      <p>A very frightful and horrible noise coming from the interior of the woods made him stop. The nearer it came the more terrible it sounded. "It must be a wild beast coming to eat me up," he thought.</p>
+      <p>Soon a very ferocious beast appeared and came running towards him. The boy looked for his mink skin; it was not about him, for he had left it in the bidarka; but still he had his bows and arrows. Quickly pulling them out of the bag, he sent one tiny arrow into the side of the monster, knocking him over; and when another arrow <pb n="97"/>pierced the other side, he ceased kicking. Approaching him to withdraw the arrows, the boy found him dead.</p>
+      <p>On his return to the barrabara, after finishing his work, the old man looked surprised and uneasy - the old man was a shaman, and had been in the habit of sending strangers into the woods to be killed by the monster, and then eating them - and asked the boy,</p>
+      <p>"Did you see or hear anything strange in the woods?"</p>
+      <p>"No, I did not," the boy replied.</p>
+      <p>The morning of the second day, while the boy was eating breakfast, the old shaman from outside called to him,</p>
+      <p>"The girls want you to come out and swim with them!"</p>
+      <p>To refuse would have been unmanly, so he went to the beach, undressed himself, taking, however, the mink skin; for he suspected trouble, and swam after the girls, who were some distance from him. As he advanced, they retreated; and when almost up to them, a big whale appeared between them, and before he knew what to do, he was in the whale's mouth. In there, the boy put on the mink skin, and when the whale appeared on the surface, the boy escaped through the blow-hole, and swam for the shore.</p>
+      <p>When the shaman saw him, he was vexed and troubled, saying to himself, "He is the first one that I could not overcome, but I will." That evening he had again a supper of seal meat; his bride sat where he could see her, but he dared not talk to her.</p>
+      <p>Early next morning the old man called him to have another swim with the girls. On the beach was a large whale, and the girls were climbing on his tail. When they were all on, he switched his tail, sending them through the air some distance into the sea.</p>
+      <p>The girls dared the boy do likewise. Stripping himself, and unnoticed by them - they were quite a distance from him - he took a tiny arrow in each hand. Instead of at once climbing on the tail, he approached the head of the whale. Sticking the arrows into the head, he asked the girls,</p>
+      <p>"Am I to get on here?"</p>
+      <p>"No, further down," they answered.</p>
+      <p>He stuck the arrows into the whale, as he moved down towards the tail, repeating the same question and receiving the same answer. When he finally stood on the tail, it did not move; for the whale was dead. The girls, after waiting some time, swam to the shore to report to the shaman, who returned with them only to find the whale lifeless. Furious was the shaman; and in his heart he swore he would yet eat the boy.</p>
+      <p>The following morning the old man asked the boy whether he had any relatives, mother or grandmother, whom he would like to go and see before he settled down with them.</p>
+      <p><pb n="98"/>"I have a grandmother," said the boy, and went off that day. Paddling first on one side of the bidarka, and then on the other, he was making good progress, when all of a sudden the mink skin startled him by calling to him, "Look out, you are in danger!" He looked ahead; there was nothing dangerous there, so he paddled on. Again the mink skin called to him, "Look out, you are in danger!" Ahead everything was safe; but as he looked behind, he was almost overcome with fear; for a huge wave, high as a mountain, was coming his way, and would soon overtake and overwhelm him. As quickly as he could, he shot one of his arrows into the wave, breaking it, and he was once more safe.</p>
+      <p>Towards evening he steered for the shore, in order to eat and rest there, and when near the shore, a large sea monster appeared and swallowed him, bidarka and all. He pulled out and put on the mink skin, and when an opportunity offered itself, he escaped through the monster's gills, and swam to the shore.</p>
+      <p>His grandmother, who was also a shaman, had been watching the grandson's doings, though far away, punished the monster by sending two large ravens to peck his eyes out.</p>
+      <p>Being on shore, and without a bidarka, the boy started to walk home. He did not take off the mink skin, and so was still a mink. On the way he came to a large lake, abounding in fish; there he stopped, fed on the fish he caught, and in a short time became acquainted with the minks of the neighborhood. This easy life pleased him so well that he decided to remain there; and there [in the neighborhood of Kodiak] he is at present. The shamans, only, can tell him apart from the other minks.</p>
+    </body>
+  </text>
+</TEI>

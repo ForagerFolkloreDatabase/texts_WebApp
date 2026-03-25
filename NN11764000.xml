@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Bluejay and the Storm-Bound People</title>
+        <editor role="collector">James Teit</editor>
+        <editor role="narrator">Tuu:ʼts ('strong rocks')</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NN11764000</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NN11764000</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Teit, James A. (1919/21): Tahltan Tales. In: The Journal of American Folk-Lore 32(124), 198-250; 34(133/134), 223-253, 335-356. Quot. pp. 234-235.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA28403">Tahltan</name>
+          <date notBefore="1912" notAfter="1915" type="recorded">Recorded sometime between 1912 and 1915.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <note>See RBAE 31 : 829 (Chilcotin, Haida, Kathlamet, Shuswap, Tlingit, Tsimshian, Wasco).</note>
+      </p>
+      <p>In the Tlingit country a large number of people were living together at one place near the seashore. A sea-plant which the Tlingit venerate grew abundantly near this place. People were forbidden to speak to it except in the most respectful manner; for it was considered a harbinger of spring, and, if it did not renew its growth, spring might not come. Children were forbidden to name it or to talk to it, especially in the spring-time. One day, when spring-time was near, the son of one of the wealthiest men in the village talked to this plant, and made fun of it, saying, "Don't grow out! My father has plenty of food yet. We don't care when spring comes." After this it was continual stormy, wintry weather at this place. The people could not go hunting or fishing; and no one ventured very far away, because of the storms. They thought that the whole coast was suffering in the same way; for they could not see far, their village being <pb n="235"/>enveloped in a cloud. The people ran out of food, and were starving. The boy who had mocked the plant died; and all the people became very weak, so that they were unable to procure fire-wood. The people of other places saw a black cloud hanging over the village. They tried to go there, but were always beaten back by the storms. One day Bluejay flew over the village, carrying a branch with fresh berries. The people said, "Oh, what is it that Bluejay has in his beak? Berries must be ripe in some place." Now, with great difficulty a few of the strongest people pushed trough the storm zone. They found fine weather over the rest of the country, the salmon-fishing was nearly over, and the berries were ripe. Thus Bluejay saved the lives of the people, who ever since have been grateful to him. The Tlingit reverence this bird because he acted as a deliverer.</p>
+    </body>
+  </text>
+</TEI>

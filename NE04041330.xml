@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>[Visit of She-Bear]</title>
+        <editor role="collector">Bronisław Piłsudski</editor>
+        <editor role="narrator">Pońćku</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NE04041330</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NE04041330</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Piłsudski, Bronisław (1912): Materials for the Study of the Ainu Language and Folklore, ed. under the supervision of J. Rozwadowski. Cracow: Imperial Academy of Sciences. [Repr. in: Piłsudski, Bronisław (1998): Materials for the Study of the Ainu Language and Folklore, ed. by Alfred F. Majewicz. Berlin/New York: Mouton de Gruyter (The Collected Works of Bronisław Piłsudski, 2; Trends in Linguistics. Documentation, 15,2), 1-272.] Quot. pp. 133-135.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CEE15701">Ainu</name>
+          <date when="1904" type="recorded">Recorded in 1904.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>I went to hunt along my [own] river, I made a hut. The next day I made an 'inau'; an 'inau' outside the hut. The second day, I went out to set snares; I went to set snares, [and] spent the night [out]. For two days I set the snares. With the day when I went out to set snares, for three days was I busy setting snares. On my return, I looked at the snares. Very many animals were taken, somewhat I wondered as it were.</p>
+      <p>[That] being [so], I was much gratified; I made a very <pb n="134"/>large bundle [of them]. Having arrived at [the tree] nearest to the hut [forming] a bridge [over the stream] whereon I had set snares, I looked forward; from my hut the smoke rises! I was astonished, nevertheless I went thither. Having arrived at the side of the hut, when I listened, I heard a noise of cooking. Therefore I thought: "What man, having come, sits in the hut?" Thus thinking, I entered.</p>
+      <p>Suddenly, as I looked ... my wife it was, [when] I entered! When I looked at the hearth, [she] was cooking as I entered; I sat down in my place; when I had taken off my boots, she asked me for my boots. So I gave her my boots. In [my] soul thus thought I: "Lo, what have I met [with!] I thought she was not really my wife; I thought she would make me rich".</p>
+      <p>I looked well [on her]: just exactly my wife! [Her] face [was] very joyful. We spent the night; we lay apart. The next day, at dawn, when she rose, she busied herself with cooking. When I rose afterwards, and when I had done refreshing [my] face with water, I ate. When I had done eating, then did the young woman speak as follows: "When <pb n="135"/>I go forth, I will show thee the place [to which] I shall go". Thus speaking, she went out.</p>
+      <p>I thought that this was a she-bear. So having prepared an 'inau', and holding it, I looked [following her]; all at once, with a shake [of the sides], she turned into a she-bear. Therefore in terror did I place 'inaus' wherever [she had been], [and] having offered [them to her], I then passed the night. The next day I looked at [my] snares. Beginning with the tree-bridge nearest to the hut, [the bridge] with snares, I took a great many animals, I killed very many pine-martens.</p>
+      <p>Now, I had ended the setting of snares. In the summer, when I went hunting, I took many things with hands. In the sea, when I hunted [there], I likewise took many things with hands. I was most lucky. Being lucky, I was a great [man and a] wealthy; I lived very well.</p>
+    </body>
+  </text>
+</TEI>

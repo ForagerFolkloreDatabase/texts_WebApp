@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Ughek (The Simpleton)</title>
+        <editor role="collector">Frank Alfred Golder</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NN04160230</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NN04160230</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Golder, Frank Alfred (1909): Eskimo and Aleut Stories from Alaska. In: The Journal of American Folk-Lore 22(83), 10-24. Quot. pp. 23-24.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA27722">Koniag Alutiiq</name>
+          <date notBefore="1900" notAfter="1909" type="recorded">Recorded sometime between 1900 and 1909.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>In a very large and populous village lived a half-witted man named Ughek. On account of his meanness he was much disliked by all the people. To the evening parties where the men gathered in the large hall to play, sing, and dance in a circle, he was never invited. The women were not permitted to take part in these joyous festivities; but when bringing in the cooked seal-meat, ducks, and berries and oil, for the men, they were allowed to dance in and, after depositing the food, to dance out again. Ughek, who resented the treatment he was receiving, got even with his neighbors by hiding near the dance-hall; and as the women passed, he plucked the dress of one, pinched a second, and tripped a third, and in this way made himself thoroughly disagreeable to the community.</p>
+      <p>The chief determined to put up with him no longer. He therefore called a meeting, which decided to leave the village for a time; but Ughek should not be taken. The next day the village, except for Ughek, was deserted. For two days he did not mind his new situation; but at the end of that time he began to fear lest the schwichileghk [sea-monster, half-human and half beast, which is covered on the body with sea-shells and on the head with kelp] would come out at low tide and eat him, as he had done to others.</p>
+      <p>On the evening of the third day he gathered all the oil lamps from the other barabaras into his own, filled them with oil, and lighted them. This done, he played on the drum, sang, and danced. Every now and then he turned his head toward the beach, and once his attention was drawn to a stone. He went out to it, and said, "You are here alone, as I am. It is <pb n="24"/>lonely for you. Come with me. In the barabara where I am it is pleasant, many people are dancing. Come with me." Since the stone made no answer, he attempted to force it to come with him by carrying it, but he could not lift it. He went once more into his hut, continuing his singing. Again he approached the stone, asking it to share his joys, and again the stone refused. The attempt to move it was a little more successful, for he advanced it two steps at least. He went back to his music, and from there to the stone. The third time he transported it as far as the doorstep. He danced and sang a little more, and finally got the stone inside, and said, "I am all alone. The people have gone and left me to starve. I am afraid of the schwichileghk. I will put you over the door, and, if he comes, you fall on him and kill him."</p>
+      <p>Having placed the stone over the door, Ughek was free to go on with his entertainment. About midnight his joy was cut short by the odor of kelp, which became stronger with each minute. Ughek had his eyes on the skin door, which fluttered, and through which a moment later a head of kelp was seen, and from it these words came in a roaring voice, "It has been a long time since I have eaten anything, but now I shall have a good feast." The schwichileghk, for it was he, advanced slowly, but when about halfway in, the stone fell down and killed him.</p>
+      <p>Ughek raised the stone, cut the monster into small pieces, which he cooked, and filled all the dishes he could find in the village. Not many days later the villagers returned, and Ughek, on hearing them, ran off and hid. Not seeing any trace of Ughek, the chief and his people concluded that he was dead, and celebrated the event with a dance. As the women were advancing with their cooked meats, Ughek sneaked in and played his old tricks on them. One of them ran into the dance-hall, shouting excitedly, "You thought Ughek dead, but he is not. He just now tripped me." It was decided to call him in, and invite him to tell all that happened to him during their absence. Ughek came in, and began playing on the drum, singing and dancing. That done, he asked permission of the chief to set refreshments before the people. When this was granted, he went out and brought in the cooked schwichileghk. Each person took a piece of meat, chewed and swallowed it, and dropped dead. Ughek himself returned to his hut to live with his stone, and there he is now.</p>
+    </body>
+  </text>
+</TEI>

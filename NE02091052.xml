@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Hairy and Nandri</title>
+        <editor role="collector">Glafira Makarina Vasilevich</editor>
+        <editor role="narrator">Bayaki Nyoturcha</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NE02091052</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NE02091052</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0">CC BY-NC-SA</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Däbritz, Chris Lasse/Gusev, Valentin/Stoynova, Natalia (2024): INEL Evenki Corpus. Version 2.0. Publication date 2024-12-31. Archived at Universität Hamburg. https://hdl.handle.net/11022/0000-0007-FE38-D. In: The INEL corpora of indigenous Northern Eurasian languages. https://hdl.handle.net/11022/0000-0007-F45A-1. Quot. p. s.p..</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CEE15803">Evenki</name>
+          <date when="1930" type="recorded">Recorded in 1930.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>An Evenki man met a hairy Evenki, who was cutting birches. That Evenki lived on the lower earth. The man asked: "What are you?" "I am an Evenki", the hairy one said. "Where did you come from?" "I came from the lower earth." "What way did you come?" "I came through that lake there." "I do not believe that", the man said. The hairy one said: "Let us exchange knives." They exchanged knives. The man said: "Let us go to the lake." They went to a lake. They walked, the hairy one dove, that man believed, he returned home. He returned home, he said, he told everyone that he saw a hairy one, hat they exchanged knives, the hairy one told him that there were no birches on his earth, no larchs, he just walks across the earth. Among the Evenki was Nandry. He did not believe [it]. "You are lying." "If I am lying, go [there] yourself." He came to the lake following the man's traces. He went, he found the hairy one. That one caught him. The hairy one went with him to the lower earth. Nandry disappeared then. They waited and waited and he did not come. He looked for Nandry, where he disappeared. As if he had gone nowhere, he is not there. Nandry disappeared. Winter came, winter went, snow melted and it became summer. It became summer and they started walking again. The hairy one came to the Evenki. They came to the Evenki, two men, one hairy woman. They paid the woman for Nandry. Nandry's younger brother did not believe it. They hairy ones said: "Nandry lives there." They brought Nandry's younger brother to the lower earth. They brought him, they got there. The younger brother really did see Nandry. "Is that you?" The younger brother saw [that] Nandry was married. He came back to the daylight. The hairy ones brought the younger brother. Nandry's younger brother said: "He truly lives there on the lower earth", he told them. "Such a world, there is a pine forest and bushes, there is fir wood." The hairy ones brought the taken(?) woman, took her from the houses of the stinking woman. They brought her to Nandry's younger brother. He got married. Two women walked again, went to the lake, they went, they started to walk on the shore. They found such people again, without feet - Chulugdis. The Chulugdis chased the two women. The women ran away. When they caught up, one of them said: "To you, to you." [He?] caught up to one woman, caught her, cut half of her leg of and the Chulugdi started drinking her blood. One of the women said: "bast, bast", then "blood, blood". One of the Evenki women went home, said: "Something like that killed my relative." When she had told, they left for the lake to be certain what killed her relative. He went to look, the woman brought the men to the lake so they would believe. Where they listened, they started listening, the Chulugdis came again. They snuck around, saw where they killed the woman, went to the lake. There they found the thrown away woman. They really believed the woman. She did not have feet. They held the feet to her body. The Russians walked around the lake. They saw the traces, they said: "There are many traces of hairy ones." "What kind of traces are these, Evenki's traces?" They walked around, they walked for a long time, there were no Evenki. They saw children come out of the water onto earth, there were five. They started running and playing by the shore, the children. The Russians said: "Of what sort are those?" They played, played, they dove into the lake again. The Russians said: "Let us keep watch in the morning to catch them." They came to the lake again, the Russians covered the boat with moss thoroughly. One kept watch now, another kept walking. Midday the children walked out again. They played by the lake again. The Russians saw the hairy ones. They kept watch. One kept watch, he caught a hairy one by the foot. The small hairy one said: "Mommy, mommy!" The children dove into the water. The Russians kept it for a long time. Night came, in the morning they came, spent the night there. The hairy ones came, the parents brought a knapsack with money to exchange it and take their child. The Russian made a hole in his cap. The hairy ones poured money into his cap. They poured the whole knapsack [in], they poured the money through [the cap]. The Russian gave their child back.</p>
+    </body>
+  </text>
+</TEI>

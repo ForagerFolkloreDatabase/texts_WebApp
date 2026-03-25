@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Mink Legend (Mink pretends to die (version 1))</title>
+        <editor role="collector">Franz Boas</editor>
+        <editor role="narrator">Yāʼgōlas</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NN01141340</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NN01141340</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Boas, Franz (1910): Kwakiutl Tales. New York: Columbia University Press &amp; Leyden: Brill (Columbia University Contributions to Anthropology, 2). Quot. pp. 134-139.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA29010">Kwakwakaʼwakw</name>
+          <date when="1900" type="recorded">Recorded in 1900.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>"Ananāʼ, ananāʼ! I am dying in the house. Ananāʼ ananāʼ! Go to our tribe and let them come, that we may deliberate how I shall be when I come to an end." Then the tribe started. "Come, let us go and talk about the way our chief is going to be. Indeed, he is getting worse." The tribe came and sat down in the house. "Ananāʼ, ananāʼ! Welcome! Is not this the reason that I told you to come, - about the way in which I shall <pb n="137"/>be? Ananāʼ, ananāʼ!" - "This is very important," said, on their part, his tribe. "How shall our chief be? Don't be silent in regard to the way our chief is going to be. Let us set up [the grave-box of] our chief! Ananāʼ, ananāʼ!" - "Don't do that, else it will be said that I am a burl on a tree." - "This is important. What shall we do with our chief?" - "Let him be buried!" - "Ananāʼ, ananāʼ!" he said, on his part. "Don't do that, else it will be said that I look like a baking-oven." - "This is important," they said, on their part. How shall we do this," - "Let us put him in a cave!" - "Ananāʼ, ananāʼ! Don't do that, else it will be said I look like a box-cover." - "This is important. What shall we do with our chief? Let us put him on an island." - "Ananāʼ, ananāʼ! Go ahead, only don't let me be nailed down."</p>
+      <p>Then he died. He at once wished to die when it was said that he should be on the island. Then his tribe buried him. They made a house for him, and just put the box inside. Now, it was four days, when the women went picking berries. They came paddling alongside the island. "This is the grave-place of our chief," said, on their part, the women, crying together, being sad on account of their dead chief. Then they saw something jumping up on the rocks, carrying sea-eggs in a blanket. "Oh! is not that Born-to-be-the-Sun going up from the beach" - "Hamamaiʼ!" he said, on his part. "I obtained supernatural power. Let Mother buy a mask and rattle. I have supernatural power. I came to life again," said Born-to-be-the-Sun. He just lied when he said he was dying. Behold! he said that he would be on the island because there were many sea-eggs. He just thought that he would be undisturbed eating his sea-eggs. His mother <pb n="139"/>was brought. "I have supernatural power, Mother, because I came to life." - "Thank you! I am alive on account of your ways, child." Then they went to the woods and beat time for Born-to-be-the-Sun. He had a mask on his forehead, and carried a rattle. <shift feature="epimyth"/>That is the end.</p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Bohrah the Kangaroo and Dinewan the Emu</title>
+        <editor role="collector">K. Langloh Parker</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NP07060130</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NP07060130</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Parker, K. Langloh (1898): More Australian Legendary Tales. Collected from Various Tribes. With an Introduction by Andrew Lang. With Illustrations by a Native Artist. London: Nutt &amp; Melbourne: Melville, Mullen &amp; Slade. Quot. pp. 13-14.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CIPD0270">Yuwaalaraay</name>
+          <date notBefore="1856" notAfter="1898" type="recorded">Recorded sometime between 1856 and 1898.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <standOff>
+    <list type="glossary">
+      <item xml:id="GIP0247.047">
+        <gloss>Dinewan</gloss>
+        <desc>emu.</desc>
+      </item>
+      <item xml:id="GIP4128.008">
+        <gloss>Bindeah</gloss>
+        <desc>prickle or thorn.</desc>
+      </item>
+      <item xml:id="GIP4128.012">
+        <gloss>Bohrah</gloss>
+        <desc>kangaroo.</desc>
+      </item>
+      <item xml:id="GIP4128.119">
+        <gloss>Nyunnoo</gloss>
+        <desc>grass humpy.</desc>
+      </item>
+    </list>
+  </standOff>
+  <text>
+    <body>
+      <p><rs type="animal" ref="g:GIP4128.012">Bohrah</rs> the kangaroo lived in a grass <rs ref="g:GIP4128.119">nyunnoo</rs> with his wife <rs type="animal" ref="g:GIP0247.047">Dinewan</rs> the emu. He was a great wirreenun.</p>
+      <p>One evening when <rs type="animal" ref="g:GIP4128.012">Bohrah</rs> was lying down trying to sleep, <rs type="animal" ref="g:GIP0247.047">Dinewan</rs> kept making holes in the roof of the <rs ref="g:GIP4128.119">nyunnoo</rs>.</p>
+      <p>"What are you doing that for?" asked <rs type="animal" ref="g:GIP4128.012">Bohrah</rs>.</p>
+      <p>"Just for nothing," said <rs type="animal" ref="g:GIP0247.047">Dinewan</rs>.</p>
+      <p>"Then get some grass and mend it up."</p>
+      <p>"There is no grass here."</p>
+      <p>"Then we will travel until we find some, for you won't let me sleep."</p>
+      <p>Off they went. It grew darker and darker every minute. <rs type="animal" ref="g:GIP0247.047">Dinewan</rs> could not see where she was treading. She trod on <rs ref="g:GIP4128.008">bindeahs</rs>, which stuck into her feet and hurt her.</p>
+      <p>Limping along and feeling sore from the prickles, she said: "If you are such a great wirreenun as you say, surely you could make the dark roll away! Hunt it right away to another country. Let me see where to walk. My feet are very sore. If you could hunt the dark away, then <pb n="14"/>you would be a great wirreenun. Oh my poor sore feet!" So crying she rubbed them against each other, which only made the <rs ref="g:GIP4128.008">bindeahs</rs> stick further in, raising rough lumps on her feet. Which lumps have been on the feet of her kind ever since, and their legs have been bare and hard up to the knee joint.</p>
+      <p>Now <rs type="animal" ref="g:GIP4128.012">Bohrah</rs> the kangaroo was really a great wirreenun. While it was still quite dark he said: "We will sleep here, and I will hunt the dark away while we rest."</p>
+      <p>They laid down.</p>
+      <p>As soon as <rs type="animal" ref="g:GIP4128.012">Bohrah</rs> was asleep, he sent his Mullee Mullee, or dream spirit, out from his body to gather up the darkness and roll it away to the westward. Having done so back came the Mullee Mullee to the body of <rs type="animal" ref="g:GIP4128.012">Bohrah</rs>, who now woke up and saw what his spirit had done. He turned to <rs type="animal" ref="g:GIP0247.047">Dinewan</rs>, whom he saw had slept with one eye and one ear open that she might see what he would do, and said:</p>
+      <p>"My Mullee Mullee has rolled the night from us. The darkness is no more. It is rolled away for ever from me. I and my people, from this out, shall be able to see to travel and feed at night as if it were day; for us there is no more darkness. You must feed in the daytime; I can as I please at night. You kept one eye and one ear open, you shall always sleep so. First one side of your head shall go to sleep and then the other, but never from henceforth both at once." And since that time so it has been even as <rs type="animal" ref="g:GIP4128.012">Bohrah</rs> the kangaroo wirreenun said it should be.</p>
+    </body>
+  </text>
+</TEI>

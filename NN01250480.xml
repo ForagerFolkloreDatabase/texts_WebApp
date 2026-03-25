@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Bax·bakwāʼlanuxᵘsīwē  (Cannibal-of-the-North-End-of-the-World)</title>
+        <editor role="collector">Franz Boas</editor>
+        <editor role="narrator">Ēʼwŭltǃāla</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NN01250480</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NN01250480</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Boas, Franz (1928): Bella Bella Texts. New York: Columbia University Press (Columbia University Contributions to Anthropology, 5). Quot. pp. 48-55.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA29022">Bellabella</name>
+          <date when="1897" type="recorded">Recorded in 1897.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>Four were the children of Nnōʼaqaua. They made ready / to go mountain goat hunting. Then they were warned, / "Go only to the white color smoke; it is the smoke of / the mountain goat. The smoke of the black bear is black. There you may go. The smoke of the grizzly bear is / rainbow color," thus said / Nnōʼaqaua to his children. "But the smoke of Bax·bakwāʼlanux̣ᵘsiwē / is blood color. Do not go to / the blood colored one." They were given a whetstone, they were given / hair oil, they were given wool / and they were also given a comb.</p>
+      <p>They started and went up. They saw smoke and went there. / It was that against which they had been warned, the blood colored smoke. They just went right in, led by the eldest brother. / They went in and sat down on / one side of the house of Bax·bakwāʼlanux̣ᵘsiwē. Then / a big woman was sitting in the house and one / child was sitting in the house. They had not been sitting in the house long when the one child saw blood on the shin bone of the youngest one of the children of / Nnōʼaqaua. He was given the bloody leg to scrape. / "Scrape off the blood from this, for he wants to eat the blood on your leg," / was said to the youngest one of the children of Nnōʼaqaua. Then he scraped off the blood from his leg and gave it to the little child of Bax·bakwāʼlanux̣ᵘsiwē. / Then the child licked it off. Now said / the eldest one, "We have come to a dangerous place, brothers," / I said the eldest one of the children of Nnōʼaqaua. Then he spoke again. / He took his arrow and spanned his bow. "Go and fetch my arrow," said he / to the youngest one, "My arrow which I shot out." Thus he <pb n="51"/>said. Then he shot his arrow out of the house. Then / the youngest one went. Then he did so again. / "Go and fetch it," said he to the next / youngest one. Then he shot out of the house again and he sent the one next to the youngest. Then he also went / out of the house. Then they just stayed away. / Then he did it again, he shot out of the house / Then only one of the brothers was there. Then he went out. / He had not been long out of the house when the wife of Bax·bakwāʼlanux̣ᵘsiwē arose / and went to the door and shouted. / Bax·bakwāʼlanux̣ᵘsiwē was not now sitting in the house, the big one. "Your food / that came to you has gone, Bax·bakwāʼlanux̣ᵘsiwē," said the big woman. / Twice she spoke this. Then a big sound came, "Ham, ham, ham, ham," thus he said while he was walking along.</p>
+      <p>Then he came near. / The children of Nnōʼaqaua were running. / They were running away. Then the sound came nearer. Now he was really near / and they were frightened. Then one took up the / whetstone and put it on edge behind them and it became a big mountain. Then they ran. Then came near Bax·bakwāʼlanux̣ᵘsiwē. He had hard work going up. / Then he shouted, / "Ham, ham, ham, ham," this he said while he was going along. Then / he came nearer again. Again they were frightened. Then they poured on the ground the hair oil / behind them and it became a big lake. Then / Bax·bakwāʼlanux̣ᵘsiwē had to go around it. He passed it again. The sound, "Ham, ham, ham, ham," came near again. / Then they became afraid again. Then they put down the wool behind them. / Then there was a <pb n="53"/>big cloud. Then Bax·bakwāʼlanux̣ᵘsiwē could not see. / For a long time he walked around lost in the fog. / Then he passed it again. / The children of Nnōʼaqaua were running. He came near them again. (5) Then they became afraid again and / they put down the comb. Then / it became a big thicket. It / took Bax·bakwāʼlanux̣ᵘsiwē a long time again to go through the thicket. /</p>
+      <p>"Bar the door, Nnōʼaqaua," said the children of Nnōʼaqaua. "Open the door now, Nnōʼaqaua." They arrived at / the house. They went in. Then all of the children of Nnōʼaqaua / locked the door, As soon as they had barred the door / Bax·bakwāʼlanux̣ᵘsiwē came. He came to the locked door. / Then went around the house Bax·bakwāʼlanux̣ᵘsiwē and Nnōʼaqaua made up his mind / what he was to do to him. Then he sent to him, "Go and call your children / and your wife, that you come, and eat / my children. I shall kill my children," said Nnōʼaqaua. / Then Bax·bakwāʼlanux̣ᵘsiwē went. Then he killed dogs. He cut them up and put stones on the fire, / and the stones were hot. He dug a hole on the floor of / his house. The hole was big and deep. Then he put on edge a board / in front of one side of the hole. / They were ready in the house and put water into the steaming box. Then the sound of Bax·bakwāʼlanux̣ᵘsiwē came near. He walked right into / the house of Nnōʼaqaua. They placed him in front of the board set up on edge. / Nnōʼaqaua took up the stones with the tongs. / He had hidden in the house his children behind the back hoard of / Bax·bakwāʼlanux̣ᵘsiwē. He took the stones with the tongs, and the [water] became hot. Then it began to have scum. Then Bax·bakwāʼlanux̣ᵘsiwē ate the soun of the soup. Then Bax·bakwāʼlanux̣ᵘsiwē said, "Try to talk wisely to your <pb n="55"/>grandchildren, Nnōʼaqaua," thus sald / Bax·bakwāʼlanux̣ᵘsiwē. Then it was as if he was raising his head somewhat. Then he began to make up his mind what / story to tell. "That, perhaps, that, perhaps, is my story, / grandchildren. Perhaps it will be foggy on the / mountains, now snore!" Thus / said Nnōʼaqaua. Then he spoke so again. That perhaps, that perhaps, / is my story, grandchildren. Perhaps it will [?] mountains; now snore!" Then Bax·bakwāʼlanux̣ᵘsiwē and his children and his / big wife yawned. Four times he said so. / Then Bax·bakwāʼlanux̣ᵘsiwē and the others slept. / They snored. / Then while they were snoring / he pulled down the supports of the back board and they dropped into the big hole that had been dug. / Once when they went down only did he cry, "Ham, ham, ham, ham," thus he said / when he fell into the big hole. Then he poured into it, / that which they had heated with stones for him. Now / the sound "ham" became less when they were dying. Then the Bax·bakwāʼlanux̣ᵘsiwē were dead. Now they took them out. / When they were all out they were cut up / into small pieces. / When they were all in pieces, he took them outside / and threw them about. "Bax·bakwāʼlanux̣ᵘsiwē, you will go to the people of later times. / You will be the horse files of later people. / You will be the mosquitos of later people. / You will be the sand flies of later people," said Nnōʼaqaua while he was throwing away, / the pieces of Bax·bakwāʼlanux̣ᵘsiwē. That is the end.</p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Javraganak (Labrador version of #18.1)</title>
+        <editor role="collector"> Moravian missionaries</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NN09851750</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NN09851750</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Rink, Henry (1875): Tales and Traditions of the Eskimo. Edinburg/London: Blackwood. Quot. pp. 175-176.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA27915">Labrador Inuit</name>
+          <date when="1863" type="recorded">Recorded in 1863.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <note>On the island of Okak, in Labrador, this tale is told as follows:</note>
+      </p>
+      <p>At Kivalek, on the island of Okak, there once lived a great many people, among whom was an Indian woman named Javraganak. From her childhood she had been <pb n="176"/>living with the coast-people, whose servant she was; but nevertheless she had always remained a stranger among them. One day when she was hungry, and longed for one of her Indian dishes, she said, "At Pangma my countrymen have plenty of tongues;" upon which an old man sneeringly replied, "I daresay thou hast many brothers and relatives away there; thou hadst better make them come over here," - and at night she wandered away to give them warning. In those times hares were very abundant, and sometimes you might even hear them run about on the house-tops. One night when Javraganak had come with a great number of her countrymen, those within heard a murmuring sound outside, and the old man said, "Well, if that is not the hares again! They are very lively, it seems." Besides him there was not a man at home; they were all out hunting. And so it happened that all the inhabitants were put to death by Javraganak's Indian countrymen. Many of them sought refuge in a cave, where some were suffocated and others murdered. On their return the men found their wives and children all killed; but shortly afterwards they set out to kill the murderers. Among these men was an angakok, who made a road for them right through a mountain, and the countrymen of Javraganak were all destroyed. She, however, was not to be found, having gone to hide herself; but the men had great trust in their angakok. At last a man happened to call out, "How I wish that Javraganak would serve me again!" upon which she immediately appeared, looking very comfortable. But they soon all fell upon her, wound a cord around her body, and dragged her along the ground till she died. And in this way she was paid back for what she had done to them.</p>
+    </body>
+  </text>
+</TEI>

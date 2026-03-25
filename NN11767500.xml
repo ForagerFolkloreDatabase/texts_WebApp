@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Shaman and the Ducīʼne</title>
+        <editor role="collector">James Teit</editor>
+        <editor role="narrator">Tuu:ʼts ('strong rocks')</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NN11767500</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NN11767500</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Teit, James A. (1919/21): Tahltan Tales. In: The Journal of American Folk-Lore 32(124), 198-250; 34(133/134), 223-253, 335-356. Quot. pp. 353-354.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA28403">Tahltan</name>
+          <date notBefore="1912" notAfter="1915" type="recorded">Recorded sometime between 1912 and 1915.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>There was a man who had many strong guardian-spirits. He was a great hunter, and had shamanistic powers. Once when he was hunting, he met a Ducīʼne, who attacked him, thinking he would easily kill him. He shot one arrow after another at him; but the man simply shook himself, and the arrows passed by. At last the Ducīʼne had no more arrows, and was now at the mercy of the hunter.</p>
+      <p><pb n="354"/>He said to the latter, "If you spare me, I will be your protector. I shall talk to you, and you will talk to me, and I shall be able to help you." He said to the man, "Now, to be safe, you must walk in the water of the creek a long distance on the road home; for there are many of my people around here, and, if they find your tracks, they will take your scent and run you down, as dogs do." The hunter did as directed. When the Ducīʼne reached his camp, the other people said he smelled different, and accused him of having killed a man. He denied it; but the others would not believe, and put on their moccasins to go hunt up the man. The Ducīʼne, who had returned, said, "You will find out that I have spoken the truth, for the man I met is not like other men. He is far more powerful." They found where the man had made a fire when he talked with the Ducīʼne, and where he had taken to the creek. They followed both banks, and at last caught up to him where he had left the water. They shot all their arrows at him, and missed him. The man then killed them all. An old Ducīʼne was following up the others to pack in the man's flesh; but when he came to his dead comrades, he turned back. When he reached camp, the other Ducīʼne man said to him, "I told you, and now you see. The man has killed all those who hunted him."</p>
+    </body>
+  </text>
+</TEI>

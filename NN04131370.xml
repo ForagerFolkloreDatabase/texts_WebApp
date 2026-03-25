@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A Story for Husbands</title>
+        <editor role="collector">Innokentij Veniaminov</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NN04131370</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NN04131370</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Golder, Frank Alfred (1907): The Songs and Stories of the Aleuts, with Translations from Veniaminov. In: The Journal of American Folk-Lore 20(77), 132-142. Quot. pp. 137-139.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA27710">Aleut</name>
+          <date notBefore="1824" notAfter="1840" type="recorded">Recorded sometime between 1824 and 1840.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>There was a certain merry Aleut, who was exceedingly fond of plays [evening gatherings, the usual time and ways of amusing themselves]; and when present at such, would masquerade in various dance. One time he decided to give a play [party] such as tonish and arouse the envy of all. The preparations for this occasion were especially tiresome and of long duration, and when everything was ready he went to the different villages to invite guests. When the guests arrived they, as customary, encamped on the beach in their travelling tents. The impatient host could hardly wait till evening, and at the <pb n="138"/>proper time he sent his wife to bring the masks, while he commenced singing the songs which he had composed for this special occasion, and playing on the drum. It was already late, and still his guests did not come, neither did his wife bring the masks. He waited awhile, and then began singing and playing as before. In this manner he, being heated and in an ecstatic state, sang and played the whole night, entirely by himself. As it began to dawn, he came to himself and realized the situation; and a little later went out in the street, and what does he see? His guests had all gone home; and to his great shame they added the greatest insult in taking his young wife with them. The unfortunate play-lover tore off all the clothes and ornaments which he had on, put on shabby clothing, and for three days he neither ate nor drank. On the third day he was told that two bidarkas [large skin boats] came from that village from whence his former guests were. He requested that the new-comers be invited to his house, and after seating them gave orders that they be treated with the best he had. When they commenced eating, he too began eating and drinking. While eating, he told them of his misfortune and grief, and then asked them whether they knew or had heard where they had taken his wife, and to which village. His guests told him that his wife was in their village, and was already married, living in the largest barrabara, situated in the very centre of the village, dressed always in her gala parka, and always painted; and in the middle of each day she sat near the fire sewing for her new husband a kamalayka from sea-lion's intestines. After thanking his guests for the information he dismissed them.</p>
+      <p>The following day he went to the village where his wife was, and found her in the very place and situation as his late guests had described to him. At that time all the men from the village were out hunting. He then, not saying a word, seized his wife by her long hair, dragged her outside, tore off her holiday attire, leaving her naked, and in this condition dragged and placed her in his bidarka. Bringing her home, he tied her outside the barrabara, at the entrance, and left her there in the same state [naked]. In this condition and position he kept her three days, then pulled her inside and shut her in, in some kind of a storeroom for seven days, and still in the same state, while he himself sat near the entrance. There he sat for seven days without eating and drinking, neither did he appease the hunger and thirst of his wife. At the expiration of that time he went to sea to hunt, but before going he told his mother that in his absence she should wash his wife, dress, and feed her. Returning from the hunt in the evening, he went to his house and met his wife with such a face and expression as if nothing at all had happened, and began to live with her in peace and harmony, as formerly; but his passion for play turned to hate, and he became more careful and thoughtful on account of his wife.</p>
+      <p><pb n="139"/>This story is composed for the benefit of those who, being themselves the cause of the disobedience and unfaithfulness of their wives, throw the blame on them.</p>
+    </body>
+  </text>
+</TEI>

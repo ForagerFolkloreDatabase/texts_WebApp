@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Old Devilish Woman</title>
+        <editor role="collector">Larisa Mejerovna Brodskaya</editor>
+        <editor role="narrator">Utukogir Anastasiya</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NE02093009</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NE02093009</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0">CC BY-NC-SA</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Däbritz, Chris Lasse/Gusev, Valentin/Stoynova, Natalia (2024): INEL Evenki Corpus. Version 2.0. Publication date 2024-12-31. Archived at Universität Hamburg. https://hdl.handle.net/11022/0000-0007-FE38-D. In: The INEL corpora of indigenous Northern Eurasian languages. https://hdl.handle.net/11022/0000-0007-F45A-1. Quot. p. s.p..</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CEE15803">Evenki</name>
+          <date when="1965" type="recorded">Recorded in 1965.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>Long ago there lived two men and their families. One man was older than his friend, he had many children.  And his neighbour had a child [in a] cradle. Once the men went hunting.  Their families stayed in the tent. The older woman and her children made noise for the whole night.  Her neighbour got angry: "Why do you let you children make noise? People may come". On the third day an old woman came in. Having entered the tent, she sat down at the entrance. Having sat down she started to look constantly at [one] neighbour. The younger woman wrapped her  child, until that one stopped looking. Having wrapped her child the woman said: "Well, granny, take your <note>[DCh]: Not sure whether "ka-" is indeed a variant of "ga-"; however, </note>leg aside". The old woman made room for the woman. Having dressed <note>there is no entry for "ka-" in dictionaries.</note>her skies she went along the trace of their relatives. Behind her shouts were heard(?). At some place the woman <note>[DCh]: Not entirely sure about "seÅa-".</note>caught up her relatives. Her husband said: "Why do you [come] here?" The  woman said: "Some devil came to our tent. Then I ran off. Behind me shouts were heard".  The men returned to their tents. Having come they went in. In their tent their  is nobody. The man started to speculate: "Where are my relatives gone?" His friend said: "Well, man!  Look at the trace [which leads] out of the tent". His friend had a look and didn't see any trace.  He said: "I see the trace of a mouse". The other one said: "Well, man! Go along the trace you've  seen". He went off along the trace. It turned into the sled of an ermine. He started  to follow the trace again. The trace of the ermine led through a hole. He also creeped  through where [the ermine] had creeped through. Inside the hole he found the old woman.  Having gone in he said: "Well, Granny, let me go for wood". Having finished cutting wood, he brought it in.  The old woman doesn't say anything. The man pierced the old woman with a spear. Having killed the old woman he  went home. When he came, his friend asked: "Well, what's on, did you find [anything] or not?"  His friend said: "I found an old woman lying in the tent. She didn't say anything to me.  I killed her". Then the men wandered off from their tents forever.  Those people are probably wandering until today.</p>
+    </body>
+  </text>
+</TEI>

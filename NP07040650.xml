@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Goomblegubbon, Beeargah, and Ouyan</title>
+        <editor role="collector">K. Langloh Parker</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NP07040650</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NP07040650</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Parker, K. Langloh (1896): Australian Legendary Tales. Folk-Lore of the Noongahburrahs as Told by the Piccaninnies. With Introduction by Andrew Lang. Illustrations by a Native Artist, and Specimen of the Native Text. London: Nutt &amp; Melbourne: Melville, Mullen &amp; Slade. Quot. pp. 65-67.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CIPD0270">Yuwaalaraay</name>
+          <date notBefore="1875" notAfter="1895" type="recorded">Recorded sometime between 1875 and 1895.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <standOff>
+    <list type="glossary">
+      <item xml:id="GIP0247.002">
+        <gloss>Beeargah</gloss>
+        <desc>hawk.</desc>
+      </item>
+      <item xml:id="GIP0247.043">
+        <gloss>Dayoorl</gloss>
+        <desc>large flat stone for grinding grass-seed upon.</desc>
+      </item>
+      <item xml:id="GIP0247.049">
+        <gloss>Doonburr</gloss>
+        <desc>a grass seed.</desc>
+      </item>
+      <item xml:id="GIP0247.054">
+        <gloss>Durrie</gloss>
+        <desc>bread made from grass seed.</desc>
+      </item>
+      <item xml:id="GIP0247.072">
+        <gloss>Goomblegubbon</gloss>
+        <desc>bustard or plain turkey.</desc>
+      </item>
+      <item xml:id="GIP0247.073">
+        <gloss>Goomillah</gloss>
+        <desc>young girl's dress, consisting of waist strings made of opossum's sinews with strands of woven opossum's hair hanging about a foot square in front.</desc>
+      </item>
+    </list>
+  </standOff>
+  <text>
+    <body>
+      <p><rs type="animal" ref="g:GIP0247.072">Goomblegubbon</rs> the bustard, his two wives, <rs type="animal" ref="g:GIP0247.002">Beeargah</rs> the hawk, and Ouyan the curlew, with the two children of <rs type="animal" ref="g:GIP0247.002">Beeargah</rs>, had their camps right away in the bush; their only water supply was a small dungle, or gilguy hole. The wives and children camped in one camp, and <rs type="animal" ref="g:GIP0247.072">Goomblegubbon</rs> a short distance off in another. One day the wives asked their husband to lend them the <rs ref="g:GIP0247.043">dayoorl</rs> stone, that they might grind some <rs type="plant" ref="g:GIP0247.049">doonburr</rs> to make <rs ref="g:GIP0247.054">durrie</rs>. But he would not lend it to them, though they asked him several times. They knew he did not want to use it himself, for they saw his <rs ref="g:GIP0247.054">durrie</rs> on a piece of bark, between two fires, already cooking. They determined to be revenged, so said:</p>
+      <p>"We will make some water bags of the opossum skins; we will fill them with water, then some day when <rs type="animal" ref="g:GIP0247.072">Goomblegubbon</rs> is out hunting we will empty the dungle of water, take the children, and run away! When he returns he will find his wives and children gone and the dungle empty; then he will be sorry that he would not lend us the <rs ref="g:GIP0247.043">dayoorl</rs>."</p>
+      <p>The wives soon caught some opossums, killed and skinned them, plucked all the hair from the skins, saving <pb n="66"/>it to roll into string to make <rs ref="g:GIP0247.073">goomillahs</rs>, cleaned the skins of all flesh, sewed them up with the sinews, leaving only the neck opening. When finished, they blew into them, filled them with air, tied them up and left them to dry for a few days. When they were dry and ready to be used, they chose a day when <rs type="animal" ref="g:GIP0247.072">Goomblegubbon</rs> was away, filled the water bags, emptied the dungle, and started towards the river.</p>
+      <p>Having travelled for some time, they at length reached the river. They saw two black fellows on the other side, who, when they saw the runaway wives and the two children, swam over to them and asked whence they had come and whither they were going.</p>
+      <p>"We are running away from our husband <rs type="animal" ref="g:GIP0247.072">Goomblegubbon</rs>, who would lend us no <rs ref="g:GIP0247.043">dayoorl</rs> to grind our <rs type="plant" ref="g:GIP0247.049">doonburr</rs> on, and we ran away lest we and our children should starve, for we could not live on meat alone. But whither we are going we know not, except that it must be far away, lest <rs type="animal" ref="g:GIP0247.072">Goomblegubbon</rs> follow and kill us."</p>
+      <p>The black fellows said they wanted wives, and would each take one, and both care for the children. The women agreed. The black fellows swam back across the river, each taking a child first, and then a woman, for as they came from the back country, where no creeks were, the women could not swim.</p>
+      <p><rs type="animal" ref="g:GIP0247.072">Goomblegubbon</rs> came back from hunting, and, seeing no wives, called aloud for them, but heard no answer. Then he went to their camp, and found them not. Then turning towards the dungle he saw that it was empty. Then he saw the tracks of his wives and children going towards the river. Great was his anger, and vowing he would kill them when <pb n="67"/>he found them, he picked up his spears and followed their tracks, until he too reached the river. There on the other side he saw a camp, and in it he could see strange black fellows, his wives, and his children. He called aloud for them to cross him over, for he too could not swim. But the sun went down and still they did not answer. He camped where he was that night, and in the morning he saw the camp opposite had been deserted and set fire to; the country all round was burnt so that not even the tracks of the black fellows and his wives could be found, even had he been able to cross the river. And never again did he see or hear of his wives or his children.</p>
+    </body>
+  </text>
+</TEI>

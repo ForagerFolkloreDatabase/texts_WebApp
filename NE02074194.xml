@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Ibula</title>
+        <editor role="collector">Stolyarova Alla Konstantinovna</editor>
+        <editor role="narrator">Porbin Katamu Kondakovich</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NE02074194</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NE02074194</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0">CC BY-NC-SA</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Dulson Catalogue. In: INEL -  Grammars, Corpora and Language Technology for Indigenous Northern Eurasian Languages (https://www.slm.uni-hamburg.de/en/inel.html), https://inel.corpora.uni-hamburg.de/portal/kataloge/dulson/#en. Quot. p. s.p..</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CEE15006">Nganasan</name>
+          <date when="1971" type="recorded">Recorded in 1971.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>Now listen carefully, I will tell you a fairy tale, probably, it will be interesting. There is one tent, and few sledges. The storyteller entered the tent. He looked around - on one side of the bed, two persons are sitting. Between them, there is a cradle.<note>Непонятна синтаксическая функция dʼütɨəði, глоссирование условное.</note> On the other side, one man is sitting, he is wearing an old (shabby) sokuy.<note>Сокуй — традиционная мужская верхняя одежда.</note> The name of the single person is Ibula. Another man (in front of him) is called Ibula-brother. Ibula's brother goes hunting - he brings polar foxes, he brings partridges, he brings wild reindeers. Ibula shepherds domestic reindeers. One day, Ibula's brother says:<note>Непонятная форма ŋuɁə-nə один-GEN.SG.1SG, ожидалось бы ŋuɁəð-ə один-EP.GEN.SG</note> "Ibula, you are idling about all the time. Tomorrow I will go hunting. There is one road with traps, tomorrow you will check one branch road. The next day Ibula's brother went hunting, and Ibula went to check the traps. He found one trap, it fell down. It killed one polar fox. He lifted the trap, the polar fox is alive, and his eyes are looking. He took the polar fox and patted it on the forehead. "Hey, his eyes are looking, what a pity. How can I kill you, I will release you.He released the polar fox. The polar fox ran away. Then Ibula went further. He found one more trap, it killed one hare. He released the hare too. Then he went further. He found one more trap. It killed one partridge. He released it as well. Then he went home, he arrived at home. Ibula's brother had come long ago. He had killed one wild reindeer. He says to Ibula: "What have you killed, where are your polar foxes?"<note>Скорее ожидалась бы форма kunuŋuɁ 'где-3PL.S'.</note> Ibula started to talk: "My polar foxes were alive, their eyes were looking, it was such a pity. I released partridges, hares; I released all of them, because I felt sorry for their eyes. Ibula's brother got angry. "It's too bad, that you released the polar foxes, now stay at home!" So they woke up, and Ibula's brother says: "Well, I will go hunting". And he went hunting. The wife of Ibula's brother says: "I will go and pick <note>Глоссирование формы lʼantɨrimihi͡antə неточное.</note>some firewood, my baby is sleeping, if he wakes up, if he cries, cradle him!" (The baby) woke up in his cradle, Ibula started to dandle him, when the baby began to cry. The baby doesn't cease, he is crying and crying. "Hey, - he says so, - this baby has probably become ill." He touched the baby's head. "Ou, this baby is crying, because he has got a furuncle. A furuncle has appeared on his head, I need to pierce it." He pierced his sinciput.His brain flowed out. "Pus has appeared, after this pus had spilled, the baby fell asleep." (The woman), who went to pick firewood, came back. "Where is my baby? Is he sleeping?" "My baby fell asleep, he has got a furuncle; I pierced his furuncle, and he fell asleep." She examined her baby. "My baby died long ago."Ibula's brother came and started to scold Ibula: "You have spoiled our baby, what a devil you are!" They burried their baby. "Hey, - Ibula's brother says, -  when you stay home alone, it's too bad. Tomorrow you shall go to the traps, once again. Listen to me - (hold) this stick with a shaved grip - I'll make it - when you find something, break it's head with this stick!" Ibula went to the traps. Satərəj ŋətəbütü, kəhɨj ŋətəbütü, nʼomuj ŋətəbütü, ŋojbüütʼüŋ ləhüɁkətu hu͡aatənu; maðuɁ dʼa biiɁi͡a, mati tʼüüɁiðə. I haven't stopped (reached the home) yet, Ibula-brother's wife is approaching me". Hey, Ibula, how many polar foxes have you killed?"<note>kotuŋu is not clear, for 2nd person it should be kotuŋuŋ.</note> Ibula dismounted from his sledge, he took his stick with a shaved grip, and hit Ibula-brother's wife on her head. Her head split into two parts. She died there and then. Ibula's brother came and started to scold Ibula.They both burried the dead (wife). Ibula's brother says: "Well, let's wander from here, you will lead our string of sledges behind! There is a river not far from here. You shall build a tent there, on the river. Ibula wandered from there, and stopped near the river. He started to lay boards and to lay his bed (skins). He lays them - the stream carries away his boards and his bed. "Hey, where are these boards and the bed going to wander?" He makes it like this. Ibula's brother came and hit Ibula.<note>syntax is not clear </note> Ibula began to cry.</p>
+    </body>
+  </text>
+</TEI>

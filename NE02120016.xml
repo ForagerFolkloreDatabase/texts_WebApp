@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>An Orphan Boy and an Old Pan</title>
+        <editor role="collector">Angelina Ivanovna Kuzmina</editor>
+        <editor role="narrator">Nerina Elizaveta Pavlovna</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NE02120016</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NE02120016</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0">CC BY-NC-SA</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Brykina, Maria/Orlova, Svetlana/Wagner-Nagy, Beáta (2021): INEL Selkup Corpus. Version 2.0. Publication date 2021-12-31. https://hdl.handle.net/11022/0000-0007-F4D9-1. Archived at Universität Hamburg. In: The INEL corpora of indigenous Northern Eurasian languages. https://hdl.handle.net/11022/0000-0007-F45A-1. Quot. p. s.p..</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CEE15004">Northern Selkup</name>
+          <date when="1965" type="recorded">Recorded in 1965.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>He had one son visiting him, with no one, with no friends. This is a true story, not a fable. The old man lived, he became ill.  This Selkup old man lived on this side of the river.  There, where there are no trees at all, thatâs where the man lived who became ill.  He had one son, with no friends, with nobody at all. He didnât have any daughter, he didnât have anybody. Then this boyâs father became ill.  This boy maybe is living there with his father and his mother. On that [other] side two Nenets brothers lived.<note>[BrM:] Unclear usage of ADV.ILL in 'tontÉ¨'.</note> The old Nenets man gets over [to this side].  That old man [the Selkup] died. The Nenets oldman, where can he go. He crossed over to his brother's. âThe old man died, bury him.â Then again the old woman, having become ill, also died.<note>[KuAI:] He is speaking to his brother.</note> Their son is left all alone (/with no friends, with nobody). Where will he go. This old Nenets man got [this boy] over to the other  side the second time. He had a big son, thatâs the kind of son he had. He took [him] along, since he doesnât have reindeer. Without reindeer  they lived, [walking] on foot. They lived there. They lived, if you cross over to the other side, in the tent of the old Nenets man. The old Nenets man had  no son. His wife is childless. That middle brother has one daughter only. From lower  down the river, two Nenets men came [to them].  This old Nenets man is surviving on land without a forest. How many reindeer his family [had], he took them all  away. So he came.  Here the brothers lived, these two old brothers.  They have four hundred reindeer.<note>[BrM:] Unclear number and possessor </note> He came to take away the reindeer of this old man (/of these old men).  He came with people. Old man Pan, thatâs his <note>person in 'ÉËtÃ¤qitÉ¨'.</note><note>[BrM:] 1) It is unclear, </note>name.  Having <note>whether 'â²Ð½Ð¸Ð¼ÑÑ' should be transcribed as nÄ±mtÉ¨ (his name) or nÉ¨mtÉ¨ (there). The second variant corresponds better the translation from the archive, the first one, which we have chosen, fits maybe a bit better to the context.</note>arrived, they [Pan and his people] spent the night in their tents. They donât know this boy. âHow did the boy get to him? He lives like  an old wise man.â How will the man know, a man living somewhere else [about this boy].  They spent the nights. They say,  on the third day the old man Pan will come with ten people.  Well, to herd away the reindeer. Itâs that one, he drove away the reindeer<note>[KJ:] This sentence is probably part of the previous sentence.</note> of the father and son [?]. How many new houses there are [?], however many things there are, heâll collect everything. He had also  collected [things] earlier. He had collected reindeer from the Nenets, he took them away. Then these Nenets men [Pan and his people] went back. On the  third day, weâll come, they say. Donât go anywhere, they say. On the second day it dawned. This boy said this to his [adopted] grandfather.  Up river, he says, there is a [place in] tundra where four hundred reindeer could stay, weâll herd them there.  [Otherwise] the Nenets men will come and start taking away the reindeer. Having wintered at the reindeer herding place, what [else] will we do.  The boy said so. Then he said so. To me, he says,â¦ you have a new tent, grandfather, give it to me.  And that one, that brotherâs daughter, his grandfather is sending her(?). To this boyâ¦ Up the river there is a neck of <note>[OSV:] The sentence is not finished.</note>land with a forest. Iâll put the tent there. He says, bring me the new tent. The next day they let [the reindeer?] go  free. Maybe on the third day the old man Panâs [people] will come to them, to take away the reindeer of the old Nenets man.   They then let free the brothersâ reindeer in various directions.  These reindeer were maybe driven, he drives them, too.  [He] was given the tent. At the front edge of this forested neck of land they set up the tent with this woman. Of course, a rich Nenets  man would [hardly] have no tent, a new tent [it was], a tent with a [new] skin. Then again they spent the night with this woman. The next morning it became like  this. To that wife of his [he says], I will go up the river to my people. Did <note>[AAV:] Unclear was this upstream or downstream from the tents of the Nenets brothers. If he's hiding the reindeer upstream, he'd be going downstream now. </note>they put the tent or where did they go. [?] He moved up the river. He harnessed three oxen, it looks like thirty reindeer were left.<note>[BrM:] In the original translation - 300 reindeer.</note> The boy went up the river. His wife stayed alone. She(?) sits and sits. One day the evening was coming on [?]. This boy slowly felt: up the river [once] people arrived.<note>[BrM:] 'lÊ¼amÉ¨ kÉËÅa' was replaced with 'lÊ¼amÉ¨k kÉËÅa'. [BrM:] Unclear usage of the verb taËtÉ¨- 'to bring', which does not correspond the translation.</note> From lower down the river old man Pan's [people] arrived. He has ten men maybe who have to drive the reindeer in.<note>[BrM:] Unclear usage of the verb taËtÉ¨- 'to bring', which does not correspond the translation.</note> The old man Pan has such a shamanâs wisdom(?). Then the second time this boy came, one hears. His wife heard him. It seems, he has just arrived, whether the old man Panâs people came, it seems. They left the sleds with all their things so, outside, outdoors.  He went into the house. Standing at the door, at the door he is shaking the dirt off his feet. He is  shaking off his shoes. So he said to the old man Pan, turning forward: Your mouth is like an ice-hole on the river.  After that  (/the next day) he jumped forward, he moved(?) with his fist. He lay down all the men of the old man Pan flat [on the ground].  Some died, the old man Pan remained alive. Two [more] remained alive. He threw [them] outdoors.  This boy had stroke [=caressed] once with his fist.  They all shat their clothes (/their pants).   These dead ones, he then threw them outside. Onto the street, [where?] those sledges, sticks, skis were tied up.  He also took (/threw) the old man Pan outside. Well, he took them all outdoors. He sat down and took off his deer hide clothes.  He sat down to eat, spent the night. These people [of his] are lying outdoors. As if they had been tied down. Thatâs how he spent the night. The next morning he got up. The old man Pan, his face got so swollen,  his eyes are hardly visible. Those two Nenets men were still better.  Thatâs what this boy said to these Nenets men.  [He told them to] take (?) [the old man Pan?] home on their own sledges. Then the second time <note>[BrM:] 'meËqÄ±j'???</note>those two went into the house. Maybe they ate, maybe they didnât. Then their sleds which were tied down, [he brought them] home, towing [them with his sled], he carried these people, these dead people away like this.  He carried away the old man Pan down home like that, hooked up, too. What, he  took him, hardly breathing, away. They left (?). The people left fine, so he told his wife. âTake the tent down, weâll go upstream to the people.â He didnât know of the grandfather, anything.<note>[BrM:] Unclear usage of optative in 'qÉlÊ¼lÊ¼Ã¤'.</note> That one left upstream.  He is not talking. His wife told [this story]. To her father  and grandfather. The old men left for home. And then (â¦) s/he doesnât know anything. He left.  They went into grandfatherâs tent. They put the sled and all the rest up, tied over [with a rope].  They left, they left for home. The old man Pan hardly reached the lower part of the river, he died.  Those two people lived. His name is old man Pan.</p>
+    </body>
+  </text>
+</TEI>

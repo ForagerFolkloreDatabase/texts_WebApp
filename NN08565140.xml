@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Raven and the Marmot</title>
+        <editor role="collector">Edward William Nelson</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NN08565140</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NN08565140</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Nelson, Edward W. (1899): The Eskimo about Bering Strait. In: Eighteenth Annual Report of the Bureau of American Ethnology. Washington: Government Printing Office, part I, 1-518. Quot. pp. 514-515.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA27733">Norton Sound Inuit</name>
+          <date notBefore="1877" notAfter="1881" type="recorded">Recorded sometime between 1877 and 1881.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>Once a Raven was fiying over a reef near the seashore, when he was seen by some Sea-birds that were perched on the rocks, and they began to revile him, crying, "Oh, you offal eater! Oh, you carrion eater! Oh, you black one!" until the Raven turned and flew away, crying, "Gnăk, gnăk, gnăk! why do they revile me?" And he flew far away across the great water until he came to a mountain on the other side, where he stopped.</p>
+      <p>Looking about he saw just in front of him a marmot hole. The Raven stood by the hole watching, and very soon the Marmot came back <pb n="515"/>bringing home some food. When the Marmot saw the Raven in front of his door he asked him to stand aside, but the Raven refused, saying, "They called me carrion eater, and I will show that I am not, for I will eat you." To this the Marmot answered, "All right; but I have heard that you are a very fine dancer; now, if you will dance, I will sing, and then you can eat me, but I wish to see you dance before I die." This pleased the Raven so much that he agreed to dance, so the Marmot sang, "Oh, Raven, Raven, Raven, how well you dance! Oh, Raven, Raven, Raven, how well you dance!" Then they stopped to rest, and the Marmot said, "I am very much pleased with your dancing, and now I will sing once more, so shut your eyes and dance your best." The Raven closed his eyes and hopped clumsily about while the Marmot sang, "Oh, Raven, Raven, Raven, what a graceful dancer! Oh, Raven, Raven, Raven, what a fool you are!" Then the Marmot, with a quick run, darted between the Raven's legs and was safe in his hole. As soon as the Marmot was safe he put out the tip of his nose and laughed mockingly, saying, "Chĭ-kĭk-kĭk, chĭ-kĭk-kĭk, chĭ-kĭk-kĭk! You are the greatest fool I ever saw; what a comical figure you made while dancing; I could hardly keep from laughing; and just look at me; see how fat I am. Don't you wish you could eat me?" And he tormented the Raven until the latter flew far away in a rage.</p>
+    </body>
+  </text>
+</TEI>

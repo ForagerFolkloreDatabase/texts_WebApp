@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A Lamentable Story</title>
+        <editor role="collector"> anonymous</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NN09852320</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NN09852320</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Rink, Henry (1875): Tales and Traditions of the Eskimo. Edinburg/London: Blackwood. Quot. pp. 232-233.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA27908">Kalaallit (West Greenland)</name>
+          <date notBefore="1823" notAfter="1868" type="recorded">Recorded sometime between 1823 and 1868.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <note>From one of the older manuscripts.</note>
+      </p>
+      <p>An old man had taken up his position on the ice watching the breathing-holes of the seals, in order to spear them as they appeared. Meanwhile some little girls were playing on shore in a cleft between some rocks, as usual, carrying their little baby sisters and brothers in the amowts [hoods] at their backs. Just as the old man was in the act of spearing a seal, the children happened to give a shout, and the terrified seal at once dived to the bottom. On this the old man got into a great passion, and cried out aloud, "Shut up, mountain-cleft!" and accordingly it closed upon all the playing children, who were not able to escape, but were now buried in a cavern, wide at the bottom, and narrow towards the top. <pb n="233"/>The babies soon began to cry for thirst, and the girls put their fingers into their mouths to suck at, trying to hush them by telling them, "When mother has finished soling the boots, she will come and suckle thee." At length the mothers came to the spot, and poured water down in the cleft. The water trickled along the walls, and they licked it up, and the mothers could very well see the children, but as it was impossible to get at them, all of them were starved.</p>
+    </body>
+  </text>
+</TEI>

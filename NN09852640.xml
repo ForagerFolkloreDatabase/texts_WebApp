@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>About the Children of Two Cousins</title>
+        <editor role="collector"> anonymous</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NN09852640</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NN09852640</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Rink, Henry (1875): Tales and Traditions of the Eskimo. Edinburg/London: Blackwood. Quot. pp. 264-265.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA27908">Kalaallit (West Greenland)</name>
+          <date notBefore="1823" notAfter="1868" type="recorded">Recorded sometime between 1823 and 1868.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>There were once two cousins living together at the same winter-station, and at the time, their wives were both childless. In spring they parted from each other, saying, "Well, we will see who first gets a child." One travelled away to the south, and established himself for the coming winter. At this place he lived in prosperity, and his wife bore him a child. When the boy grew up, the father took a fancy to return to his cousin. He, however, had still no children; and for this reason he caught a young deer, and trained it up for his amusement. At length it improved so much that it could understand human speech. About that period the cousin returned, and he first beheld the calf running about outside the house. The cousins once more lived together, and the boy and the calf became playmates. The calf, however, soon grew stronger, and sometimes knocked over the boy, at which he wept. For this reason the boy's father went and shot the calf, <pb n="265"/>though he loved his cousin dearly. The childless man got into a great rage at this, and at once challenged his cousin, and they met, armed with their bows; the childless man shot his cousin on the spot, but was very much afflicted afterwards, and burst into a flood of tears. The son of the man that had been thus killed removed to a distance, for he could not endure the sight of his father's cousin. When he was full-grown and strong he returned to the place, but he had come too late - the cousin was no more. He heard some rumour of an enormously strong man who used to rob other men of their wives; he challenged him to a wrestling-match, and overcame and killed him, and returned the women to their own husbands.</p>
+    </body>
+  </text>
+</TEI>

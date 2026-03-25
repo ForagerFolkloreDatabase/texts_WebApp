@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A Hare and a Fox</title>
+        <editor role="collector">Konstantin Nikolaevich Rychkov</editor>
+        <editor role="narrator">Tynevul</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NE02094075</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NE02094075</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0">CC BY-NC-SA</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Däbritz, Chris Lasse/Gusev, Valentin/Stoynova, Natalia (2024): INEL Evenki Corpus. Version 2.0. Publication date 2024-12-31. Archived at Universität Hamburg. https://hdl.handle.net/11022/0000-0007-FE38-D. In: The INEL corpora of indigenous Northern Eurasian languages. https://hdl.handle.net/11022/0000-0007-F45A-1. Quot. p. s.p..</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CEE15803">Evenki</name>
+          <date notBefore="1910" notAfter="1919" type="recorded">Recorded sometime between 1910 and 1919.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>Once upon a time there was a hare.  It got cold. The hare went out of his yurt.  He found a man - a frozen human being. He walked round the dead person. And he sees a fox coming. The fox came and said: "What are you doing here, hare?" "I found a human being! How can we eat a frozen  person?" The fox says to the hare: "Go this way! An old man and an old woman live there - ask for a hammer and chisel, ask for it!" The hare went away. He walked and walked and walked, long or short, he reached the yurt. He entered the yurt. "Old man and old woman," he said, "I've come!  Give me a hammer and a chisel!" "Why do you need a hammer? Why do  you need a chisel?" "I found a frozen person!" "Eh, you want to eat my son!" The old man wanted to hit the hare with the hook [for hanging kettles] - the hare jumped out. He hit the hare in the doorway with the hook. He hit the hare's tail, his tail broke, his tail became short. The hare went, he went back. He came to this human being. The fox ate everything [this frozen man], the fox. Then the hare went, he began to sing and went: "Am I going high or am I going low!?" The hare saw: a fire was burning; a stump [was burning]. Again, he sang: "Am I going high or am I going low?" Two girls were sitting spinning thread. The hare said: "Why are you sitting here? Go and pour water on the fire!" The hare went further. Two mice are running under the bottom. "Why are you mice running around here? Go to the girls and cut their threads!" The hare went on. He walked and walked and walked [sees]: two boys shooting from a bow." "Who are you shooting at, two boys? Shoot those two mice under the bottom!" The hare went on. He walked and walked and walked - he reached a grassy swamp. He ran through this swamp and cut his nose crosswise with grass. He returned home - he came home. He wanted to open the door, but a frog was sitting in the yurt. He said: "snowdrop anemone la-la-la-la-la-la-la-la, I'll eat a hare! Snowdrop anemone mol-mol-mol, I'll eat the hare!" The hare was frightened. The hare left. He walked and walked and met a bear and said, "Grandfather, in the yurt," he said, "who is that saying? Snowdrop anemone mol-mol-mol, snowdrop anemone la-la-la-la-la! He's going to eat me! Grandfather, let's go into the yurt!" The hare goes with the grandfather [bear] into the yurt. The grandfather opened the yurt, came in and said: "There is no one!" The hare says: "Take a good look!" The bear looked: there was a frog sitting on the edge of the pole. The bear hit [the frog] with the palm of his hand and killed it. From then on, the hare lived in his yurt. The bear left.</p>
+    </body>
+  </text>
+</TEI>

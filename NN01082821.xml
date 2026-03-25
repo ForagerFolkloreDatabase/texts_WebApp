@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Tales of Quarrels, Murder, and War (#3)</title>
+        <editor role="collector">James S. Mutch</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NN01082821</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NN01082821</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Boas, Franz (1901): The Eskimo of Baffin Land and Hudson Bay. From notes collected by George Comer, James S. Mutch, and E. J. Peck. New York: AMNH (Bulletin of the American Museum of Natural History, 15,I). Quot. p. 282.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA27903">Baffin Island Inuit</name>
+          <date notBefore="1883" notAfter="1899" type="recorded">Recorded sometime between 1883 and 1899.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>{282} Noonatoo, and his wife Punewishik, were living at Alkjaw, near Kivetoo. Okoweecheak was living at another place near by. Okoiveecheak had been starving for some time. One day Noonatoo found that some of his dogs were missing. He was searching for them, and finally went to Okoweecheak's hut to inquire about them. He saw that their tracks led to the hut, but found no traces of their having returned. To his question whether he had seen his dogs, Okoweecheak replied, "Some of them came, but they have run away again." Noonatoo retorted, "They have not left this island. I see their tracks coming, but not going. I am sure you have eaten them." Okoweecheak replied, "I have not eaten any dogs;" and his wife, who was Noonatoo's sister, confirmed what he had said.</p>
+      <p>Noonatoo became very angry, and went away. He told his wife that he had seen the tracks of his dogs leading to Okoweecheak's hut, and that he was sure they had been eaten there. On the following morning he asked his wife to invite Okoweecheak to join him at Alkjaw. The woman went, and Okoweecheak broke up his tent, loaded his sledge, and started.</p>
+      <p>While they were loading, Punewishik saw a dog's skin, the flesh side of which was still wet. They started, and soon they arrived at Noonatoo's hut, where they put up their tent. Then Punewishik told her husband that she had seen a fresh dog's skin among Okoweecheak's goods. Now they knew that Okoweecheak had eaten their dogs; and Noonatoo forbade his wife to give them any seal-meat. When Noonatoo's sister came to his house, they did not give her anything to eat. After some time, she came again, and staid with her brother. Then Noonatoo went to Okoweecheak's hut, walled in the door, and left him to starve to death.</p>
+    </body>
+  </text>
+</TEI>

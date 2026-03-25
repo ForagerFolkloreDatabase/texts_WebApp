@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Armuckjuark</title>
+        <editor role="collector">George Comer</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NN01083280</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NN01083280</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Boas, Franz (1901): The Eskimo of Baffin Land and Hudson Bay. From notes collected by George Comer, James S. Mutch, and E. J. Peck. New York: AMNH (Bulletin of the American Museum of Natural History, 15,I). Quot. pp. 328-331.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA27803">Kivallirmiut</name>
+          <date notBefore="1897" notAfter="1901" type="recorded">Recorded sometime between 1897 and 1901.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>At Amitoq there once lived a man and his wife. The man wished his children to be very strong. For this reason he made the mother, after each child was born, sit on the floor of the hut with her feet raised to each side of the doorway. In this position she had to eat, taking a large piece of half-cooked meat in both hands, and tearing off pieces with her teeth, while the fat ran down her arms. While she was doing this, her husband remained in the entrance-way and kept off the dogs with his whip. This made the children exceedingly strong.</p>
+      <p>One of the sons of this couple was named Armuckjuark. He came to be a very strong man. His wrists were as thick as the legs of a bear. He had one brother, who was called Artinarkjuark, and one half-brother.</p>
+      <p>He had two wives, - Eccootlikechark and Arknuckkaark. The former was thin and lean, while the latter was very stout. Eccootlikechark was jealous of the other wife, and used to {329} taunt her, saying that she had large hips and did not look well; while Arknuckkaark would retort that the other one had legs as thin as the pieces of bone which are used to dig marrow out of broken bones.</p>
+      <p>Armuckjuark was a successful whaler. He liked best to go off in his kayak when a strong southeasterly wind was blowing. He would go out alone, carrying a large float made of the skin of a ground-seal; and when he had killed a whale, he would leave it, and the whale would soon drift ashore. Between times he used to go home and tell the people to be on the lookout for a whale. He was not a good caribou-hunter, however, because he could not paddle on the lakes as quickly as others. His uncle, particularly, used to pass by him in his kayak and kill the caribou before he could reach them.</p>
+      <p>One day when the caribou were crossing a lake, he asked his wives to bring him his paddle. It was so large that it required both of them to carry it. He took his brother Artinarkjuark into his kayak and started. His uncle followed him, and soon passed him. This enraged Armuckjuark, who, with a powerful stroke of his paddle, made the water whirl so rapidly that his uncle was capsized and drowned. Artinarkjuark did not like the way in which his brother was acting, and as soon as they reached the shore he jumped out of the kayak and went to his tent.</p>
+      <p>Later in the winter the people went to fetch some caribou-meat from their caches. When they returned, Eccootlikechark distributed it. Soon she returned and told her husband that she had met his half-brother in one of the entrance-passages, and that in trying to pass her he had tried to overcome her. In fact, they merely happened to meet, and in trying to pass each other had always moved to the same side. Armuckjuark believed his wife. The next morning he arose early, went to his half-brother's house, and said that he was going to kill him. His half-brother said, "Wait until I am dressed." He got up, and as soon as he was dressed, Armuckjuark stabbed him with his knife. Then their mother began to cry. She was sad over the loss of her child, and told Armuckjuark {330} that his wife had deceived him, and had lied in regard to his half-brother, and ended by saying that she hoped Armuckjuark would not die if he should be stabbed by the other people.</p>
+      <p>Armuckjuark returned to his house. Early the next morning he asked Eccootlikechark which way the wind was blowing. She retorted that he might find out by going out himself. Then he took hold of her hand with both of his, pulled her fingers apart, and split her hand and arm up to the elbow.[[Compare p. 299.]] She gave a wild shriek and died. He knew now that she had lied, and he felt sorry for having slain his half-brother.</p>
+      <p>The next summer, while Armuckjuark and Artinarkjuark's wives were out gathering moss, they saw a number of people who beckoned to them to come. The people told them that they were intending to kill Armuckjuark and Artinarkjuark that night, and asked the women to put out their [?] stockings from under the tent. The women returned. They did not tell their husbands of the designs of the people, and when they lay down they put their [?] stockings out from under the tent. At dark the people attacked them. By far the greater number assailed Armuckjuark's tent, while only about half that number attacked Artinarkjuark's tent. They jumped on top of the tent-skins, so that the tent fell down, and they tried to stab the inmates. As soon as Armuckjuark felt the tent falling down, he arose on his hands and feet, and crawled in this way quite a distance, carrying tent and men along; and finally he was despatched. The other men broke down Artinarkjuark's tent; but one of their number pitied him, and, while the others were trying to kill him, he shouted, "Armuckjuark is coming!" Then all the men jumped up from the tent, and Artinarkjuark took this opportunity to escape; but blood was flowing from his wounds. Finally he came to a stream, and by wading in it he covered his tracks. Then he travelled on until he came to the place where his parents lived, near a point where they were catching ducks with whalebone snares. They dressed his wounds and gave him new clothing. On the following day the people who were pursuing him came to the tent. Then {331} his mother made him lie down on the ground, and covered him up. The people asked the old couple if they had seen any one coming that way. They replied that no one had come, and invited them to rest, and gave them to eat. Soon the people left, believing Artinarkjuark to be dead.</p>
+      <p>Soon his wounds healed, and he staid with his parents, hunting. During this time he made a beautiful set of clothing for himself, and one for a woman. In winter he went back to his own village, and when the people saw him coming they recognized him at once. The man who had stabbed him in the side, and who thought that he had died of his wound, had carried a charm as a protection against Artinarkjuark's spirit. When he saw Artinarkjuark alive, he dropped the charm when no one was looking. Artinarkjuark now called his wives, one of whom came quickly. He asked her to take off her old duck-skin suit, which he tore to pieces, and gave her the beautiful clothes which he had made. He would not have the other woman because she did not come at once when he had called.</p>
+      <p>He then challenged two men who had stabbed him, and slew both of them. Then he left the village with his wife, and lived happily ever after.</p>
+    </body>
+  </text>
+</TEI>

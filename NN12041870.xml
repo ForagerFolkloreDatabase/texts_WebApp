@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Old Man, the Rock, and the Kit-Fox</title>
+        <editor role="collector">Christiaan Cornelis Uhlenbeck</editor>
+        <editor role="narrator">Joseph Tatsey</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NN12041870</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NN12041870</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Uhlenbeck, Christiaan C. (1912): A New Series of Blackfoot Texts from the Southern Peigans Blackfoot Reservation, Teton County, Montana. With the help of Joseph Tatsey collected and published with an English translation. Amsterdam: Müller (Verhandelingen der Koninklijke Akademie van Wetenschappen te Amsterdam, Afdeeling Letterkunde, NS 13,I). Quot. pp. 187-191.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA31305">Piegan</name>
+          <date when="1911" type="recorded">Recorded in 1911.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>There was the Old Man and his younger brother the kit-fox, they were travelling about. It is over north, [that] this story belongs. There was a river, there they were travelling about. They went on the prairie. He told his younger brother: Let us go over to the other river. They had got far on the prairie. Then they came to a big rock. It was warm. He said to that big rock: Have this here for a robe. He covered [the rock] up with his robe. And [he and] his younger brother went on. They had got far. He saw, there was a rain coming. He told his younger brother: Run back, tell the rock, that I want to use his robe just for the rain. Then his younger brother <pb n="188"/>ran away. He was not going long, then he came back. He told [the Old Man]: He [the rock] was saying: He has already given it to me. And the rain was coming near. He told [his younger brother]: Ran back again, tell him, I want to use it just for the rain. Then he ran back again. He was not going long, then he came back again. He told [the Old Man]: He was saying: I will not give it to him, he has already given it to me. He told his younger brother: Run back again, tell him, that he must give it to you. I will take it back. Then he ran back again. He was not going long, he came back again. He told [the Old Man]: He was saying: What has been given to big rocks, that is never taken back from them. He told his younger brother: Wait for me here. I shall go back and take my robe. Then he came to the big rock. He said to him: He has [i.e. you have] always been staying out in the rain, [and now] he thinks, that he ought to have a robe. Then he jerked the cover from him, and ran back to his younger brother. He told his younger brother: Come on, let us travel faster.</p>
+      <p>They had travelled a long time, they heard, there was a roaring sound. He told his younger brother: Go back and look. Then he ran back. [The Old Man] himself had already started to <pb n="189"/>run for escape. He was overtaken by his younger brother. He was told by him: That big rock is after us. They, ran faster. His younger brother was fast [i.e. faster than the Old Man himself]. He would go back and look. When he overtook [the Old Man], then he would say to him: He •keeps on getting closer to us. [After] they had been running a long time, the Old Man saw [the rock]. And his younger brother got out of breath. The big rock came very close to them. The kit-fox ran into [a hole]. And the Old Man was chased by [the rock]. He saw some young buffalo-bulls. He told them: Help, my younger brothers, here comes one chasing me. Then he ran past them. He saw them plainly, that they were mashed down [by the rock]. [The rock] was getting closer to him. He saw, there were night-hawks flying home. He told them: Help, my younger brothers, this big rock has chased me very hard. Then they would sail down towards [the rock]. And then they would fart at it, they would blow off a piece of it every time. After a short while they blew it in two. Then the Old Man stopped running. Then he began to look at the rock. He saw, those bulls were lying inside of the rock. Then he fixed them up [that means: he made them alive again]. They became buffaloes again. And he went back to look for his younger <pb n="190"/>brother. He came to [the place], where he had run into [a hole]. It was covered up, so that there was no opening left [literally: it was knocked shut]. Then he dug after him. [His younger brother] came out. [The Old Man] said to him: Come on, let us go on again.</p>
+      <p>They went down alongside the river. He found the young ones of the night-hawks. He took them. He told them: I was happily chased by that big rock. Their [i.e. your] mothers had to blow it in two [that means: if your mothers had not blown it in two, I might be happy still, being chased by that big rock]. Then he began to split their mouths wider. He told them: In that way you will look in the future. In such rocky places, that is where you will be in the future. He then went on again. The night-hawks came flying home. They said to their children: Ah, ah, you must have eaten raw food, you are with bloody mouths. [The young ones] told them: No, that Old Man split our mouths wider. He said: I was happily chased by that big rock. Their mothers had to blow it in two. That was the reason, that he split our mouths wider. They said: Which way has he gone? [The young ones] told them: He went north. Then they flew after him. He was still travelling. They overtook him. Then they began to fart down at him. He used <pb n="191"/>his robe as a shield. Each time he would cut out a piece of it [where it was soiled by the night-hawks]. He finally cut it all up. He ran into a lake for safety. He lay with only his mouth sticking out [of the water]. And he was left by them in safety. Then he came out of the water. And [he and] his younger brother then wintered together. Spring was near. Then he pulled out his [i.e. his younger brother's] fur. He was then short-furred. [The Old Man] told him: When it is this time of the year, you will look in this way in the future. And that night the blizzard [literally: one who makes raids] came. [The Old Man] told his younger brother: This tripe is warm, I shall cover you up with it. He had done covering him. It was night then. In the morning, when he. looked at his younger brother, he was already frozen with his face twisted. He said to him: Ah, [I wonder], what he is laughing at. My younger brother has always been a laugher. And that one was frozen with his face twisted. That is why in spring the kit-foxes are short-furred and yellow. And now the dogs are scratching the ground [after having had their meal].<note>Cf. Grinnell 165 sq., Wissler-Duvall mbi 24 sq. 37, Mc Clintock ont 342, Dorsey-Kroeber ta 65 sqq., Lowie a 108. 120, Lowie ns 262 sqq.</note></p>
+    </body>
+  </text>
+</TEI>

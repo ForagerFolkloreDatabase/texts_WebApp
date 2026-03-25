@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>About Narysha</title>
+        <editor role="collector">Valentina Vladimirovna Shilova</editor>
+        <editor role="narrator">Turutina Polina Gilevna</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NE02111560</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NE02111560</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0">CC BY-NC-SA</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Budzisch, Josefina/Wagner-Nagy, Beáta (2024): INEL Nenets Corpus. Version 1.0. Publication date 2024-12-31. https://hdl.handle.net/11022/0000-0007-FE37-E. Archived at Universität Hamburg. In: The INEL corpora of indigenous Northern Eurasian languages. https://hdl.handle.net/11022/0000-0007-F45A-1. Quot. p. s.p..</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CEE15002">Forest Nenets</name>
+          <date when="2002" type="recorded">Recorded in 2002.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>About Narysha It so happened that Narysha's mother died and the girl was left an orphan. They lived alone with their  father, lived for a long time, and the tent became old and the clothes broke through. Once they sit together in the tent, it is broken.  So the father says to his daughter Narysha: âCome on, Iâll bring you a mother, otherwise the tent broke completely, the clothes are torn.  What do you say to that? The daughter says: âYes, go get her, everything is torn, Iâm still small.â  Here inside Narysha's tent, it became good, the stepmother repaired the tent, and the clothes of Narysha and her father were repaired.  The girl has grown up. From the new mother, two younger brothers appeared at Narysha.  It is warm in the tent, it is good, there is always something to eat. And Narysha's life has become completely bad: she cuts firewood, carries water, but the stepmother does not allow her to  eat. When the father arrives, only then does she eat.  Once it was a hungry year.  The stepmother says to her husband: âSpread Narysha between the trees, otherwise she looks at her brothers when they eat.  Just stretch her out before we slaughter the deer, before we move to a new place.â Half of the husband's face darkened, he silently went out.  The rope began to unravel. Narysha came up and said: "Let's help, what are you doing?"  He turned away from Narysha in the other direction and said: âWhat I do, what I do, I do you.â  After that, the father hung the orphan daughter between two pines. He didn't  want to quarrel with his wife. They migrated from there, and Narysha remained hanging in the former tent.  They got to the place, made a tent, slaughtered a deer, ate. The kids went outside before going to bed.  It was already dark. At the old tent, where they came from, the children heard: "Bread, bread, bread â¦"   The Nenets say: "If there is no father, then the child is half an orphan, and there is no mother - an orphan."  The surname Narysh appeared on behalf of this girl, because in the spring he sent his daughter to the next world.</p>
+    </body>
+  </text>
+</TEI>

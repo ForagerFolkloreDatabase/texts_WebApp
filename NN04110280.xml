@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Girl Who Married the Moon (Star Husband)</title>
+        <editor role="collector">Frank Alfred Golder</editor>
+        <editor role="narrator">Nicoli Medvednikoff</editor>
+        <editor role="narrator">Mrs. Reed</editor>
+        <editor role="narrator">Corneil Panamaroff</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NN04110280</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NN04110280</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Golder, Frank Alfred (1903): Tales from Kodiak Island. In: The Journal of American Folk-Lore 16(60/61), 16-31, 85-103. Quot. pp. 28-31.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA27722">Koniag Alutiiq</name>
+          <date notBefore="1900" notAfter="1903" type="recorded">Recorded sometime between 1900 and 1903.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>Two girls, cousins, lived in a large village; and those evenings when the moon was out they went to the beach to play. Claiming the moon as their husband, they spent the night in in gazing and making love to him. For shelter they had a propped-up bidarka [large skin boat], and in the course of the night they changed their positions <pb n="29"/>several times, so as to be face to face with the moon. If on their return to their homes in the morning their parents questioned their whereabouts, they replied that they watched the moon till he passed from sight. Many of the people heard them remark on different occasions that they loved the moon, and wished they, too, were moons.</p>
+      <p>One evening, in company with other young people, they amused themselves on the beach. Night coming on, the others returned to their homes, but these two remained. When during the night the moon withdrew from sight, one of the girls complained, "Why does the moon hide himself so suddenly? I like to play with him, and have light." "I, too," said the other. Although they thought it was close on to morning, and that the moon had vanished for the night, it was yet midnight with the moon behind the clouds.</p>
+      <p>Up to this time they had not noticed their dishevelled hair, and when they now began to put it in order, they were startled by hearing a noise close to them, followed immediately by a young man. He looked at them for a moment, and then said, "You have been professing love for me since a long time. I have watched and observed you, and know you love me, therefore have I come for you. But as my work is hard, I can take only one of you, the more patient one." As each claimed superiority in that virtue, he said, "I will decide this point myself; I will take both of you. Now close your eyes, and keep them closed." So saying, he grabbed each by the hair, and the next moment they were rushing through the air. The patience of one was soon exhausted, and, on peeping, she dropped down, down, down, leaving her hair behind her in his hands. In the morning she found herself near the bidarka, from which she had parted not long since. The other girl, however, kept her eyes closed and in the morning found herself in a comfortable barrabara [native home], the home of the moon. There as his wife she lived for a time, apparently happy in loving him. Generally he slept during the day, and was out during the night; but frequently he went away in the morning and returned in the evening; at other times he left in the middle of the day, and when he returned, it was night. His irregular going-out and coming-in puzzled her much; but he never offered to explain to her where he went and what he did in his absence.</p>
+      <p>This silence and indifference piqued her not a little. She bore it as long as she could, and then called him to account.</p>
+      <p>"You go out every day, every evening, every morning, and every night. Where do you go? What do you do? Who knows the kind of people you associate with, while I am left here behind."</p>
+      <p>"I do not associate with the people here, for there are none of my kind here," said he, "I have work to do, and cannot hang around you all the time."</p>
+      <p><pb n="30"/>"If it is so hard, why don’t you take me with you to help you sometimes," she asked.</p>
+      <p>"I have too much hard work to be bothered with you," he replied. "I brought you up here because I had no rest when you were down there. You and your lovely cousin were always staring and staring at me. No matter where I looked, your grins always met me. Now stop being foolish and wishing to go with me; for you cannot help me. Stay home, and be a good girl."</p>
+      <p>"You don't expect me to stay home all the time," she said, weeping. "If I cannot go with you, may I not go out by myself occasionally?"</p>
+      <p>"Yes, go anywhere you like, except in the two barrabaras yonder. In the corner of each there is a curtain, under which you must on no account look." Saying this, he left the barrabara, and that night he looked paler than usual.</p>
+      <p>Shortly after she went out for a walk; and although she went far and in different directions, she could see no people and only the three barrabaras aforementioned. Short trails there were many. Some of them she followed, and in each case stumbled on a man stretched out face down. It gave her much pleasure to kick them, which she invariably did. On being so disturbed, each would turn on her his one bright sparkling eye, and cry out, "Why do you kick me? I am working and am busy." She kicked them till she was tired and then started home.</p>
+      <p>The two barrabaras were on her way, and of course, she had to look in. With the exception of a curtain in the corner, the first barrabara was bare. She could not resist the desire to look under the curtain, and when she did so, she beheld a half-moon, a quarter of a moon, and a small piece of a moon. In the second barrabara, she found a full moon, one almost full, and another more than half full. After thinking it over, she could see no harm in trying one on just to see how well it would become her. The one almost full pleased her best, so she put it on one side of her face, and there it stuck. Notwithstanding she cried, "Äi, Äi, Y-ä-h', Äi, Äi, Yäh'," tugged, and pulled it would not come off. Fearing her husband would arrive on the scene, she hastened home, threw herself on the bed, and covered up her face.</p>
+      <p>There he found her on his return, complaining that her face was paining her. He, however, suspected the real cause, and went out to investigate. On his return, he questioned her about the missing moon. "Yes," she admitted; "I tried it on just for fun; and now I cannot take it off." She expected him to fly into a rage, but he did nothing of the kind. Going up to her, he pulled it off gently.</p>
+      <p>Seeing him in such unusual good humor, she related to him the <pb n="31"/>adventures of the day, especially the sport she had with the one-people scattered over the sky.</p>
+      <p>"They are stars," he said reprovingly.</p>
+      <p>When she had concluded, he said to her, "Since of your own free will you put on this moon, wear it from now on, and help me in my hard work. I will begin the month, and go the rounds until the full moon; after that you will start in, and finish out the month, while I rest." To this arrangement she consented, and ever since then the two have shared the hard work between them.</p>
+    </body>
+  </text>
+</TEI>

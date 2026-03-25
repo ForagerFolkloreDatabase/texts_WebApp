@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Fox and Bear</title>
+        <editor role="collector">Glafira Makarina Vasilevich</editor>
+        <editor role="narrator">Uvochan V.</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NE02091009</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NE02091009</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0">CC BY-NC-SA</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Däbritz, Chris Lasse/Gusev, Valentin/Stoynova, Natalia (2024): INEL Evenki Corpus. Version 2.0. Publication date 2024-12-31. Archived at Universität Hamburg. https://hdl.handle.net/11022/0000-0007-FE38-D. In: The INEL corpora of indigenous Northern Eurasian languages. https://hdl.handle.net/11022/0000-0007-F45A-1. Quot. p. s.p..</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CEE15803">Evenki</name>
+          <date notBefore="1928" notAfter="1929" type="recorded">Recorded sometime between 1928 and 1929.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>A fox met a bear on a rock, at the edge of naked hills. The fox said to the bear: "Grandfather, let us lie down together."  "Well, let's lie down", the bear said. "Lie down at the bottom." The bear lay down at the bottom, the fox at the  top. The fox said sleeping: "Down, down, grandfather." The bear fell asleep. After  the bear had fallen asleep, the fox pushed it down from the rock. Falling down the rock the bear broke its bones, it fell until it died.  The fox went to the bear, it dried the bear. Having dried [it] (?), it made sausade out of <note>[DCh]: The first clause is not really clear wrt. </note>the bear's fat. The fox put the dried meat into the granary. Then the fox went off, it took along its sausage provisions <note>its translation.</note>(?). Going for a long time it met a human. The fox asked: "Where are you going?"  "I am searching for food for me." "I have dried meat, let's go there", the fox said.<note>[GVY:] DÊ¼ÉptilÉËlÉwi: an unclear form; probably a misprint instead of dÊ¼ÉptilÉËjÉwi (-jÉ- ACC.INDEF)?</note> They went together, they went for a long time. Its friend was hungry, he couldn't go anymore.  "Do we still go on?", he says. "It's quite close", the fox says, "you stay here, I'll go for it."  The human stayed back. The fox went off, it went for its dried meat. Having gone not far away the fox started  watching. The human was lying, he was lying, in an autumn night, hungry, he could not bare it, he froze to death.  When he had died, the fox dried him as food for the winter.</p>
+    </body>
+  </text>
+</TEI>

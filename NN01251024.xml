@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Q!ēʼq!ē</title>
+        <editor role="collector">Franz Boas</editor>
+        <editor role="narrator">Wīʼguᵋnakŭla</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NN01251024</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NN01251024</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Boas, Franz (1928): Bella Bella Texts. New York: Columbia University Press (Columbia University Contributions to Anthropology, 5). Quot. pp. 124-125.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA29022">Bellabella</name>
+          <date notBefore="1897" notAfter="1923" type="recorded">Recorded sometime between 1897 and 1923.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>In the country Qǃēʼqǃē was a place named Qwāʼqŭmēᵋ. The children of Pǃɛnēsᵋit. / He always went paddling. His sister sat in the stern of the canoe. Then / he shot birds. One time he went to shoot. Then he saw a / killer whale. The killer whale turned around and took the man. Then he was sitting astride the back of the killer whale, and / his sister was sitting astride of another killer whale. Then / they went to the beach at Qwāʼqŭmēᵋ and they were on the beach at / Qwāʼqŭmēᵋ. Then he said to his father, "You will be expected at the place / Yāʼqǃŭs next year." - "I shall come," said his father. His father had just finished speaking when they were taken away by / the killer whale. One year he stayed with his sister in the country of the / killer whales. Now the next year he came to the place Yāʼqǃŭs / which was mentioned by his son, He had a house at the place / Yāʼqǃŭs. Then his son went there. He was taken back by his father. Now they danced and he got the name Lǃāłbēᵋ, and his sister [got the name] Hăʼlxais. / They finished dancing and went back to the place Qwāʼqŭmēᵋ. Then he danced again. His father's heart was good. Therefore he danced / and therefore the tribe were glad and danced at / Qwāʼqŭmēᵋ. That is the end.</p>
+    </body>
+  </text>
+</TEI>

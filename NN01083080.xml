@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Black Bear</title>
+        <editor role="collector">George Comer</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NN01083080</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NN01083080</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Boas, Franz (1901): The Eskimo of Baffin Land and Hudson Bay. From notes collected by George Comer, James S. Mutch, and E. J. Peck. New York: AMNH (Bulletin of the American Museum of Natural History, 15,I). Quot. pp. 308-309.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA27803">Kivallirmiut</name>
+          <date notBefore="1897" notAfter="1901" type="recorded">Recorded sometime between 1897 and 1901.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>The people of a village found that the bodies of a number of people who had recently died had been carried away out of the graves. When another person died, a certain man watched the new grave, and saw a black bear come and take the body away. After some time a woman died, and her husband, when visiting the grave, saw the same black bear carry her body away. He determined to take revenge, and told one of his friends that he would pretend to be dead, and requested him to cover his body with stones. He wished to be taken away by the bear. His friend did as requested. Soon the black bear came in the form of a person, and when he saw the new grave, he opened it, put a line around the supposed body, and dragged it off to his home. While on the way, the man held on to the grass and to bushes, so that the Bear found it very hard work to drag him along. Finally, on reaching home, the Bear placed the man against the wall, intending to thaw the body preparatory to cooking it. Now the Bear lay down to sleep, being very tired. After a while the man blinked with his eyes. At once the young Bear told his father that the man was opening his eyes; but the father did not believe him, and turned over to sleep. The mail opened his eyes again, and he saw that the Bear's wife was going out to get water. He also discovered a hatchet {309} lying close by. He seized it, killed the Bear, and ran out of the house. The woman saw what had happened. She transformed herself into a bear and gave chase. When the man saw that she was gaining on him, he wrought a spell, and made a high ledge of mountains rise between himself and the pursuing Bear. While the Bear was running up the hill, he was swiftly running down on the other side; but after the Bear had once reached the top of the hill, she began to gain on him. When she came quite close, the man wrought another spell, and made a river between himself and his pursuer. When the Bear came to the bank of the river, she asked the man how he had succeeded in crossing. He told her that he had made a passage across by drinking the water. Then the Bear jumped into the river and began to drink and swim across; but when she reached the other side, she was full almost to bursting, and when she shook her fur, she did actually burst. Then a great fog arose from the water. The Aian finally succeeded in reaching his house.[[See No. 12, p. 176.]]</p>
+    </body>
+  </text>
+</TEI>

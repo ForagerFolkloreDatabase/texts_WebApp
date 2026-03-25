@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Women Who Lived by Themselves</title>
+        <editor role="collector">James S. Mutch</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NN01082610</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NN01082610</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Boas, Franz (1901): The Eskimo of Baffin Land and Hudson Bay. From notes collected by George Comer, James S. Mutch, and E. J. Peck. New York: AMNH (Bulletin of the American Museum of Natural History, 15,I). Quot. pp. 261-262.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA27903">Baffin Island Inuit</name>
+          <date notBefore="1883" notAfter="1899" type="recorded">Recorded sometime between 1883 and 1899.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>Once a man named Kiniksalao wanted to marry Kingoodlee, his wife's sister; but the latter did not want him. Neither did his wife, Nouletoo, wish him to marry her sister. So he pondered what he had best do. He thought he would either kill his sister-in-law, or kill his wife and then marry her sister. The two women consulted their mother, Nukatating. They wished to leave the place, but their mother advised them to stay. Nevertheless they resolved to escape and live alone. Their mother felt sorry because they insisted. They took along a little sinew and some needles made of caribou-antlers. When they were quite a distance away, they saw a great many caribou. Then the man's wife put a stone into her mitten, and threw it at a caribou, but she did not kill it. Since they were unsuccessful in this, they made a long string out of their sinew. Then each of them took one end of the string, and hid, one on each side of the caribou-path. The caribou, coming along the path, would not see the string, and, as soon as they had stepped across it with their fore-feet, the women would lift it, and thus catch the animal between its legs. Then they would bring the ends of the string together, throw the caribou, and kill it. They succeeded in killing a great many in this manner.</p>
+      <p>Finally they moved on, and went down to the sea. There they built a stone house. After some time they found a {262} dead whale. They carved its meat and blubber, and were well supplied. A short distance from their house, near the window, they built a fox-trap, and caught a number of foxes. During the winter the man and one of his friends went in search of the sisters, and finally one evening reached the place where they had built the house. The two men looked in at the window, but did not speak. When the women saw their faces, they jumped up; but the wife said, "I think it is only a fox's tail." Her husband entered the house, and sat down next to her sister, who said, "You have made a mistake: there is your wife over there."</p>
+    </body>
+  </text>
+</TEI>

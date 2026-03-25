@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Wicked Wizard Punished</title>
+        <editor role="collector">Basil Hall Chamberlain</editor>
+        <editor role="narrator">Ishanashte</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NE00880291</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NE00880291</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Chamberlain, Basil Hall (1888): Aino Folk-Tales. With Introduction by Edward B. Tylor. Privately printed for the Folk-Lore Society. Quot. p. 29.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CEE15701">Ainu</name>
+          <date when="1886" type="recorded">Recorded in 1886.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>One day a wizard told a man whom he knew that, if any one were to climb a certain mountain-peak and jump off on to the belt of clouds below, he would be able to ride about on them as on a horse, and see the whole world. Trusting in this, the man did as the wizard had told him, and in very truth was enabled to ride about on the clouds. He visited the whole world in this fashion, and brought back a map which he had drawn of the whole world both of men and of gods. On arriving back at the mountain-peak in Aino-land, he stepped off the cloud on to the mountain, and, descending to the valley, told the wizard how successful and delightful the journey had been, and thanked him for the opportunity kindly granted him of seeing sights so numerous and so strange.</p>
+      <p>The wizard was overcome with astonishment. For what he had told the other man was a lie, a wicked lie invented with the sole intention of causing his death; for he hated him. Nevertheless, seeing that what he had simply meant for an idle tale was apparently an actual fact, he decided to see the world himself in this easy fashion. So, ascending the mountain-peak, and seeing a belt of clouds a short way below, he jumped off on to it, but was instantly dashed to pieces in the valley below.</p>
+      <p>That night the god of the mountain appeared to the good man in a dream, and said: "The wizard has met with the death which his fraud and folly deserve. You I kept from hurt, because you are a good man. So when, obedient to the wizard's advice, you leapt off on to the cloud, I bore you up, and showed you the world in order to make you a wiser man. Let all men learn from this how wickedness leads to condign punishment!"</p>
+    </body>
+  </text>
+</TEI>

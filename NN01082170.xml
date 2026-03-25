@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Girls Who Married Animals</title>
+        <editor role="collector">James S. Mutch</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NN01082170</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NN01082170</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Boas, Franz (1901): The Eskimo of Baffin Land and Hudson Bay. From notes collected by George Comer, James S. Mutch, and E. J. Peck. New York: AMNH (Bulletin of the American Museum of Natural History, 15,I). Quot. pp. 217-218.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA27903">Baffin Island Inuit</name>
+          <date notBefore="1883" notAfter="1899" type="recorded">Recorded sometime between 1883 and 1899.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>Once upon a time a young woman who lived at Qamauang was playing. She took up the shoulder-blade of an owl, and said to her playmates, "This is my husband." Another girl pointed at a whale-skull, and said, "This is my husband." The first girl had hardly spoken when the owl's bone arose, and became alive. It flew away toward a precipice, taking the girl along, and sat down on top of the cliff. The Owl went out for food. The father and mother of the girl had their hut at the foot of this precipice. During the absence of the Owl the girl gathered some grass, and made a rope to lower herself down by. Every now and then she tried it to see if it would reach the foot of the cliff. One day, when she knew that it was long enough, she sent the Owl away to fetch food; and when he had left, she threw down her line. Her father fastened the end of it to a rock, and she slid down to the foot of the cliff, and went to her mother's dwelling. When the Owl came back and found his wife gone, he was very angry. He went to the hut, and cried for his wife. The father of the Owl's wife said, "Come to the window, an d there we will have a chat." The Owl did as he was bidden. The father said to the Owl, "Sit down here. Spread out your wings." Then he took his bow and shot an arrow through the Owl's heart. As soon as the bird was dead, it was transformed again into a bone.</p>
+      <p>The whale's bone, which the other girl had wished for a husband, also came to life again. She had to live in the Whale; {218} and whenever she went outside, a line was fastened to her, because the Whale was afraid she might escape. One day, when she was walking about outside, she saw a boat. She fastened the line to which she was tied to the shore, and went aboard. The Whale did not know that his wife had escaped. The steersman of the boat was the girl's father, who took her home at once. When the boat had gone quite a distance, the Whale became aware of her escape, and began to pursue the boat. Then the woman took her hair-string and threw it into the water. The Whale saw it, became furious, and tried to tear it to pieces. Meanwhile the boat succeeded in getting away some distance from the Whale; but he continued his pursuit, and came quite close. Then the woman threw one of her mittens into the water. Again the Whale flew into a rage, and tore up the mitten, making the sea foam. When he continued to pursue the boat, the woman threw one of her boots into the water. He tore up the boot, and meanwhile the boat had almost succeeded in reaching the coast. He rushed after them, and when he came close up to the boat, the woman threw her leggings into the water, and while he was tearing up these, the people reached the shore. The Whale, after tearing the leggings, continued his pursuit, and ran right up to the shore. When he was stranded, nothing was to be seen but a whale's skull.</p>
+      <p>A third girl had wished another bone to become her husband, but the bone did not respond.</p>
+    </body>
+  </text>
+</TEI>

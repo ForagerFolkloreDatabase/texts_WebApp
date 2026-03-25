@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Tales of Caribou-Hunters (#2)</title>
+        <editor role="collector">James S. Mutch</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NN01082680</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NN01082680</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Boas, Franz (1901): The Eskimo of Baffin Land and Hudson Bay. From notes collected by George Comer, James S. Mutch, and E. J. Peck. New York: AMNH (Bulletin of the American Museum of Natural History, 15,I). Quot. pp. 268-270.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA27903">Baffin Island Inuit</name>
+          <date notBefore="1883" notAfter="1899" type="recorded">Recorded sometime between 1883 and 1899.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>At Niutang, in Kingnait, lived two married brothers who did not go caribou-hunting with the other men. The people wondered why the two brothers preferred hunting in kayaks to caribou-hunting, and how they would obtain skins for their winter clothing. After some time the hunters returned to the village. They had not obtained enough skins for their winter clothing. Then the brothers said to each other, "The young eider-ducks are now flying about Kekerten. Let us go and get some for our winter jackets." They went off in their kayaks, but stopped at Kutsaw, which is not far from Niutang. They landed, and carried their kayaks {269} across land to Isortuaqdjuin. There is a lake near the head of this place. Here they watched the caribou crossing the lake, and they caught enough to make a pile of skins as large as a winter house, and meat enough to fill another large house. The hair was just right to make good winter clothing. The brothers, who had left their wives in the village, staid here for a long time.</p>
+      <p>One day a woman arrived at this place. She had walked all the way from Qamaqdju, which is a long distance off. Her name was Kunengoo. She told them that she had found the remains of a caribou which a» wolf had caught, and that another time she had found a dead fox in a trap, and that she had eaten their meat. She staid with the men, and the elder brother asked her to be his wife. She consented, and after some time they prepared to go back to their home.</p>
+      <p>About this time the lake was frozen over. They asked Kunengoo to remain behind to watch their meat and their skins until they could come back for them during the winter. When they reached home, they told the people that they did not get any ducks, but that they got caribou near Kutsaw. They went sealing with the other men in their kayaks. They did no t tell them about the great number of caribou-skins, nor about the woman. After a while the sea froze over, and they went hunting at the breathing-holes of the seals. After a short time a seal was caught, and the women began to prepare winter garments. As soon as there was snow enough on the land to travel to Isortuaqdjuin, they set out to fetch their caribou-skins and their meat. They asked their friends for three dog-teams and sledges besides their own, because they had more than they could bring on their own sledges. Their friends asked, "Where are we to get the skins?" And they replied, "From the lake at the head of Isortuaqdjuin." When the four dog-teams reached the lake, the other men asked the brothers, "Who is that woman?" Then the brothers told how they had met her during the summer. The people were surprised to see the great number of skins. They staid at the lake over night. The following morning the sledges were ready, and they all {270} started back. Soon they reached Niutang; and the people, to seeing the strange woman, wondered where she came from.</p>
+    </body>
+  </text>
+</TEI>

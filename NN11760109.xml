@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Raven Cycle - Raven and Grizzly-Bear</title>
+        <editor role="collector">James Teit</editor>
+        <editor role="narrator">Tuu:ʼts ('strong rocks')</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NN11760109</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NN11760109</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Teit, James A. (1919/21): Tahltan Tales. In: The Journal of American Folk-Lore 32(124), 198-250; 34(133/134), 223-253, 335-356. Quot. p. 208.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA28403">Tahltan</name>
+          <date notBefore="1912" notAfter="1915" type="recorded">Recorded sometime between 1912 and 1915.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <note>See RBAE 31 : 680; BBAE 59 : 288, note 5 (Haida, Newettee, Nootka, Tlingit, Tsimshian; remote analogues in Alsea, Hidatsa, Kutenai).</note>
+      </p>
+      <p>Now Raven came to the house of Grizzly-Bear, who was a strong, fierce man, and fought and ate people. When people saw him, they always ran away. Raven said, "Halloo, brother-in-law! what are you doing?" and Grizzly answered, "I am fishing." Raven said that he would help him; so he staid with him, and helped him catch salmon, dig roots, and so on. Presently he stopped the salmon from coming up the creek, and Grizzly became very hungry. One day Raven heated stones in the fire until they were red-hot, and then pretended to eat them. He took hold of them with two sticks, and passed them down in front of his body so that Grizzly could not see. The Bear thought it very funny that he should hot rocks. Raven said, "I am hungry, and these rocks are sweet." At last the Bear thought he would try them. Raven heated a large stone red-hot, and told Bear to open his mouth. He told him, "You must swallow the stone at once, for, if you hold it in your mouth, it is not sweet. When it goes down your throat, you will taste it very sweet." He then threw the rock down the grizzly's throat and ran away. Grizzly became very angry, and fought and attacked everything he saw. At last he died, the rock having burned his stomach. This is why there are stripes on the inside of the stomachs of grizzly bears. Having overcome and killed the Bear, the latter had now lost his power; so he transformed him to the bear we know as the grizzly at the present day. He said, "Henceforth grizzly bears shall not be so powerful, nor so fierce, nor will they fight and kill people so much."</p>
+    </body>
+  </text>
+</TEI>

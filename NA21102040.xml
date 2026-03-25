@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Man Who Ordered His Wife to Cut Off His Ears</title>
+        <editor role="collector">Lucy Catherine Lloyd</editor>
+        <editor role="narrator">ǀHanǂkassʼo</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NA21102040</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NA21102040</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Bleek, Wilhelm H. I./Lloyd, Lucy C. (1911): Specimens of Bushman Folklore. London: Allen. Quot. pp. 204-205.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CAF00211">ǀXam</name>
+          <date when="1878" type="recorded">Recorded in 1878.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>He<note>I am one who does not know his name, because the people were those who did not utter his name to me; for, they were men of the early race; therefore, they did foolish things on account of it.</note> formerly wished [his] wife to cut off his ears, for his younger brother's head had surely been skinned<note>He really thought that the skin of his younger brother's head was off, while it was his younger brother's head's hair which had been shaved away.</note>; whereas his younger brother's wife had only shaved his younger brother's head.</p>
+      <p>Therefore, [his] wife cut away his ears; although [his] wife had said that she would not do so; he was the one who insisted [upon it].</p>
+      <p>Therefore, [his] wife cut off his ears; and he was screaming, on account of his skin, while he himself had been the one who wished the wife to do so; for his younger brother's head had surely been skinned; whereas his younger brother had merely had his head shaved; while [his] wife shaved, removing the old hair.</p>
+    </body>
+  </text>
+</TEI>

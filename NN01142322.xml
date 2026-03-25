@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Ōʼᵋmāł obtains Daylight</title>
+        <editor role="collector">Franz Boas</editor>
+        <editor role="narrator">Qǃōʼmg‧ilis</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NN01142322</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NN01142322</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Boas, Franz (1910): Kwakiutl Tales. New York: Columbia University Press &amp; Leyden: Brill (Columbia University Contributions to Anthropology, 2). Quot. pp. 232-235.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA29010">Kwakwakaʼwakw</name>
+          <date when="1894" type="recorded">Recorded in 1894.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>Then Ōʼᵋmāł tried to get our daylight. He quickly became the child of Daylight-Receptacle-Woman [the gull]. Then Daylight-Receptacle-Woman gave birth to her child, and the child of Daylight-Receptacle-Woman quickly began to speak. Then he said that he wanted to play with a toy canoe. Therefore his mother, Daylight-Receptacle-Woman, made a toy canoe for him. Then the child of Daylight-Receptacle-Woman spoke again, and said that he wanted to paddle on the water. His mother, Daylight-Receptacle-Woman, tried to forbid him, but he just cried, therefore she launched the canoe. Then he spoke again, <pb n="235"/>and desired to have the daylight-receptacle of Daylight-Receptacle-Woman in the bow of the canoe. She tried to deny, him the daylight-receptacle. Then that child, the son of Daylight-Receptacle-Woman, cried very much, and after that the daylight-receptacle was taken. He desired to have the daylight-receptacle in the bow of the canoe. Then it was put into the bow of the canoe, and he paddled. "Don't go too far," said Daylight-Receptacle-Woman to her child. Then he paddled by, in front of the house of Daylight-Receptacle-Woman. "Forget, forget, forget!" said the child of Daylight-Receptacle-Woman. Behold! it was he, Ōʼᵋmāł. Then Daylight-Receptacle-Woman forgot her child. Then he paddled and stole the daylight-receptacle of Daylight-Receptacle-Woman. Therefore we have the daylight of our world. [Before] it never used to get daylight. It was always night in our world.</p>
+    </body>
+  </text>
+</TEI>

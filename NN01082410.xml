@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Tales of Angakut (#2)</title>
+        <editor role="collector">James S. Mutch</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NN01082410</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NN01082410</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Boas, Franz (1901): The Eskimo of Baffin Land and Hudson Bay. From notes collected by George Comer, James S. Mutch, and E. J. Peck. New York: AMNH (Bulletin of the American Museum of Natural History, 15,I). Quot. pp. 241-243.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA27903">Baffin Island Inuit</name>
+          <date notBefore="1883" notAfter="1899" type="recorded">Recorded sometime between 1883 and 1899.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>In Akudnirn lived an old man named Ningiu. He had a wife and two sons, one of whom was called Kudlu. Ningiu was a very wise and powerful man.</p>
+      <p>One day he was at work not far from his tent, near a large bowlder. He was working on a piece of wood which he was going to use for his sledge. Two men, who had come from another camp not far away, intending to kill Ningiu, were stealthily approaching him from behind the bowlder. They believed themselves unobserved; but Kudlu and his brother were watching them through a hole in the tent.</p>
+      <p>All of a sudden Ningiu, who had not looked up from his work, shouted, "Come here!" The two men came forth and halted; but he invited them to come nearer. Then he asked them, "Where do you come from?" They replied, "We come from over yonder," pointing in the direction from which they had come. "What do you want here?" They replied, "We did not come for any particular purpose." The strangers, seeing that they were discovered, departed without attacking Ningiu. One of them had hidden under his jacket a knife with which he intended to kill Ningiu. Then Ningiu thought, "I wish the man who wants to kill me were dead!" As soon as the strangers reached home, the man who had hidden the knife under his jacket became sick, and very soon died.</p>
+      <p>His friends wondered why he had died so suddenly. They thought that Ningiu must have bewitched him, and thus have caused his death. Therefore they resolved to kill him. They started, and when they reached Ningiu's tent, {242} they asked him, "What did you do to those men who came here a short time ago? When they came back, one of them became sick, and very soon died." Ningiu replied, speaking very slowly, "I was not desirous that they should come to kill me. They came to kill me. When I asked them, 'Where do you come from?' and 'What do you want here?' they only said, 'We came from over yonder. We did not come for any particular purpose.' But they wanted to kill me. And when they had gone, I only wished that the one who had intended to kill me would die." Then the strangers left without taking vengeance upon Ningiu.</p>
+      <p>Another year Ningiu went caribou-hunting all alone. There was a very large bowlder inland far away from the sea. Two men from the same camp to which Ningiu belonged were hunting in this region, and were sitting at the side of this large bowlder. Ningiu saw them without being discovered, and he went up to them in the shelter of the rock. When he reached it, he could see them through a fissure under the stone. While he was looking at them, one of the young men looked back and observed him. As soon as he saw him, he fell to the ground dead. The other one wondered what might have been the cause of his friend's sudden death. He also looked back, and when he saw Ningiu, he reeled back and almost fell to the ground. Ningiu arose laughing, while the young man was stumbling about. Ningiu's laughing prevented him from falling. Now, Ningiu simply wished the dead man to arise again, and his wish came true. Then he said to the young men, pointing in various directions, "There is plenty of cariboumeat." They went in the directions he pointed, and found great abundance of caribou. Ningiu returned home.</p>
+      <p>After he had rested a while, he went hunting with his son Kudlu. One night, while Kudlu was asleep, Ningiu was talk-to himself. When Kudlu awoke, he asked his father who had come to the place where they had been sleeping. But Ningiu replied, "Stop! Don't inquire. Let us go look for caribou to-morrow. If you were to see them to-morrow, your eyes would become sore."</p>
+      <p>{243} On the following morning they started, and soon saw two caribou, a dam and a fawn. Ningiu said to his son, "I will go up to them. Wait here." He went up slowly toward the caribou, which perceived him. Then he stood still, and looked at the animals with his head bent to one side. The caribou were on the point of running away, but they stood quite still. Suddenly they made a start. Ningiu did not move, but simply looked at them, and suddenly they fell down dead. When they reached home, Kudlu told the people what he had seen, how his father stood still, and how the caribou gazed at him spellbound, and how they fell dead after they had just started to run away. He believed that his father had a double [?].</p>
+      <p>After some time Ningiu became sick and was near unto death. He did not know the cause of his sickness. At that time the people were almost starving. One day Ningiu said to the people, "I am going to die. Then Kudlu will catch his first ground-seal and his first whale, and you will no longer be in need." Soon after that he became unconscious. He died and was buried. His family staid in the tent for three nights. After that Kudlu and his brother went sealing in their kayaks. While the brother caught a common seal, Kudlu succeeded in killing a ground-seal. On the following day they went hunting again, and Kudlu in his kayak caught a whale. They towed it home and had plenty to eat.</p>
+    </body>
+  </text>
+</TEI>

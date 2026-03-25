@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Old Man and the Geese</title>
+        <editor role="collector">Christiaan Cornelis Uhlenbeck</editor>
+        <editor role="narrator">Káinaikoăn</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NN12041800</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NN12041800</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Uhlenbeck, Christiaan C. (1912): A New Series of Blackfoot Texts from the Southern Peigans Blackfoot Reservation, Teton County, Montana. With the help of Joseph Tatsey collected and published with an English translation. Amsterdam: Müller (Verhandelingen der Koninklijke Akademie van Wetenschappen te Amsterdam, Afdeeling Letterkunde, NS 13,I). Quot. pp. 180-182.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA31305">Piegan</name>
+          <date when="1911" type="recorded">Recorded in 1911.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>He went slowly up to a lake in this country here. And he saw them [the geese], he was seen by them, they all ran into [the lake]. The Old Man just sat there. He began to think about, what he should do to them. He knew, what he should do. Then he took earth and a long stick. He tied some earth to [the end of] that stick. Then he went away. He was dragging that earth. He went over to those many geese. He went on one side of them, he went past them. They all ran away from him. He just went past them. He went far. Their chief sent one goose: Overtake the Old Man, ask him: What is it, that you are dragging? [The messenger] was told by [the Old Man]: We dance with it. The goose went back. He told his chief: It is what we dance with. [The chief] said again to [that goose]: Go and overtake him, that he might make us dance. And [the messenger] came again to the Old Man, and said to him: Go back, that you might make us dance. He was told by [the Old Man]: I shall not go <pb n="181"/>back. Let them come here. I shall not go to that lake. It is very far. Just where I am sitting [now], I will make them dance. He coaxed them far away [literally: he floated them far]. For that reason he was not near the water, that many of them might have escaped him [if he had made them dance close to the lake]. They all went to him. He was always hungry. He finally persuaded them.</p>
+      <p>They came to him. He showed them, how they should stand. Then they stood in their places. And he went to one of them. He felt that one's breast. He was feeling their breasts with his hands. The fat-breasted ones stood all by themselves. The fat ones and the lean ones stood separately. In the centre stood the Old Man with the stick and the earth. There he lied. He said: This is it, that we dance with. He said: Shut your eyes, all of you. He beat on that stick with another stick. And he made them dance. And over there on the farthest end [of the circle formed by the geese] stood one of them, [and] looked a little out of one of his eyes. And that one saw [the Old Man]. He ran away. [The Old Man] hit them with that stick alongside of their necks. And they all ran far away to the water. And then he was hitting them. He let the lean ones go. That way he succeeded in killing them. He made a fire. He plucked the <pb n="182"/>feathers. He then ate his fill, just as he liked. He sat with grease all over his mouth. This is the short gut [that means: this is the end of the story].<note>Cf. Michelson jaf XXIV, 248, Dorsey-Kroeber ta 59 sqq., Jones ft 279 sqq., Dorsey to 9 sq., Lowie a 111 sq.</note></p>
+    </body>
+  </text>
+</TEI>

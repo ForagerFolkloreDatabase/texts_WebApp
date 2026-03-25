@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Only Son of Noho, Pupil of Lehe</title>
+        <editor role="collector">Valentina Vladimirovna Shilova</editor>
+        <editor role="narrator">Turutina Polina Gilevna</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NE02111132</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NE02111132</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0">CC BY-NC-SA</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Budzisch, Josefina/Wagner-Nagy, Beáta (2024): INEL Nenets Corpus. Version 1.0. Publication date 2024-12-31. https://hdl.handle.net/11022/0000-0007-FE37-E. Archived at Universität Hamburg. In: The INEL corpora of indigenous Northern Eurasian languages. https://hdl.handle.net/11022/0000-0007-F45A-1. Quot. p. s.p..</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CEE15002">Forest Nenets</name>
+          <date when="2002" type="recorded">Recorded in 2002.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>The only son of Noho, pupil of Lehe Once Lehe says: "This year the land is restless, do not go to distant places, something will happen."   The child of Noho harnessed the running reindeer of Lehe, harnessed two running reindeer and nevertheless set off.  He climbed to some high place to look around. He  looked: there are about forty tents. The pupil of Lehe thought: âThe owners of the birchbark tents, the Ngyliks, probably went to fight.â  He decided: âIâll go there!â He went to these tents. He came  there and sees: something huge stands among other tents. A kumshi lies on the tent.  When someone entered the tent, he hung the kumshi on the  roof of the tent. He hung his hat by the upper poles. The sleeves around the tent turned around, enveloping him from all sides.  That's about the size of the man turned out to be. Then he thought: âWe must look at it, Iâll go into the birchbark tent.â  He entered the tent, the owner of the birchbark tent, Ngylika, is sitting in his tent, throwing on a coat.  He drinks blue wine. After all, he is the master of death and disease. The only son of Lehe was of impressive size, such that the boards  crumbled under him. The owner of the birchbark, Ngylika, said: âWhere did you come from? You are very heavy.  You come up to me in a couple, you can measure your strength. Sit down here. Here is your glass, drink it. They drank a glass. "My body is hot." They got into a conversation, the only son of Noho, so he says: âWhere I come from, I donât remember.â  My slege is my home. Ngylika gave another glass to Lehe's pupil. He swallowed it quickly. While they were drinking like that, Ngylika's eyes began to double. Here the pupil of Lehe bulged out, saying: âWhat  are you talking about, I am the pupil of Lehe, the only son of Noho.â And, turning sharply, hit Ngylika with his fist.  He fell like a dead weight where he sat. Lehe jumped out through the sacred place of the tent, and ended up at the sled.  He untied the bridle. He looked back, Ngylika got out through the tires, was running, and he had a frog dangling on one arm.  Here he was already near the sled, grabbed the edge, so much so that part of it remained in his hands.  And Lehe says, âWhat the hell do you want? Where is half of the sled? I told you that the  Ngyliki started the war. If they come, will we be alive?â And left.  Some time has passed, the owner of the birchbark tent, Ngylika, says to his servants: âI hear there are only two people in that tent.â  I believe Lehe has a huge axe and a huge furry dog - Alchedei.   I'm afraid of this, I'm not afraid of anything anymore. The next day, the inhabitants of the birchbark tents set off. Lehe was in the tent at that time with his son. At noon, Alchedei, the dog of Lehe, sensed something in his gut grumbling.  Well, here they come. As soon as they arrived, Ngylika immediately hit  Alchedei, Lehe's dog, with the point of a spear. The dog, while he falls on the tail, like grabbing the ferret in half and  only a crunch is heard.  Half of the spear is still in his hands.  Ngylika came closer to give a good blow, then Alchedei, Lehe's dog, pulled the rope and quickly got up on his hind legs.  And he hit Ngyliku, the owner of the birch-bark tent, in one shoulder so hard that it crunched. Here, you can hear Ngylika, the owner of the birchbark tent, says: âLet's go back, I told you that I am afraid the axe handles of Lehe and Alchedei, the big, shaggy dog.  Like this. It is impossible to catch this pupil of Lehe: he is invincible.â They went. They were gone for several months.  And now the strong man is back, as expected. This time Strongman got ready, he knew what to expect.  Lehe said to the only son of Noho: âSharpen the axe day and night.  The owner of the birchbark tents is afraid that Lehe has a huge axe.â After all, they came to Lehe again. Ngylika came and said: "Drive  your deer, we will go to my lands." They went. And Lehe says  to his pupil: âHide behind the edge of the stone. Let Ngylikaâs servants go ahead, cut Ngylika with  your axe, and let Alchedei go so that he can turn the reindeer back.â  They started to overtake him, there was a hole in the stone, they overtook him through this hole.  And Alchedei, as Lehe wanted, is the last to drive the deer. Alchedei, when he urges fat breeding deer that walk badly, stands on his hind legs, hits  these deer so that they fall to the ground as if dead. The son of Noho near this stone hole began to wait for the owner of the birchbark tent.  Near that hole, Noho's son was cautiously looking out for Ngylik, the owner of the birchbark tent, when he drove up.   And the old man Ngylika did not suspect anything. He looked back at the harness.  When he rode like that, the son of Noho the Great raised it over his head, he raised the axe. He cut at the base of the neck so that his huge head, rattling, went underground. So he said: âIt turns out that I cannot defeat you on the upper  earth, I will steal your comrades underground.â Lehe drove his deer back from the cave with the help of  Alchedei. Bumping into each other, the deer rushed back. Old man Ngylika is a disease, Nga,  Alchedei is the fang of a bear, a sacred beast. Lehe turned out to be a shaman.  An axe, if someone dies, they put it at the door. Its blade towards the street should be turned. If a person falls ill, the tusk of a bear is hung behind the tent on a stag or birch tree.</p>
+    </body>
+  </text>
+</TEI>

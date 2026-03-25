@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Tale</title>
+        <editor role="collector">Waldemar Jochelson</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NE02192540</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NE02192540</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Jochelson, Waldemar (1924): The Yukaghir and the Yukaghirized Tungus. 3 vols. Leiden: Brill &amp; New York: Stechert 1910/26 (Memoirs of the American Museum of Natural Hisory, 13; Publications of the Jesup North Pacific Expedition, 9,I-III), pt. II. Quot. pp. 254-259.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CEE15401">Yukaghir</name>
+          <date notBefore="1895" notAfter="1902" type="recorded">Recorded sometime between 1895 and 1902.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>There was a man. He would kill ten wild reindeer each day. His wife would bring home all the killed reindeer in one day.</p>
+      <p>Once upon a time, that man left to go hunting. His wife remained at home. Suddenly she heard singing in the yard, "You are a very brave woman, come to me and be my wife."</p>
+      <p>That woman went out, looked all around, and saw Mouse-hawk sitting on a tree. Mouse-hawk said to her, "Come to me and be my wife!" The woman answered, "I shall not go." The one who sang went away.</p>
+      <p>She entered the house and tied a knot on a string of her coat as a reminder. She said to herself, "When my husband comes home, I will tell him what happened." The one who had sung left. Her husband came home, but the woman forgot. When she went to sleep with her husband and untied the strings of her coat she did not remember about Mouse-hawk. The following morning they got up. The husband of the woman went again to hunt and the woman prepared for moving their camp. At that time Mouse-hawk came back. Again, he sat on the top of a tree and sang: "You are a very brave woman, come to me and be my wife. I have fifty wives. You will hot have to work in my house. A servant will prepare for you even your sleeping place."</p>
+      <p>The woman abandoned her reindeer and went to Mouse-hawk. He descended from the tree and said to the woman, "Sit down on the top of my head." She did so and Mouse-hawk flew away. Her husband came from the hunt and not finding his wife, looked for her everywhere. Finally, he found a trail of bird wings on the snow and he ran in that direction. He ran far and came to a house. "Come out," he cried out to the owner. The latter said from inside, "My friend, your wife is here in my house. I shot Mouse-hawk when he was carrying her away. I broke his wing-bones and took your wife to my house, she is here." - "Do not talk so much," said the man, "come out." Then the voice of his wife was heard, "It is true. Mouse-hawk kidnapped me." - "Do not lie," said her husband, "come out."</p>
+      <p>The master of the house took his bow and came out. Immediately, they began to shoot at each other. The man who had arrived killed the master of the house. Then he went into the house. There he found his wife. He grasped her by the leg and pulled it until he had torn her in two. Thus, he killed her and threw the body away. He went on, and reached the place where the wounded Mouse-hawk had fallen down. A trail led on from that place. He followed it and went very far. He reached a high cliff. Smoke was rising from the middle of the cliff. The man said, "Who are you? Come out!"</p>
+      <p>A big iron-man came out. Immediately, they began to fight. They <pb n="259"/>fought for three years. Finally, the man who had arrived killed the iron-man. He entered the cliff-dwelling and found it full of women. There were fifty of them. The women rejoiced.</p>
+      <p>The man said to the women, "Where do you come from?" Some of them said: "We are married women. Mouse-hawk carried us away." Some of them said, "We were girls." - "Do you know your native places?" asked the man. All but two said, "We know them". The man said, "Go to your homes." The women rejoiced and went away.</p>
+      <p>Then he took the two women who did not know where to go and led them, in order to find their homes. On their way, one of the women recognized her dwelling place and said, "This is the place where I usually made my fire, there is my house." - "Go to your house," said the man.</p>
+      <p>She went. The other woman he led on. They went very far. Suddenly the following song was heard, "While I was looking for my wife, spring came to an end. It would be nice if I could say: a two legged man having found my wife is bringing her to me. I should give him my younger sister whom I do not let out into the light of the sun." He sang while he was sitting. Then the man who had arrived said, "I brought her, here she is." The other man got up and said, "You have tortured me long enough." He jumped up and shot with his bow. The man who had come said, "My friend, what is the matter with you, I did not take your wife. Mouse-hawk did it and I brought her back."</p>
+      <p>But that man did not listen. He kept on shooting, always missing, until his arrows were at an end. Then the man who had come, shot his wooden arrow and broke the thigh of the other man. The latter cried for mercy, "Don't kill me, I shall give you my younger sister whom I do not let out into the sunlight."</p>
+      <p>The man who had arrived, spat on the thigh of the other man and it was well. Then the other brought out his younger sister and gave her to the man who had arrived. She was radiant like the sun. Her brother gave her one hundred reindeer. They sat on the backs of the reindeer and travelled to the home of the man. On the way, he met another girl who was travelling on a sledge and took her along.</p>
+    </body>
+  </text>
+</TEI>

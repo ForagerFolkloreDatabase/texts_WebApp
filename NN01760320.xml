@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>How Raven Stole the Old Woman's Bear-Meat (version 1)</title>
+        <editor role="collector">John W. Chapman</editor>
+        <editor role="narrator">anonymous</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NN01760320</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NN01760320</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Chapman, John W. (1914): Tenʼa Texts and Tales from Anvik, Alaska. With Vocabulary by Pliny Earle Goddard. Leyden: Brill &amp; New York: Stechert (Publications of the American Ethnological Society, 6). Quot. pp. 32-34.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA28601">Deg Xitʼan</name>
+          <date notBefore="1887" notAfter="1911" type="recorded">Recorded sometime between 1887 and 1911.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>There was an old woman who lived year in and year out in the same place. In the summer she fished with a net, to get her winter supply of fish; and in the winter she lived in an earth house, and worked at snaring rabbits and grouse. One day, as she was making a fire, a bear made his way into the house, and she killed him, and afterward she went to bed; and next morning she got up and skinned the bear, and cut up the body, and <pb n="33"/>filled her cache with the meat, and buried some of it in the ground. Then she went into the house and cooked the bear's feet for herself. As she finished cooking them, the Raven came in. "Where did you come from?" said she. "From somewhere," said the Raven. So she gave him some of the meat; and he said, "Dear grandmother, I want to get some wood for you." The old woman agreed; and the Raven said, "But I am too cold. Lend me your fish-skin parka and boots." So she let him take them, and he went off as if he intended to get some wood; but when he was out of sight, he ate the parka and the boots. Then he came back; and the old woman said, "Where are my parka and the boots?" And the Raven said, "Oh, my dear grandmother! I forgot, and left them where I was getting wood." And the old woman said, "Well, go back and get them!" And the Raven said, "I don't want to go back for them. Get them yourself, grandmother!" So the old woman started off to get the boots and the parka, but she could not find them; and while she was gone, the Raven flew up, alighted on her cache, and ate all her bear-meat. Then he went down into the house, and turned everything upside-down, and smeared the place with bear's grease. Pretty soon the old woman came back to the house, and found the Raven playing with the bear's fat. "Where did you get that bear's grease?" said she. "Dear grandmother," said the Raven, "that is what you gave me yesterday evening." Then the old woman killed the Raven, and hung up his skin in the house; and afterward she cried all the time, because she had no food for the winter. Some time after that, she came in one day, and found two women in her house. "Oh, my!" said she, "where did you come from?" - "We have lost our husband," said they, "and we are looking for him." - "I haven't found anybody," said the old woman; but one of the <pb n="34"/>women began to look around, and she saw the Raven's skin; and they both set upon her to kill her, but she turned out to be the stronger, and killed them both.</p>
+    </body>
+  </text>
+</TEI>

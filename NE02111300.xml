@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Two Old Men</title>
+        <editor role="collector">Valentina Vladimirovna Shilova</editor>
+        <editor role="narrator">Turutina Polina Gilevna</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NE02111300</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NE02111300</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0">CC BY-NC-SA</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Budzisch, Josefina/Wagner-Nagy, Beáta (2024): INEL Nenets Corpus. Version 1.0. Publication date 2024-12-31. https://hdl.handle.net/11022/0000-0007-FE37-E. Archived at Universität Hamburg. In: The INEL corpora of indigenous Northern Eurasian languages. https://hdl.handle.net/11022/0000-0007-F45A-1. Quot. p. s.p..</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CEE15002">Forest Nenets</name>
+          <date when="2002" type="recorded">Recorded in 2002.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>Two old men. Once upon a time there were two old men, one Khanty, the other Nenets. Both of them had  children. One was in the lower part of the sandy spit, the other was in the upper part, lived [there].  Their children played  together, because the distance between the tents was small. Once the children say: âLet's make our fathers swear.  Let's look at their shamanism: are they shamans at all. The kids went up the upper shore. They say to the father:  âFather, the one who lives in the lower reaches of the shore considers himself stronger, get ready.â And those who live in the lower reaches of the shore  said to their father: âFather, your friend, who lives in the upper reaches of the shore, wants to measure his strength with you, get ready.  We have warned you to get ready." The old men thought for the rest of the day. And then one old man  said: "Tomorrow go to the shore to watch how we will measure our strength." The next day came. The children went to the shore. Meanwhile, from the upper reaches, a huge stag came running, ran with a croak. A goat came to  this croaking: its horns are in the middle of the forehead, the ends are bent down with a hook.  They immediately bumped their horns together, throughout the day they measure their strength, swear, fight.  At the end of the day, a deer with branched horns fell to the ground.  The crooked one stuck his horn in his neck.  The children got scared. The crooked-horned stag remained. It got dark, and  the old man, who lived in the upper reaches, came home. The old man says: âI have grown old, I have not found a hole in the spinal cord.  I would have killed him right away. Children, don't play with such force anymore.  In six months I will go to other lands. In the spring I will not be, he has greatly pierced my soul.  The next day, children from the neighboring tent came and said: âOur father is no more, he went to the land of the beast.â</p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Tales of Caribou-Hunters (#1)</title>
+        <editor role="collector">James S. Mutch</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NN01082670</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NN01082670</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Boas, Franz (1901): The Eskimo of Baffin Land and Hudson Bay. From notes collected by George Comer, James S. Mutch, and E. J. Peck. New York: AMNH (Bulletin of the American Museum of Natural History, 15,I). Quot. pp. 267-268.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA27903">Baffin Island Inuit</name>
+          <date notBefore="1883" notAfter="1899" type="recorded">Recorded sometime between 1883 and 1899.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>Nipatchee had hunted caribou for many summers in the region beyond Padli. One day when he was out hunting, he discovered a great spar [from the description it was perhaps thirty-five feet long and twenty inches thick]. The outside of it was stone, but the inside was good wood, which he used for making arrows. From that time on, he visited this place regularly to take wood from the spar for his arrows, which were so large that one could use them for a frame for stretching skins on to dry. He made points for his large arrows by roughly cutting out pieces of caribou-antlers. He kept the large arrows hidden from the people.</p>
+      <p>One time a few people from the same camping-place at which Nipatchee lived were out caribou-hunting, and found arrow-shafts that were much larger than those they were in the habit of using. When they came home, they told that they had found arrow-shafts so large that they could not be used by Eskimo. When Nipatchee heard them speak of the arrows, he said, "Perhaps they are mine. When I was up there ptarmigan-hunting, I lost one."</p>
+      <p>One time Nipatchee and his wife were off caribou-hunting, when the other people met them. When they saw a caribou at a distance, Nipatchee took an arrow and his bow and pursued it. The caribou heard him, and ran away as fast as it could. Nipatchee, who was very swift of foot, ran until he came close enough to shoot an arrow into the caribou. {268} The others then went up to him. When the caribou was cut up, they moved on to better hunting-grounds, where caribou were more plentiful. When they saw one, they let Nipatchee go off alone with a number of arrows. He caught up with the caribou, and killed it with his arrows. The other people followed, and cut up the caribou which he had killed. Then they moved on.</p>
+      <p>At the next hunting-place they saw two caribou. Nipatchee pursued them, and when quite close shot his arrow, which passed through both of them, and then bounded along the ground till its force was spent. The others went up to where the caribou were lying dead, and cut, cleaned, and ate them. Then they rested for some time. After a while they saw a great number of caribou. Nipatchee filled his quiver with arrows and. started in pursuit. He had to run very fast, because the caribou had scented him. He killed one after another. When they were all dead, the other Eskimo came up to help in skinning and cutting them. It took quite a time to do so, because the bodies were scattered over a large stretch of ground. When they had finished, they started for home, and finally arrived at their village. The men who had. seen Nipatchee hunting related how he used to run after the caribou, and said that they had never seen any one so swift of foot, and that he never missed a shot.</p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Rich Man</title>
+        <editor role="collector">Aleksandr Chapixovich Logany</editor>
+        <editor role="narrator">Pyak Vladimir Mytovich</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NE02113073</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NE02113073</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0">CC BY-NC-SA</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Budzisch, Josefina/Wagner-Nagy, Beáta (2024): INEL Nenets Corpus. Version 1.0. Publication date 2024-12-31. https://hdl.handle.net/11022/0000-0007-FE37-E. Archived at Universität Hamburg. In: The INEL corpora of indigenous Northern Eurasian languages. https://hdl.handle.net/11022/0000-0007-F45A-1. Quot. p. s.p..</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CEE15002">Forest Nenets</name>
+          <date when="1998" type="recorded">Recorded in 1998.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>The rich man. There lived a rich man Whether he lived a short time or a long time. Old larch trees are already growing between the  noses of the sleds. It is unknown how many reindeer he has, somewhere around a hundred would be, eight or seven hundred. Only lived  with his wife, they have no children. Whether they lived long or short. One day the rich man went to bed.  In the morning he was going to bring in the deer. He went to the reindeer in the pasture - not a single reindeer.  He found their footprints.  Seven wolves came, it turns out, and the deer were taken away, as if people were chasing them.  The herd was led away on all sides so they wouldn't scatter. Will seven wolves leave anything behind? Now they're  guarding them from behind. "Ah, what else will I do?"  He found traces of my reindeer in the pasture. He just said: "I have no life but these reindeer.  Now I will definitely catch up with my reindeer, I will follow them. So he went  after the reindeer. Whether he is walking long or short, he is walking short or long.  And so I came to the river.  The reindeer were cutting this river as they walked. He looked at the pond and saw what it was - it looked like a witch.  The ragamuffin witch is like tearing at the ends of her clothes. Standing, looking at her: it turns out she had a boat, it turns out the man does not drive. That's why it runs like that at the end of the  spit in both directions. He approached the witch and said, "My reindeer have gone, having crossed this river.  Now will you move me to the other side?"  He said, "There's nothing wrong with that, of course I will.  When he crossed over to the other side from there, he followed his reindeer again.  All the same, these wolves, as before, are chasing deer, guarding them on all sides. Whether it is a short walk,  whether it is a long walk. Again here I approached another river in the same way. Again went to the river, and indeed, looked at the shoulder: what is it, it seems to  be another witch. He goes. He came up to her, asked her, and said, "My reindeer, having crossed this river, have gone. Will  you move me now?" She moved him to the other side of the river again. Whether it's a long walk, the reindeer are followed  further. He walks to himself.  And so on the third river he came. He looks again: there  seems to be a ragamuffin witch on the other bank. It's like her clothes are torn. He got close to that witch again.  It turns out that it's a man who doesn't drive. Again he asked, saying, "Move me, poor man. My reindeer, having crossed the river, are gone. Move me, poor man, later." He says, "When did they leave?"  He says, "It's been seven years since they crossed that river.  The seventh year is coming up." He's been pacing for seven years. He has been following the reindeer for seven years now. As  he paced, he tells. The witch asks when they left. The witch says, "It's been seven  years since they crossed that river. Now they're over there, not far away."  There was a tundra nearby, or some land, and the witch showed me, saying, "Now your deer are here.   On seven sides seven wolves will guard them. That's how they were rounded up." Whether he is walking long or short, he is walking short or long. As this witch said, he caught up with them.  Indeed, he saw them now,  and indeed his reindeer are sitting. He sees them sitting there. When he came close to his reindeer, seven wolves from seven sides were guarding them.  Somehow he frightened them away, either by using a stick to scare them away, or a gun, or something he had.  Yes, the bow, at that time, for sure, the bow will take it. Probably  killed them with a bow. Then, having killed the wolves, he began to move his deer.  He started to herd them. On their own trail, as if tied by the same rope, they went.  They went, went. He came to the first river. He looks at them: the reindeer have already  crossed the river. And he looked to the other side again, the ragged witch still running there.  There's a ragged witch running across the river. On his side, it seems to be. She moved him, because  that's not how he's going to leave her. He must have given her some deer to slaughter, a calf, for example.  He will give. The river, after all, he must leave a sacrifice. And there he goes.  Whether he goes short, whether he goes long, he follows his reindeer again. Whether it's a short walk or a long walk, he's  following his reindeer again.  On the second river they came, then they swam across. They swam across the  river again, what do they care, because they have a boat with them. He looked at the river shoulder again: a ragged witch running around.  He must have gone to that witch again, because she will move him again. The witch moved him again.   He probably gave her the deer again for sacrifice, she's helping him, after all. Then whether it's a long stride, whether it' s a short stride. And here on the third river he came. He came to the third river, and  again his reindeer crossed it, and he looked again: a witch was here. He went to the witch again,  the witch transported him, and I guess he gave her the sacrifice again. Again, whether  it's a long stride or a short stride. Whether I walk long, whether I walk short.  I think it's been seven years since I' ve paced. After all, everyone says: walking is torture.  What kind of torment is  that? Seven years of pacing, no torment found. One day he listens like this, his wife hears him say, "Come on, get up, how much longer are  you going to sleep?"  Just then he woke up, he woke up and looked at his fur  shoes: they turned out to be bald. Their fur is already wiped out, it turns out. Turns out  he's been asleep for seven years. For seven years, it turns out, he's been asleep.  He's already got his reindeer home. This tale was  told by my mother. My mother used to visit the rich man, too. He slaughtered a reindeer for her.  And now, in these years, I've been visiting, too.  When I arrived at his place, he slaughtered me a reindeer that had never been in the harness.</p>
+    </body>
+  </text>
+</TEI>

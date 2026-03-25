@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Chineko and the Mouse</title>
+        <editor role="collector">Konstantin Nikolaevich Rychkov</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NE02094032</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NE02094032</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0">CC BY-NC-SA</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Däbritz, Chris Lasse/Gusev, Valentin/Stoynova, Natalia (2024): INEL Evenki Corpus. Version 2.0. Publication date 2024-12-31. Archived at Universität Hamburg. https://hdl.handle.net/11022/0000-0007-FE38-D. In: The INEL corpora of indigenous Northern Eurasian languages. https://hdl.handle.net/11022/0000-0007-F45A-1. Quot. p. s.p..</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CEE15803">Evenki</name>
+          <date when="1913" type="recorded">Recorded in 1913.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>A mouse-human was going, he found food, excrements of a dog. He put the dog's excrements into his knapsack.  He overnighted. He put the dog's excrements, which he had found, into his knapsack and went off.<note>[DCh]: Not sure whether "-mun" really POSS.1PL at first word.</note>He found a small boat. Then he was going, going, going and found an oar. He put his boat into the river, he  thought to sail. He sailed off, he was sailing and sailing.  There the human saw a fire, saw smoke. The Chineko [lit. bat(?)] human is sitting.  He is about to land [towards] Chineko (?). He landed, the mouse landed. He is about to land [towards] Chineko (?).<note>[DCh]: The verb form and the clause appears to be incomplete.</note> He landed, he went out of his boat, he went to Chineko. He came there, he asked: "What are you eating?"  "I am eating guts!" "Give me from your gut!" "You, what are you offering?" "It will be just fat! It could be offered! Chineko, in the boat I have meat flour." Chineko went for the <note>[DCh]: The syntax is quite unclear.</note>meat flour. The mouse says: "Is it excrements of a dog?" The mouse slipped unter a snag, it was ashamed.  When Chineko said: "There is no meat flour, there is no!" Chineko came again. Chineko came back to his tent.  "Chineko, let's have a bath!" Chineko says: "We'll sink! We'll cut our hands! When holding  fast on the grass, we'll cut [ourselves]!" Chineko says: "I don't want!" The mouse says: "We'll hold fast onto the grass!" The  mouse says: "Let's have a bath!"  Chineko says: "The mittens get wet!" The mouse says: "I'll dry [them]!"  Chineko says: "They break!" "If they break, we'll darn [them] with a needle!" "The needle will blunt?"  The human Chineko says: "Where is a file?" The mouse says: "In the bast basket." "Where is the bast  basket?" "In the storage! The bast basket is in the granary!" "Where is the granary?" "The fire has  eaten [it]!" "Where is the fire?" "Rainy wind has blown [it] out!" "Where is the rainy wind?" "When it is  going there's lightning (?). I'll go to work, I'll find meat flour, I go off, I'll find my little boat, I go off.  I'll find an oar."</p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Boy Who Harpooned the Whale</title>
+        <editor role="collector">James S. Mutch</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NN01082550</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NN01082550</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Boas, Franz (1901): The Eskimo of Baffin Land and Hudson Bay. From notes collected by George Comer, James S. Mutch, and E. J. Peck. New York: AMNH (Bulletin of the American Museum of Natural History, 15,I). Quot. pp. 255-256.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA27903">Baffin Island Inuit</name>
+          <date notBefore="1883" notAfter="1899" type="recorded">Recorded sometime between 1883 and 1899.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>At Niutang, in Kingnait, there was an orphan boy. One day the people were in the house eating whale-skin. The boy was eating a piece of skin, and when he was cutting off the outer tough part, he said to the owner of the house, not knowing that the latter had missed a whale that day, "People say that it is difficult to drive a harpoon through the skin of the whale. It is not tough at all. It is very soft and tender." The man, thinking that the boy was making fun of him, became angry, and said, "Next time we go whaling, you will have to be harpooneer." The boy replied, "I do not know how to harpoon whales." But the man insisted.</p>
+      <p>After some time, when the weather was fair, he said to the boy, "Come, we will go whaling to-day." But the latter retorted, "My muscles are not strong enough yet." He was compelled to go along, however. "Come," said the man, "you know that the whale-skin is not tough. You said so the other day. You think it is soft and tender, and that it is easy to drive a harpoon through it."</p>
+      <p>{256} The boat was manned, and they went off. The boy was seated in the centre of the boat, next to the man who had compelled him to go along. After some time they saw a whale, but it did not come near enough. Then a very large whale arose. Now the boy was told to go ahead and throw his harpoon. He crawled under the thwarts to the bow of the boat. He stood erect, and took up the harpoon. Now he looked like a strong man. He waved his hand to the steersman to turn the boat a little. Then he raised his harpoon; and when he looked back, the others saw that his face looked like a man's face, and that he had a beard. He threw his harpoon deep into the whale's body, and then crawled back to his place. Now he looked like a boy again.</p>
+      <p>The men in their kayaks were ready to lance the whale when it should rise again; but when it came up, they found that it was dead. All the men said, "We have never before seen a boy kill a whale." They towed it ashore; and all talked about the boy who, although so small, had killed a whale with one thrust of his harpoon. It took days to cut up the carcass, because it was so large. Late in the fall the boy said, "I use only a whalebone knife when I eat whale-meat, whale-meat is so tender." Some time after this, when he was larger, he said, "I am still like a woman: I can only go out and sit about. I am not a man yet, although I harpooned a whale when I was a little boy."</p>
+    </body>
+  </text>
+</TEI>

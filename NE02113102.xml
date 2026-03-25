@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Orphan</title>
+        <editor role="collector">Aleksandr Chapixovich Logany</editor>
+        <editor role="narrator">Ajvaseda Nyonyu Kolchevna</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NE02113102</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NE02113102</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0">CC BY-NC-SA</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Budzisch, Josefina/Wagner-Nagy, Beáta (2024): INEL Nenets Corpus. Version 1.0. Publication date 2024-12-31. https://hdl.handle.net/11022/0000-0007-FE37-E. Archived at Universität Hamburg. In: The INEL corpora of indigenous Northern Eurasian languages. https://hdl.handle.net/11022/0000-0007-F45A-1. Quot. p. s.p..</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CEE15002">Forest Nenets</name>
+          <date when="1998" type="recorded">Recorded in 1998.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>Orphaned. The rich man raises a child, probably the child of the people he killed. In order to educate in the future, he educates the child. He lives with him. He doesn't treat him well. When they had moved away, near here, a little  further away, he stopped. Normally he drives deer, prepares firewood, does such work, gathers deer, an orphan boy.  When they had passed a stopping place, the guards stopped. The rich man says: "I left the lasso on an  empty holding place, go and bring my lasso," â yes, he says to this child. The  boy drove back to the empty stop. He rode on two reindeer, which are harnessed when they carry firewood, he harnessed these two bulls.  They hardly make any progress. He went, went back, trampled all over the ground, there was nothing, as  it turned out [the rich man] sent him back on purpose. Yes, he's leaving. His former comrades (he went back), and they moved [forward].  Everyone goes, goes. They walk at night, they walk during the day. And in the end there are no tracks to be seen,  their path is invisible. All night long, he drives the two bulls from the top of the sleigh. More and more  blows their way. In the end, the path was completely covered. Then he lay down on the sledge.  He let go of his reindeer with the words, go: Wherever you want to go, go there. We are dead anyway,  we are dead. We see no way. It turned into a snowstorm at night. Then they drive for a  while. The leading reindeer began to lick his face as he lay there.  Then he said in his mind: Maybe it's him who says: "Get up." As it turned out, my reindeer started to wake me up. When he  woke up, they arrived at the threshold of some village. He reached the threshold of the village, then of course he entered the house.  He entered the last house, a poor little house, and immediately fell on the chopped firewood.  It turns out that [the owners] knew him, they knew he was their relative. As it turned out, it was her relative. It turned out that when the words  were finished in everything, it turned out that it was people who had his mother before, when she was still alive, who raised his mother. They had  raised his orphaned mother. Then it turns out that these rich people killed her. So these people turned out to be his relatives  where his mother had grown up.</p>
+    </body>
+  </text>
+</TEI>

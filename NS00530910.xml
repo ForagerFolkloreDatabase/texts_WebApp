@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Man who Married a Star</title>
+        <editor role="collector">Jan-Åke Alvarsson</editor>
+        <editor role="narrator">Celestino Màànhyejas Gómez</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NS00530910</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NS00530910</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+          <p>By courtesy of Jan-Åke Alvarsson.</p>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Alvarsson, Jan-Åke (2026): Selected Myths and Folktales from the 'Weenhayek. Trans. for the Forager Folklore Database (FFDB Documents). Quot. pp. 91-95.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CSA39401">Wichí</name>
+          <date when="1985" type="recorded">Recorded in 1985.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>They say that there was a man [who had the same problem] as the man of whom we have told a while ago [ʼAasnotʼàj].<note>The recording begins with a proclamation of authenticity: "Now we are beginning to tell one more story, which we have told here, as Bolivians (ʼWeenhayek), and in accordance with what I have spoken now, I will speak the little Spanish that I can. And it may be that the countrymen (other Mataco peoples) have told this story a little differently. I, for my part, tell it this way, since it is our part (form) here as Bolivians. And I happen to have heard many tales told to me by my grandparents, all of them."</note> They say that the women did not want this man either. He always wanted to have a woman, but he could not because he was a little ugly. And they say that one day, one night, he had been lying there, thinking, "Now, what do I do? I need to have a woman!"</p>
+      <p>He was lying there, thinking, "I don't know what to do. I think I had better do something here. Now I am going to do the test! I'm going to call a star, and maybe I can do something with her!"</p>
+      <p><pb n="92"/>It happened so that the man, when he had thought thus, then began to shout. He was already naming (directly addressing) the star. He said, "Star, come to me, to be with me forever, together!"</p>
+      <p>And it turns out that the star answered him, and that she was a woman. So a woman came to where he was.<note>Here the narrator repeats himself. For that reason, this phrase has been omitted: "When he arrived there, they say that, of course but a woman came, they say."</note> A nice, pretty woman came to him, and they say that [all of a sudden] she was by his side. And the man was pleased, because he had already received a woman. The star had answered when he had called her.</p>
+      <p>So the woman was with him all night. [Then] the woman said, "Now, I am not going again to my house or, or from where I have come from, I am going to be with you! But, now what I entrust you with is that when it is daytime, you have to keep me somewhere over there. Because if it is daytime, I cannot be like this. But I can be (with you) like this every night."</p>
+      <p>And the man kept her, and put her, the star, there in a llica. But they say that at night she always went out and slept together with the man. And they say that the man [no longer] lacked anything.</p>
+      <p>But the other young men began to make fun of him on account of the woman. There, among the young men who were gathered together, they said,<note>This sentence has been heavily edited, the original reads: "Among them they say that he had been there, gathered together the young men said, ..."</note> "What a thing, why does the woman allow herself be married to this man? This man is not very good. And to me, he disgusts me, and how is it that the beautiful woman who is with him, that she is not disgusted by him?"</p>
+      <p>And they say that one day one of the young men asked her that question, "Why did you marry this man? Because this man is ugly, and he is not like one of us, who are good like that, pretty and likable."</p>
+      <p>But the woman answered, saying, "Of course, because I know that you, you will not lack women. But I know that this man needs a woman - so, no matter, I will be with him ..."</p>
+      <p>And in the evening they say that [the others] had chatted with her, and the woman said, "Now, I do not like how the other countrymen treat me. I had better get away from here ..."</p>
+      <p>So, they had chatted, and [she] said, "If you want to catch up with me, then I can explain the entire route to you. The path you are going to see is my path. <pb n="93"/>Because the path where I am going, is going to be well lit. Then you are going to follow this path. But I entrust (tell) to you that there is a [single] fire, which is in the middle of the road. There, in my town, it is very cold. Maybe you won't be able to stand it there. But there is a fire, only one fire, that is there in the sky, only one fire. But that fire, I advise (warn) you, that fire is very dangerous. But if you are cold, then you can get close to it. But you should not stoke it, nor touch any ember, because when it starts to blaze, then it will kill you, it will burn you all over. It's better that you, when you want to get hot, then that you get hot slowly, and that you do not get too close either."</p>
+      <p>And so she had instructed him. So, that night the woman left again. And the man, when morning came, they say he was in sorrow on account of the woman who had left. He had blamed the other young men, he had told them, "It is because of you, my countrymen, that my lady has gone again, and I have to catch up with her!"</p>
+      <p>Thus he had thought. And he went to catch up with her. They say that he went up to the sky. And he could also go up with the help of the woman. Then, when he was coming that way, he saw a path that was burning. And it seems that he had realized what she had been instructing him [meant], that "this is how my path is going to be."</p>
+      <p>So, he went on and on there. They say there were a lot of people out there on the road that he knew to ask. He would ask in each and every encampment where he arrived, he would ask about the time the woman had passed or if they had seen a woman pass by. They say that they said that the woman had passed at such and such an hour. So he went on.</p>
+      <p>And when he arrived at a little house, so far away, it was already late. And when he arrived at that little house, they say that he met an old woman who lived there, alone in the house; she lived alone in that part of the house. And when he arrived he asked her, "Grandma, haven't you seen a woman who passed by here?"</p>
+      <p>"Yes," she said, "I have seen her. She passed by this morning."</p>
+      <p>Then, the hour was no longer enough for anything, so the man said, "Now, granny, I am staying here. Tomorrow I will go again."</p>
+      <p>"Well," she said. "Just stay here, that is fine!"</p>
+      <p>But when the man wanted to stay in one part, they say that the old woman did not allow it. And that old woman, they say she was a bird they call <pb n="94"/>'partridge'. And every time he asked her, "Grandma, in this little place, I would like to sleep here!"</p>
+      <p>But the old woman said, "No, this very place is my place! [It] is that I always change my place. Once I wake up, I have to change over there."</p>
+      <p>And they say that she chose a better place and that he [acquiesced to] her. [So it happened several times], until finally the man could not stay inside the little house and had to sleep outside.</p>
+      <p>So, they say that the next day he left again. And when he got to a certain part, he already felt the cold, colder and colder, until he could not [stand it]. But he just kept walking. And when he came to a place, they say he had found a fire burning, sparking. Then he realized, "Now, this is the fire that the woman told me I was going to find ..."</p>
+      <p>So, they say he was getting close, [since] he was quite cold. And when he arrived there, [it was for him as] usual when one is very cold, and so he wanted to snuggle up to the fire. But he had remembered what she had taught him, that he must not stoke it. So he did not stoke it.</p>
+      <p>But then, in the end, it seems that he felt even colder. And when he felt even colder, then it came to his mind that, "Now, why don't you stoke it a little, so that it burns more? Because I am cold here and the fire is not doing anything for me. Maybe this fire [has not been tended to]. I've been here for a while now, and it has not done anything for me. But [if] I hollow it out slowly, and stoke it better, that it burns more, that way I will warm up better ..."</p>
+      <p>So, they say that he began to stoke a firebrand, which he put higher up so that the fire would burn. And it turns out that when he stoked it, then it began to spark and [as] a little wind came, it was [even] worse. They say that it was blazing and that it covered [the place] where it was, then it began to burn. And all his flesh was burned, and they say that nothing was left but his bones.</p>
+      <p>But when the man had been burned, then his father and mother<note>In the original 'fathers' and 'mothers' are in the plural form.</note> were missing him. They heard news about where their son had gone. And, there was a bird called 'owl'. And the owl had picked up those bones [of the man] and brought them back. They say that he had a llica that we call qataatsaj in our language. And with that llica they say that he had grabbed the bones that were next to the fire. Then he began to pack them away, or fill that llica.</p>
+      <p><pb n="95"/>And that bird came with the news. He is something like a messenger. And he was carrying those bones, and [then] he came with those bones, and returned them to the ground (to the earth).<note>Here we are dealing with two cosmological divisions or levels, that is the 'above' (puuleʼ), the overworld, and the 'below' (hoonhat) the underworld, see vols. 6 and 10.</note></p>
+      <p>So he brought the bones. And every time the bones moved, it seemed to have a sound. And when the bird was coming, near [the house of] the old folks, it seemed like it was singing. There was like a thing that sounded where he was flying. And then, finally, he came down [a little] more. And all of a sudden, they say that he stretched out a thing where the parents were. And when it fell to the ground, they say it sounded. And when they went to check, they say they had found the bones. Then they said, "These are the bones of our son! Something must have happened! Well, we know it is he! That's it!"</p>
+      <p>So they already knew that something had happened with that man ...</p>
+    </body>
+  </text>
+</TEI>

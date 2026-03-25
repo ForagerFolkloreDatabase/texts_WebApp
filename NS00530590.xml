@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Cormorants Teach the ʼWeenhayek how to Fish</title>
+        <editor role="collector">Jan-Åke Alvarsson</editor>
+        <editor role="narrator">Celestino Màànhyejas Gómez</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NS00530590</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NS00530590</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+          <p>By courtesy of Jan-Åke Alvarsson.</p>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Alvarsson, Jan-Åke (2026): Selected Myths and Folktales from the 'Weenhayek. Trans. for the Forager Folklore Database (FFDB Documents). Quot. pp. 59-60.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CSA39401">Wichí</name>
+          <date when="1984" type="recorded">Recorded in 1984.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>Now there is also another story, and it is a short [story].</p>
+      <p>There is a story that says that there were two [bird-]men who knew how to fish. Those two men were called cormorants.<note>Here it refers to the neotropic cormorant, also called biguá, and in local Spanish 'chumuco'. In ʼWeenhayek it is called ʼasqaanh, and in Latin Phalacrocorax olivaceus.</note> Those were the first fishermen. They were the only ones who knew how to fish. Then the people regarded (admired) how they were fishing.</p>
+      <p>The cormorants began to fish, diving. And when they dived, then they started [on the surface], there, looking at the water. They say that when they looked at the water, they saw all the things that were on the floor (bottom) there [below].</p>
+      <p>They say that when there were catfish over there, they knew where, because they themselves had discovered them with their sight. So they would go straight, to catch [that catfish]. [Yes,] they were fishermen - and the people were amazed.</p>
+      <p>And these birds knew how to dive. They could dive and stay [underwater] for a long time. So sometimes they could stay as long as five minutes. [At other times] they would take like two minutes ... And this was one thing that people admired. "How can they do that?"</p>
+      <p>But they knew how to do that. Another said, "Of course, [It is because] they are fishermen!"</p>
+      <p>Then all the people looked on. [And one said,] "We can do that too, be like fishermen!"</p>
+      <p>And then it seems that the people were encouraged, too, to be fishermen, because of [the cormorants].<note>The following piece of text has been omitted as it consists of a repetition, apparently of a mistake: "And that is this tale up to here. And we began to talk also about the fishermen who were cormorants. They say that people had watched how they dived."</note> And they said, "Now we have to prepare our nets to fish just like them!"</p>
+      <p>And then the people also began to dive [like the cormorants]. Some of them, they say they could not stand being in the water because they could not breathe [well]. Because when one has to dive in, one cannot breathe, one has to hold <pb n="60"/>[contain] their breath for a while. And then in the river, when it is deep, some cannot reach the deep. Some, yes, can reach it, depending on their heart and depending on their head; because the head is in charge of everything, so when the head is bad, then you cannot be in the water [for a long] time, [because being submerged] makes you lose your thinking.</p>
+      <p>So the story goes. And so among them they had chosen the [healthiest] ones so that they could dive in and then others, [who were not going to do] anything but stay by the shore, fishing like that too, but without diving in.</p>
+      <p>So says the story that I have heard also. So this story - that's it! [Already] the story is over ...</p>
+    </body>
+  </text>
+</TEI>

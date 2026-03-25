@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>How the Witch Became Mosquitoes</title>
+        <editor role="collector">Irina Petrovna Sorokina</editor>
+        <editor role="narrator">Palchin Nikolay Sergeevich</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NE02089007</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NE02089007</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0">CC BY-NC-SA</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Shluinsky, Andrey/Khanina, Olesya/Wagner-Nagy, Beáta (2024): INEL Enets Corpus. Version 1.0. Publication date 2024-11-30. https://hdl.handle.net/11022/0000-0007-FE1D-C. Archived at Universität Hamburg. In: The INEL corpora of indigenous Northern Eurasian languages. https://hdl.handle.net/11022/0000-0007-F45A-1 Quot. p. s.p..</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CEE15008">Forest Enets</name>
+          <date notBefore="1969" notAfter="1984" type="recorded">Recorded sometime between 1969 and 1984.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>And so she says to, well. â¦ the daughter of the hunter.<note>[ShA:] The recorded tale is not from the very beginning. The beginning is as follows: Enets people took the witch and Moreo's daughter to their place.</note>It means. Whatever she was, the girl said. So, she said to the Enets, you see, the other one is also Enets.  Whatever she was. He let this girl sit down.  They came home, of course. And as for people, they live well. They are people with reindeer,  they have a lot of tents. They live together in some place. Then him to Enets. The  daughter of the hunter. What reason she came for. She is in his tent, what. She would not say, after all, what, take me as a wife. What, well, he had a wife, probably.  She simply lives in his tent. And the witch is herself the mistress in her tent.  How. There are a lot of tents, maybe she eats part of the tents.  People. And this is so according to our old custom. People.  Maybe it also happens now. This life, a man. Will be eaten with open eyes.  Will be caught with open eyes. And now, well. People became anxious, after all.  It seems, it is bad that this one evil came to us. How will we make her quiet down?  You will not kill her with a knife, you will not chop her with an ax. While her eyes are looking. You would raise the ax. She will eat you. One said, let's now do so. She, he said, does not know such things, he said. Let's light a big fire! These people so. Some of them make sledges outdoors. How they make sledges, people make sledges, after all.  They are Enets. So. Now people who became  people, make sledges. Let's light a fire, they said. So, well, a cauldron for  glue. (â¦). A cauldron for glue, that's so if you don't know.<note>[ShA:] A false start.</note> Former people. Any thing from a broken sledge. Did not nail down with a nail. Well, also he<note>[ShA:] The syntax is unclear.</note> did not fasten it with iron. So one trimmed it well. And one will bend it and stick with glue.  Then one will pierce a hole with a drill. One will nail with wooden nails. So we would say then, say, our cauldron burned down. Such a cauldron is so. There is birch bark.  Formerly people did not do with iron. On will boil the birch nark in the glue.  So. They installed such thing. The bonfire flames up entirely. And those  who were making it, are sitting near the bonfire. And at some time on purpose that cauldron.  What, they burnt the glue like, well. So the people then started crying. Well. The people who worked, the people who were outdoors. Hey, they said, where have you gone?  Here are our good female workers. The good hostess', they said, that there are, let them come running, our cauldron burnt down.<note>[ShA:] -z in sÉjzaz is unclear.</note> We cannot extinguish. So. What for would the hunter's daughter go to the Enets? And the witch so.  So she came there running and said: what a good mistress do you look for?  I am the best, after all, she said, among your mistress'. So she started grasping it in the middle  of the fire. These people on people into the fire. They pushed the witch. Still at that time one will not do with iron. So they put into the fire, well, sharp firewood.  So they pushed her there, into the fire. In order that she burned down in the fire. So the witch's hair on her body flamed up. So she burned down in the fire. The witch says  herself. She said, now you have burnt me down, say.  Yes, she said. I will do with you another way, she said. You, she  said. Now that of the witch. Now we say, there are mosquitos.  These mosquitos. Eat us anyway. So the mosquitos. These are the burnt remains of  the witch. Now we say, there are midges. So. These  midges are the burnt louses of the witch. Now we say so, there are gadflies. There are gadflies, wasps. These are her burst eyes. So they burnt the witch.  So. And then. How the Enets woman's daughter started living then.  So. In that land. While then. After  that, I don't know, after all. And I have never heard, if I heard. If one told  about her. To the Enets. So the girl started living. And from that, I think, people  appeared. They will appear so. And that's all. NEE059852</p>
+      <p>And so she says to, well. â¦ the daughter of the hunter.<note>[ShA:] The recorded tale is not from the very beginning. The beginning is as follows: Enets people took the witch and Moreo's daughter to their place.</note>It means. Whatever she was, the girl said. So, she said to the Enets, you see, the other one is also Enets.  Whatever she was. He let this girl sit down.  They came home, of course. And as for people, they live well. They are people with reindeer,  they have a lot of tents. They live together in some place. Then him to Enets. The  daughter of the hunter. What reason she came for. She is in his tent, what. She would not say, after all, what, take me as a wife. What, well, he had a wife, probably.  She simply lives in his tent. And the witch is herself the mistress in her tent.  How. There are a lot of tents, maybe she eats part of the tents.  People. And this is so according to our old custom. People.  Maybe it also happens now. This life, a man. Will be eaten with open eyes.  Will be caught with open eyes. And now, well. People became anxious, after all.  It seems, it is bad that this one evil came to us. How will we make her quiet down?  You will not kill her with a knife, you will not chop her with an ax. While her eyes are looking. You would raise the ax. She will eat you. One said, let's now do so. She, he said, does not know such things, he said. Let's light a big fire! These people so. Some of them make sledges outdoors. How they make sledges, people make sledges, after all.  They are Enets. So. Now people who became  people, make sledges. Let's light a fire, they said. So, well, a cauldron for  glue. (â¦). A cauldron for glue, that's so if you don't know.<note>[ShA:] A false start.</note> Former people. Any thing from a broken sledge. Did not nail down with a nail. Well, also he<note>[ShA:] The syntax is unclear.</note> did not fasten it with iron. So one trimmed it well. And one will bend it and stick with glue.  Then one will pierce a hole with a drill. One will nail with wooden nails. So we would say then, say, our cauldron burned down. Such a cauldron is so. There is birch bark.  Formerly people did not do with iron. On will boil the birch nark in the glue.  So. They installed such thing. The bonfire flames up entirely. And those  who were making it, are sitting near the bonfire. And at some time on purpose that cauldron.  What, they burnt the glue like, well. So the people then started crying. Well. The people who worked, the people who were outdoors. Hey, they said, where have you gone?  Here are our good female workers. The good hostess', they said, that there are, let them come running, our cauldron burnt down.<note>[ShA:] -z in sÉjzaz is unclear.</note> We cannot extinguish. So. What for would the hunter's daughter go to the Enets? And the witch so.  So she came there running and said: what a good mistress do you look for?  I am the best, after all, she said, among your mistress'. So she started grasping it in the middle  of the fire. These people on people into the fire. They pushed the witch. Still at that time one will not do with iron. So they put into the fire, well, sharp firewood.  So they pushed her there, into the fire. In order that she burned down in the fire. So the witch's hair on her body flamed up. So she burned down in the fire. The witch says  herself. She said, now you have burnt me down, say.  Yes, she said. I will do with you another way, she said. You, she  said. Now that of the witch. Now we say, there are mosquitos.  These mosquitos. Eat us anyway. So the mosquitos. These are the burnt remains of  the witch. Now we say, there are midges. So. These  midges are the burnt louses of the witch. Now we say so, there are gadflies. There are gadflies, wasps. These are her burst eyes. So they burnt the witch.  So. And then. How the Enets woman's daughter started living then.  So. In that land. While then. After  that, I don't know, after all. And I have never heard, if I heard. If one told  about her. To the Enets. So the girl started living. And from that, I think, people  appeared. They will appear so. And that's all.</p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Two Brothers</title>
+        <editor role="collector">Irina Petrovna Sorokina</editor>
+        <editor role="narrator">Silkina (née Suslova) Darya Alekseevna</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NE02086240</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NE02086240</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0">CC BY-NC-SA</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Shluinsky, Andrey/Khanina, Olesya/Wagner-Nagy, Beáta (2024): INEL Enets Corpus. Version 1.0. Publication date 2024-11-30. https://hdl.handle.net/11022/0000-0007-FE1D-C. Archived at Universität Hamburg. In: The INEL corpora of indigenous Northern Eurasian languages. https://hdl.handle.net/11022/0000-0007-F45A-1 Quot. p. s.p..</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CEE15008">Forest Enets</name>
+          <date when="1969" type="recorded">Recorded in 1969.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>Two brothers. There lived two brothers. One was rich, the other one lived very poorly.  The poor brother had only a holey tent. The rich one had a lot of reindeer and lot of tents.  His has nine labourers living in nine tents. There are many of his wives living in the biggest tent.  The poor man has no one but his mother. Once the poor one went  to the rich's tent to get something. The rich brother doesn't even want to look at him.<note>[ShA:] The form seÅixoÉÄ looks strange, seÅigoÉÅ¡ </note> He said so: "You won't let me sleep, get out of here." The poor man went back to his tent.<note>is expected.</note> He and his mother fell asleep hungry. The next morning the poor man went hunting, but he came home without getting  anything. There is no prey close to his home, he has no strength to go far.  So went like that every day, and came back with nothing at nightfall.  One day he went hunting again. His old mother after a while went for water.  Suddenly she sees something black across the river. She looked again. And this  is the Madu giant, he is walking on two skis. The giant approached the old woman and asked: âGranny, what are you doing here?â.  The old woman replied: "I came for water. If only my son would warm his stomach  with hot water. We don't have anything else.  We live very poorly. For many days, we have only been drinking boiled hot water."  Hearing such words, Madu started thinking. Then he put one of his hands into the ice hole.  He took out his hand, the fish trembling on all his fingers. He gave these fishes to  the old woman. He said: âTake it home, cook a soup, eat it yourself and feed your son.  Let your son hunt the same way, and if he cannot, let him follow my footsteps to me.  The giant Madu went back across the river again. The old woman went home. She cooked fish  soup. When the son came back, he was surprised â where did she find so much good food.  The old mother told him about the arrival of the giant Madu. The next morning, the old woman's son went to the  ice-hole and lowered his hand into the hole. He barely took his hand out of the ice hole.  He caught a lot of fish. He came home and said: "Mom, cook the fishes, and I'll go to Madu."  He reached Madu's tent. There is a big tent on the hill. Near the tent of Madu he stopped his way. He took off his skis and entered the tent. Somewhere in the giant's tent there  sat a stone old woman and a stone old man. On the other side of the tent, Madu's wife is combing her husband's head.  Madu is sleeping. There are many reindeer in the non-residential part of the tent. The giant Madu's wife began to wake  her husband. The woman hit her husband with the handle of her knife.  Madu, scared, jumped up. When Madu saw the poor man, he said: "You must have been waiting for me for a long time."  Then he said: âWhere is my belt, where are my skis, where is my lasso?â. His belt, his lasso,  his skis gathered together, put on themselves, his lasso jumped into his hands by itself. The giant went  towards the stone old man on skis. He entered the mouth of the stone old man, came out of the mouth of the stone old woman.  In his armpit, he holds one barren reindeer. He put it near  himself. The reindeer skin was removed by itself, it was cut into pieces by itself. The giant Madu said: "Guest, eat."  The poor man began to eat. When he ate a few pieces of meat, he finished eating and said: <note>[ShA:] The form oorujzÊ is unexpected, oolujzÊ is expected.</note>âNow I have a lot of strength in my arms and legs. Then the giant called his daughter and said: "Take  my daughter as your wife." Look, my daughter is holding a little sack in her hands.  If you untie this sack when you come home, then from now on you will live well.  And if you untie him on the road, from now on you will live bad. The poor man and his wife are  walking home. When they reached the middle of the river, they heard a voice from under the ice: âPoor man, look into the sack!  Your sack is empty." The poor  man does not listen to anyone, he holds the sack even tighter in his hands. They went even faster.  They came home. The poor man said to his mother: "Mother, I brought a wife, live without quarrelling."<note>[ShA:] The infinitive form kauzudÊ¼ is unexpected, connegative kauzurÊ is expected.</note> Then he untied the sack. The gadflies flew out of the bag, they went out through the smoke hole. All the three of them, frightened, ran outside.  So they looked around outside, what is this? There are a lot of reindeer at both sides of the tent. Since then, they began to live well.<note>[ShA:] The form kemÉn is unexpected, keÉn is expected.</note> Once the rich one heard about the good life of the poor one. He came to visit the poor  brother. He asks his brother how he became rich. His brother told  him everything. After he heard this, the rich man ran to the ice hole. He put his hand into the ice hole, but he did not get  anything. He went to the giant Madu's tent. When he entered the tent, the giant Madu asked: âWhy did  you come? After all, I didn't call you." Then he said: "But now you <note>[ShA:] All the sequence Ð½ÐµÐ·ÑÑÑ Ð½Ñ ÐºÐ°Ð¹ looks very strange, its glossing is conventional.</note>have already come." The giant Madu brought meat for his guest. The rich man ate a whole reindeer, then he said: âI eat  very well, let me stay overnight in your tent.â. Madu said: "You will not stay with me, rest in your own tent."  The rich man said: âWell, I will not stay overnight.  Just give me a sack, give me your daughter as a wife, then I will go to my tent."  Madu said: âI wonât give you my daughter, you yourself have nine wives. I will just  give you a sack." The rich man quickly grabbed the sack and went home. When he reached the middle of the river, he heard a  voice: "Rich man! Look into the sack, it's empty."  The rich man thought: âMaybe it is really empty.â. He opened the sack. The gadflies flew out of the sack, flew in the direction of his tent. The rich man quickly went to his tent.  Came home â what is it? These gadflies turned into wolves. So many wolves, they tore all his reindeer into pieces.  When he saw this, he got very scared. That is how the rich brother became poor.</p>
+    </body>
+  </text>
+</TEI>

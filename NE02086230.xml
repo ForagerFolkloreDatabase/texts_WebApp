@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Two Shamans</title>
+        <editor role="collector">Daria Spiridonovna Bolina</editor>
+        <editor role="narrator">Palchin Nikolay Sergeevich</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NE02086230</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NE02086230</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0">CC BY-NC-SA</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Shluinsky, Andrey/Khanina, Olesya/Wagner-Nagy, Beáta (2024): INEL Enets Corpus. Version 1.0. Publication date 2024-11-30. https://hdl.handle.net/11022/0000-0007-FE1D-C. Archived at Universität Hamburg. In: The INEL corpora of indigenous Northern Eurasian languages. https://hdl.handle.net/11022/0000-0007-F45A-1 Quot. p. s.p..</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CEE15008">Forest Enets</name>
+          <date when="1991" type="recorded">Recorded in 1991.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>Two shamans. Two persons live. Two shamans: one of them is an Enets shaman, the other one is a Tungus shaman.<note>[ShA:] I'd expect that in the original recording it was enÄegiÊ, not enÄexiÊ.</note> They do not live well among themselves, they constantly find fault with each other. One of them <note>[ShA:] KaÅ¡ixoneÄiÊ is an unexpected form, kasaxoneÄiÊ or kaÅ¡ixineÄiÊ are expected.</note>says: âIf I want to, I will eat you aliveâ, the other says: âIf I want to, I will eat you aliveâ, and that one says: âIf I want to, I will eat you aliveâ.   Once the Enets said: âObviously, itâs not good for us to  stay like this, it would, obviously, be good for us to go to the goose land.  We don't seem to be able to live well on this earth." When they finished talking, each of them went to his own tent.  Two shamans: one of them lives in one place, and the other one lives in another place. The Enets  shaman said to his wife: âNow I will go to the goose land, when it will be spring, make me a tent, a tent for shaman practice.  Make me such a thing. Make me a tent, if I am alive, if I come  back alive, I will sit down into my tent." His wife said: "By the time you  arrive, if you come back alive, of course, I will make you a tent." The Tungus shaman also said to his wife: "We  will now leave for the goose land, we will go to the goose land. We canât live together here at all, we are  constantly finding fault with each other." My friend says: âI will eat youâ, I also say to my friend: âI will eat youâ.  After some time, the Enets flew out of his tent somewhere, apparently, he became a  swan. The Enets became like that, he appeared above the  tent of his friend, he appeared above the tent of his friend. The Enets  said: âCome on, get ready. Get ready, I am going to the goose land." The Tungus shaman also flew  out through the smoke hole and became a loon. He cried several times in the voice of a loon. Well, that's what he probably said to his  family: "By the time I come, make me a tent." These shamans went to the goose land.  There are many birds in the goose land, they also mixed with them. Now they said: "We're going to shed our  feathers like our mates." The swan is now among his fellow swans, the loon is among his fellow loons.  The loon swims there in the water, catches fish. There are people there too, so some get entangles into the  fishing nets. But the loon does not know how to shed feathers, her feathers did not fall out, they were strong.  He always swam with his feathers. After a while, the swan's feathers fell out, the swan tumbles without feathers, and  the loon is very agile, catches fish. He occasionally meets his friend. He says to his friend: "You usually say, I'm more agile than you are, I can eat you."  The swan said: "I'm cold." The swan said: "That's why I don't want to, I'm cold, after all."  The swan said: âIâm cold, you see, I donât have a feather, my clothes came out, but your clothes are fine, your  clothes are strong, you swim in the water.â.  The swan said to the loon: "Don't get caught in the net, otherwise you will stay here." The loon says: "Why should I stay here, after all, I'll go home  somehow." After some time, while fishing, the loon got into the net, he was caught by people.  And the swan, no matter how cold it was for him, was here until its legs grew.  He got, of course, new feathers. After he got new  feathers, the swan said: âThe weather has become spring, now it seems to be warm, it would be good for me to go to my place.â.  The swan finally reached his place, he is circling over the smoke hole of his tent, he circled around it several times, screaming like a swan.  After a while, his wife ran outside, wondering if her family member had returned.  Well, finally the Enets went into his tent. When he  sat down into the tent, he had there all sorts of items for shaman's practice there, a tambourine and something else.  After a while, the sound of his tambourine was heard. The sound of his tambourine is heard for a  long time. His friends came and began to ask him: âYou have come, but where is your friend?â.  âMy comrade was caught into a fishing net in that place, in the sea, I donât know if he will get out.â. Some people said:  "Who got into the net, how will he come, no, it looks like he won't come." The Enets said: âI think he might  come. He will come. It belongs to a very strong clan of birds,  to the clan of loons. His name will be a loon. And I will be a swan.  I will soon become like this: my clan will be the source of life for all people, and in the future no one will catch the loon unnecessarily: its meat is not suitable for food, the skin is tough, not a single person will need a  loon.  Wait for the loon in the future. You  will recognize him by his Tungus appearance."</p>
+    </body>
+  </text>
+</TEI>

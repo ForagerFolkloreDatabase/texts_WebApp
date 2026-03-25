@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Dog Half</title>
+        <editor role="collector">Valentina Vladimirovna Shilova</editor>
+        <editor role="narrator">Turutina Polina Gilevna</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NE02111330</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NE02111330</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0">CC BY-NC-SA</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Budzisch, Josefina/Wagner-Nagy, Beáta (2024): INEL Nenets Corpus. Version 1.0. Publication date 2024-12-31. https://hdl.handle.net/11022/0000-0007-FE37-E. Archived at Universität Hamburg. In: The INEL corpora of indigenous Northern Eurasian languages. https://hdl.handle.net/11022/0000-0007-F45A-1. Quot. p. s.p..</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CEE15002">Forest Nenets</name>
+          <date when="2002" type="recorded">Recorded in 2002.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>Dog half. Once there lived simple Nenets, in the evening they were doing something. And when the evening comes, they lie down to rest. One girl, after everyone  went to bed, began to make threads from deer veins. Her mother says to her: âEnough, you canât, donât spin threads, go to bed.â  But the daughter did not listen. The whole family went to bed, and she weaves threads.  And suddenly the door flap moved. She sees: a little man entered from under the shutter.  So he entered the tent, saw her. He says: âWow, are you weaving threads from veins? I, too, will now bring a vein from the back of a dog's leg, we will work  together. After these words, he quickly went outside. The girl was  frightened, lay down among the others. She pretended to be asleep, lying quietly, as if dead. She  heard, someone crawled under the door flap, says: "Friend, let's weave threads from the veins together, I brought the vein of the dog's hind leg."  The girl seemed to be sleeping, and the Dog half went among the sleeping ones to look for her. He feels the faces of the sleeping. Then he says: âThose who have a cold forehead are sleeping, and those who are not sleeping will have a hot face.â  He went even further, between the sleeping ones, and felt the girl's face.  Then he says: âHere, here, my friend, I brought a vein from the dogâs back leg, letâs weave threads.â The girl is  silent, frightened. The dog's half grabbed her by both legs and dragged her outside.  Then they searched for the girl, still have not found her. It seems to me that this fairy tale was invented to scare the kids.  According to Nenets beliefs, when the sun sets behind the forest, it is impossible to work. The distant world  wakes up at night. Night is day for the dead. And during the day, women sew, weave threads from the veins, boil, wash, fetch firewood, chop  firewood finely. And the men fish, they make sledges, they pull out roots and make ropes, weave lassoes, gather deer,  chop poles, chop blanks for sleds. There is no dog half on earth. Long ago, when we were still  children, we had a grandmother. Her husband, when he was alive, bought clothes with a dog-skin hem.  I brought it from the Yenisei, I bought it from the Tungus. Then the grandmother will put on these clothes, she  came to us in the tent and scared us. Our mother said: "Oh, trouble, the dog's half has come." But after all, the dog half does not exist on earth.  Others say that there was once a genus of Dog Meat. I doubt it. It's just those who did not  know the language well, made the wrong translation of the tale. And the tale is like this: Once upon a time there was a rich Vanui, there were thirty laborers in his camp. About a hundred thousand of his deer licked the clay, there was nothing to eat â¦</p>
+    </body>
+  </text>
+</TEI>

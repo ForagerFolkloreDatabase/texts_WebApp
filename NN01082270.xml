@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Boy Who Lived on Ravens</title>
+        <editor role="collector">James S. Mutch</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NN01082270</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NN01082270</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Boas, Franz (1901): The Eskimo of Baffin Land and Hudson Bay. From notes collected by George Comer, James S. Mutch, and E. J. Peck. New York: AMNH (Bulletin of the American Museum of Natural History, 15,I). Quot. pp. 227-228.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA27903">Baffin Island Inuit</name>
+          <date notBefore="1883" notAfter="1899" type="recorded">Recorded sometime between 1883 and 1899.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>Many people were living at Niutang. One time, when they were quarrelling, they murdered a man who had not intended to kill any one.</p>
+      <p>When he was buried, his widow lived all by herself, and subsisted upon what little the people would give her. After some time they moved to Katsag, leaving the woman behind. The night before they left, one of the men went into her hut, and she thanked him for having called.</p>
+      <p>The widow was with child, and soon it was born. They had very little food. One day, while she was walking close to the house which she had built for herself, she saw a great many ravens go into it. Then she closed the door, took up a stick, went in, and killed them all except one, which tried to escape from her by jumping to and fro. She tried to catch it, but the raven became smaller and smaller, until she could hardly see it; after many efforts, however, she succeeded in killing it also. Then she put the ravens outside to freeze. Now they had enough to live on for some time.</p>
+      <p>When the supply was nearly exhausted, she went out again, and soon saw a great many ravens going into her hut. She did as before, - fastened the door, and killed them. They lived entirely on raven-meat. The boy grew up very quickly, and soon was able to go sealing. One day, when he returned from a sealing trip, his mother discovered that his face looked quite black. He had been living on raven-meat, and had become himself like a raven.</p>
+      <p>Now the mother thought of avenging the death of her husband. She said to her boy, "I think you are now able to look out for yourself. You must avenge the death of your {228} father." Then the boy replied, "I want to go and see those people who killed him." Before he set out, his mother took the body of a dog, and set it up as though it were alive. She opened its mouth, so that the animal looked like a very fierce dog that wanted to bite people. Then the mother wished to divine whether it would be well to attack their enemies. She said, "I will set up the body of the dog. If it stands up, we will go; if it falls down, we will stay here." They put the dog down, and it stood as though it were alive. Then they went on, and built a house not far from the shore.</p>
+      <p>The boy had made a great many arrows, and early in the morning he said to his mother, "Go on shore and tell those men to come here. Tell them that I am ready to be awakened. But do not go into the houses, only call them through the windows." The woman went, and stepped up to the windows while the people were still in bed, and said, "My son sends me to tell you to come down to him. He is ready to be awakened." Then she went back. The men jumped up, and went down to the ice. They were intending to kill the boy, who had set up the dog near his hut. The men began to shoot their arrows at him, but he dodged them, jumping about like a raven. When they had spent all their arrows, he ran so as to be between the men and the village, and began to kill them with his arrows. On the following day, when the bodies of his enemies were all frozen, he set them up, and then went to his mother and told her to look at them. They looked just like people sealing on the ice. Then he took one of the women that he liked best for his wife, and went to live in Niutang.</p>
+    </body>
+  </text>
+</TEI>

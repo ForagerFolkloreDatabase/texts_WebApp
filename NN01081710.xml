@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Origin of the Agdlaq</title>
+        <editor role="collector">James S. Mutch</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NN01081710</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NN01081710</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Boas, Franz (1901): The Eskimo of Baffin Land and Hudson Bay. From notes collected by George Comer, James S. Mutch, and E. J. Peck. New York: AMNH (Bulletin of the American Museum of Natural History, 15,I). Quot. pp. 171-172.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA27903">Baffin Island Inuit</name>
+          <date notBefore="1883" notAfter="1899" type="recorded">Recorded sometime between 1883 and 1899.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>Once upon a time a man, his wife, and his two daughters, lived in a snow house. For some reason the father disliked his elder daughter, and made up his mind to dispose of her. He built a snow house for her, and closed the door with a snow block, intending to let her starve to death; but her younger sister, who loved her, made a small hole through the wall of the snow house, and passed pieces of seal-meat to her. After some time the elder sister said, when the younger one was giving seal-meat to her, "I am not like other people. Hair is growing all over my body and on my limbs."</p>
+      <p>After a while the elder sister also said to her, "Do not bring me any more meat." She replied, "I shall continue to bring you meat, for I want you to live."</p>
+      <p>Soon the father and mother discovered the girl giving seal- meat to her elder sister. The father said, "It is not well that you give her food. She is not nice. It is best to let her die. Do not give her any food." But the girl insisted on giving some of her own seal-meat to her elder sister.</p>
+      <p>One day when she took seal-meat to her elder sister, she looked into the house through the hole, and saw that her {172} sister's body was covered with hair. The elder sister knew at once that the girl had seen her, and she said, "Leave this place! I shall soon go out of this snow house." She made a number of wooden pegs, and gave them to her younger sister, saying, "When you move from this place, you will hear something pursuing you while you are travelling. Then lie down on your face, and put these pegs around you. I am going to turn into an agdlaq. I shall pursue you; but by the pegs I shall recognize you."</p>
+      <p>About this time the father decided to desert his elder daughter. The people loaded their sledges and left. When they had been on their way for some time, the girl heard something following their steps. She ran ahead, lay down on the snow, put the wooden pegs around her, as she had been told to do by her sister, and hid her face in her hands. She staid there for some time. Soon the agdlaq came up to her; but when it saw the pegs it turned back. After some time she ventured to look up, and, going back to the sledges, she found that her father and mother had been killed by the monster. Her elder sister, who had been transformed into an agdlaq, had killed them.</p>
+    </body>
+  </text>
+</TEI>

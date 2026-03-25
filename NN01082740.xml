@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Tales of Whalers and Sealers (#6)</title>
+        <editor role="collector">James S. Mutch</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NN01082740</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NN01082740</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Boas, Franz (1901): The Eskimo of Baffin Land and Hudson Bay. From notes collected by George Comer, James S. Mutch, and E. J. Peck. New York: AMNH (Bulletin of the American Museum of Natural History, 15,I). Quot. pp. 274-275.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA27903">Baffin Island Inuit</name>
+          <date notBefore="1883" notAfter="1899" type="recorded">Recorded sometime between 1883 and 1899.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>In Sikosuilaq, while the men were off sealing in winter, the ice broke. For a number of days they wandered about, jumping from piece to piece; but the floes became smaller and smaller. For some days they had succeeded in staying together; but finally Ulireyak, a young man, was not able to keep up with his companions. Notwithstanding the entreaties and admonitions of his friends, he gave up and lay down. They made a house for him, and put him into it. Then they continued their march, and finally succeeded in reaching shore. When they were questioned about the young man, they said that he had refused to go on, and that they had made a snow house for him to stay in.</p>
+      <p>Spring came, and the seals were seen on the ice. The men had long given up all hope of seeing Ulireyak again. One day Keenaroun, and his wife Queanato, were out sealing. They were trying to catch both young and old seals. Suddenly their dogs scented something. The man followed them through heavy snowdrifts, and kept sounding all the time in order not to pass the burrow of the young seals. Suddenly his wife heard a voice. He stopped his team and listened. Then he moved in the direction from which the sound came. He sounded all the time with the handle of bis seal-hook. Finally he found a hollow place; and when he broke the snow crust, he saw that it was Ulireyak's house. He was still alive. The heat of his body had melted a hole in the ice, and the inside of his hut was very filthy. They took him on their sledge, and offered him some seal-meat, which, however, he refused. He only asked for a small piece of the intestines. His voice was very weak. He took just {275} two mouthfuls, and felt as if he had had enough. They took him home, and all the people were surprised that he should have lived so long without food. The young man recovered. Ulireyak's mother lived at a village not far away, but he did not care to leave the people who had found him, and who had treated him so kindly.</p>
+    </body>
+  </text>
+</TEI>

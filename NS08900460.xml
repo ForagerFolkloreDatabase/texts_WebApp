@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Wood-Spirit</title>
+        <editor role="collector">Alfred Métraux</editor>
+        <editor role="narrator">Pedro</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NS08900460</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NS08900460</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Métraux, Alfred (1939): Myths and Tales of the Matako Indians (The Gran Chaco, Argentinia). In: Ethnological Studies/Etnologiska Studier 9, 1-127. Quot. pp. 46-47.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CSA39401">Wichí</name>
+          <date when="1933" type="recorded">Recorded in 1933.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>Čaɂačute<note>About Čaɂačute see p. 41.</note> is a bush-spirit in human form. Čaɂačute's father was old and ill. The cause of his sickness was the dirty and worn condition of the jaguar skin on which he slept. A new skin was needed to make him well again. Čaɂačute went to hunt a jaguar. He asked people he met on the road to show him the jaguar's tracks, which they did. When he arrived at the path followed by the jaguar he lay down as if he was dead. The jaguar came and thought he was really dead. He dragged him into the forest and nudged him to see if he would move, but Čaɂačute remained very still. The jaguar pulled the tongue of Čaɂačute out in order to determine whether or not he was dealing with a corpse, but he did not give any sign of life. Then Čaɂačute took up a club of matako wood, like those used by the Chulupi Indians, and struck the jaguar a terrible blow on the head, killing him. The jaguar was then skinned and Čaɂačute returned to his father and presented him with the skin. His father's health was immediately restored. As soon as the skin became dirty Čaɂačute's father was stricken with illness and not until the skin was replaced did he recover.</p>
+      <p><pb n="47"/>Čaɂačute was a tall and stout man. He never got tired and could carry a jaguar on his shoulders with ease. He was valiant and would attack single handed the villages of his enemies. His method was as follows: He would walk to the center of the village and go straight to the chief's hut. He would then ask the chief for a whetstone. On this he would sharpen his spear and then kill the chief without harming the rest of the villagers.</p>
+      <p>Whenever an Indian married, Čaɂačute would kidnap his wife. His house was full of stolen women. One day he took his brother's wife. The offended man went to Čaɂačute's house to get her but Čaɂačute would not give her up. The brother left and Čaɂačute followed him as he was going to kill him. The brother hid himself in the bush beside the trail and as Čaɂačute passed he shot an arrow into his arm-pit. Čaɂačute died and all the men, thoroughly pleased, went to get the women Čaɂačute had stolen.</p>
+    </body>
+  </text>
+</TEI>

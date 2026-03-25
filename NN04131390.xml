@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The First Sea-Otters</title>
+        <editor role="collector">Innokentij Veniaminov</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NN04131390</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NN04131390</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Golder, Frank Alfred (1907): The Songs and Stories of the Aleuts, with Translations from Veniaminov. In: The Journal of American Folk-Lore 20(77), 132-142. Quot. pp. 139-140.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA27710">Aleut</name>
+          <date notBefore="1824" notAfter="1840" type="recorded">Recorded sometime between 1824 and 1840.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>On the southern side of Unalaska Island, opposite the present village of Chernovsky, there was once a village named Igagik. In that village lived a certain well known Aleut who had only two children, a son and a daughter. The son, when full grown, was a quick and bold hunter; and the daughter, who was just reaching womanhood, was a model in her way.</p>
+      <p>The parents and all other relatives could not rejoice sufficiently on looking on the young people, and considered themselves very fortunate; but a dreadful calamity, never heard of before nor since, befell them, and of a sudden destroyed their happiness.</p>
+      <p>When the girl reached puberty she [according to the primitive custom of the Aleuts] was placed in confinement in a small barrabara [native home], and no one besides her servant was allowed to go near her. Her brother, about this time, used to go out nearly every night bird hunting.</p>
+      <p>While yet in seclusion, and at night when the fire was already out, a certain young man commenced to visit the girl, and passionately made illicit proposals; she, fearing to disgrace her relations, would by no means consent. Finally, not being able to obtain his end by fair means, the young man obtained it by force. The girl, dishonored, determined to revenge herself, and she did it in a most cruel and degrading way. When leaving the barrabara [through a hole in the roof] the girl cut the sinews of both his legs right under the knees, and the unhappy youth, moaning, crawled away from there.</p>
+      <p>The following morning the girl's parents sent to tell her that her beloved brother, while out hunting on the preceding night, fell on sharp rocks, cutting the sinews of his legs, and died immediately. This terrible news threw the girl for a short time into some kind of a stupor. She then ordered the servant to dress her in her very best clothes, i.e. to put on her the necklace, the bracelets, the earrings, the nose ornaments [made of wood], and to paint her cheeks; then she herself put on her very best parka [trimmed with fur seal and bills of small ducks, etc., and which is sewed like a long shirt without an opening in front] and tore it in front from top to bottom. Dressed in this fashion, she went, followed by her servant, to her father's house, where her dead brother lay.</p>
+      <p>Her brother was really dead, and lay on the floor in the front part of the barrabara, his parents and friends around him weeping and lamenting. Instead of mourning, she began to sing a song in a very <pb n="140"/>joyful strain, "You brother, brother of mine, come get up, get up and look on that on whose account you have deprived yourself of sleep!"</p>
+      <p>While singing this song she approached the corpse, shaking the folds of her torn parka and uncovering herself. When she had approached her brother in this manner his toes began to move; as she repeated her song and dance a second time the color came into his face; and at the end of the third performance he jumped up and tried to embrace her. She escaped him and ran outside, he after her, and after him his astonished parents and friends. The girl ran in such a way that her reanimated brother could not reach her, neither could his pursuers come up with him. At last, driven to the cliffy beach, and seeing no other way of escape, they threw themselves into the sea.</p>
+      <p>Their pursuers waited a long time, not taking their eyes off the spot, and, as it were, waiting for them to emerge. After a long time they appeared on the surface and were even alive; not as human beings, however, but as otters, and slowly swam from the shore, one going east, the other west. The broken-hearted parents followed their course with their eyes, crying and saying,</p>
+      <p>"You children, our children, was it for this that we nursed and reared you, that you should shame us with your guilt, and that you should become wild beasts! We were hoping that you would support and bring peace and happiness to us," etc.</p>
+      <p>In this manner did the parents mourn for their children all their lives; and from that time appeared in the sea sea-otters.</p>
+    </body>
+  </text>
+</TEI>

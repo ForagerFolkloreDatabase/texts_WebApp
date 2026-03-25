@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Chief's Son and the Ghoul</title>
+        <editor role="collector">John W. Chapman</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NN01760862</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NN01760862</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Chapman, John W. (1914): Tenʼa Texts and Tales from Anvik, Alaska. With Vocabulary by Pliny Earle Goddard. Leyden: Brill &amp; New York: Stechert (Publications of the American Ethnological Society, 6). Quot. pp. 86-92.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA28601">Deg Xitʼan</name>
+          <date notBefore="1887" notAfter="1911" type="recorded">Recorded sometime between 1887 and 1911.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>Once there was a large village where a chief lived who had two sons who were old enough to go out hunting. One evening, when they went to bed, they agreed to go out hunting together the next day; so in the middle of the night they got up and dressed themselves, and got their snowshoes and started out.</p>
+      <p><pb n="87"/>They walked all that day; and when evening came, they made their camp, and the next morning they started again. Twice they camped in this way, and on the third evening they made their camp as usual; but the next morning when the older brother got up, he found that his younger brother had been eaten by mice and other small animals during the night. Then he wailed for him long and loud; and afterward he left him lying in the camp, and started on again. He walked all day, and in the evening he made his camp; and after he had built the fire, as he sat weeping for his brother, he heard a noise in the direction from which he had come; but he did not look up. Then some one said, "What is the matter? What are you crying for?" and he looked up, and saw his brother standing by the fire and smiling at him. "I thought that you were dead," said he, "and that you had been eaten up by the mice." - "You are mistaken," said his brother, "you only failed to tell me that you were going, that was all." So they had their supper and went to bed; and in the morning the younger of them got up, and found that the elder had been eaten up by the mice, too. And after he had cried for him, he left him lying in the camp, and went on.</p>
+      <p>At the end of the day's walk he made a camp; and no sooner had he made a fire and sat down, than he heard a noise. So he looked up, and saw that his brother was coming into the camp; and his brother said, "Why is it that you did not wait for me this morning?" - "Well," said the younger one, "I did not wake you up, because you had been eaten up by mice and some other little animals."</p>
+      <p>Now, the next morning the older brother got up and found that his brother had been eaten again; but this time he did not cry, because he knew that he would come <pb n="88"/>to life again. So he left him there and went on his way, and did not stop to rest all day until he found a place to make his camp.</p>
+      <p>When he had found a good place, he camped and made his fire; and as he sat by the fire, he heard a noise again, as he had the day before, and looked up and saw that it was his brother. "Why is it," said he, "that you did not let me know when you were starting this morning?" - "Well," said his brother, "I could not let you know when you had died and were eaten by mice."</p>
+      <p>The younger brother was eaten three times, and the older brother was eaten four times, and after that it did not happen to them again.</p>
+      <p>So they travelled along without any more trouble until they came to the ocean. They went right straight out upon the ocean; and finally they stopped and said to each other, "We cannot travel together this way all the time." So the older said to the younger, "You shall go south, and I will go north. You must not look back when you have left me." So they left each other, and neither turned to look back.</p>
+      <p>As the older brother was going on his way, he saw something on the ice in the distance. It was too far away to tell what it was; but as he came nearer, he saw that it was a great sled loaded down with dead men, and that there was a little old man behind it. The sled ran as fast as though nine dogs were pulling it; and the old man had a hatchet behind his head, which he pulled out, and with it he attacked the young man and tried to kill him. But the young man was too much for him, and he was unable to kill him. By and by the young man took away his hatchet; and the old man said, "My grandson, I did not intend to kill you, I was just fooling. Sit on the sled among the dead people." The young <pb n="89"/>man said, "Are you sure that you will not kill me?" - "I am sure," said he. So the young man got into the sled; and the old man pushed it, big as it was; and it ran along as easily as could be. In the evening they came to a kashime. There were no other houses, except a brush-house, standing beside the kashime. The old man took all the dead men into the brush-house, and the young man went into the kashime and fixed himself up nicely, as the old man had told him to do. Then the old man gave the younger one some king-salmon and some ice-cream, and everything that he called for.</p>
+      <p>After the young man had gone to bed, the old man went out and built a fire in the brush-house, and staid there all night; but he had told the young man not to go out during the night. In the morning the young man got up and found the old man sleeping, and he looked into the brush-house and saw nothing. The dead men had all been eaten up. He went back to the kashime; and by and by the old man woke up and came in and gave him food again, the same as he had done the day before.</p>
+      <p>Then the old man took the big sled again and went into the woods, and after a while he brought it back loaded down with spruce hens. He put these also into the brush-house. During the night he ate everything up again. The next day he remained at home all day; and the following morning he said, "My grandson, to-day there will be strangers here. I am glad of this." In the afternoon the young man went out and saw some strangers coming, all in line, with axes and spears in their hands, intending to kill the old man. The young man told the other that they were close to the place; and the old man dressed himself and put his girdle around him, and took his axe and went out to meet them. But he told the <pb n="90"/>young man to stay in the house, and not to go out until the fight was over. Then they began to fight, and there was a great noise outside for a long time; and then the young man went out, and found that the strangers had all been killed by the old man. Not one was left alive. Then he helped the old man to put them into the brush-house; and there were so many of them, that it was late in the evening before they finished.</p>
+      <p>The old man staid in the brush-house again all night, among the dead people, and the next day he brought in another sled-ful of grouse. The day after that he staid in bed again all day, sleeping; and the following day he said, "My grandson, there will be more strangers here to-day, and you must fight them this time. I think you will be all right." In the afternoon more people came than the last time; and when they drew near, the young man went out to meet them and killed them all, as the old man had done. He filled the big sled with them, and brought it to the brush-house and put them into it; and the old man passed the night cooking them.</p>
+      <p>The next day the old man told the younger one to take the big sled and get some grouse. "Where can I find them?" said he. The old man said, "You will find them all in one tree. Take my arrow and shoot to one side of the tree, and they will all fall down." The young man went away; but he had not gone far, when he saw a big tree filled with grouse. Every branch was loaded down. There was one grouse larger than all the rest, sitting on the lowest branch. He had great eyes, and was looking straight at him. The young man tried to shoot him in the eye; but the arrow glanced upward, and did not strike him. But the other grouse all fell down dead, while the big one still sat looking at him.</p>
+      <p>He brought the grouse back to the brush-house and <pb n="91"/>put them into it; and then he went into the kashime and found the old man there, but something was the matter with his eyes. "Grandfather," said he, "what is the matter?" but the old man did not answer. Then the young man remembered that he had shot close to the big grouse, and he told him about it; and the old man opened his eyes wide, and was sick no more.</p>
+      <p>The next morning the old man said, "We had better go to see your grandmother." The young man agreed; and the old man brought out the big sled, and fitted up a little place at the back with deer-skins, and had the young man get into it; and he put in a man's rib with the meat on it, and lashed it in so that it could not fall off. Then he hitched a great harness made of brown-bear skin to the sled, told the young man not to peep, but to keep himself under the skins, and started off.</p>
+      <p>In the evening they came to a house. Then the old man told the younger one to get out of the sled and tell his grandmother to come out and see the dead people; and the young man saw that the sled was full of dead bodies, but he did not know where they came from, for he had seen only one rib put into the sled. So he went into the house, and all at once he heard the old woman saying, "Here comes some fresh deer-meat!" but the old man said, "It is your grandson, you must not kill him." They unloaded the sled and went into the house; and the old people made ice-cream for the young man, and they began to eat the dead people, but they would not allow the young man to eat with them.</p>
+      <p>The next morning the young man said that he would like to go to see his father and mother; and they made two bowls of ice-cream for him, and put them into the sled, and made a little place for him in the sled, and the young man got in, and that evening he was at home.</p>
+      <p><pb n="92"/>When he came near to the house, he saw some women crying, as though some one were dead. He left the sled in the woods; and when he tried to get into the house, he could not [for want of strength], so he fell head-first over the porch and fainted. When he came to himself, he found himself in bed, with his father and mother on either side of him. He opened his eyes slowly, as though he were at the point of death, and said, "Mother!" - "My son," said his mother, "is that surely you? You are out of your mind [Ni yeʼgĕ tûxaiûɗûʼt, qwûtaʼ]." - "No," said he, "I am not crazy, I am all right, but where is my brother?" His father said, "My son, your brother has been dead for a long time." Then he got better every day, until he was well, and they lived there together.</p>
+    </body>
+  </text>
+</TEI>

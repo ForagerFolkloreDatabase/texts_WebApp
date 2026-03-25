@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Old Woman and the Wild Beasts</title>
+        <editor role="collector">Waldemar Bogoras</editor>
+        <editor role="narrator">Talʼiʼmak</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NE00634290</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NE00634290</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Bogoras, Waldemar (1913): The Eskimo of Siberia (Memoirs of the American Museum of Natural History, 12,III; Publications of the Jesup North Pacific Expedition, 8,III). Quot. pp. 429-430.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CEE27701">Ungazikmit</name>
+          <date when="1901" type="recorded">Recorded in 1901.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>An old woman was scraping a wolf-skin. A man came to her and asked her, "What kind of skin are you scraping?" - "An ermine-skin." - "That is not true." He ran away into the open. Then he came again and asked, "What kind of skin are you scraping?" - "A fox-skin." - "Ah, that is not true!"</p>
+      <p>She named all kinds of skins. Then she grew angry, and shouted, "A wolf-skin! I am scraping a wolf-skin! This is a wolf-skin!" - "Aha!" He ran away, and did not come any more. He was a Wolf-Man. The next day all kinds of wild beasts assembled, - wolves and bears, mice and foxes, and wolverenes. From all sides they surrounded the old woman's house, and were hostile. "Oh, did you come to see me?" said the old woman. "That is right. <pb n="430"/>I am boiling berries to make a pudding. Now come in! We will taste it. However, do take care lest anybody come with a knife or a spear!"</p>
+      <p>She deceived them, and put on the fire a kettle with water. Then she covered the vent-hole. She threw rotten-wood on the fire, and the house became full of smoke. They could not see anything. The Bear was rubbing his eyes. "Oh, the smoke!" - "That's nothing," said the old woman, and nudged him with her elbow. "Now let us taste of this pudding!"</p>
+      <p>The smoke increased. The beasts wanted to go out, but could not find the exit. The old woman stood watching by the exit, knife in hand. She killed the beasts that were blinded by the smoke. She stabbed the wolf, and cut the throat of the bear; she pierced the fox; she trampled on the mouse. Then she took all the skins, which were of much value.</p>
+    </body>
+  </text>
+</TEI>

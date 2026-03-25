@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Crow</title>
+        <editor role="collector">Franz Boas</editor>
+        <editor role="narrator">Charles Cultee</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NN00941230</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NN00941230</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Boas, Franz (1894): Chinook Texts. Washington: Government Printing Office (Bulletin of the Bureau of American Ethnology, 20). Quot. pp. 123-126.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA29302">Lower Chinook</name>
+          <date notBefore="1890" notAfter="1891" type="recorded">Recorded sometime between 1890 and 1891.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>There were the Crow and her five children. At the end of her house lived her cousin the Raven. They were hungry, and one day she went to look for food on the beach. She sang. She found a poggy, kicked it and went on. She repeated her song. Soon she found a flounder. Again she sang her song. Then she found a seal; she kicked it and went on. Again she sang her song. Then she found a sturgeon. She went around it twice, then she left it and kicked it. She went on and repeated her song. Then she found a sea-lion; three times she went around it. She kicked it and left it. She repeated her song. She went a long distance and found a whale. Four times she went around it, then she kicked it and kicked it again. She broke her leg. "Oh, my leg," she cried. She went up to the woods, pulled out some grass and tied it on to her leg. She went on and after a little while she found a salmon. "Oh! my salmon," she said. She was very glad and danced. She put it into her mat and went home. When she had almost arrived at her house she saw a woman When she came nearer she recognized her. "Behold! the eagle," she said. The latter said: "What do you carry there?" "On," she replied, "A salmon." "I wish to buy it; I will give you my coat." "Plenty of coats are lying about in my house." "I will give you my blanket." "What shall I do with your blanket? I have many blankets." "I will give you my hat." "What shall I do with your hat? May be, it is full of lice." "I <pb n="126"/>will give you my hands." "What shall I do with your hands? "I have hands as well." "Pull out that bunch of grass." The eagle went and pulled out the bunch of grass, which gave way at once. Then she said, "Now you try to pull it out." The Crow went and tried to pull it out. It did not give way. "I will give you my eyes; you will be able to see a long distance." "What shall I do with your eyes? I have eyes as well." "The eagle said: "Louse me." She did so and found a plate full of lice. [After she had finished the eagle said:] "Now I will louse you." She loused the Crow, who became sleepy and finally fell asleep, Then the eagle took the salmon and put a bunch of grass in her mat. She carried it to the top of a spruce tree. When the Crow awoke she saw the eagle sitting on top [of the spruce tree] eating her salmon. Then [she was so much grieved that she fell down at once. She asked the eagle]: "Please give me the gills." The Crow lay on her back and the eagle threw down the gills and the roe. The Crow went home angry. She arrived there. Her children were in the house. She came to her children. She roasted the salmon roe. [She asked] her eldest daughter: "Go and get some water." [She replied:] "The next younger one is there." She asked another one of her daughters: "Go and get some water." [She replied:] "The next younger one is there." She asked four of them. Now her youngest daughter brought her some water. When the salmon roe was nearly done she washed her face. [She asked her daughters:] "Is my face white now?" "No, it is still black." She washed it again and asked her children once more: "Is my face white?" "No, it is still black." Then the raven jumped up and took what she was roasting. He took it away and ate it all. Then the Crow cried again and the raven lay down. He was ashamed of himself. In the evening he fell sick and sang his conjurer's song: "O, my brass pin hit my eye and it got blind, qoāqoaxqoäʼ, qoāqoaxqoäʼ, qoāqoaxqoäʼ!"</p>
+      <p>After a while they went and asked the crabs and their young ones to come. The raven heated stones and when they were hot he shut the door. Then a crab thought: "He is cooking for us." But they three, all of them on the stones, old and young. They were steamed. When they were done he said to the Crow and her children: "Come eat!" Now she was glad, and she ate, together with her children.</p>
+    </body>
+  </text>
+</TEI>

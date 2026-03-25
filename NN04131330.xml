@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Chief Agitaligak</title>
+        <editor role="collector">Innokentij Veniaminov</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NN04131330</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NN04131330</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Golder, Frank Alfred (1907): The Songs and Stories of the Aleuts, with Translations from Veniaminov. In: The Journal of American Folk-Lore 20(77), 132-142. Quot. pp. 133-137.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA27710">Aleut</name>
+          <date notBefore="1824" notAfter="1840" type="recorded">Recorded sometime between 1824 and 1840.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>One of the mightiest and best known of the Aleutian ancestors, by the name of Agitaligak, chief in the village Adus, situated on Unmak Island, tired of the ordinary affairs in his life, which he could carry on near his place and among his people, decided to crown himself and his people with glory by doing some memorable and glorious deed on foreign shores.</p>
+      <p>Having before him this high aim, he did not disclose his plans until winter, when he asked his hunters to join in the enterprise; and, as he was famous and mighty, a great number of warriors gathered about him. At a favorable time, taking their wives and children, they started on their journey towards the east in bidarras [large skin boats]. While passing by Unalaska Island, a number of others joined in with them, also far-off relatives of the leader. Towards the end, Chief Agitaligak had the pleasure of seeing himself the leader and head of a large army of warriors and a great fleet, with which he proceeded from Unalaska, keeping along the eastern coast of the Alaskan Peninsula.</p>
+      <p>Before reaching the island of Kadiak, Agitaligak discovered two large bays, called in his language Kigágik Madgík, and Túgin Ikúchtak, which bays the chief thought favorably situated for villages, and therefore decided to remain there permanently; and, dividing his army into two parts, he designated a bay for each. The newcomers settled there, built two large villages [the westerly one being the home of Agitaligak], and, finding sufficient means for their maintenance, lived in peace and began to increase. Their occupation consisted mainly in hunting sea and land animals. The two villages had a compact between  themselves, the violation of which was punishable by death, that, under no circumstances, except as guests, should the people of one village go to the other. Three years they lived in this manner, never going very far from their homes, and never being attacked nor meeting any unpleasantness from outsiders.</p>
+      <p>After three years, it happened that the settlers of the eastern village <pb n="134"/>sent two bidarras, with the full number of paddlers, to gather wood within the boundary of the western village [wood could have been got elsewhere], which was the special property of their chief, where he had gathered much wood. These, by coming here, broke the compact and oath with their neighbors [which forbade going on each other's side], but not only that, they even took the ready-cut wood and cut it to fit their boats; and only because darkness was approaching they decided to remain all night. Not expecting an attack from strangers, nor from their neighbors, who were their relatives, they took no precaution for the night.</p>
+      <p>Agitaligak, somehow finding out that strangers were in his possessions, sent messengers to learn what they were doing; they came back and reported that the wood, which, according to his orders, had been gathered and prepared, was all cut up and ready to be carried away in strange bidarras. He sent immediately a part of his warriors and ordered them to punish with death the breakers of the oath and thieves. They obeyed his orders, and left not a single man alive.</p>
+      <p>Chief Agitaligak had a son, Taiyaguch Kayulinach, who was already married, and [according to a primitive Aleutian custom] to a girl from the neighboring village; and as the girl had to stay until a certain time after marriage at the home of her father, and the time to move over to her husband's home had not yet arrived, Kayulinach could, and when he felt like it did, visit his young wife, and often spent several days with her.</p>
+      <p>Soon after the above-mentioned happening in the woods, Kayulinach asked his father for permission to go, as formerly, and visit his wife, who was about to make him a father [this event would strengthen the marriage bond and give him the right to take her home]. His father, knowing that his action towards his neighbors could not remain unrevenged, would not consent for a long time to his going, fearing that their revenge would be spent on him, his only heir. Finally, unable to withstand the pleadings of his beloved son, Agitaligak let him go, but on the condition that he should return, without fail, within ten days. Should he not return to him within that time, Agitaligak would consider him as dead, killed to avenge his deed.</p>
+      <p>Kayulinach alone departed immediately. On coming to the village where his wife lived he was met, not as before by all or at least a great part of the village, but by his wife's three brothers, who informed him that his father's doings were well known to the people, who were already planning how and by what means to repay him; and they advised him that, if either to-day or to-morrow he should be called to a public meeting, he should refuse to go; otherwise he could not avoid being killed. Kayulinach did not altogether appreciate their words of warning and advice; his mind was elsewhere, with his beloved wife who had just given <pb n="135"/>birth to a son [his heir], to whom he hurried. She also told him of the present state of feeling in the village, and begged him not to go; he, however, neglected her advice, thinking that no one would dare to harm him, the son of the mightiest and most renowned chief; and also because he was related to nearly every one in the village through his mother and his wife; but it all ended differently from what he had expected.</p>
+      <p>The day after Kayulinach came to the village he was invited, as anticipated, to the council, which was held in the open air outside of the village. He, receiving such an invitation, dressed himself without delay in his best parka and hat, etc., and, turning aside from the tearful pleadings of his wife, went where he was called. Coming out of the house into the open air, he stopped, and, turning his eyes in all directions, said, "This world will never darken, and it will never end; this wind will never altogether cease blowing and affect fiercely man and beast; [then looking on, the hills and mountains] and also the high beautiful earth will never change; but to all people and all other living creatures will come an end, and all will die; and I too will some day die, and why should I now fear a glorious death!"</p>
+      <p>Saying this, he went directly to the meeting place, and on reaching there walked right into the midst of them, and sat down in the centre. He was silent for a while, and seeing that no attempt was being made to question him, nor to greet him, he said to them, "Here, I have come to you; why did you call me?"</p>
+      <p>"We knew," they said, "that on account of your wife you would come to us; we expected and invited you here for no other purpose than to find out from you about the two bidarras which went from here to your side; have you not heard concerning them? did not one of your people happen to see where they went? If they are yet alive, they should have returned long ago; they had no danger to expect from any one on that side; for it is peopled by you, our relatives. Therefore, tell us the truth, everything that you know concerning them."</p>
+      <p>"Yes," he replied, "I saw your bidarras with the men, and I know what became of them; but you will be dishonored if you revenge so many warriors on me, a poor boy."</p>
+      <p>"We neither intend to revenge them on you, nor to harm you; tell us right out whether you saw them killed; tell us the truth." He answered them as before. Then all present became angry and ferocious; and one of them, who was formerly a slave of Kayulinach's father, said, "What is the use of talking with him, and sparing him in your sorrow? See, he is only making fun of us; we ought to do something to him."</p>
+      <p>When the slave had spoken, one of Kayulinach's uncles said to the council, "Do with him what you like." They all agreed then that he ought to be killed. Every one of the warriors wished for the privilege <pb n="136"/>of executing the sentence, singly and without aid; because Kayulinach [as his name signifies] was a very powerful man, and to kill such a hero was a glorious deed. But they who desired that privilege paid dearly for it. The first rash man did not even come near Kayulinach; for he seized him, lifted him up in the air, twisted his head off, and cast him away. Seven others of his enemies and opponents, each stronger than the former one, shared the same fate. The Aleuts, seeing that if they permitted him to meet them singly he would twist off the head of every one of them, attacked him in a body with their spears; and the slave who first suggested that Kayulinach be killed was the first to thrust a spear through his heart, killing him.</p>
+      <p>Then the nearest relatives of the dead, i.e. his uncles and cousins, with weeping, took his corpse, and making a rich cradle [a skin-covered frame on which the dead were suspended], trimmed it with various trimmings, put him into it, and hung it under a bidarra. Kayulinach's wife wept inconsolably for him.</p>
+      <p>When the ten days within which Kayulinach had promised to return had passed, and he did not appear, his father immediately went in search of him to the village where he had gone. He arrived there in the night, and went to the house of his daughter-in-law, who in the darkness of the night sat and wept bitterly. Chief Agitaligak knew then that the weeping woman was his son's wife, and, going up to her, began in a low voice to question her, "Is your husband, Taiyaguch Kayulinach, dead?"</p>
+      <p>She, hearing such a question, and from a stranger, replied, "Did you come to laugh at me, and to add grief to my affliction; did you not see what happened to my husband to-day; were you not then with them?"</p>
+      <p>"Be quiet, speak low; I am the father of your husband; I came to inquire whether he is yet alive; come show me where the body of my son is."</p>
+      <p>The woman led him there where the body of her husband hung; and they both cried there a long time. Finally Agitaligak said to her, "Tell no one that I have been here; I will soon come again and avenge the death of my son with the blood of my relatives."</p>
+      <p>Saying this, he directly departed. Arriving home the following morning, he called his nephew [his sister's son] and all his other people, and sat him [nephew] in front of himself face to face, so near, that when he [Agitaligak] began to speak his saliva flew into the other's face; and in a very revengeful and savage voice began speaking to him, "Algichtayach! [the name of the nephew] you are a hunter, eager for war and thirsty for human blood. I have restrained you until now the present time; but now I give you full liberty; revenge the death of your cousin. Your brother and my son was killed in the village of his relatives; prepare yourself to wage war against our own people." When he had <pb n="137"/>finished, he gave orders to arm and be ready so soon as possible to start on the expedition.</p>
+      <p>His orders were obeyed, and the frenzied father advanced with his army without delay; and coming to the village at night, fell on his enemies and relatives, who were not expecting him, attacked them in their barrabaras, and from this large village not a soul was left alive except his daughter-in-law and grandson, whom he took away with him, also the corpse of his son, and returned home.</p>
+      <p>Arriving home, he made a memorial feast in memory of his son; i.e. he ordered to place before the people all the eatables he had, and all who lived in the village came and ate all they wanted; and the father wept for his son. This memorial feast continued three days, then the chief gave orders that the body should be hung in his house in the same cradle in which he had lain at first; and he requested all the people that from this time forth they should neither beat the drum nor rejoice, in deference of his inconsolable grief. Neither time, nor hunting, nor tears, nor any diversion could lessen or lighten his bitter sorrow. Thinking he would find solace in killing his slaves, he ordered a big fire to be made, and when it was flaming he commenced to throw them in. But this expedient brought him no relief.</p>
+      <p>At last he decided to depart from his village, and with it leave his cherished aims and plans, i.e. to gain glory on foreign shores, and return to his native land; and the following summer he gathered all his surviving relatives, who were under him, and went back over the same course and to the same place from whence he started on his famous expedition, leaving behind all his valuables, houses, etc. When he came home, he wept and grieved even more than before, both on account of his affliction and failure.</p>
+      <p>So, then, instead of achieving a memorable and famous deed and glorifying himself and his people, he only weakened himself, nearly all of his people being dead; and in place of honor and joy, he brought shame, sadness, grief, and tears, which did not leave him until his very end.</p>
+    </body>
+  </text>
+</TEI>

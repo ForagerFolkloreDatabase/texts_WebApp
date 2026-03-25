@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Fighting Fish</title>
+        <editor role="collector">Alfred Métraux</editor>
+        <editor role="narrator">Pedro</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NS08900693</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NS08900693</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Métraux, Alfred (1939): Myths and Tales of the Matako Indians (The Gran Chaco, Argentinia). In: Ethnological Studies/Etnologiska Studier 9, 1-127. Quot. pp. 69-70.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CSA39401">Wichí</name>
+          <date when="1933" type="recorded">Recorded in 1933.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>All the fish were angry with set, a little fish which swims very fast. The waxnoʟe fish lay in ambush at the spot where the river falls into the lagoon and opened wide his mouth. He expected the set to go into his mouth but the set, who is a courageous fish, managed to dodge him and the river water filled the stomach of the waxnoʟe, which is the reason for this fish having a swollen stomach.</p>
+      <p>The surubi (aláx) decided to attack the wahát (sabalo). The surubi warriors were more than two hundred strong and they were mounted on horses. They wore leather coats while they lay in ambush awaiting the sabalo who were coming down the river. The sabalo were not afraid because they were excellent swimmers. In fact the sabalo swam by so quickly that the surubi could not catch them and <pb n="70"/>furthermore the sabalo struck the surubi on their heads and made them one-eyed.</p>
+      <p>The katukwetax (yellow fish) and the asaḳ fish, enraged by the misfortune of their friends, the surubi fish, decided to avenge them. Although the atsa had horses they could not kill the sabalo, who jumped from one side of the river to the other. Set and sip also tried to destroy the sabalo but even with their weapons, guns, swords, revolvers, they were as unsuccessful as the others.</p>
+      <p>The yiwís-fish (Spanish vieja) is the doctor of all the fish. If a fish is wounded yiwís sucks its wounds and sings like a medicine-man. In this way he manages to get the arrow point out of the wounded fish and the fish recovers. He cures all the fish just as the Matako medicine-men cure people.</p>
+      <p>One day some men heard a loud noise, like the trampling of a herd. One man went to investigate and he saw a score of donkeys loaded with ashes which were being taken to the yiwís. Ashes are the favorite food of this fish.</p>
+    </body>
+  </text>
+</TEI>

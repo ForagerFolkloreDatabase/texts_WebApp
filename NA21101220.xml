@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Hyena's Revenge</title>
+        <editor role="collector">Wilhelm Heinrich Immanuel Bleek</editor>
+        <editor role="narrator">ǁKabbo ('dreams')</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NA21101220</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NA21101220</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Bleek, Wilhelm H. I./Lloyd, Lucy C. (1911): Specimens of Bushman Folklore. London: Allen. Quot. pp. 122-125.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CAF00211">ǀXam</name>
+          <date notBefore="1871" notAfter="1873" type="recorded">Recorded sometime between 1871 and 1873.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>The Hyena was the one who went to the Lion's house, then, he deceived the Lion; while he felt that the Lion had acted grudgingly towards him about the quagga's flesh; therefore, the Lion came to the Hyena's house, when the Hyena was boiling there in the Hyena's pot; the Hyena boiled ostrich flesh in it.</p>
+      <p>Therefore, the Hyena gave soup to the Lion; therefore, the Lion took hold of the pot, while the pot was hot; the Hyena also grasped the pot with his hands; the Hyena said: "O Lion! Allow me to pour soup into the inside of thy mouth." The Hyena poured soup into the Lion's mouth; then, he put the mouth of the pot over the Lion's head, while the pot was hot; the soup was burning the Lion's eyes; the soup also burned the inside of his mouth. Then, he swallowed hot soup with his throat, he swallowed, causing himself to die with hot soup he died, while his head was inside the pot.</p>
+      <p>The Hyena took up the Hyena's stick, the Hyena was beating him with the stick, while his head was inside the pot; the Hyena was beating him; the Hyena struck, cleaving the pot asunder; while the Hyena felt that the Hyena had deceived him; therefore, he came to the Hyena.</p>
+      <p>The Hyena killed him, with hot soup; while he felt that the pot had stood upon the fire; he <pb n="125"/>took the pot off from the fire, while he felt that he intended to burn the Lion to death, with the soup's heat; while he felt that the Lion had been niggardly towards him about the quagga's flesh; therefore, he deceived him with the ostrich flesh; while he felt that he intended to put the Lion's head into the pot; therefore, he deceived him; while he felt that he had married a female Hyena, he also is a male Hyena; therefore, be is a "Decayed Arm",<note>This expression is used to denote a person who acts ungenerously regarding food.</note> on account of it.</p>
+      <p>The Lion also marries a Lioness, as the Lion is a male Lion. The Hyena also marries a female Hyena, as the Hyena is a male Hyena. The leopard also marries a leopardess, as the leopard is a male leopard. The hunting leopard<note>Felis jubata.</note> marries a hunting leopardess, as the hunting leopard is a male hunting leopard.</p>
+    </body>
+  </text>
+</TEI>

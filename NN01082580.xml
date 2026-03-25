@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Karnapik, the Cannibal</title>
+        <editor role="collector">James S. Mutch</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NN01082580</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NN01082580</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Boas, Franz (1901): The Eskimo of Baffin Land and Hudson Bay. From notes collected by George Comer, James S. Mutch, and E. J. Peck. New York: AMNH (Bulletin of the American Museum of Natural History, 15,I). Quot. pp. 258-259.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA27903">Baffin Island Inuit</name>
+          <date notBefore="1883" notAfter="1899" type="recorded">Recorded sometime between 1883 and 1899.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>One winter the people at Anarnitung were starving. Karnapik's daughter was dying, and he had given up all hopes of her recovery. Then he asked his wife to give him a piece of rope to tie her up in a blanket. He intended to take her out of the house through the porch. His wife, however, asked him to wait and keep her a little longer. After some time the daughter died. Her father was so hungry that he wished to eat of her, and, although he resisted the temptation for some time, both father and mother finally gave way and ate of her flesh. Thus they lived until they had eaten her entirely.</p>
+      <p>Then Karnapik took his daughter's thigh-bone and used it as a speaking-trumpet to call the people. He stepped in front of the door of his house, and shouted through the bone, "Kill some one!" Then the people killed one of their number, and they all ate of his flesh. When they had eaten it all, he again stepped in front of his house and shouted through his trumpet, "Kill another one!" This time they killed more than one person, and they all ate of the flesh. When they had finished, and became hungry again, Karnapik again used his dreadful trumpet, and shouted, "Kill another one!"</p>
+      <p>Now they had killed quite a number, and only a few people were left. They boiled the human flesh in Karnapik's house, and when it was done he invited the survivors to come and partake of it. When all the flesh was gone and the people became hungry, Karnapik again blew his trumpet, and {259} shouted, "Kill another one!" Thus their number became less every day. Karnapik's wife boiled the flesh, and invited the people to come and partake of it. After a few meals it was all gone. Finally only two persons were left. When Karnapik shouted through his trumpet, "Kill another one!" one of these killed the other one, and Karnapik's wife boiled the flesh. When all of this flesh was gone, Karnapik stepped out of the house. This time he did not shout through his trumpet, but went and killed the last survivor, whom he and his wife ate.</p>
+      <p>About this time two strangers who were roaming about the country came to Karnapik's house. One of them looked in at the window, and saw Karnapik eating human flesh. And Karnapik saw him, and said, "We are no longer human beings. We have become supernatural beings." They told the strangers how they had killed all the people in the village, and how they had used the speaking-trumpet made of the thigh-bone of their dead girl. The visitors, after hearing what had happened, left at once. Karnapik and his wife staid behind, not daring to join human beings again, since they knew they had become supernatural beings. Both of them probably died through want.</p>
+    </body>
+  </text>
+</TEI>

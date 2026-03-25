@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Tales of Angakut (#6)</title>
+        <editor role="collector">James S. Mutch</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NN01082470</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NN01082470</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Boas, Franz (1901): The Eskimo of Baffin Land and Hudson Bay. From notes collected by George Comer, James S. Mutch, and E. J. Peck. New York: AMNH (Bulletin of the American Museum of Natural History, 15,I). Quot. pp. 247-248.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA27903">Baffin Island Inuit</name>
+          <date notBefore="1883" notAfter="1899" type="recorded">Recorded sometime between 1883 and 1899.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>{247} A great angakok and three other men with their wives left the sea one spring to go hunting caribou. When they left, every one was in good health; but they had not been away more than a few days, when one of the men became sick and died. In the fall, when the hunters returned, they found a grave. They knew at once that it was a new one, and that some one must have died. The angakok said to his companions, "Shall I restore him to life?" At once he began his incantations. He blew on the face of the dead man, who very soon began to breathe, and arose, although he had been dead for some time. He went along with the others, who were very much surprised to see the dead man return. They all praised the angakok, who was able to blow life into the dead. They said, "He is the only great angakok." The man who was restored to life lived to be very old.</p>
+      <p>One time in the winter a man wished to be made an angakok. He asked the great angakok to initiate him, to which the latter consented. He said, "You must die first. That is the best way of becoming an angakok." He died, and the people took him away and covered him with stones. They left him on the ground for three nights. The people spoke only in whispers. They were much afraid. After the third night the angakok told them to bring back the dead man. They found the body frozen hard; and when they tried to bring him in at the door, they could not do so, because one of his arms was bent. They had to cut off a part of the door to bring him in. Then the angakok made them lay the body down on the floor. Now he began to move around the body, speaking to it. He kept the body at his right hand side. After he had gone once around it, he blew into the collar of the jacket. He went around it once more, lifted the sleeve of the jacket, and blew into it. He went around again, and blew under the legs of the trousers. He walked around once more, and blew on one foot. Then he went around again, and blew on the sole of the other foot, next under the other leg of the trousers and under the other sleeve, and finally on the face. Then the body was {248} alive again, and the man arose. Now he had become an angakok.</p>
+      <p>This same great angakok was able to cure people by taking out the diseased parts of their body, and substituting the same parts from a rabbit.</p>
+    </body>
+  </text>
+</TEI>

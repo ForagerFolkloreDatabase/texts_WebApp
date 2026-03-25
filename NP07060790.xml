@@ -1,0 +1,114 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Youayah Mayamah, or Stone Frogs</title>
+        <editor role="collector">K. Langloh Parker</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NP07060790</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NP07060790</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Parker, K. Langloh (1898): More Australian Legendary Tales. Collected from Various Tribes. With an Introduction by Andrew Lang. With Illustrations by a Native Artist. London: Nutt &amp; Melbourne: Melville, Mullen &amp; Slade. Quot. pp. 79-83.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CIPD0270">Yuwaalaraay</name>
+          <date notBefore="1856" notAfter="1898" type="recorded">Recorded sometime between 1856 and 1898.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <standOff>
+    <list type="glossary">
+      <item xml:id="GIP0247.047">
+        <gloss>Dinewan</gloss>
+        <desc>emu.</desc>
+      </item>
+      <item xml:id="GIP4128.011">
+        <gloss>Birrahgnooloo</gloss>
+        <desc>woman's name (= face like a hatchet-handle)</desc>
+      </item>
+      <item xml:id="GIP4128.029">
+        <gloss>Byamee</gloss>
+        <desc>big man (Creator, Culture hero).</desc>
+      </item>
+      <item xml:id="GIP4128.037">
+        <gloss>Dardurr</gloss>
+        <desc>shelter made of bark.</desc>
+      </item>
+      <item xml:id="GIP4128.038">
+        <gloss>Dayoorl</gloss>
+        <desc>magical speaking stone.</desc>
+      </item>
+      <item xml:id="GIP4128.088">
+        <gloss>Kurreah</gloss>
+        <desc>alligator.</desc>
+      </item>
+    </list>
+  </standOff>
+  <text>
+    <body>
+      <p>A family of girls once so offended an old wirreenun that one day, when they were out hunting in the bush, he turned them all into Youayah, or frogs.</p>
+      <p>When days passed and they did not return, their mother and relations thought that they had been stolen by men of a strange tribe. Rain had come before there was any alarm about their absence, so all tracks were washed out, except the track of the Oodoolay, or round rain-making stone, which had been abroad, as it always was in muddy weather. This stone had the spirits of past rain-makers in it, and could move about, as its tracks proved. Also, when it was making itself a new camp before rain, it could be heard laughing with joy in anticipation of the mud to come. No one was ever seen to touch the Oodoolay, yet its changes of camp were frequent.</p>
+      <p>Though some days had passed since they were missed the mother of the girls still hoped to find them, thinking they might have seen the rain coming and built themselves a shelter in the bush, remaining there until it was over. <pb n="80"/>She went in the direction they had gone, and called aloud to them. There came an answering call. On she sped to whence it had seemed to come, and called again. Again came an answer from close beside her. She looked round, but saw no one. Again she called. There came an answer from a tussock of grass at her feet. Then she knew she had only heard the cry of Noorahgogo, the orange and blue beetle, which could always answer thus a Noongahburrah in the bush when one of that tribe was alone. She gave up hope of finding her daughters, and being weak and hungry she looked round for food.</p>
+      <p>Soon she saw some tracks of Youayah, or earth frogs, and finding where they were, she began to dig them out. Fine large Youayah they were, the largest she had ever seen.</p>
+      <p>"What a feed I shall have," she said aloud.</p>
+      <p>There came a startlingly melancholy cry from the frogs, who seemed to be gazing fixedly at her. But taking no notice she went on: "I think I shall eat them here. I am very hungry, and if I take them to the camp the others will want some."</p>
+      <p>She stooped to pick them up, but such a crying came as surely never frogs made before, and so piteously they looked at her that she began to feel there was something strange about these frogs, and she dropped the one she held in her hand.</p>
+      <p>"But I am stupid," she said, "to take notice of a frog's cry. I would be mad to leave such a good feed here." And again she stooped to pick them up.</p>
+      <p>Again came their croaking cries intensified. And the cries seemed to frame themselves into the words: "You <pb n="81"/>must not eat us. You are our mother. We are the girls you lost. The old wirreenun changed us into frogs because we but laughed at the mäh of his tribe, saying the back of it, the back of the emu, was humped as was his. You cannot eat us." And loud was the croaking, and so frightened was the woman that she turned and sped quickly through the bush back to the camp with the mournful cry still ringing in her ears, and a vision of the piteous eyes ever before her.</p>
+      <p>She went straight to the old wirreenun and said: "Did you change my girls into youayah, which are crying now even in the bush?"</p>
+      <p>"I did so," said he, quite proud the woman had seen proof of his power.</p>
+      <p>"Why did you so? Why should you leave me to grow old with no daughter to care for me?"</p>
+      <p>"Did you not choose their father rather than me? Why should I think of you now? Let their father change them again. Surely he is more powerful than I am, since you chose him before me? I am but a humped-back one, so your girls said, even as they said my mäh was, the <rs type="animal" ref="g:GIP0247.047">dinewan</rs>. Well you must know that to scoff at the mäh of a man is to make war with his tribe, yet I war not; I but turn your daughters into such as have voices which none heed; no more can they scoff at the back of a <rs type="animal" ref="g:GIP0247.047">dinewan</rs>. Go, woman, eat them. Youayah is food that is good." So he taunted the woman who once in her youth had scorned him.</p>
+      <p>"How should I, a mother, eat her young? What talk is that you make? But alas! surely another will find them and eat them. Only you can save them. Change them <pb n="82"/>again, I pray you, so that none can eat them. Never again shall they scoff at a <rs type="animal" ref="g:GIP0247.047">dinewan</rs>. Never again will I scorn you; I will come to your <rs ref="g:GIP4128.037">dardurr</rs> for ever."</p>
+      <p>"Why should I take you to my <rs ref="g:GIP4128.037">dardurr</rs> now you are old, when you came not young?" And he turned away, going on with the carving he was making on a boomerang with an opossum's tooth.</p>
+      <p>"Change, oh change them, I pray you, so that none can eat them. I will give you the dooree, or grunting <rs ref="g:GIP4128.038">dayoorl</rs>, of my father's father's fathers to be yours for ever. No one but its rightful owner can use it, for does it not grunt when a stranger touches it? This stone, which of old belonged to the wirreenuns of my father's tribe, I will give you, this stone which alone of all <rs ref="g:GIP4128.038">dayoorls</rs> has a voice."</p>
+      <p>"Bring me the dooree," said the wirreenun, "and I promise to change your girls so that they shall never be eaten."</p>
+      <p>The woman brought the magical stone of her forefathers, her greatest possession, which grunted as she laid it at the wirreenun's feet.</p>
+      <p>"Now go," said the wirreenun, "into the bush, there you will find your daughters, and find I have kept my promise. Even now they are so that surely no one could eat them."</p>
+      <p>Back on her tracks went the woman to where she had seen the Youayah. Hopefully she went expecting to see her daughters again. But when she reached the place there were the frogs still.</p>
+      <p>"Oh, my daughters, my daughters! Shall I never see you more as you once were?" And she wailed aloud as if mourning the dead. But no answer came from the Youayah. Nor did they look towards her.</p>
+      <p><pb n="83"/>Wailing, she stooped to pick one up.</p>
+      <p>"The wirreenun tricked me," she said; "surely indeed no one will ever eat them, for they are turned into stone."</p>
+      <p>And so it was. Some were of plain grey stone, and some with a stripe of green on them, just as the frogs had been marked. Her daughters would be stone frogs for ever, as were the frogs that <persName><rs ref="g:GIP4128.011">Birrahgnooloo</rs></persName> and Cunnumbeillee had dug, and left for cooking before they took that fatal plunge into the Spring Cowrigul, whence the <rs type="animal" ref="g:GIP4128.088">Kurreahs</rs> took them down the Narrin, and whither <persName><rs ref="g:GIP4128.029">Byamee</rs></persName> followed them after changing the food they had gathered into stones to mark the spot for ever. And there at the spring were the stone frogs still, as the mother knew, and now she saw their fellow in these the wirreenun had changed, these who had once been her girls but now were Youayah Mayamah.</p>
+    </body>
+  </text>
+</TEI>

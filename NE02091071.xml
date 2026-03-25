@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Shorincho</title>
+        <editor role="collector">Glafira Makarina Vasilevich</editor>
+        <editor role="narrator">Kima Shomircha</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NE02091071</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NE02091071</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0">CC BY-NC-SA</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Däbritz, Chris Lasse/Gusev, Valentin/Stoynova, Natalia (2024): INEL Evenki Corpus. Version 2.0. Publication date 2024-12-31. Archived at Universität Hamburg. https://hdl.handle.net/11022/0000-0007-FE38-D. In: The INEL corpora of indigenous Northern Eurasian languages. https://hdl.handle.net/11022/0000-0007-F45A-1. Quot. p. s.p..</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CEE15803">Evenki</name>
+          <date when="1930" type="recorded">Recorded in 1930.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>Shorincho made the spring feast in spring.  There were Evenks [from the clam] Ogdyro.  Enemies, mountaineers [= inhabitants of the right bank of the  Yenisei] came to the Sym, they began to drink water.  One of them heard the echo of Shorincho in the water, he said: "In the water there is an echo".   All began to listen, indeed there was an echo sounding in the water.  They noticed [that] the echo is upstream, they went upstream along the <note>[DCh]: The form "ÉlÉË-t-páº¡r" is unexpected and its glossing tentative. </note>river Sym.  They were going for eight days.  On the eighth day they wanted to kill the person, whom they were hearing.  They wanted to kill [him], they saw a white reindeer.  They killed the reindeer and ate it.  In the evening they heard Evenks [playing] Kunoli.   The Evenks were playing Evenks for the whole night.  When it was dawning they began to dry [the drums], Shorincho started shamanizing.   The Evenks started dancing.  At dawn enemies encircled Shorincho's yurt.  Shorincho  understood that they encircled [him], he spoke: "Whose tongue is speaking?  Shorincho's spirit will squash those who are <note>[DCh]: The glossing of "ÉgÉlgÉjÉgdÉdin" is very </note>encircling the yurt".  The enemies said: "He has spoken!"  They started shooting at Shorincho's yurt, <note>tentative.</note>they killed all dancing people.  Shorincho flew through the smoke hoke, he startled, he fell down as a sun.   Shorincho ran away, as a dog.  The enemies shot at the dog, the dog died.   Then Shorincho turned into a snake and ran away.  The enemies slew the snake with their bow tip.  They killed Shorincho, they  chopped his meat, they chopped it, Shorincho bounds himself again, they throw him apart, again he bounds himself.   They flayed him entirely, Shorincho bound himself again.  They didn't find his soul.  <note>[DCh]: </note>Shorinchos soul hid in the nameless [finger].  When they cut off the nameless [finger], Shorincho died. <note>The "nameless finger" is the ringfinger. </note> One man stayed back half-dead, where they had killed [Shorincho].  Three enemies entered the yurt.  That man almost threw his  knife [to them], but he changed his mind.  The enemies took the tambourine, they tore off the bladder with their knife.   Then they went in, they were many, they threw kumalans [= Evenki carpets] onto the dead ones and said: "Reward it with this!"   The man saw the one bathed in blood and said: "Why is he bathed in blood?"  One of them said: "He is already dead", he <note>[DCh]: Tentative glossing of </note>threw a kumalan [= Evenki carpet] for that the face is not visible.  Two other boys ran away. <note>"ÆtÉnná»¥kÉËká»¥nti".</note> They put on women's clothes.  The enemies said: "To which land their women shall go?"   The enemies went away from the fighting place, one enemy said: "I forgot my flint".   He returned to the fighting place, he entered the yurt.  A man sitting there startled.   The enemy recognized his relative.  They talked to each other, he promised to come in the next year.   Two boys swallowed small beads, when they came there, they began to hunger, they are hardly alive due to hunger.</p>
+    </body>
+  </text>
+</TEI>

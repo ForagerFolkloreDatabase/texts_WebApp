@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Squabble between the Macíw (a snake) and the Am (a fruit)</title>
+        <editor role="collector">Clemens Lambertus Voorhoeve</editor>
+        <editor role="narrator">Mífekpic</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NP10141863</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NP10141863</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0">CC BY-NC</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Voorhoeve, Clemens L. (1965): The Flamingo Bay Dialect of the Asmat Language. 's-Gravenhage: Nijhoff (Verhandelingen van het Koninklijk Instituut voor Taal-, Land- en Volkenkunde, 46). Quot. pp. 186-187.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CIP23701">Asmat</name>
+          <date when="1961" type="recorded">Recorded in 1961.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>A Macíw snake lay asleep after bathing. A [bunch of] ripening Am fruit hung above it. "Macíw, get out of the way, you! I want to fall down to become squashy," it said, but in vain. "Why do you never fall down when you're alone? Why do you always want to fall down when someone's lying here?" [the snake] said. "Well, since you are there," it said. And the whole bunch of Am fruit forthwith fell down from above and hit the [snake's] nose. "Oh, my nose! Oh, my nose!" it cried. "Mouse, run out of the undergrowth and sit down and eat up the Am fruit," it said. The mouse immediately started to run out, and it sat down to eat up the Am fruit. "Hey, fire, burn up this mouse," said [the fruit]. The fire came up to the mouse, frizzling it up. "Downpour fall down!" it said. A downpour fell down. That's all.</p>
+    </body>
+  </text>
+</TEI>

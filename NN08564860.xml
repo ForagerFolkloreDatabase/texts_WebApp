@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Last of the Thunderbirds</title>
+        <editor role="collector">Edward William Nelson</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NN08564860</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NN08564860</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Nelson, Edward W. (1899): The Eskimo about Bering Strait. In: Eighteenth Annual Report of the Bureau of American Ethnology. Washington: Government Printing Office, part I, 1-518. Quot. pp. 486-487.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA27736">Ikogmiut</name>
+          <date notBefore="1877" notAfter="1881" type="recorded">Recorded sometime between 1877 and 1881.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>Very long ago there were many giant eagles or thunderbirds living in the mountains, but they all disappeared except a single pair which made their home on the mountain top overlooking the Yukon river near Sabotnisky. The top of this mountain was round, and the eagles had hollowed out a great basin on the summit which they used for their nest, around the edges of which was a rocky rim from which they could look down upon the large village near the water's edge.</p>
+      <p>From their perch on this rocky wall these great birds would soar away on their broad wings, looking like a cloud in the sky, sometimes to seize a reindeer from some passing herd to bring back to their young; again they would circle out, with a noise like thunder from their shaking wings, and descend upon a fisherman in his canoe on the surface of the river, carrying man and canoe to the top of the mountain. There the man would be eaten by the young thunderbirds and the canoe would lie bleaching among the bones and other refuse scattered along the border of the nest.</p>
+      <p>Every fall the young birds would fly away into the northland, while the old ones would remain. Then came a time, after many hunters had <pb n="487"/>been carried away by the birds, that only the most daring would go upon the great river. One summer day a brave young hunter started out to look at his fish traps on the river, but before he went he told his wife to be careful and not leave the house for fear of the birds. After her husband had gone the young wife saw that the water tub was empty, so she took a bucket and went to the river for water. As she turned to go back, a roaring noise like thunder filled the air, and one of the birds darted down and seized her in its talons. The villagers cried out in sorrow and despair when they saw her carried to the mountain top.</p>
+      <p>When the hunter came home the people hastened to tell him of his wife's death, but he said nothing. Going to his empty house he took down his bow and a quiver full of war arrows, and after examining them carefully he started out toward the eagle mountain. Vainly did his friends try to stop him by telling him that the birds would surely destroy him. He would not listen to them, but hurried on. With firm steps at last he gained the rim of the great nest and looked in. The old birds were away, but the fierce young eagles met him with shrill cries and fiery, shining eves. The hunter's heart was full of anger, and he quickly bent his bow, loosing the war arrows one after another until the last one of the hateful birds lay dead in the nest.</p>
+      <p>With heart still burning for revenge, the hunter sheltered himselt by a great rock near the nest and waited for the parent birds. The old birds came. They saw their young lying dead and bloody in the nest, and uttered such cries of rage that the sound echoed from the farther side of the great river as they soared up into the air looking for the one who had killed their young. Very quickly they saw the brave hunter by the great stone, and the mother bird swooped down upon him, her wings sounding like a gale in the spruce forest. Quickly fitting an arrow to his string, as the eagle came down the hunter sent it deep into her throat. With a hoarse cry she turned and flew away to the north, far beyond the hills.</p>
+      <p>Then the father bird circled overhead and came roaring down upon the hunter, who, at the right moment, crouched close to the ground behind the stone and the eagle's sharp claws struck only the hard rock. As the bird arose, eager to swoop down again, the hunter sprang from his shelter and, with all his strength, drove two heavy war arrows deep under its great wing. Uttering a cry of rage and spreading abroad his wings, the thunderbird floated away like a cloud in the sky far into the northland and was never seen again.</p>
+      <p>Having taken blood vengeance, the hunter's heart felt lighter, and he went down into the nest where he found some fragments of his wife, which he carried to the water's edge and, building a fire, made food offerings and libations of water pleasing to the shade.<note>The truth of this tale is implicitly believed by the Eskimo of the lower Yukon. They point out the crater of an old volcano as the nest of the giant eagles, and say that the ribs of old canoes and curiously colored stones carried there by the birds may still be seen about the rim of the nest. This is one of the various legends of the giant eagles or thunderbirds that are familiar to the Eskimo of the Yukon and to those of Bering strait and Kotzebue sound.</note></p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Three Rich Men Puchi</title>
+        <editor role="collector">Valentina Vladimirovna Shilova</editor>
+        <editor role="narrator">Turutina Polina Gilevna</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NE02111160</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NE02111160</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0">CC BY-NC-SA</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Budzisch, Josefina/Wagner-Nagy, Beáta (2024): INEL Nenets Corpus. Version 1.0. Publication date 2024-12-31. https://hdl.handle.net/11022/0000-0007-FE37-E. Archived at Universität Hamburg. In: The INEL corpora of indigenous Northern Eurasian languages. https://hdl.handle.net/11022/0000-0007-F45A-1. Quot. p. s.p..</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CEE15002">Forest Nenets</name>
+          <date when="2002" type="recorded">Recorded in 2002.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>Three rich man Puchi Once upon a time there were three rich Puchis. The guy Pyrerka lived near them. Pyrerka was then the husband of  the younger sister of the Puchi brothers. Whether they lived long or short is not known. Puchi only noticed that  if you listen closely, you can hear the screams of their sister. Pyrerka's guy keeps hitting and hitting her.  Then they say: âWhat are we going to do? Let's go hunting tomorrow and take him with us." He was a laborer with them: he chopped firewood, carried  water, looked after the deer. From an early age, Pyrerka lives with three Puchis: a long time ago he killed his parents, took away the  deer, and took him in as a child.  The Nenets belief is this: seperated deer without their owner begin to die.  Therefore, Puci did not kill Pyrerka.  Then Pyrerka grew up. Therefore, he took Puchi's sister as his wife.  Then he beat his wife for a long time so that she screamed and cried loudly so that Puchi would hear.  One morning, Puchi says, "Pyrerka, let's go hunting." Pyrerka collected  the deer. He harnessed four stags. He, harnissing, looked in the direction of Pyrerka, he saw the guy Pyrerka.  That two skis, otter sheathed skis, he put on. With the help of skis, the joint tries. Puchi harnessed four reindeer, and Pyrerka skied. So here they are. While Puchi harnessing the reindeer, fastened the back fasteners, Pyrerka  goes on skis, and behind him is a column of snow dust. Behind the snow, only the top of his hood flashed.  Puchi's guys went after him on three deer. Puchi lagged behind Pyrerka, in high places he sees  only Pyrerka's hood, in low places he does not even see it. So he walked, right in front of him appeared a  hill covered with trees. There, behind him, the guy Puchi went. Near the hill there was a huge lake.  There were seven stags on the ice of that lake, seven stags, wild stags lay.  He approached them a little closer, pulled out the bow, pulled out the arrow, slowly and confidently put the Selkup arrow with two forks on the bowstring.  He pulled his bow over his ear, and fired an arrow.  He strung seven huge stags on one arrow. Puchi listened and heard Pyrerka's laughter in the direction of the sky, loud laughter.  He looked at the ground and heard laughter under his feet, the loud laughter of Pyrerka underground.  He looked around and saw a young woman coming out of the hill.  This woman came out of the hill and said to Puchi: âWhy did I kill my deer, this was my team, come to my tent: there is a conversation.â   He entered this hill, looked around. And so it turned out: it was the tent of the girl.  So she says to Puchi: âThose deer that you killed, my deer, you are chasing Pyrerka.  You can't kill the Pyrerka guy, you can't do it without my help. If he had caught it, nothing good would  have come of it. I will reveal to you the wisdom of Pyrerka. Three wisdoms of Pyrerka, three wisdoms if you find it,  when you find it. You can't just kill Pyrerka just like that.  I won't tell you anything more." Puchi after such words went outside.  So he says: "Let's see what happens next." He sat on the sled and rode on.  Pyrerka at this time is filled with laughter, because his body is not visible. The crown of his hat  only flickers in high places, and in low places only his laughter is heard. Here Puchi began to catch up with Pyrerka. From time to time, either in the sky or on the ground, Puchi walked, all pursuing Pyrerka.  Suddenly, Pyrerka, right into the center of the lake, which is on the burnt earth, climbed right into the center.   Puchi, turning into an iron goose, climbed after him. And there he pursues Pyrerka. Pyrerka surfaced up, out of the water. And then Puchi grabbed him, the guy Pyrerka.  The owners of two lands intertwined with eight claws. They fought for several days. Suddenly Puchi crushed Pyrerka between his knees and threw him on his back.  He began to pull out the trachea, and from behind the woman, audibly, speaks.  The mistress of the forest-covered Hill said this: âMy young Puchi, stop, calm down. Pyrerka on a bad day, we might need it. Without him, we may not leave trouble. Let's live with one mind!  And Puchi released Pyrerka. He looked over his shoulder: the girl turned out to be the mistress of the hill.  Here is the end. Pyrerka was the spirit of Pike, it turns out. The mistress of the hill turned out to be a woman,  Kasym, the grandmother of the Earth. And Puchi turned out to be the spirit of a goose. Those  who own the spirit of the pike signed with a painting similar to the mouth of a pike. Those who worship the pike do not eat the pike, it is forbidden to them. Their ornament is the mouth of a pike. This ornament is also cut out on clothes.</p>
+    </body>
+  </text>
+</TEI>

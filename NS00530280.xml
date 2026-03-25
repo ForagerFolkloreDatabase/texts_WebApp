@@ -1,0 +1,121 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Thokwjwaj Wants to Be like the Tsʼiyaaʼ Hawk</title>
+        <editor role="collector">Jan-Åke Alvarsson</editor>
+        <editor role="narrator">Celestino Màànhyejas Gómez</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NS00530280</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NS00530280</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+          <p>By courtesy of Jan-Åke Alvarsson.</p>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Alvarsson, Jan-Åke (2026): Selected Myths and Folktales from the 'Weenhayek. Trans. for the Forager Folklore Database (FFDB Documents). Quot. pp. 28-33.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CSA39401">Wichí</name>
+          <date when="1983" type="recorded">Recorded in 1983.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>Once again we are going to start talking about the hawk, Tsʼiyaaʼ.<note>This is the mythological hawk-man, well known from this narrative. However, zoological identification is problematic as we have very contradictory information about the species of this bird. One possible suggestion is that it is the roadside hawk (Buteo magnirostris).</note></p>
+      <p>Tsʼiyaaʼ was standing on a stick. What happened was he had chosen one leg and had been standing on one leg on the stick. Suddenly Thokwjwaj arrived, who was walking around. And Thokwjwaj said, "How beautiful you are ... But how is it, how can you be like that, how come you have only one leg on the stick? And, you are standing there, quietly, and you do not fall down ..."</p>
+      <p>"Yes," he replied. "I am standing on one leg ..."</p>
+      <p>"But, why?" asked Thokwjwaj. "Why are you like this, on one leg?"</p>
+      <p>Tsʼiyaaʼ then answered him, "I cut off my leg. I cut off one leg so that I would be like this, having only one leg."</p>
+      <p>Then, Thokwjwaj [was amazed at his elegance] and watched with great interest. He thought about how he could do to be (appear) like Tsʼiyaaʼ. He said to himself, "How beautiful when one stands on a stick on one foot!"</p>
+      <p>And they say that he had a [burning] desire to be like Tsʼiyaaʼ.</p>
+      <p><pb n="29"/>"Now you yourself have cut off your leg, then I also want to do the same and have only one foot. So how can I do it?"</p>
+      <p>Then Tsʼiyaaʼ said to Thokwjwaj, "Look, Thokwjwaj. I had myself be cut by someone, by a countryman. I cut my foot to stay like this. Because I also like to be like that, having only one foot."</p>
+      <p>Then, Thokwjwaj said to him, "Now, you have to do the same as that (the same with me). I also want to have only one foot, just like you."</p>
+      <p>Then Tsʼiyaaʼ said, "Very well, come over here! But you have to hold on, because we are going to cut off this shin!"</p>
+      <p>Then he answered, "Yes, I will bear it, [I will endure] to have only one leg. It is [so] pretty when one has only one foot and [and one can still] stand firm on the stick. [Then] it is just as if one had had two feet."</p>
+      <p>All right then. They were chatting with each other. Tsʼiyaaʼ said, "Well, now we are going to cut you. So you are going to come out in a form like me."</p>
+      <p>So Tsʼiyaaʼ began to cut. And they say Thokwjwaj was screaming for a while. They say he had screamed because of the pain he was in. But Tsʼiyaaʼ had urged him, saying, "Thokwjwaj! You have to bear it, because it's not going to go well if you do not hold out!"</p>
+      <p>So, Thokwjwaj, by force, had to endure the pain. And when Tsʼiyaaʼ had cut off the leg he said, "Now yes, it is cut off!"</p>
+      <p>Very well. But they say that Thokwjwaj tried to get up and step on the ground, but he could not. He could not stand like that, on one foot.</p>
+      <p>"What a thing!" he said. And Thokwjwaj became sad, "Now what am I going to do?"</p>
+      <p>Then the bird [had tricked him] saying, "Thokwjwaj! I am like that no more ... I have two feet ... It is that I had one leg constricted, to make me (appear) as a man who has only one leg. But it was not like that. That is just the way I am. I always have the habit of constricting one leg and standing on one leg on the stick."</p>
+      <p>Then Thokwjwaj thought, "Alas, then it had been nothing more than that he had put it like that. Now, what do I do? I cannot walk ..."</p>
+      <p><pb n="30"/>So he thought that there was a healer.<note>Here it refers to a big spider with a huge and very strong web. In the ʼWeenhayek language it is called suwaaʼlhokwetaj.</note> There was an old woman who knew how to cure and fix anything that had happened. So he thought [to go there], walking, carrying his cut off shin.</p>
+      <p>But Thokwjwaj was falling down every stretch [of the way], like this, and he kept getting up, always suffering. And when the old woman was looking down the road she always came along, then suddenly she saw a man coming like that, limping. Then, when she looked closer it was Thokwjwaj.</p>
+      <p>And the old woman was astonished, saying, "But why is Thokwjwaj like this? Surely he himself was insisting that he do it ... Surely someone has [helped] him to cut off his leg. Surely! Because Thokwjwaj always does things like this. And also [bad] things [happen] like that because of him."</p>
+      <p>Then, when he came to where the old woman was, he said, "Granny,<note>In the ʼWeenhayek language nootelah ('grandmother') means not only grandmother herself, but all the consanguineous women of her generation.</note> granny, please! Fix my shin! I want to have two feet ..."</p>
+      <p>But the old woman replied, "No! I am not going to fix you! But why did it come out like that?"</p>
+      <p>"But, granny, look here. What happened to me is that he, Tsʼiyaaʼ, demanded I cut off my leg. He told me to come there, and we were going to cut off one leg, so that I would have only one leg, just like him."</p>
+      <p>"Ah, yes. But surely you yourself demanded that he cut you like that. But why did he listen to you?"</p>
+      <p>"No, granny. Not I. It was not I who demanded him to cut me, but he himself begged me to cut off my leg."</p>
+      <p>"But why?"</p>
+      <p>"But, granny, I did not tell him anything, nothing about cutting me, but he himself wanted to cut off my leg."</p>
+      <p>"But why, then, why are you playing me down? It is you! You yourself are to blame! Why do you have [such] a desire to be like him? That is just the way those birds are. When they want to stand on only one leg, they can. But why are you like that?"</p>
+      <p>"Yes," he said. "But I did not say anything ..."</p>
+      <p>Thokwjwaj was denying everything, they say. But the old woman already knew that he himself was to blame. But he still begged the old woman to fix his <pb n="30"/>leg. And then, finally, she said, "Okay. Let us fix it. Come here, I am going to fix it!"</p>
+      <p>So, the old woman put the leg there, in its place, and fixed it. And she put the knee back in place, nice, nice and tight. And she began to spin around the knee. They say she always spun around to heal. And it turns out she had her medicine, like a glue, to cure this. And it healed well, they say. And his shin was straight, in place, just right, just right. Nothing was missing. But Thokwjwaj, inside himself was thinking like this, "My granny is so ugly. She is pot-bellied. She has such a belly and she has such long hands. How ugly this old hag is!"</p>
+      <p>That's what he was thinking when he saw the old woman spinning around his knee. And [after a while] it was ready. And the old woman said, "Now, you cannot speak ill of me in any way, in any form. Because if you do, it will give you a bad time again."</p>
+      <p>"No," said Thokwjwaj. "Granny, I am not going to do any evil. I am not going to speak ill of you. That is all just fine, granny. Now, thank you granny for fixing me up and for doing me the favor. Now I will go ..."</p>
+      <p>So Thokwjwaj was going, quietly, with his [fixed] leg. But when he had arrived there, when he had walked a distance, they say that he began to shout, "Granny! Granny! You're ugly! You're fat! And ... and you have long, ugly hands! What an ugly old hag!" he was shouting.</p>
+      <p>But the old woman was attentive, listening to what he was saying. She heard everything, because he had not gotten far yet. Then, the old woman, thought to herself thus, "Now, Thokwjwaj, I want your shin to come out again!"</p>
+      <p>And since the old woman is like hiyaawuʼ,<note>The word hiyaawuʼ denotes the shaman, the religious specialist of the ʼWeenhnayek.</note> she can use powers, and then what she says is true (everything is made manifest).</p>
+      <p>And it happened that when Thokwjwaj got further, he found a branch across the road. And they say that he wanted to cross over to the other side, lifting his foot like this [to do so]. Then suddenly, when he wanted to lift his foot, it fell down on the other side. And he could not pass without falling. And Thokwjwaj thought, "But why is it like this? Then my grandmother did not fix me up right. What an old, potbellied, ugly hag!"</p>
+      <p>Thus he spoke, he spoke ill of the old woman. "This old woman, who is potbellied, who did not fix me up well! This old woman, with her very long hands, <pb n="32"/>how ugly this old woman is! Now I have to go again [to her] that she fixes me well ... Why didn't she fix me up well? Ugly old hag, what a fatty!"</p>
+      <p>And they say that he went again, carrying his foot, to the old woman's house. And they say that when the old woman looked down the road, she saw that a man came again by that way, a lame man. And when she kept looking, she saw that it was Thokwjwaj, who had come there again. And she did not want to receive him, for she was angry with him, very angry.</p>
+      <p>But Thokwjwaj said, "Granny, I am back. But why didn't you fix me well, grandmother?"</p>
+      <p>She did not answer anything, she did not say anything. [After a while she said,] "You are a rascal," she said. "You are a rascal. Why did you bad-mouth me? Why did you mistreat me? Why did you say those words to me? Now I am not going to do anything for you. Now, just go away!"</p>
+      <p>"No, granny, I did not say anything, no, I do not know. But what? Yeah I did not bad-mouth you at all ..."</p>
+      <p>"Then, why are you like this? I told you that if you spoke ill of me, suddenly something will happen to you ... I told you so, just now. So, why were you bad-mouthing me?"</p>
+      <p>"No," he said, "granny. You are to blame, because you had not fixed me right. You had not put [the leg] properly in place. That is why it came out. It was not my fault."</p>
+      <p>"Yes," said the old woman. "It is your fault! Why did you bad-mouth me? Now I am not going to help you. Just go away like that!"</p>
+      <p>But Thokwjwaj demanded of her, "Granny, please fix me so I can leave now!"</p>
+      <p>And then, finally, it seems like the old woman got bored with him and said, "Now yes, I'm going to fix you, but do not mistreat me like that anymore! Don't you go bad-mouthing anymore, because next time I am not going to fix anything for you!"</p>
+      <p>So, the old woman began to fix his leg. And she put [joined the parts] just as he wanted. She did not put them on like the first time, when she fixed them well.<note>Here the narrator repeats himself. The repetition has been omitted.</note> But it gripped well, and it had its bend, and Thokwjwaj was already satisfied, for he had his leg.</p>
+      <p>"Now it is done," said the old woman. "Now go and mistreat me now, go and speak ill of me ..."</p>
+      <p><pb n="33"/>"No, granny. I'm not going to bad-mouth you. I have not bad-mouthed you at all, just that you did not fix my shin properly."</p>
+      <p>"Yes, sure, it is fine. Now you are going to be fine ..."</p>
+      <p>But now the knee was not a straight [and smooth] bend, as it was the first time, but this time its knot was a little crooked [since the old woman had added something (the kneecap) on top] on account of him having bad-mouthed the old woman.</p>
+      <p>But still Thokwjwaj was content with the shin (knee) he already had. It was a little crooked, wasn't it, but he could walk quite satisfactorily.</p>
+      <p>And just like that, Thokwjwaj said, "Now, I am fine. Now, I'm not going to speak ill of my granny anymore, because I have to go."</p>
+      <p>Then they say that he was walking far away, and when he had arrived further, far away from his granny, then he started to scream again, "Granny, big-bellied granny! Ugly old hag! The old hag has her long hands and her belly of shit! Ugly old hag!" he said.</p>
+      <p>But [this time] nothing happened to him. He went walking quietly, because the old woman did not hear anything. Thus he passed by. Well, now he had his shin on again, although it was not like before, a little oblong like that ... But just like that, he was happy, he was fine. And he kept walking.</p>
+    </body>
+  </text>
+</TEI>

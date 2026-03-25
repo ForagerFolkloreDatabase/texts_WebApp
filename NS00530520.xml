@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>When the People Were Birds</title>
+        <editor role="collector">Jan-Åke Alvarsson</editor>
+        <editor role="narrator">Celestino Màànhyejas Gómez</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NS00530520</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NS00530520</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+          <p>By courtesy of Jan-Åke Alvarsson.</p>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Alvarsson, Jan-Åke (2026): Selected Myths and Folktales from the 'Weenhayek. Trans. for the Forager Folklore Database (FFDB Documents). Quot. pp. 52-56.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CSA39401">Wichí</name>
+          <date when="1984" type="recorded">Recorded in 1984.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>Now [as a result] of the story we have already told,<note>The story referred to here is the previous story, M105, "The World Perishes by Fire".</note> after the fire, they say that nothing but birds had come out. Then they already formed a group, they say, and then they gave them names. But they had the appearance of birds.<note>The original expression is: "That the birds appeared."</note> And those birds, they were of all kinds. Some of them were very strong. Then Thokwjwaj, in a meeting said,<note>The original expression is: "Especially they, who are of all values, had strength. He said, in his meeting of them, he said."</note> "Now, this is the bird that is called Wàànʼlhàj <pb n="53"/>(the rhea); this is the one that is called ʼIniikyʼuʼ (the seriema); and this is called Qalaaq<note>Here he refers to the cocoi heron, in ʼWeenhayek qalaaq, and in Latin Ardea cocoi.</note> (the heron)!"</p>
+      <p>So he did with every wild animal, with the woodpeckers, the birds that had good beaks, and also with Taatsʼiʼ (the hornero). Thus, to all these he gave names.</p>
+      <p>Now when Thokwjwaj had named everyone, the fire was already calmer, and [the people] were in their houses. Then they had gone [as] a visit and, when they were gathered there, that evening, they said, "Now, we, for our part, would like to know where the fire lives. We would like to visit him that we may also know what his body is like, and what his family is like."<note>The original expression is: "his flesh or yes, his persons". Note here the resemblance to myth M007.</note></p>
+      <p>Then they had stayed like this.</p>
+      <p>"Tomorrow we are going to go, with Wàànʼlhàj (rhea) and with ʼIniikyʼuʼ (seriema)."</p>
+      <p>But it turned out that Taatsʼiʼ (the hornero) had listened to the people when they were announcing that the day after they were going to visit the fire. And he pledged himself, telling the others that, "Me too, I will go with you!"</p>
+      <p>[But] the others did not agree because they knew that this man liked to laugh at everything. Then one of them said to him, "No, I do not think this is for you at all! Because surely, if you come with us, something will happen to us, because you have no patience. You laugh at anything. Because suddenly, if we meet people like that, a bit ugly, then surely you will laugh because of them. Then, maybe they will blame us for what you have done!"</p>
+      <p>"Now, [that's why] it's not convenient for you to go with us tomorrow! We do not allow this, so you just stay at the house."</p>
+      <p>[But] he had not prepared himself for that, but was ready to leave with the others. They say that they had gotten ready early. And when dawn broke, Wàànʼlhàj and ʼIniikyʼuʼ went out walking. And it turns out that Taatsʼiʼ had realized the situation; [but] he had still gotten up, gotten ready, and then left to catch up with the others. And [this even though] the others had told him that "You cannot go with us!"</p>
+      <p>But he would not listen. He went after the others, but he stayed far away, far away like this. And so he went, following the others. And the others, when they <pb n="54"/>looked back, they say that they saw nothing. [It seemed] that Taatsʼiʼ was not coming. So, they said, "Taatsʼiʼ has not come. It is good that he is not coming!"</p>
+      <p>But Taatsʼiʼ had just stayed far off. And when [the others] arrived at a bend, then he walked lightly to reach that one. Then, when he came to that bend, he stopped for a while. And when the road was straight, then he waited until he saw Wàànʼlhàj go around another bend, then he began to walk too. And so off they went.</p>
+      <p>[But] when they were close, then indeed Taatsʼiʼ appeared, approaching the others. And when the others looked back, they say that they saw Taatsʼiʼ following them. Then said one, "But how can this be, if we have thrown him out, so that he will not come with us ... What a thing! Now, what can we do? Well, we could just leave him. But now we are going to advise him to be patient and not to laugh."</p>
+      <p>Then already, they arrived there, at the house of ʼIitàtaj - the fire. They say that they found two beings, sitting thus, and that they had black bodies ... But, when they arrived, they say that they were received [well] by the fire. He said to them, "Welcome, Wàànʼlhàj with ʼIniikyʼuʼ and Taatsʼiʼ."</p>
+      <p>Well, Taatsʼiʼ [behaved well]; he was patient [and did not laugh] at anything that happened. Because they say that from the body of the fire, [the same] person of the fire, they say that, every time he bit, something like an ember came out, burning. And when he spat, the same. And so on.</p>
+      <p>[But] Taatsʼiʼ was attentive there, behind the others who were seated. And he did not want to look at the others. And when they remembered, the other (the fire) already said [to one of his assistants], "Now, you have to boil squash and I'm going to bring beans to boil for our visit!"</p>
+      <p>So they had invited their visitors to eat something. But when they looked around, they saw no fire. And they thought to themselves, "I do not know how these people eat, since there is no fire ..."</p>
+      <p>And it happened that, when the others arrived with the squash and the beans, then they already began to pour it into the pot, and [then] they poured water in. [After this] they sat down and then they put the pot on top of themselves. And another one, they say that he had put his belly up and had put himself on top of the pot. It boiled after a little while. And another one had done the same thing, he sat down and the pot was [already] boiling. And the others watched. [But] Taatsʼiʼ was there, calm, [because] he had not looked at anything. <pb n="55"/>And the others told him that he should not look at anything, that he should just be calm.</p>
+      <p>So everything was alright. When they gave them the squash, they ate, calmly they ate. And Taatsʼiʼ was quiet, not laughing at all. And when, after a while, they were about to finish eating, it happened that a pumpkin seed fell on Wàànʼlhàj's leg. And, as it was hot, they say that he felt a [strong] pain.</p>
+      <p>"Ouch, hot!" he said.</p>
+      <p>And then Taatsʼiʼ already began to laugh at that matter, on account of that seed having fallen on Wàànʼlhàj's leg. Then, once Taatsʼiʼ had laughed, the other (Wàànʼlhàj) got up and went running again. And the fire became angry with them, then [because of this] they bolted, and Taatsʼiʼ as well.</p>
+      <p>[And the fire people said,] "So the people have just come to mock us!" That is how they spoke.</p>
+      <p>So when they coughed, big embers always came out and they were put in front of the people [who were fleeing]. When they got further [the embers reached them]. Then, they say, the bush began to burn. And [then] there was another ember, further ahead.</p>
+      <p>Wàànʼlhàj and ʼIniikyʼuʼ, they had strength to run.<note>These birds are runners; the rhea cannot fly at all and the seriema prefers running to flying. See vol. 6.</note> So they ran. And the embers could not reach them. [But it was not like that with] Taatsʼiʼ, and finally he could not run anymore. And the fire was already near. And when he saw his nest,<note>Translator's note: The original text uses the Spanish term "horno" ('oven') referring to the oven-like mud nest that gives the hornero (ovenbird) its name.</note> which was on a branch, they say that he went in there, to his house. And at that moment the others were also passing by and at that moment the fire reached him. Then his house began to burn and he was burned even more. And his eyes began to burst, inside his house.</p>
+      <p>But the others, Wàànʼlhàj and ʼIniikyʼuʼ, went far away. And [it seemed] that the fire could not reach them. [But] at last, they say that they were very tired. And the fire was already [primed] to reach them. And so the fire had reached a little bit of their feathers, so they arrived scorched, because their feathers were burned. And then, when they were close to their house, they say that the fire went out. And when they arrived there, they say, where the other birds were, they said, "This happened because Taatsʼiʼ went with us!"</p>
+      <p><pb n="56"/>"Yes," said the others, "this morning we told him not to leave, but he did not listen to us."</p>
+      <p>"Well, but he has died. He is no longer alive. Not so bad that he has just died. No one else died."</p>
+      <p>And so that is what they had told the others. And when they had seen Wàànʼlhàj and ʼIniikyʼuʼ, who had arrived [back, then] again they gathered [all the people], and they were questioning them, and they told them how it had been, concerning the bodies of the fire.</p>
+      <p>"We don't know, [but at first] it seemed that it was just pure fire. And it turns out that they had had their bodies. And this we have seen ..."</p>
+      <p>And they told that when [the people of the fire] had boiled a thing, that he had put the pot on his breast, and it boiled [that way]. And [that the] other, sitting, had also put a pot on himself, still sitting, on his legs, and it began to boil as well. And when he coughed, they told of how a big ember came out, like fire. It always did this. And so it had happened, they say, that they had told [this story] in front of all the other birds, gathered together.</p>
+      <p>And so it was at that time. They say that [the people] no longer [had the] form of a person but they just had the form of birds. But before, in the ancient time, they say that they still [had the form of people]. [It was] because of the fire, they say, that they had the form of birds, but they spoke[indeed]. And they spoke also among themselves, so as people do.</p>
+      <p>So, then, thus have the ancestors told, that thus it happened when the birds were people. Until now they say that they remain so, [and that the] birds know everything. And so is the tale that I have heard. That's it. The end!</p>
+    </body>
+  </text>
+</TEI>

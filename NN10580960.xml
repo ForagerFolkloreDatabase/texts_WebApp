@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mishi Shigak, Big Skunk</title>
+        <editor role="collector">Alanson Skinner</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NN10580960</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NN10580960</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Skinner, Alanson (1911): Notes on the Eastern Cree and Northern Saulteaux. New York: AMNH (Anthropological Papers of the American Museum of Natural History, 9,I). Quot. pp. 96-100.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA28030">Eastern Cree</name>
+          <date when="1909" type="recorded">Recorded in 1909.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>Big Skunk went hunting one day but he found no game to kill except a toad. He told his wife to cook the toad, and after he had eaten it he went to bed and had a sleep. He dreamed that someone had seen his tracks so next morning, when he got up, he told his wife to go and get what was left of the toad, and when he had finished it, he went back over his trail of the day before. Sure enough, he saw that someone had come out from under the snow and had seen his trail and followed it. It was Weasel. There were a lot of animals of all kinds camping near by and they were starving. They were very much afraid of Big Skunk, so when they learned that Weasel had seen his trail they all fled away from him.</p>
+      <p>As the animals were fleeing, they came to Beaver's camp. They all <pb n="97"/>went in and begged for food. Beaver always has plenty of food in his camp and he wished to feed the poor animals. He had big bundles of all kinds of meat so he started to pull one out. It was so heavy that the strain made him break wind. This made Otter snicker. The other animals were very much frightened at this because they feared Beaver would be offended and not give them anything to eat. Beaver tried to lift the bundle a second time and again he broke wind. This time Otter simply could not help bursting out laughing, and it made Beaver so angry that, just as they feared, he refused to give them anything to eat. It was just as well, however, for had the animals taken any of Beaver's meat, they would ever afterwards have been obliged to live on bark and grass as Beaver does. All the animals left Beaver's camp.</p>
+      <p>As soon as Big Skunk found Weasel's track he began to pursue him. He knew he was with the other animals. As he went along he thought he would see if his rump was powerful enough to kill game. He backed around and aiming at a stump, blew it all to pieces with his discharge. Then he took up the trail again. After a while, he came to a steep mountain, and backing up to it he blew it all to pieces. "Now, that is all right," he said, "I can kill them all now."</p>
+      <p>He went off until he came to a camping ground and found the animals had all fled. One old otter [not the one who laughed at Beaver] was all tired out and too feeble to flee from him. When this otter saw Big Skunk coming it pretended to be dead. When Big Skunk came up he began to examine it all over to see how it had been killed, but he could not find any marks on its body. At last, he thrust his finger up Otter's aboral aperture. "Well, that is the place the bullet went in," said Big Skunk. "When I come back I will pick him up," he said and covered Otter with brush.</p>
+      <p>The animals continued to flee before Big Skunk. They tried to pick out a hilly road to tire him out. At last they came on Wolverene who was chiseling beaver. The animals were starving, they had been fleeing from Big Skunk for several days and had had no food. Wolverene sent the animals to his camp to get food. "If Big Skunk comes, I'll shout," said he to them.</p>
+      <p>Shortly after. Big Skunk did come up. "I'm entirely played out now," said Big Skunk to Wolverene. "I have followed those animals over a good many mountains and hills. "Well," said Wolverene, "you shouldn't run about so much. You should stay in one place." "Do you wish to make me angry?" said Big Skunk. Then he turned about and discharged his flatus at Wolverene. Then Wolverene bit Big Skunk's anus and closed it with his mouth. He held on so that Skunk could not fire. He shouted to all the animals for help and they all ran out. Then Otter took his tail <pb n="98"/>and stabbed Big Skunk with it as though it had been a spear, right through the body.</p>
+      <p>Lynx got a bad cramp when he was running to the spot so that he could not move, but one of the animals returned and cured Lynx so he recovered and coming up grabbed Big Skunk by the neck and finished him.</p>
+      <p>Then Wolverene could not open his eyes, for Big Skunk had discharged full in his face. "Make a hole in the ice," said Wolverene to the beasts, "so I can wash my eyes." "Don't wash yourself at the lake," said they, "go out to the sea and wash there. It will be salty if you do." So Wolverene started off for the sea. When Wolverene struck against a tree, he could not see anything, he would say, "Who are you?" "I am Black Spruce," "I am Tamarack," or "I am White Spruce," whatever they were, those trees told him truly. At last, be ran into a stump, "Who ate you?" he said. "I am a stump, lying on the shore." Then he struck something else. "Who are you?" "I am the ice." Soon he fell in the water and washed himself clean. That is why the water of the sea [James and Hudson's Bay] is salt. It is Big Skunk's flatus that made it so. Then, when Wolverene could see, he came ashore. As he started for home, he sang a song which he made to himself.</p>
+      <p>"Nīkī kī potī yepaw mishī Shīgak," "I closed Big Skunk's anus for him."</p>
+      <p>As Wolverene was returning, three wolves heard him singing. They were his brothers-in-law, for he had married a wolf. They planned to hide and scare him. "Hello brother," they cried, "what are you singing about?" Wolverene was afraid and climbed into a tree. "Are you single?" asked the wolves. "Yes," lied Wolverene. After a while he consented to come down.</p>
+      <p>It was winter. When it was night they sent Wolverene ahead to find a suitable place to camp. Wolverene wanted to camp in the thick forest. The wolves at once claimed that he had deceived thein since only a married man would wish to camp in the thick forest. Then they camped in the open in a hole in the snow. Wolverene nearly froze. He was so cold that he wept. He begged the wolves to cover him with their tails. They covered him with their tails from opposite directions and at last he went to sleep. Before they went to bed they made a fire. Wolverene lighted it with a flint and steel. Then the wolves jeered, "No single man ever carried a flint and steel. This is the way we make fire," said the wolves. They piled up the wood and leaped over it, and it blazed up.</p>
+      <p>Next morning, they found a deer track and followed it. They noticed something in the snow, and at last they found a deer-killing implement. They came to a lake and killed the deer there. Then they divided it into <pb n="99"/>four equal parts of flesh, and marrow bones. They ate the deer flesh, and in the evening they began to split the bones for the marrow. When the wolves were to split their bones, they told Wolverene to close his eyes or a splinter would fly in them and blind him. Wolverene did as he was bidden and the wolves took up a bone and struck him over the head with it. Wolverene cried out, and the wolves replied that he must have been looking.</p>
+      <p>Wolverene then told the wolves to close their eyes while he split his marrow bones. He took up a bone and struck one of the wolves over the head and killed him. This made the other two very angry. Wolverene tried to explain that his victim must have been looking but the wolves told him he must leave them. He went off the next morning. The wolves gave him the power of lighting the fire by jumping over it, but told him to use it only after having hunted.</p>
+      <p>The next day Wolverene tried his power at mid-day, although he had not hunted. He only got smoke. Finally, he succeeded in getting fire. At night, he again succeeded in making fire so he threw away his flint and steel. The next day he tried to light his fire this way but could not succeed. Then he tried to find his flint and steel but he could not. He nearly froze. He walked four days before he met his family.</p>
+      <p>His brothers-in-law [the two wolves] and his mother-in-law were there before him. Their tents were close together. Wolverene began to hunt. He killed a lot of beaver but the wolves couldn't kill anything. One day, the wolves tracked a moose. They asked Wolverene to help them but he said he did not want to eat moose, he wanted to eat beaver. The wolves drove the moose on to the lake where Wolverene was chiseling beaver and it passed him as it fled. When the wolves came up, they asked Wolverene for their quarry. Wolverene replied, "If his tail had been long enough, you would have seen it." So the wolves hurried up and caught and killed the moose.</p>
+      <p>Wolverene wanted some moose meat. He had been so stingy with his beavers that he was afraid the wolves would not give him any. He could see the moose fat hung on a pole in front of the wolves' lodge. The wolves knew that he would beg for some, so they had frozen the inner stomach of the moose into a club to kill him when he should ask for it.</p>
+      <p>Wolverene went home and loaded his sled with beaver meat. He intended to make his mother-in-law a present and then ask for some moose meat. He put large beaver tails on the front of his sled so that his mother- in-law would find them at once. When he arrived at her lodge she asked him why he was bringing them meat when they had plenty and had not done so before, when they were starving. However, she gave him some fat, and told him to close his eyes while he ate it. The wolves hit him with the <pb n="100"/>"bowl"<note>This seems to refer to the fact that the inner stomach of the moose and caribou is sometimes used as a cooking utensil by the Eastern Creek</note> of the frozen inner stomach. Wolverene cried out in pain, but they hit him again and killed him. Then they took the frozen fat from his mouth, for they said it was getting dirty and was too good to waste. The wolves then killed his two little ones and speared his wife to death.</p>
+    </body>
+  </text>
+</TEI>

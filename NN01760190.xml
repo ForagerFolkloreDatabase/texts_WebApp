@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Noʼûnneʼgû</title>
+        <editor role="collector">John W. Chapman</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NN01760190</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NN01760190</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Chapman, John W. (1914): Tenʼa Texts and Tales from Anvik, Alaska. With Vocabulary by Pliny Earle Goddard. Leyden: Brill &amp; New York: Stechert (Publications of the American Ethnological Society, 6). Quot. pp. 19-21.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA28601">Deg Xitʼan</name>
+          <date notBefore="1887" notAfter="1911" type="recorded">Recorded sometime between 1887 and 1911.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <note>A story told in connection with the feast of animals' souls.</note>
+      </p>
+      <p>No'ûnne'gû is a rich man, who has a parka of martenskins. He lives with several of his brothers at a place <pb n="20"/>on the Yukon some distance above Anvik. He is the youngest of the family. Below Anvik lives a rich man, who has a wife and a daughter. His name is Kaʼmûxaʼisyûk. He has two sons. They live in one of the Ingalik villages. Every year one of the young men of Noʼûnneʼgû's family goes down to court Kaʼmûxaʼisyûk's daughter; but her father kills them, with the help of two brown bears that he keeps. Finally it comes Noʼûnneʼgû's turn to go down. He is a strong man. Kaʼmûxaʼisyûk sends him to Siberia to get tçăçhl LAVA-STONES to put into the fire when the kashime is heated, so as to preserve the heat. He takes his baidara and sets out. He gets the stones; but when he starts to return, Kaʼmûxaʼisyûk, who is a powerful shaman, creates a great storm. But Noʼûnneʼgû has a charm bound up in his hair at the back of his neck. It is a small, black stone. He takes this out, and throws it toward the shore from which he has come, and a path of smooth water appears, while the waves rage on each side. The shaman thinks that he has finished him; but he gets back, with the stones. Then the shaman sends him into the woods for a load of fuel. There is a path under the spruces; but the two brown bears have been set to watch for him, one on each side of the path. He is not afraid of them, but takes one with each hand, by the back of the neck, and gives them a shaking and goes on. He brings back the wood and splits it in front of the door of the kashime, and makes a fire, and heats up the stones that he has brought. The shaman thinks that by sending him into the kashime while the fire is hot, he will cause his death; but he survives, and the shaman gives in, and lets him have his daughter. He takes her in his canoe and goes off; but on the way he takes off her parka, and ties a string around her neck, and throws her, screaming, into the water, and drags her <pb n="21"/>until she is dead, in revenge for the death of his brothers. When he reaches her father's fish-net, he fastens her body in it and goes home. The next day her father finds the body in the net, with the rope around the neck, and he understands.</p>
+    </body>
+  </text>
+</TEI>

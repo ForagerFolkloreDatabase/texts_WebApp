@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Lost Daughter</title>
+        <editor role="collector"> anonymous</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NN09851860</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NN09851860</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Rink, Henry (1875): Tales and Traditions of the Eskimo. Edinburg/London: Blackwood. Quot. pp. 186-188.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA27908">Kalaallit (West Greenland)</name>
+          <date notBefore="1823" notAfter="1868" type="recorded">Recorded sometime between 1823 and 1868.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>An old woman lived with her three children, two sons and a daughter. The sons were good hunters, and loved their sister exceedingly. As time passed on, the mother observed a change in her daughter's manners; and one day it happened that she went out by herself, and stayed away for good. The brothers sought her far and wide; but at last they <pb n="187"/>gave it up, and again took to kayaking and hunting, and now lived alone with their mother. But one day, when she was all by herself in the house, and had lain down to rest on the ledge beneath the skin coverlet, she remarked a thing like a shadow gliding across the doorway, and on turning that way beheld her long-lost daughter; and perceiving the amowt [hood] she wore, she asked her to come and sit beside her, and admired her beautiful clothes, the amowt particularly, which was made of soft and thin reindeer-skin. When a low cry was heard from within it, the mother asked her to take out the little one she was carrying to let her see it. But the daughter answered her, "What I carry on my back is no human being. Thou hadst better hide thyself beneath thy skin coverlet." The mother accordingly did so; but peeping through a small opening, she was dreadfully alarmed at seeing her daughter produce a large reptile, which she allowed to bite her lips so as to make them bleed; and having caressed it in a motherly way, she let it suck at her breast. Then having replaced it in her amowt, she asked her mother to look up again, upon which the latter asked her, "Where is thy dwelling-place, child?" "My house lies far from here, in a very large valley; but my husband is not of human race: so none of you must ever think of coming to see me," she added, and left. In the evening, when the sons returned, the mother told them what had happened, saying, "I have seen your sister, but in a very low and contemptible state. Only think! she carried a vile reptile in her amowt, and was also married to such a one!" The brothers got into a great rage on hearing this, and at once prepared their bows and arrows to attack the vermin. Starting together, they took the direction which their mother had pointed out to them, and soon found the great house in the valley. After a careful inspection of all the mountains, they ventured to peep through the window, and there saw their sister comfortably seated <pb n="188"/>in a snug and well-furnished room. They entered at once, killed her offspring, and having torn it to pieces, threw it outside. They did not leave their sorrowing sister during the day-time, but towards evening they saw her dreadful husband approaching the place from some remote part of the country: its size was like the wall of a house; and in its mouth it carried a large reindeer. When it came nearer, the brothers went out to hide themselves at the back of the house, whence they saw the reptile drop the reindeer on the ground, and afterwards enter the house. They again ventured a peep through the window, and saw the creature twining itself closely round the body of their sister, so that only the tuft of her hair was visible. They tightened the strings of their bows, keeping them ready bent, and then made a little noise, in order to alarm the beast. The instant it emerged from the house, it was aimed at from both sides by the brothers; and when all their arrows had been spent, they finished it off and killed it with their spears. Having accomplished this, they made for their home, bringing their sister along with them, as well as all her things, and some dried reindeer. And now the sister was once more with her parents; and they warned her to leave off her former bad habits. After a little, however, her manner towards them again suddenly changed; and they perceived that she was always carrying something about in her hand. This appeared to be a small worm or reptile, with black streaks round its body. Every day it grew in size, so that before long both sides appeared out of her hand; and now she disappeared a second time. The brothers again went in search of her, this time taking their mother along with them; but she soon died on her way; and one brother had his leg broken: and henceforth they gave up all hope of ever finding their sister.</p>
+    </body>
+  </text>
+</TEI>

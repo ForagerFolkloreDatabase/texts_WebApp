@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Woman Who Married the Dog</title>
+        <editor role="collector">Harry Hull St. Clair</editor>
+        <editor role="narrator">Tom Hollis</editor>
+        <editor role="narrator">Jim Buchanan</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NN03631660</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NN03631660</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Frachtenberg, Leo J. (1913): Coos Texts. New York: Columbia University Press &amp; Leyden: Brill (Columbia University Contributions to Anthropology, 1). Quot. pp. 166-171.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA29402">Coos</name>
+          <date when="1903" type="recorded">Recorded in 1903.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>A young girl lived in Takimiya. She had five elder brothers. She was always making baskets. Outside she had her separate little house. She used to work there. She also had a pretty little dog there. Many men wanted to buy her in marriage, but she did not want a husband.</p>
+      <p>Once she was working in her little house. A pretty man came to her. He asked her all [kinds of questions]. <pb n="169"/>"What do you usually do with your dog? What does your dog usually do?" Thus she informed him: "Whenever I go inside to eat, I always give my dog separately. Whenever I go to bed, the dog lies down under [my] bed." Then he spoke to her thus: "I am your husband." Then he killed her little dog, skinned it, and put its [hide] on. Then he looked just like the little dog.</p>
+      <p>It was an underground house, and had a ladder. In the evening he would take off the dog's hide, and lie down there with his wife. And she became pregnant. So her older brothers were asking her, "Who made you pregnant? Who [is] your husband?" The eldest brothers did not seem to care. They asked her, but she did not tell. The youngest brother [however] was thinking thus: "Why is it that she takes such good care of this dog?" Thus he said to his elder brothers. "You hit that dog." Their sister was getting big [with child]. One day after a meal the woman went out on the ladder. The dog was following her on the ladder. The youngest brother took a bow, and hit the little dog with an arrow. The dog jumped outside and howled. She was sorry, and followed her dog into the forest. So she found her dog lying dead, and she buried it.</p>
+      <p>She did not go home: she kept on walking. She followed a small river [leading] to the forest. Then she built a house there. She had there for food small trout. And the two children were born. They grew fast. And they two were hunting. Coon, wildcat, fisher, deer, - they two killed them all, and this was their food. When they came back [from] hunting, they two informed their mother: "We two saw [some] people. [Their hair] was cut short, and they were crying. They seemed to be looking for something."</p>
+      <p><pb n="171"/>One [day] she told her children [how it was] that they were living there. "At first your [dual] father came to me. I had a little dog, and he killed it and put its hide on." Then another [day] she informed her children thus: "My youngest brother killed that little dog. He did not know [it was a] person."</p>
+      <p>Then one [day] she spoke thus to her children: "I will go home. I will see my folks." Then, indeed, she went home. She saw her relatives. Thus she was talking: "I [have] two children. The little dog was my husband. The children I have are his." Her oldest brother thus spoke to her: "Your children shall return; I will give them all my money; to both of them I will give a wife." Then they went to get [the children]. When these two saw them coming, they two shot arrows at them. The], were merely frightening them thus. They two were doing it that way just for fun. So then they took the children back to Takimiya. When the children grew up, they were very strong [men]. They were great shinny-players. They were great gamblers. They were experts in wrestling. No matter who [it was], they two would still throw him.</p>
+    </body>
+  </text>
+</TEI>

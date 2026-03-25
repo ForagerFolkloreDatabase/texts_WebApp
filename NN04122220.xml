@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Brother and Sister Who Became Hair-Seals</title>
+        <editor role="collector">Frank Alfred Golder</editor>
+        <editor role="narrator">chief of Unga Island</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NN04122220</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NN04122220</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Golder, Frank Alfred (1905): Aleutian Stories. In: The Journal of American Folk-Lore 18(70), 215-222. Quot. p. 222.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA27710">Aleut</name>
+          <date notBefore="1900" notAfter="1905" type="recorded">Recorded sometime between 1900 and 1905.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>In a certain family there were twelve brothers and one sister. She lived in a hut away from the rest of the family. There were no other men living in the neighborhood, and so she was somewhat surprised when some man came to see her at night. She did not know who it was, but suspected that it was one of her brothers, and in order to find out which one of them it was, she prepared some red paint, and when the man was about to leave she dipped her hands into the paint and put them on his shoulders. The next day, as all her brothers were outside playing, she went among them and detected marks of paint on the shoulders of the oldest. Going back to her barrabara, she sharpened her knife and placed it alongside of her. That night, as usual, the man came and slept with her, but as he started to leave she threw her knife at him and cut the sinews of one of his legs. The following morning she went about her work as customary, when some one came to announce that her oldest brother was sick, the sinews of one of his legs being cut.</p>
+      <p>She went to him, got him out of bed, and set off with him. Their mother, learning the state of affairs, said, "We reared them that they might be a help to us and work for us; but now they have gone and ruined themselves." The two went a long distance until they arrived at the bluff, over which they threw themselves, and a short time after they appeared as hair-seals.</p>
+    </body>
+  </text>
+</TEI>

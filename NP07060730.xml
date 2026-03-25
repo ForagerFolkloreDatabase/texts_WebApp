@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Where the Frost Comes From</title>
+        <editor role="collector">K. Langloh Parker</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NP07060730</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NP07060730</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Parker, K. Langloh (1898): More Australian Legendary Tales. Collected from Various Tribes. With an Introduction by Andrew Lang. With Illustrations by a Native Artist. London: Nutt &amp; Melbourne: Melville, Mullen &amp; Slade. Quot. pp. 73-75.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CIPD0270">Yuwaalaraay</name>
+          <date notBefore="1856" notAfter="1898" type="recorded">Recorded sometime between 1856 and 1898.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <standOff>
+    <list type="glossary">
+      <item xml:id="GIP0247.135">
+        <gloss>Wurrunnah</gloss>
+        <desc>man's name, meaning standing.</desc>
+      </item>
+      <item xml:id="GIP4128.035">
+        <gloss>Daen</gloss>
+        <desc>black fellow.</desc>
+      </item>
+      <item xml:id="GIP4128.094">
+        <gloss>Meamei</gloss>
+        <desc>The Girls, Pleiades.</desc>
+      </item>
+      <item xml:id="GIP4128.128">
+        <gloss>Wahlerh</gloss>
+        <desc>manna running down stems of branches.</desc>
+      </item>
+    </list>
+  </standOff>
+  <text>
+    <body>
+      <p>The <rs ref="g:GIP4128.094">Meamei</rs>, or Pleiades, once lived on this earth.<note>See "Australian Legendary Tales:" <rs ref="g:GIP4128.094">Meamei</rs>, the Seven Sisters.</note> They were seven sisters remarkable for their beauty. They had long hair to their waists, and their bodies sparkled with icicles. Their father and mother lived among the rocks away on some distant mountain, staying there always, never wandering about as their daughters did. When the sisters used to go hunting, they never joined any other tribes, though many tried from time to time to make friends with them. One large family of boys in particular thought them so beautiful that they wished them to stay with them and be their wives. These boys, the Berai-Berai, used to follow the <rs ref="g:GIP4128.094">Meamei</rs> about, and watching where they camped, used to leave there offerings for them.</p>
+      <p>The Berai-Berai had great skill in finding the nests of bees. First they would catch a bee, and stick some white down or a white feather with some gum on its back between its hind legs. Then they would let it go, and follow it to its nest. The honey they found they would put in <rs ref="g:GIP4128.128">wirrees</rs> and leave at the camps of the <rs ref="g:GIP4128.094">Meamei</rs>, who ate the honey, but listened not to the wooing.</p>
+      <p><pb n="74"/>But one day old <persName><rs ref="g:GIP0247.135">Wurrunnah</rs></persName> stole two of the girls, capturing them by stratagem. He tried to warm the icicles off them, but only succeeded in putting out his fire.</p>
+      <p>After a term of forced captivity the two stolen girls were translated to the sky. There they found their five sisters stationed. With them they have since remained; not shining quite so brightly as the other five, having been dulled by the warmth of <persName><rs ref="g:GIP0247.135">Wurrunnah</rs></persName>'s fires.</p>
+      <p>When the Berai-Berai found that the <rs ref="g:GIP4128.094">Meamei</rs> had left this earth for ever, they were inconsolable. Maidens of their own tribe were offered to them, but as they could not have the <rs ref="g:GIP4128.094">Meamei</rs> they would have none. Refusing to be comforted they would not eat, and so pined away and died. The spirits were sorry for them, and pleased with their constancy, so they gave them too a place in the sky, and there they are still. Orion's Sword and Belt we call them, but to the <rs ref="g:GIP4128.035">Daens</rs> they are still known as Berai-Berai, the boys.</p>
+      <p>The <rs ref="g:GIP4128.035">Daens</rs> say the Berai-Berai still hunt the bees by day, and at night dance corroborees which the <rs ref="g:GIP4128.094">Meamei</rs> sing for them. For though the <rs ref="g:GIP4128.094">Meamei</rs> stay in their own camp at some distance from the Berai-Berai, they are not too far away for their songs to be heard. The <rs ref="g:GIP4128.035">Daens</rs> say, too, that the <rs ref="g:GIP4128.094">Meamei</rs> will shine ever as an example to all women on earth.</p>
+      <p>At one time of the year, in remembrance that they once lived on earth, the <rs ref="g:GIP4128.094">Meamei</rs> break off some ice from themselves and throw it down. When, on waking in the morning, the <rs ref="g:GIP4128.035">Daens</rs> see ice everywhere they say: "The <rs ref="g:GIP4128.094">Meamei</rs> have not forgotten us. They have thrown some of their ice down. We will show we remember them too."</p>
+      <p><pb n="75"/>Then they take a piece of ice, and hold it to the septum of the noses of such children who have not already had theirs pierced. When the septums are numb with the cold they are pierced, and a straw or bone placed through them. "Now," say the <rs ref="g:GIP4128.035">Daens</rs>, "these children will be able to sing as the <rs ref="g:GIP4128.094">Meamei</rs> sing."</p>
+      <p>A relation of the <rs ref="g:GIP4128.094">Meamei</rs> was looking down at the earth when the two sisters were being translated to the sky. When he saw how the old man from whom they had escaped ran about blustering and ordering them down again, he was so amused at <persName><rs ref="g:GIP0247.135">Wurrunnah</rs></persName>'s discomfiture, and glad at their escape, that he burst out laughing, and has been laughing ever since, being still known as Daendee Ghindamaylännah, the laughing star, to the <rs ref="g:GIP4128.035">Daens</rs>, to us as Venus.</p>
+      <p>When thunder is heard in the winter time the <rs ref="g:GIP4128.035">Daens</rs> say: "There are the <rs ref="g:GIP4128.094">Meamei</rs> bathing again. That is the noise they make as they jump, doubled up, into the water, when playing Bubahlarmay, for whoever makes the loudest flop wins the game, which is a favourite one with the earth people too." When the noise of the Bubahlarmay of the <rs ref="g:GIP4128.094">Meamei</rs> is heard the <rs ref="g:GIP4128.035">Daens</rs> say too, "Soon rain will fall, the <rs ref="g:GIP4128.094">Meamei</rs> will splash the water down. It will reach us in three days."</p>
+    </body>
+  </text>
+</TEI>

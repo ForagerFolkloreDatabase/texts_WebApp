@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mayrah, the Wind That Blows the Winter Away</title>
+        <editor role="collector">K. Langloh Parker</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NP07041150</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NP07041150</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Parker, K. Langloh (1896): Australian Legendary Tales. Folk-Lore of the Noongahburrahs as Told by the Piccaninnies. With Introduction by Andrew Lang. Illustrations by a Native Artist, and Specimen of the Native Text. London: Nutt &amp; Melbourne: Melville, Mullen &amp; Slade. Quot. pp. 115-116.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CIPD0270">Yuwaalaraay</name>
+          <date notBefore="1875" notAfter="1895" type="recorded">Recorded sometime between 1875 and 1895.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <standOff>
+    <list type="glossary">
+      <item xml:id="GIP0247.115">
+        <gloss>Piggiebillah</gloss>
+        <desc>ant-eater. One of the Echidna, a marsupial.</desc>
+      </item>
+      <item xml:id="GIP0247.137">
+        <gloss>Yhi</gloss>
+        <desc>the sun.</desc>
+      </item>
+    </list>
+  </standOff>
+  <text>
+    <body>
+      <p>At the beginning of winter, the iguanas hide themselves in their homes in the sand; the black eagle hawks go into their nests; the garbarlee or shingle-backs hide themselves in little logs, just big enough to hold them; the iguanas dig a long way into the sand and cover up the passage behind them, as they go along. They all stay in their winter homes until Mayrah blows the winter away. Mayrah first blows up a thunderstorm. When the iguanas hear the thunder, they know the spring is not far off, so they begin making a passage to go out again, but they do not leave their winter home until the Curreequinquin, or butcher birds sing all day almost without ceasing "Goore, goore, goore, goore." Then they know that Mayrah has really blown the winter away, for the birds are beginning to pair and build their nests. So they open their eyes and come out on the green earth again. And when the black fellows hear the curreequinquins singing "Goore, goore," they know that they can go out and find iguanas again, and find them fatter than when they went away with the coming of winter. <pb n="116"/>Then, too, will they find <rs type="animal" ref="g:GIP0247.115">piggiebillahs</rs> hurrying along to get away from their young ones, which they have buried in the sand and left to shift for themselves, for no longer can they carry them, as the spines of the young ones begin to prick them in their pouch. So they leave them and hurry away, that they may not hear their cry. They know they shall meet them again later on, when they are grown big. Then as Mayrah softly blows, the flowers one by one open, and the bees come out again to gather honey. Every bird wears his gayest plumage and sings his sweetest song to attract a mate, and in pairs they go to build their nests. And still Mayrah softly blows until the land is one of plenty; then <rs ref="g:GIP0247.137">Yhi</rs> the sun chases her back whence she came, and the flowers droop and the birds sing only in the early morning. For <rs ref="g:GIP0247.137">Yhi</rs> rules in the land until the storms are over and have cooled him, and winter takes his place to be blown away again by Mayrah the loved of all, and the bringer of plenty.</p>
+    </body>
+  </text>
+</TEI>

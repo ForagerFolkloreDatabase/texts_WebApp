@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Two Friends Rescued by the Benevolent Ingnersuit</title>
+        <editor role="collector"> anonymous</editor>
+        <editor role="narrator">Nis Mikias</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NN09853580</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NN09853580</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Rink, Henry (1875): Tales and Traditions of the Eskimo. Edinburg/London: Blackwood. Quot. pp. 358-361.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA27908">Kalaallit (West Greenland)</name>
+          <date notBefore="1858" notAfter="1864" type="recorded">Recorded sometime between 1858 and 1864.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>One widow lived all alone with her son at a winter station; and a little more to the south another widow, also with an only son, had her residence. The young men were fast friends, and used to go out kayaking and perform their several tasks in company. But one morning the one who was to the north seeing the clear bright sky and a light breeze from the east, resolved on going to the hunting-place by himself, without waiting his friend's arrival. After he had been on the hunting-ground for some time, he suddenly heard a noise from the sunny side of the bay, and, turning round, he saw his friend with gloomy looks and hand uplifted, about to throw his harpoon at him. Having no other choice, he kept his look steadily fixed on him; and the moment the harpoon came flying towards him, he upset himself, kayak and all, so that the weapon touched the edge of the kayak, and fell splashing into the water beside him, after which he again rose by means of his paddle. The other now proceeded to coil up his harpoon-line; and without further reference to the matter, the friends as usual remained together, catching their <pb n="359"/>seals, and speaking pleasantly to each other on the way home. Still he kept an eye upon his companion, but did not find anything to rouse his suspicion. Another time he again left home without waiting the arrival of his friend, and the same thing happened. After a third similar attempt, however, he resolved to revenge himself. He did so in the following way: As soon as he rose above water after having capsized his kayak as before, he aimed his harpoon at his friend, who, however, averted the danger by likewise upsetting himself; but before he was able to get his kayak righted, the other was by his side and kept him from rising by running the point of his own kayak right across the one that lay bottom upwards. After having killed his friend in this manner, he rowed towards land; but before he reached the first islets, he noticed the water coming fast into his kayak. He pulled as quickly as possible, but all in vain, and was only kept above water by means of the bladder. He then happily remembered that he was himself an angakok, and that he had several tornaks [guardian spirits] among the ingnersuit [under-world people]. No sooner had he called them than he saw three kayakers coming straight towards him. Two of the strangers put their paddles, one from each side, into the sinking kayak to hold it up; and, at the same time, the third mended the kayak as well as possible, by filling the leak with blubber, and hastened to give the drowning man his dry breeches to put on. He was now again placed in his kayak, to which they made fast their seals, all strung together in a long row; and they told him to tug them along, that he might get warm. He rowed in front, and they closely followed him with the greatest speed. They came to a high island, with only one house; there they landed, and at once entered. When they had seated themselves, he saw the master of the house, a man so very old that his wrinkled skin was hanging, and almost hiding his eyes; but the old man <pb n="360"/>pushed it aside a little, and then looked at the newcomers. Presently some one called out that two kayakers were approaching, tugging seals along with them. Those whose business it was to bring them up to the house soon returned with hauling-thongs, ornamented with fittings of bright walrus-bone; and then followed the seal-hunters themselves. On entering the house, they accosted their brothers, and reproached them, saying, "Why were ye not quicker in giving him your assistance before he got to be so cold?" but they answered, "He did not call for our aid till then." They now ordered the women to bring some dry meat. After the meal, the old man moved aside the wrinkled skin from off his eyes, gave a look out of the window, and said, "Go and call our other relatives;" upon which the youngest immediately went away, and after some time came back covered with sweat. The stranger on seeing him reflected, "Where can he have been, since no house seems to be near?" and soon after five other brothers, much like his hosts, and also accompanied by an old man, entered the house. There was also another man, who turned out to be his former friend and companion, whom he had killed in his kayak. He sat down right opposite, and hardly dared to look up. When they had had their meal, the eldest brother brought out a skin, spread it on the floor, and first tried a wrestling-match with his own brothers, and afterwards with the visitors; but no one was able to hold his own against him. The master of the house now challenged the other old man, who, however, had to give in to him. Having thus been vanquished and put to shame, the strangers prepared to leave their hosts; these reproved them sharply for their former behaviour, and told them henceforth to give up quarrelling, and be friends again. When the rest had all withdrawn, the stranger who had been saved remained five days longer; but on the sixth he left. On passing his usual hunting-place, he encountered <pb n="361"/>his friend, who had been restored to life in the same manner as himself, and they spoke to each other. It so happened that they were both angakut, and that each of them had his tornaks among the ingnersuit. From this time they were quite reconciled.</p>
+    </body>
+  </text>
+</TEI>

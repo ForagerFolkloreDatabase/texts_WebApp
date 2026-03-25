@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Sikutluk</title>
+        <editor role="collector"> anonymous</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NN09852140</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NN09852140</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Rink, Henry (1875): Tales and Traditions of the Eskimo. Edinburg/London: Blackwood. Quot. pp. 214-216.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA27908">Kalaallit (West Greenland)</name>
+          <date notBefore="1823" notAfter="1868" type="recorded">Recorded sometime between 1823 and 1868.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>Sikutluk and his cousin were living together, and loved each other dearly. At that settlement the cousin was the only one who possessed a dog. One day Sikutluk observed his cousin sitting before his tent doing some work, the dog beside him. When he came close up to him the cousin suddenly said, "Pray, shoot <pb n="215"/>my dog." "No, I won't, because we are friends." But the cousin still persuaded him, saying, "Pray do it, nevertheless." He brought his bow accordingly; but not yet satisfied, he again inquired, "But wilt thou not really get vexed when it is too late?" "No, indeed, I shall not;" and the other killed the dog. The cousin, however, took offence for all that, and challenged his friend, saying, "He had a mind to kill him at once." But Sikutluk shot him right through the breast, and he fell down dead. Immediately after this, Sikutluk went and covered his cousin's boat and tent all over with heavy stones, and left the place along with his wife; but the murder he had committed had made him thirst for blood, and he went on intending to kill whatever he met with. At first he was content with killing ptarmigan and reindeer. They both brought with them as many arrows as they were able to carry. After a while they fell in with an amarok.<note>Fabulous animal originating in traditions of the wolf.</note> They first discovered the young ones, but towards evening the mother arrived with a young buck in her mouth. From their retreat they noticed her dropping the burden on finding that her young ones were killed; and then sniffing the air, she followed the scent of human beings, and with a fearful howl came running on towards them at full speed. The woman screamed, "I fear she will devour us!" but he made no other reply than, "Ah, my cousin, my beloved cousin, I murdered thee!" and he crept forth from his ambush, aimed at the beast, and killed it on the spot. They hid themselves again, and soon afterwards saw the male return, also carrying a buck between his teeth. After the same words, "Alas, my cousin, my beloved cousin!" he shot this one also. They still wandered on and on, and killed everything living they met with on their way. One day the woman caught sight of a kilivfak,<note>Another fabulous animal.</note> which stood scratching the earth with its <pb n="216"/>feet. When the husband had also seen it, he first went to look out for a hole in the earth close by, where he ordered his wife to go and hide, and remain quiet till he should let himself down to her. He now stole down to encounter the animal. Whenever it turned to look round he bent down to the ground; but when it stood scratching the earth, he crept on towards it. At last he had got quite close, and ventured a shot at it, and then hurried back and let himself fall down to his wife. After him came the wild beast tumbling down into the cave, where it entirely filled up the opening; but after much toil they got out again. They continued roaming further away; and in crossing the glaciers he carried his wife across the crevasses. At length he again reached the sea, and at the same time observed a kayaker close by. This man said he would take them to his own place if he would wait a little while he brought a boat for them; but the crew of the boat were all men. They took up with these people; but soon found out that they had come among erkileks.<note>Fabulous inlanders.</note> One day Sikutluk told his wife that he would return and look for some of their kinsmen, and named a certain time by which they expected to be back; but in vain they waited for him. When the appointed time had elapsed, they promised an angakok a great reward if he could tell what had befallen the traveller. After some meditation he replied, "I observed he killed a pair of amaroks with their brood." The wife acknowledged it. "And a female kilivfak besides?" "Indeed he did so." "Then be assured the male beast devoured him." But the wife of Sikutluk lived on with the foreigners until the time of her death.</p>
+    </body>
+  </text>
+</TEI>

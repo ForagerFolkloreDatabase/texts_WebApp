@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Old Blind Man Who Wanted a Woman</title>
+        <editor role="collector">Walter E. Roth</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NS11513820</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NS11513820</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Roth, Walter E. (1915): An Inquiry into the Animism and Folk-Lore of the Guiana Indians. Extract from the Thirteenth Annual Report of the Bureau of American Ethnology, Washington: Government Printing Office. Quot. p. 382.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CSA36701">Warao</name>
+          <date notBefore="1906" notAfter="1913" type="recorded">Recorded sometime between 1906 and 1913.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>There was once an old blind man and the young fellows were always making fun of him. One day they asked him if he would like to have a woman. He said "yes," and told them to find him a fine young one. It was therefore arranged for that very evening, that they would tie a rope to his hammock and attach its other end to the hammock of a young girl, so that, as soon as everyone was asleep, he would have merely to feel his way stealthfully along the rope. Now, instead of attaching the rope's end as originally promised, the young rascals tied it to a tree overhanging the river bank, with the result that on obeying the instructions given, the poor old blind man floundered into the chilly waters of the stream, and just managed to save himself from drowning by holding onto a ho-aranni tree.<note>Any snag or tree growing from out of the river-bed above the water is believed to have been planted there by the Water People, or Ho-aranni (Sect. 177), and hence is given this name.</note> When the young men saw that their joke had gone too far, they became frightened, and, getting into a corial, went to bring him back. "Grandfather! we have come to fetch you;" but the old man was much vexed and they were obliged to return without him. One of the youngsters, dressing himself up as a girl, with an apron-belt, and putting the basket-strap over his forehead, just as the women carry it, now went to get the old man home. "No!" he said, "I am not coming home any more;" but when he heard the young man say, "I am a girl," he felt her cotton anklets, her bangles, and her basket, and was accordingly satisfied; he then jumped into the corial and saved himself.</p>
+    </body>
+  </text>
+</TEI>

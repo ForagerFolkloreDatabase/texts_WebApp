@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Atalianguak</title>
+        <editor role="collector"> anonymous</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NN09854270</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NN09854270</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Rink, Henry (1875): Tales and Traditions of the Eskimo. Edinburg/London: Blackwood. Quot. pp. 427-428.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA27908">Kalaallit (West Greenland)</name>
+          <date notBefore="1823" notAfter="1868" type="recorded">Recorded sometime between 1823 and 1868.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>Atalianguak was an excellent seal-hunter, and lived as a bachelor in a large house, together with several cousins. At spring-time he used to go out all by himself in his boat in order to fish angmagsat [Capelins]. One evening when he returned to his tent, having been out kayaking, he was much surprised at seeing a pretty little woman standing outside of it. She wore a pair of white boots, and her hair-tuft was newly dressed. Atalianguak ran quickly up beside her, and taking hold of her hand brought her into the tent, and afterwards married her. When the fishing season came to an end he repaired homewards in his boat, his wife rowing, while he himself took the helm. In autumn he again settled down in the house of his cousins. One evening just as his wife had risen from her seat on the ledge to go outside, one of the other people, whom she happened to pass by, remarked, "What a very peculiar <pb n="428"/>smell I perceived;" but his housemates told him to take great care not to offend her, as they had observed that she was not a woman of the common kind. The same thing, however, happened again; this time the little woman hearing them speak of a strange smell rushed quickly out, and the moment she passed the doorway the people observed a fox-tail dangling at her back. Atalianguak pursued her to the border of a lake. In a fox-hole close by he noticed a light, and peeping in he saw his wife sitting on a ledge. He called out, "I feel so cold, let me come in." "Well, come." "But in what way am I to enter?" "Thou hast only to breathe upon the entrance and thou wilt easily get in." Thus be entered, and sitting down beside his wife, he exclaimed, "It is dreadfully cold - do make me warm." At the same time be saw one of the walls covered with flies, dirt-flies, beetles, and all kinds of reptiles. She now raised up her head and ordered them to lull Atalianguak to sleep, and presently they all began singing, "Atalianguak, sleep, sleep; at spring we will rouse thee again:" and he slept for ever so long. At last he awoke of his own accord, and when he rose and went outside the sun was high in the sky, while the cave itself swarmed with flies and reptiles. He went to make water, and forthwith it turned to a whole river. From that time he gave up all thought of womanhood.</p>
+    </body>
+  </text>
+</TEI>

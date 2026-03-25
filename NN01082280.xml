@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Visitor</title>
+        <editor role="collector">James S. Mutch</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NN01082280</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NN01082280</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Boas, Franz (1901): The Eskimo of Baffin Land and Hudson Bay. From notes collected by George Comer, James S. Mutch, and E. J. Peck. New York: AMNH (Bulletin of the American Museum of Natural History, 15,I). Quot. pp. 228-230.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA27903">Baffin Island Inuit</name>
+          <date notBefore="1883" notAfter="1899" type="recorded">Recorded sometime between 1883 and 1899.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>In Kingnait lived a man by the name of Attongey, who wanted to travel through the country with a large team of dogs. He made some harnesses, and went to a place where there were a number of good-sized stones, some red, some white, others brown, and some speckled. These he was going to harness up.</p>
+      <p>When he was ready to start, he cried out, "Haa, haa, haa, {229} Attongey! Haa, haa, haa, Attongey, Attongey!" At once the stones were transformed into dogs, which came at his call. He fastened them to his sledge and started off. After he had gone a long distance from home, he arrived at a village. Here he stopped and fed his dogs. Two old women came down from the houses to see him. They wanted a little of the meat that the dogs were being fed with, and picked some up from the ground. Then Attongey spoke to them, and said, "You are like ravens." At once the women jumped like ravens, and cried "Qaq!" and again picked at the meat. Attongey hit them with a stick, saying, "Go away from here if you are ravens." They went home at once. One of the old women was quite angry on account of the treatment she had received, but she did not say so to Attongey.</p>
+      <p>After Attongey had fed his dogs and put his harnesses in order, he went up to the huts and entered one of them. Meanwhile the old woman whom he had whipped took the brains of a man and of a wolf and mixed them together. Then she sent her grand-daughter to the hut where Attongey was staying, to ask for some blood to mix with the brains. She told the girl not to say what she wanted it for; but the girl, who was very young, said, "Please give me some blood. Grandmother told me not to tell you that she is going to mix it with the brains of a man and of a wolf." She obtained the blood, and carried it to her grandmother. When the old woman had mixed the blood and the brains together, she told the girl to invite the stranger to the house. Attongey accepted the invitation. When he arrived, the old woman handed him the mixture she had prepared for him, telling him to eat it all. He sat down and ate it all. Then he put the dish in which the food had been given to him between his legs, and when he took it away it was full. He passed it to the old woman and ordered her to eat it. She was sure that she saw him eat all the brains, and she thought that what he had just handed her was from his stomach. She ate it, and then put the plate between her legs. When she took it away it was still empty. When she saw that it was empty, she put it back between her legs; and when she took {230} it away again, it was still empty. The old woman tried again and again, but always found the plate empty.[[This passage is not quite clear. It seems to imply that the man pretended to eat the mixture, but in reality let it drop into the plate, and that the woman tried to imitate him.]] She died soon after.</p>
+      <p>The people at this place had plenty of sledges, but no dogs. Attongey resolved to escape from them. Therefore one night he cut the lashings with which the bars of the sledges were tied to the runners. He cut them on the lower side of the bars on the inside of the runners, so that the people should not notice what he had done. Then he got his dog-sledge ready, and, when all was done, he re-entered the snow house, and played cup-and-ball with the people. The carving that they were using was very pretty. First he sat down while playing with it; but after a while he arose, went out with it, and started off. Soon he was quite a distance away from the place. The people jumped on their sledges and followed after him. They drove their sledges along with sticks. Soon they very nearly caught up with Attongey, and they cried out, "Give us our cup-and-ball!" When they came quite close to Attongey, their sledges broke down, owing to the lashings being cut. Attongey made considerable headway before his pursuers had repaired their runners. Once more they nearly caught up with Attongey, when their sledges broke down again. In their eagerness of pursuit, they had only placed the crossbars on the runners, without properly lashing them. Again they set up the sledges and followed. By this time Attongey was far ahead. Soon they were close beside him, when the sledges broke down again. At last they gave up the pursuit and returned home. Attongey finally reached his own village.</p>
+    </body>
+  </text>
+</TEI>

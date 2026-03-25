@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Young Man and the Beavers (version 2)</title>
+        <editor role="collector">Christiaan Cornelis Uhlenbeck</editor>
+        <editor role="narrator">Síkimiåχkitopi ('Black-horse-rider')</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NN12040850</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NN12040850</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Uhlenbeck, Christiaan C. (1912): A New Series of Blackfoot Texts from the Southern Peigans Blackfoot Reservation, Teton County, Montana. With the help of Joseph Tatsey collected and published with an English translation. Amsterdam: Müller (Verhandelingen der Koninklijke Akademie van Wetenschappen te Amsterdam, Afdeeling Letterkunde, NS 13,I). Quot. pp. 85-92.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA31305">Piegan</name>
+          <date when="1911" type="recorded">Recorded in 1911.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>There was a poor boy, he was called Round-cut-scabby-robe. The ancient Peigans were shaking their heads [dancing]. And there was a poor second wife, she was his sweetheart. She dressed like him, the way he dressed. For shame he went away. He slept about. He slept about, that he might have a dream. He was taken in into the water by some beavers. There was a lodge, a real lodge [there in the water]. He was adopted by the beaver-chief. He [the beaver-chief] became a person. And his wife and his children also turned into persons. And that one, that had the same age as he [as Round-cut-scabby-robe] then became a partner to him. And Round-cut-scabby-robe then stayed there. It was in winter there in the beaver-lodge, and his adoptive father had counters [to count the moons and the days]. They were sticks. He [Round-cut-scabby-robe] would see him [his adoptive father] from time to time. Always after a long while he [the adoptive father] would put aside one of those sticks. <pb n="86"/>And then after a long while he was told by [his adoptive father]: My son, the time, that it will be spring, is getting very near. And after a long while he saw, that the beaver went out. After a long while he entered. He [Round-cut-scabby-robe] then was told by him: My son, spring is getting very near. Now the rivers will flow clear [of ice].</p>
+      <p>And then after a long while all the beavers went out. And when they entered after a long while, he [Round-cut-scabby-robe] suddenly saw, there was a beaver-child, that entered with a leaf [as a sign of the spring]. He [Round-cut-scabby-robe] was very happy, when he saw it. Then Round-cut-scabby-robe was in a hurry to go home. Then he was told by his [adoptive] father: Now, my son, the summer has come. He answered him: I will go home, I am in a hurry. He was told by [the beaver-chief]: Yes, to-morrow you may go home. He was very happy, that he was going home. He was told by his partner: Now this night, partner, my father will ask you, which [thing] you will take, when you will go home. Tell him then, that you will take that stick cut by beavers. And tell him also, that he should give you that youngest one [that came in with the leaf], and the incense-maker, and sweetgrass, that you can make incense with. Next morning he was told by his [adoptive] <pb n="87"/>father: Now, my son, now yon are going home. Say, what I shall give you. Then he told him: Give me three things, your counters over there, and that stick cut by beavers. And you will also give me that youngest beaver. Then he was told by [the beaver-chief]: Ask me for something else. You will have no profit of that child of mine. He answered him: No, give me that one. And when he had asked four times, that he might give him [the beaver-child], then he was told by him: Yes, you may take him now. I am stingy for that one, but now I give him to you. And then he was given power with each thing [that was given to him].</p>
+      <p>And [when] he was given power with each thing, then he was told by [the beaver-chief]: Now you are going home. Now shut your eyes. And he shut his eyes. And after a long time he was told by [the beaver-chief]: Now open your eyes. When he looked, he was standing out [of the water] on the bank. And then he started to go home. And after a long while he came to the lodges. There was one, [that] came out from the camp, he [Round-cut-scabby-robe] was seen by him. He said to [the man from the camp]: Don't come up to me. Now go right back to the camp, that you say to the people there, [that] I have come back, that they might make a sweat-lodge for me. Then that <pb n="88"/>one, whom he had asked to do so, went back to the camp. Then there was a sweat-lodge made for him. And some one went after him and told him, that he might come to the camp. Then he went to the camp. And then he came to the sweat-lodge. Then he took a sweat. And then he told the news about how he had wintered with those beavers. And after a long while he said to the ancient Peigans: We shall go on a raid. Then they went on a raid. And after a long while they came to the Snake Indians. The ancient Peigans never used to kill [the enemies]. They only used to see one another [the different tribes each standing on one side of a river]. They would become chiefs, because they saw the people of another tribe [without having a fight].</p>
+      <p>Then Round-cut-scabby-robe said: I will kill the chief of the Snake Indians. And he was forbidden by all to kill him [literally: that he might not kill him]. He said: I will kill him. He said to his partner [one of the Peigans]: Don't move from this place, where we stand. I shall come back here. When I have killed him, I will dive down with him, and these people will think, that I will come out of the water below. And then he dived in to the water towards the other side of the river. [When] he was seen by the Snake Indians, that he dived in, then they all ran to the edge of the <pb n="89"/>river. And he was nearly diving across [to the other shore], and then he jumped up, then he stood up in the water. And the chief of the Snake Indians went in to the water towards him. He [that chief] had a big arrow. And Round-cut-scabby-robe took that stick cut by beavers. The Snake Indian came close to him. And Round-cut-Scabby-robe sang his war-song. The words of his song were: My father, try hard. And he was shot at by the Snake Indian. When he was shot at, then he yelled. He threw the stick cut by beavers in front of him. That [stick] was it, [that] he [the Snake Indian] hit [with his arrow]. Then he [Round-cut-scabby-robe] took it [the arrow] away from him. With that big arrow he then killed him. And he took him by his hair. And the Snake Indians cried in a rush, when their chief was held by his hair. And Round-cut-scabby-robe dived with him down the river. And his party made a charge down the river [on the dead chief]. They then thought, [that] he would come up out of the water below. And where his partner stayed, there he then came up out of the water. And he scalped him. And he gave half [of the scalp] to his partner.</p>
+      <p>Then he went home. And after a long while they came, in a circle, in sight of the camp. And that poor second wife was still picking roseberries. She was <pb n="90"/>told: There comes Round-cut-scabby-robe. He killed [one] out [of the enemies]. He is far ahead [of the others]. And then that woman spilled her roseberries. And she ran home to her lodge. There [in the lodge] was her husband, [who] was the owner of beaver-rolls [literally: water-owner]. Then her face was fixed up [with paint] by him, and then she went back to Round-cut-scabby-robe. [From that time] her husband was Round-cut-scabby-robe. Then she was given by him the scalp and the big arrow. She was told by him: I present your [former] husband with them [with the scalp and the big arrow]. And the owner of the beaver-rolls then gave him in return his younger wife, and his lodge, and his beaver-rolls. And that summer he went three times again on a raid [literally: and then three summer-times he went again on a raid]. And on these raids he each time counted a coup. Finally he [the owner of the beaver-rolls] gave him in return [all] his wives. Then [Round-cut-scabby-robe] had the owner of the beaver-rolls, as a single man instead of himself, staying with him in the same lodge. Then Round-cut-scabby-robe became a chief of all [the people]. And then after a long while the ancient Peigans had a famine. They suffered very much for something to eat. Then there was a chief, [who] said: Now <pb n="91"/>we shall go in a circle after buffalo. And after we have made the circle after buffalo, then we shall sing. Round-cut-scabby-robe was then painted in the face. And they sang to him and to those beaver-rolls [he had in front of him]. Then they got through singing to him, [and] then he rolled them [the beaver-rolls] up. His partner [the former owner of the rolls] had had four wives. His lodge was big. Every time Round-cut-scabby-robe had gone to war, he had been given by him [one of] his wives in payment [for his presents]. He finally had been given by him all his wives in payment [for his presents], and he had also received in payment his lodge and his beaver-rolls. Then [the former husband] just stayed around instead [of Round-cut-scabby-robe, who was now the owner of everything].</p>
+      <p>And then Scar-face was to have the medicine-lodge. He was told by his partner Round-cut-scabby-robe: I think, this my war-bonnet becomes you well. Make the medicine-lodge with it. And there was also a pin and a forked stick [to make incense with], those were the three [things], that were lent to [Scar-face] by his partner. And that is why now the medicine-lodge-makers [the women, that give the medicine-lodge: one woman every year] wear the war-bonnet. And that is why the <pb n="92"/>medicine-lodge-makers use the forked stick as a cane. Those were [the things], they lent to each other [that means: Round-cut-scabby-robe lent to Scar-face]. And Round-cut-scabby-robe then put that beaver-skin and that stick cut by beavers in his beaver-rolls. And now the owners of the beaver-rolls [literally: water-owners] still own those [things]. And that war-bonnet, that he [Round-cut-scabby-robe] lent to his partner, he then gave it to him. And he then [also] gave him the pin and the forked stick. And that is why the medicine-lodge-makers still now have many beaver-songs [literally: water-owner-songs] that they sing. Round-cut-scabby-robe's partner Scar-face paid him back seven songs, that are sung when the people are going to the medicine-lodge, seven moon-songs, and seven elk-songs. That way he paid him back in songs. And those three [sets of seven songs] were given to him by [Scar-face]. And that is why the owners of the beaver-rolls still now slug [those songs]. As soon as the [new] moon is there, they always sing moon-songs. They sing thrice seven songs to the moon. And now these owners of the beaver-rolls still sing to her. And now the boiling is ended.<note>Cf. the first version above, and the references given at the end of it.</note></p>
+    </body>
+  </text>
+</TEI>

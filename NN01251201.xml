@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Ts!ōʼna</title>
+        <editor role="collector">Franz Boas</editor>
+        <editor role="narrator">Andrew Wallace</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NN01251201</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NN01251201</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Boas, Franz (1928): Bella Bella Texts. New York: Columbia University Press (Columbia University Contributions to Anthropology, 5). Quot. pp. 120-121.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA29022">Bellabella</name>
+          <date when="1923" type="recorded">Recorded in 1923.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>Tsǃoʼna was just growing at the place Nōʼta. He was alone / Now he just had the name Only-Long-One-Reaching-Up-in-the-World. He was chief at the place Nōʼta. Then he just asked that all / the countries should be made right. Then Tsǃoʼna was asked / by Raven, "What kind of salmon is to be in our river? Is it olachen or perhaps / sockeye, or perhaps spring salmon?“ Then Tsǃoʼna said, "That is not good. / That is not good." Then he was asked, "Are maggots good to be the fish for the place Nōʼta?" Then Tsǃoʼna said, “That is good." / Then Tsǃoʼna thought he would send them away.</p>
+      <p>Now Tsǃoʼna just went off / and went up. When the fish of the place Nōʼta were finished / he wanted to be chief. He wanted to have the name Only-Long-One-Reaching-Up-in-the-World. Then he went up / to the top of the mountain. He wished to be on top and really he sat down on top of that mountain. Then he became stone / and also his dressed deer skin. Now he spoke when he sat down / on top at the edge of the mountain. He spoke to the later generations, / "You shall shout to me that it may be raining. If anyone wishes to / dry my skins, then you shout to me and ask me to dry my skins and every time it will be a bright day for the later generations."</p>
+    </body>
+  </text>
+</TEI>

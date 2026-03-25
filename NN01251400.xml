@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Another Fight with the Haida</title>
+        <editor role="collector">Franz Boas</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NN01251400</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NN01251400</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Boas, Franz (1928): Bella Bella Texts. New York: Columbia University Press (Columbia University Contributions to Anthropology, 5). Quot. pp. 140-147.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA29022">Bellabella</name>
+          <date notBefore="1897" notAfter="1923" type="recorded">Recorded sometime between 1897 and 1923.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>Qǃēx·ʟālag̣ᴇmēᵋ made ready to go to war against the Haida. / There were four people in one country. They arrived [in the country of] the Haida. They struck / a place where they were smoking sockeye salmon quite a distance from the village of the Heida. / As soon as they saw this smoke they went ashore. They <pb n="143"/>pulled up their canoes and waited until dark. Then they were going to go to look at the smoke. Now it was night. / They launched their canoe and they paddled. They waited / until it was really evening, then they reached there. They stayed on the rocks near the place. / When it was late in the night they went to the beach in front of the house. The warrior Qǃēx·ʟālag̣ᴇmēᵋ stepped out of the canoe to see what kind of a house it was, / whether there was a rear door in the smoking house. It was this way; / there is a door on each side. Now they peeped into the house and they saw / a middle aged man warming his back by the fire. On the ground were all / who were in the house. Now he went to the beach after he had seen the lay of the house where he was going to kill them. Now said the one whose name was Uhū. / "Let us spear the one who is Warming his back, from behind. As soon as he cries / those in the house will get up and we will kill them. Then all said / that they would do so. They went. Now two men went / behind and two in front of the house. They did so and speared the one who was warming his back. He shouted. Now the others stood up, / three men besides that one whom they had speared. / Now the men were shot beginning at one end. Some / women tried to escape and went right out, one at a time, at the rear of the house. They were taken hold of by / those waiting for them; but all the men were killed. Five were taken as slaves and were hauled aboard. They cut off the heads of the men. After they had done / with them they paddled and went straight out of the bay where they had stayed. A little ways across / was a house. They tried to paddle ahead when / they went out of that bay. They had heard the shooting. / They knew that there were warriors. It was night time therefore they did not succeed in getting them. They were not very far out at <pb n="145"/>sea when the north-west wind began to blow hard. / They put up sail and they bailed out their canoe. Therefore they did not / sink. They had no misfortunes at sea. They landed at K·dunst. Three men in the canoe intended to paddle on. Then they turned back when they saw the warriors. Now they came ashore. The reason why they went was that they wanted to redeem the one called / ʟāʼdaq. Now the warriors of K·dunst planned / to kill them. They were taken in by the Chief who took care of ʟāʼdaq. / As soon as the members of Raven Clan know what was being done to them / they promptly went into the place where the one stayed for whom they had gone. They hid themselves all around inside the house. Each had a gun. Then came in those who were going to kill them. / Then one of them said they would now start. / One of the K·dunst stood up. He was hiding in the house. When they were about to shoot he said, "That is not / our way. Look what you want to do to our brothers." / Then the braves were ready in the house. Their guns and pistols were ready if they should try to kill them. First the chief spoke; the one in whose house they stayed drove out his tribe. / Now they all went out. They were given to eat. They stayed over night. They / heard all the time that they would be killed when they were going aboard. Now they planned what they would do / when going down to the beach. Now they bought the one for whom they had come with two slaves. He did not wish to sell them. Now / they just exchanged him for two slaves. Then their canoe was taken away. They borrowed a large canoe of the same size from the one with whom they stayed. / They got ready. Two of them went down to the beach at the same time. Those who were going to shoot them on the beach / heard that they were already on the beach. They were sitting on the beach on one side of the canoe which lay tilted on one side. Now as the last / Uhū went down to the beach with Qǃēx·ʟālag̣ᴇmēᵋ. <pb n="147"/>They danced going down to the beach. They saw one who was going to shoot them. Then Uhū told him to go jumping from side to side. He went towards the one / who was aiming at him. Now he was also aiming. They went / straight ahead. Then they put down their guns when they came up to him. Then he sent them away and told them to go up, saying it would be bad for one of them / to lie dead on the beach, if one were shot. They did so and went up. / Now the warriors shouted when the canoe came near, namely, those who were going to shoot them. / They went aboard their canoe and paddled away. Then they saw one / who was defecating on the beach and Uhū said, "I will shoot that one where he is sitting." His companions did not wish him to do so. / "I just want to see what he will be like," said he. Then he did so. / He shot on the beach outside of the place where he was sitting. He shouted aloud while / crawling up the beach. He did not wipe himself, and he was laughed at / on account of what he had done. Then they started in their canoe. They sang their war song, waiving the heads. Now the young men planned to attack them / but the sensible people did not wish it. "If you do this we shall / all be killed. The tribes always do that." Then they acted accordingly. They went out of sight / at the point and there they fired all their guns. The Kʼiunst, heard / the report. These were four brothers who were all warriors.</p>
+    </body>
+  </text>
+</TEI>

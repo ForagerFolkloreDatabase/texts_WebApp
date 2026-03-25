@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lower World</title>
+        <editor role="collector">Glafira Makarina Vasilevich</editor>
+        <editor role="narrator">Kima Shomircha</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NE02091037</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NE02091037</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0">CC BY-NC-SA</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Däbritz, Chris Lasse/Gusev, Valentin/Stoynova, Natalia (2024): INEL Evenki Corpus. Version 2.0. Publication date 2024-12-31. Archived at Universität Hamburg. https://hdl.handle.net/11022/0000-0007-FE38-D. In: The INEL corpora of indigenous Northern Eurasian languages. https://hdl.handle.net/11022/0000-0007-F45A-1. Quot. p. s.p..</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CEE15803">Evenki</name>
+          <date when="1930" type="recorded">Recorded in 1930.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>There lived one man. His son went for rotten wood, the mother said: "Where? Don't go at night". He didn't listen to the mother, he went off. He was going and going, he went far away after rotten wood. It became dark. He came to a swamp, having reached the swamp he dove in. He dove in and went down. He went down, the man was going down for a very long time. He reached land, he came down to a path. He went along the path, examining reindeer traces and human traces. He saw people, he heard the sound of forging people: Tak-tuk, tak-tuk! He went to those people. A reindeer is going around in the forgery. When he came there, the reindeer died. He came to the forgery, the people started asking him: "Where do you come from?" "I got lost", then he went to their tents. When he came to their tents, a woman died. The people said: "What kind of man has come there?", there said to the shaman. The shaman asked him: "Where do you come from?" He said: "I got lost". They brought the shaman in, for that he shamanizes. The shaman started shamanizing, he shamanized and shamanized, he said to the man: "You came from above". There he remembered, he said: "Indeed, I have fallen down, let me back home". All people started begging the shaman: "Send him back somehow". The shaman shamanized, he shamanized the man's trace. Having stopped shamanizing he sent [him] off, for that he goes home. The man said: "How do I come home? My home is up there". The man was thinking, he went off. The shaman said: "You go along this path". The man thought: "How do I get home, though? Without help (?) I can't make it". He went along the path, which the shaman had shown. He was going and going, he saw a ladder, the ladder goes up. He climbed onto the ladder, he was climbing, he was climbing very long. He came to the place, where he had sunk, where he had dove in, there he took an ice pick and went home.</p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Man-Worm</title>
+        <editor role="collector">Edward William Nelson</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NN08565161</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NN08565161</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Nelson, Edward W. (1899): The Eskimo about Bering Strait. In: Eighteenth Annual Report of the Bureau of American Ethnology. Washington: Government Printing Office, part I, 1-518. Quot. p. 516.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA27805">Kotzebue Sound Inuit</name>
+          <date notBefore="1877" notAfter="1881" type="recorded">Recorded sometime between 1877 and 1881.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>In very ancient days there lived a large Worm who was married to a woman, and they had a son who was also a Worm. When the son was fully grown the father told him to go to the middle of the earth plain and there in a small house he would find a wife. The son then used his magic powers and made himself small, so that he could travel faster, and journeyed away. When he came near the small house of which his father had told him, he felt the earth shake and tremble under his feet, and he feared that he would be killed. This happened several times, until finally he reached the house. Here he found that the cause of the shaking of the earth was the talk of an old woman who lived in the house with her daughter. These people received him hospitably, and finding that the girl was very beautiful, he married her. After he had lived there four years he remembered his parents and started to go back to visit them, but on the road he was killed by another Man-worm, who was a shaman. In a short time after this the father felt a strong desire to see his son, so he started to go to him. On the way he found the body of his son, and looking about saw a large village close at hand. He went to the spring where the villagers got their water, and making himself small, hid in it, where, by the use of magie, he killed nearly all the people in revenge for his son's death. When there were only a few people left, an old woman in the village, knowing that some magic was employed against them, worked a strong charm which caused the sea to rise and break the ice upon its surface and carried it over the land until the spring was covered; then the floating ice blocks were dashed together until the Man-worm was ground to pieces and destroyed, so that the people were freed from his magic.</p>
+    </body>
+  </text>
+</TEI>

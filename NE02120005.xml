@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Itja in Hawk Clothing</title>
+        <editor role="collector">Angelina Ivanovna Kuzmina</editor>
+        <editor role="narrator">Kusamin Maksim Ivanovich</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NE02120005</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NE02120005</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0">CC BY-NC-SA</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Brykina, Maria/Orlova, Svetlana/Wagner-Nagy, Beáta (2021): INEL Selkup Corpus. Version 2.0. Publication date 2021-12-31. https://hdl.handle.net/11022/0000-0007-F4D9-1. Archived at Universität Hamburg. In: The INEL corpora of indigenous Northern Eurasian languages. https://hdl.handle.net/11022/0000-0007-F45A-1. Quot. p. s.p..</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CEE15004">Northern Selkup</name>
+          <date when="1976" type="recorded">Recorded in 1976.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>Ichakichika. Ichakichika lived with his grandmother. Ichakichika goes to the forest and sees that one human is chopping [trees].  He comes closer and sees that it is a big devil. "Grandfather, what are you doing?" "I'm chopping trees," â the devil <note>[OSV:] The word "tÃ¤rÉ¨ÄÊ¼aktÉ¨" has been edited into "tÃ¤ttÉ¨ÄÊ¼aktÉ¨".</note>says (/said). "Earlier I used to split this tree with my bare hands. Come on, grandson, split it, try it!"  The old devil splits the tree. "Come on, stick your hand in, stick both hands in, come on, now push!"  The tree squeezed his hand, both hands. He [Ichakichika] is sitting there without force. The devil said: "Sit and dry out."  The devil went away. Ichakichika was sitting there [sooner or later?]. He considered how he could get out.  He walked and walked, struggled [with the tree]. A bear came to him. "Grandfather, split the tree."  The bear split [the tree] and pulled his hand out. And Ichakichika's hands came unstuck. He pulls them out of the  tree. He walks and walks, thinking how he could chase and meet the devil. He walks and walks, thinking how  he could chase, catch and take the devil. He thinks where to go. An idea came to him: "I have to <note>[OSV:] unclear meaning of the </note>look into my pocket, [feel it?]!" In the pocket he found the skin of a hawk. He began to knead the skin of the hawk.<note>verb "korpÉ¨tqo".</note> He kneaded and kneaded, it got bigger. He put it on his head. Then he pulled it down onto his back. He began to knead the skin again.  And again he put it on his head, on his body. Then he took it off from his skin [his body] and from his head. He kneaded, kneaded and kneaded the skin again. He thought again: "I have to knead it again". He kneaded, kneaded and kneaded the skin of the hawk.  It got bigger. Now he put the skin of the hawk on his body, on his skin. The skin of the hawk reached  him to the legs. After this he already turned into a hawk. Then he flies up, sits down a little further on. Sitting he shakes his  feathers. He shook his feathers and flew up to the sky. And he soared there, circled in the sky.<note>ââ[OSV:] 1) The verbal form has been edited into "siqlaltÉ¨mpÉ¨sÉ¨tÉ¨"; 2) the word "num-É¨-nÊ¼aËq-tÉ¨" has been edited into "num Ä±nÊ¼nÊ¼aËqÉ¨t".</note> Then he flew up, flew down along the river or flew up again.  Once he sees a boat swimming on the river. He flew a little bit down. He sees the devil <note>[OSV:] "Ä±llÃ¤ Ã¼ËtÉ¨qo" - "let go down".</note>driving with his dwo daughters. The devil sees the hawk circling over his head. Flying it circles. "Oh, daughters,  look, what a beautiful wild animal is flying over our heads!" The devil sings to his daughters: <note> [OSV:] The postpositional form has been </note>"Daughters, daughters, look, what kind of animal is over us, [look] how the animal is flying!" The hawk flew up, came earlier <note>edited into "poËroËqÉ¨nÉ¨t".</note>to the river than they, it sat down on a big larch on the riverbank. Then, having pulled the tops of two larches together, it hung up a snare in the middle of the  river. The devil comes singing, [with him] are his two daughters. He came, approached the snare on his boat.<note>[OSV:] The word "tÃ¤rÉ¨ÄÊ¼aktÉ¨" has been edited into </note> The devil doesn't see the snare. The snare pulled the two larches together through his neck.<note>"tÉttÉ¨ÄÊ¼aktÉ¨".</note> The devil didn't notice that he died. He [Ichakichika] caught the devil's daughters in the boat, pulled it to the shore, and threw at first one of the devil's  daughters into the clay and trampled her. He threw also the second daughter there and trampled her.  The one, who listened to my fairytale, has eaten forever.</p>
+    </body>
+  </text>
+</TEI>

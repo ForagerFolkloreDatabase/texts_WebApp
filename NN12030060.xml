@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Origin of the Buffaloes</title>
+        <editor role="collector">Christiaan Cornelis Uhlenbeck</editor>
+        <editor role="narrator">Nínoχkyàio</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NN12030060</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NN12030060</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Uhlenbeck, Christiaan C. (1911): Original Blackfoot Texts from the Southern Peigans Blackfoot Reservation, Teton County, Montana. With the help of Joseph Tatsey collected and published with an English translation. Amsterdam: Müller (Verhandelingen der Koninklijke Akademie van Wetenschappen te Amsterdam, Afdeeling Letterkunde, NS 12,I). Quot. pp. 6-12.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA31305">Piegan</name>
+          <date when="1910" type="recorded">Recorded in 1910.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>Long ago the ancient people used to eat roseberries, hard-seed-berries, bark, black alcali. There was a man, [that] camped alone. His wife was picking roseberries about, and there she met a young man. The young man said to her: Have you a daughter, that you are willing to give me? [She said:] I shall go home, I shall tell my daughter's father. If he is pleased, he will perhaps go and tell you. That woman's husband was wise. Then he thought: I shall go and see him, I shall perhaps have use of him. He went to him. When he saw him, he liked him. He said to him: Let us go home together, I shall have you as a son-in-law. That man came close to his lodge. He spoke ahead to his wife: Go outside. Here is your son-in-law. It is not good, that you see him. Then that woman went out. She began to build a lodge. She built the lodge with rye-grass, bark, [and] leaves.</p>
+      <p>They fed him. The things they used to eat, they feel him with. That young married man then ate of the black alcali and the hay. For two nights he just ate the same [black alcali and hay], those other things [the bark and the two kinds of berries] he refused to eat. That man had a suspicion, he knew, that he <pb n="7"/>[his son-in-law] was not the same kind of being as we are. That man was wise. After four nights he went to him. He said to him: What kind of being are you? You are not the same kind of being as 1 am. Why don't you eat from these bark, rose-berries, hard-seed-berries, [which] I eat? Of the two things, which you eat now, hay and black alcali, we don't eat the hay, but we [do] eat the black alcali. Now [go and] hunt. [He said:] Yes, I shall hunt. And he hunted.</p>
+      <p>He was one night out, where he went to hunt. And he brought the: meat from a carcase. It was a person. Then he [the father-in-law] went to his son-in-law. When he knew [that] the one, that he [his son-in-law] had killed, [was a person], he said to him: These pieces of meat, that you have brought from a carcase, for a time I shall not eat of them. [Go] soon [and] hunt, kill some one of your tribe. I shall decide, which of the two, that you will bring pieces of meat from, is best. [He said:] Yes, I shall kill [some one] of my tribe.</p>
+      <p>He was one night out again. He brought pieces of meat from a carcase, [belonging to] his tribe. [It was] a partner of his, [that] was killed by him. That wise man looked at them again, he knew that they were of different kinds [these pieces and those he saw before]. They then ate of those pieces he had first brought <pb n="8"/>in. They vomited them up. They ate of them alone, but his children did not eat of them. And they ate again of those new pieces. They did not vomit them up. And his children ate, all of them. They did not vomit it up. And he gave his wife and his children again to eat of those last pieces. They did not vomit it up. And they fed their son-in-law. They gave him to eat of both, of his first pieces and the latter ones. And they had done eating. That man said to his wife: Which of the two [kinds of pieces] that you ate do you like best, these that you vomited up, or these that you did not vomit up? Which will be called buffalo? [She said:] The last pieces which that person brought, he [from whose carcase those pieces were taken] will be called buffalo, and those first pieces which he brought, he [from whose carcase those pieces were taken] will be called person. And then they had finished giving them names.</p>
+      <p>He said to his son-in-law: Where are you roaming about? He answered him: I roam about under the water. He said to him: Now you have got a name. He said to him [also]: Which may be your name? He answered him: Our name is water-bull. He said to him: What do you eat? He answered him: We eat you, [we eat also] hay and earth, we eat three things. That man said to his son-in-law: Now we shall eat you. And that man <pb n="9"/>picked up fire [that means: a burning fire-stick]. He hit him with it. His son-in-law just picked up that piece of human flesh. He just pressed it under his arm, he ran out, he turned into a buffalo, he jumped into the water.</p>
+      <p>Next summer his daughter gave birth to a child. Her child was a buffalo-calf. Then that man said: We shall move. That child will not be killed. He will be left here, we are ashamed of him. Yes, there he was left. There was a log, he was left by it. He got to be a year old. Where he stayed, he did not die. And he turned into a person.</p>
+      <p>He just went in the direction, [he thought] his mother was in. And he was found by two persons, young men. They pitied him very much. They treated him as their younger brother. They took him home with them. And next summer he said to them: You have taken pity on me. Let us go to my father. Then they said: Yes. Then they started. They came there to a lake. They stayed there. Suddenly [two] buffaloes [the boy's father and a companion] came out [of the lake]. They got ashore. They turned into persons. They got far from it [from the lake]. Here that boy followed running. He turned into a buffalo. Then they [the two buffaloes] saw him. They waited for him. When he got near them, he turned into a person.</p>
+      <p><pb n="10"/>One of them was his father. He tried to influence him [his father-in-law] by means of [delivering] his companion [that they might eat him]. They met there his son. And those that were behind [the men with whom the boy had come to the lake] rose up. They went towards them [the buffaloes]. One of those who met just ran away. He just ran into that lake. And those people all met. That boy said to his elder brothers [the men he had come with]: Here is he, who is my father. That water-bull said to them: Now you will get something for your visit. We shall go to my father, the chief bull. He stays under the water. That water-bull, one of them, went around [one of the men], and sat down, and he [the man] got on him. Then his son did the same. The other one got on him. When that water-bull and his son started to run, they snorted water. They covered [literally: they did] the [two] riders with it. They [the two riders] did not know, when they [the water-bulls] ran into the water. They were told by the water-bull [the boy's father]: Now get off. And when they looked, they suddenly saw all the people under the water. They went to the chief of this people. They [the bulls] cried out all over the camp, that they [the visitors] must not [be allowed to] go out. Those persons [the bulls that cried out] said, <pb n="11"/>that they should kill and eat them. That chief then told them: I shall not consent to what my children here say. I shall now camp over there far away. I give you [that means: to the tribe of the two visitors] all the people here [the buffaloes]. I give you half of them, but I don't give you the other half [at this time]. [The old people nowadays still expect the other half of the buffalo-herd coming.] That water-bull [the son-in-law] had the human flesh, [that] had turned into a dog, always under his arm. He just gave that dog secretly to his father. He said to him: When I go out, you must turn that dog loose. The water-bull and his son were ridden again [by the visitors]. Those two persons [the visitors] came out of this water. The father of that water-bull turned that dog loose. That he barked running, that's why these many people all turned into buffaloes. The way those four persons went they all followed running. When they all ran out, they could not go back into the lake. They were given away by that chief. That water-bull and his son turned into persons.</p>
+      <p>The water-bull was not afraid any more [of his father-in-law, because now he had turned loose the buffaloes]. Then he went straight to his wife. His father-in-law was not angry with him any more. He thought it good, <pb n="12"/>that the buffaloes were turned loose for him. That man said to his son-in-law: What can these buffaloes be killed with? That water-bull said to his father-in-law: They will die by flints. They will be skinned with the same. They [the flints] will be handled on sticks. You will build your corrals to cliffy rocks and steep banks. There they will jump into. You will kill them. He said to his father-in-law: Now I shall eat these buffaloes. I shall not go back to my father. I am very much used to my wife. He said [also] to his father-in-law: When I die, you must put me into the water. I shall turn into a rock. Then the boiling is ended [that means: the story is at an end].<note>Cf. C. WISSLER - D. C. DUVALL, Mythology of the Blackfoot Indians, New York 1908, p. 128 sq.</note></p>
+    </body>
+  </text>
+</TEI>

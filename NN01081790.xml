@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Ititaujang</title>
+        <editor role="collector">James S. Mutch</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NN01081790</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NN01081790</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Boas, Franz (1901): The Eskimo of Baffin Land and Hudson Bay. From notes collected by George Comer, James S. Mutch, and E. J. Peck. New York: AMNH (Bulletin of the American Museum of Natural History, 15,I). Quot. pp. 179-182.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA27903">Baffin Island Inuit</name>
+          <date notBefore="1883" notAfter="1899" type="recorded">Recorded sometime between 1883 and 1899.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>One day a man, while out caribou-hunting in the interior of the country, heard the cries of women. Although he searched everywhere, he could not see any one. Finally he came in sight of a small lake, in which he saw four women bathing. They had taken off their boots and their jackets. The man kept in hiding behind some high ground for a time, and then crept up to the lake cautiously. On the shore he found the women's clothes, of which he took possession. Now the women observed him. They cried and asked him for their clothes. He gave them to three of them, but those of the last one he kept. The other women put on their boots and jackets, and at once they were transformed into geese, {180} and flew away. The remaining woman asked again and again for her jacket; but instead of giving it to her, he merely asked, "Will you be my wife?" She did not reply, but only asked for her jacket. He said again, "Will you be my wife?" She retorted, "They have all left me. Give me my jacket." Again he asked her, "Will you be my wife?" and finally she consented, but still continued to ask for her jacket. He said, "Do you really want to be my wife?" - "Indeed, I will," she answered. Then he asked her to go home with him, and they lived together as husband and wife.</p>
+      <p>After some time she gave birth to a boy. When the boy was large enough to walk about, the people caught a whale. They were all carrying the meat ashore, the goose woman among them. Suddenly she noticed some of the blood of the whale on her dress. Then she began to cry. She left the people, took her child, and went along the beach. Soon she found some feathers, which she placed between her fingers and between those of the boy. At once both were transformed into geese, and flew away. The people who had seen the transformation called to the man, whose name was Ititaujang, saying that his wife and child were flying away. Then he left the whale and followed them to the land of the birds, away beyond the horizon.</p>
+      <p>After he had travelled for some time, he saw two large rocks which shut and opened. He tried to go around them, for fear of being caught between them; but he was unable to do so, and had to pass between them. After he had succeeded in passing them, he went on, and came to two wolves, one on each side of his path, which were eating something. He tried to go around them, but was unable to do so. He had to rush through between them. He went on, and came to a large pot full of boiling meat. He could not go around it, but had to pass over it, and was nearly scalded in trying to do so. He went on again, and came to a large lamp. He could not go around it, and had to step across it. After going on for a long time, he saw a man's pelvis lying on the ground. He tried to go around it, but he had to cohabit with it and then step right over it.</p>
+      <p>{181} After he had passed this last obstacle, he went on for a long time. Finally he saw a man. When he looked at him, he noticed that he could look through his body. He had no intestines [?]. He became frightened, and went around and approached the man from behind. The man's name was Ixaluʼqdjung. He was standing at the bank of a brook, chopping chips from a piece of red wood with his hatchet. There was also a piece of white wood lying by his side. When Ititaujang approached him, Ixaluʼqdjung asked, "Where do you come from?" The traveller replied, "I come from that direction," pointing towards Ixaluʼqdjung's back. The latter rejoined, "If you had come the other way, I should have killed you with my hatchet." He did not want any one to see that he had no intestines. Then Ititaujang asked, "Do you know where my wife is?" Ixaluʼqdjung replied, "Listen!" Then they heard distant voices, and that of the lost wife among them. The people were on the other side of the river. The traveller asked Ixaluʼqdjung to help him to cross the river, which was very deep. Then Ixaluʼqdjung cut off a piece of wood and gave it to him. He said, "This is your kayak; shut your eyes, and do not open them until you reach the other shore." The traveller went aboard; but when he was some distance from shore, he opened his eyes a little. At once the kayak disappeared under him; but when he shut his eyes again, he found himself again in his kayak.</p>
+      <p>Finally he reached the other shore, and went on until he saw some huts. Then he saw a boy coming towards him, and recognized his son. The boy ran back to the hut, and said to his mother, "Father is coming!" But his mother merely said, "He will never find us here." The boy ran back to his father, who said to him, "Tell my wife to come here." The boy ran back again, and said to his mother, "Father has arrived. He wants you to come and see him." The mother said to the boy, "Go and tell him not to come here. The ground here is boiling." By that time the man had arrived at the door of the hut, and he entered. Inside he saw his wife and an old man. The latter said, "Bring me the chest with the feathers." The woman gave him the chest; and as soon {182} as he took it, the woman, the child, and the old man were transformed into birds. Then the man became very angry. He took his knife and cut open his wife's belly while she was flying away, and eggs fell out of it.[[See another version on p. 328.]]</p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>[The Island of Seals and Sea-Bears]</title>
+        <editor role="collector">Bronisław Piłsudski</editor>
+        <editor role="narrator">Śiśrátoka</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NE04040590</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NE04040590</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Piłsudski, Bronisław (1912): Materials for the Study of the Ainu Language and Folklore, ed. under the supervision of J. Rozwadowski. Cracow: Imperial Academy of Sciences. [Repr. in: Piłsudski, Bronisław (1998): Materials for the Study of the Ainu Language and Folklore, ed. by Alfred F. Majewicz. Berlin/New York: Mouton de Gruyter (The Collected Works of Bronisław Piłsudski, 2; Trends in Linguistics. Documentation, 15,2), 1-272.] Quot. pp. 59-62.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CEE15701">Ainu</name>
+          <date when="1903" type="recorded">Recorded in 1903.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>The people of Tokes were formerly many people. The wife of one man became big with child. This man was angered [and] beat his wife with a thong [made of the skin of] a sea-lion. [He] was not [however] very angry, [only] a little angered, [he] slept with [his] wife [and] was heart-eased. Now [his wife] bore; two female children were. Now these maidens grew up. One maiden practised sorcery, this maiden's name, Saunnonnu.</p>
+      <p>Formerly, however, about Sireto were no islands in the sea. Saunnonnu was the child of a sea-god, and the other girl the daughter of a land-god. The woman [their mother] then, although [she] had for husband a man, [yet her] daughters were not the children of man: one, the child of a sea-god, [and] one, the child of a land-god. Saunnonnu therefore, being the child of a sea-god, now making [pratice of] sorcery in Sireto, brought an island out directly beyond that sea.</p>
+      <p><pb n="60"/>Formerly, this island, when it was at first brought out by Saunnonnu, the island had only one year-old-seals. [It] had two names: 'Tukara koro mosiri' [the island of one year-old-seals] [and] 'Pompʼe koro mosiri' [the island of little seals]. Afterwards, on this island were very many little seals, [and] round about the island were many. Now this Saunnonnu sailed to this island brought out of the sea, [and] Saunnonnu lived on this island atop of an island reef. While Saunnonnu was there, her kinsfolk went there to the island in canoes: filling and filling the canoes with plenty of seals, they would sail [back] to the shore. The kinsfolk of Saunnonnu lived very well.</p>
+      <p>Now the people living in a certain village [happened to] quarrel; the quarrel [was] serious. Therefore the kinsfolk of Saunnonnu - one great canoe-full, people [in] plenty, her <pb n="61"/>kinsfolk bearing children in arms, women also, - all went to that island. When Saunnonnu saw [her] kinsfolk arriving there, [she] received all the kinsfolk; not [one] returned.</p>
+      <p>Afterwards, after this [there] were no little seals on the island; afterwards only sea-lions lived [there]. [It] being so, now again [there] were no sea-lions, only many sea-bears. Sea-lions are now [seen] on this island one by one. Such was the ancient tradition.</p>
+      <p>Formerly to this island there went Ainus: thanks to this, having killed seals, little seals also - on this island having killed different [kinds of] seals with full boats [they] returned home coming with [them] as far as Taraika: thanks to [this] ate well and fatly. Since, after that the Russians now have gone to that island, to that island the Ainus do not go. The Ainus all now live as if weeping.</p>
+      <p>This island having been brought forth before by the Ainus ... now owing to the Russians the Ainus do not go there and do not catch seals; the Ainus think of nothing else more [than] of this island; all the Ainus, even the women, as if weeping regretfully think [of it].</p>
+      <p>On this island now only Russians journeying there, kill <pb n="62"/>sea-bears, fill their boats [with them] and although [they] get a good price, do not give the Ainus one boat even to fill with sea-bears. Therefore the old old men and also the aged women, all recalling [this] strongly, shed tears.</p>
+      <p>Thus think the old men and women, therefore the young people think also thus: at any rate this island of sea-bears - the ancient tradition being such, the Russian officials - [they] being so many - at any rate should consider this island of sea-bears, [we] wish to profit [by] it together [with them]. All the Ainus also think thus. However, what the Russian functionaries think, we do not know: therefore no young Ainu ever speaks to a Russian functionary without reflection.</p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Mink Legend (Mink marries Frog-Woman)</title>
+        <editor role="collector">Franz Boas</editor>
+        <editor role="narrator">Yāʼgōlas</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NN01141280</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NN01141280</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Boas, Franz (1910): Kwakiutl Tales. New York: Columbia University Press &amp; Leyden: Brill (Columbia University Contributions to Anthropology, 2). Quot. pp. 128-131.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA29010">Kwakwakaʼwakw</name>
+          <date when="1900" type="recorded">Recorded in 1900.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>"Mother!" he said again, "I want very much to marry this Frog-Woman." - "But won't you get tired of her when she begins to croak?" - "That is what I like." - "Go on," said Mother. Then he said to her, "I want to marry you." - "Well, sit down," said Frog-Woman. "Oh, go on, and begin to croak!" - "Nonsense," said his wife, "these have to begin croaking first." - "Go on," said again Born-to-be-the-Sun. "Do it now. Wug̣ēʼ, wug̣ēʼ!" said Born-to-be-the-Sun. "Oh, you little one, keep quiet! This one has to begin croaking first." Then the first woman began to croak, and then all the frogs began to croak, and Born-to-be-the-Sun also: Wug̣ēʼ, wu g êʼ, wu g êʼ!" Thus he said. Then there was much noise of croaking. Born-to-be-the-Sun became tired of the noise. "Stop, now!" he said to his wife. "Oh, you are a funny fellow." He just became very tired. "Stop!" He just struck his wife several times in the face. "Were you not forbidden this? No, indeed! you are the right ones to take a wife from." Thus he said. Then Born-to-be-the Sun left, and went home to his house. "Where is your <pb n="131"/>wife?" said Mother. "Oh, I just left her. The little ones made me tired with their noise." Did I not try to tell you so?"</p>
+    </body>
+  </text>
+</TEI>

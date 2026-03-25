@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Old Man and the Wolf on the Ice</title>
+        <editor role="collector">Christiaan Cornelis Uhlenbeck</editor>
+        <editor role="narrator">Joseph Tatsey</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NN12041700</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NN12041700</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Uhlenbeck, Christiaan C. (1912): A New Series of Blackfoot Texts from the Southern Peigans Blackfoot Reservation, Teton County, Montana. With the help of Joseph Tatsey collected and published with an English translation. Amsterdam: Müller (Verhandelingen der Koninklijke Akademie van Wetenschappen te Amsterdam, Afdeeling Letterkunde, NS 13,I). Quot. pp. 170-171.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA31305">Piegan</name>
+          <date when="1911" type="recorded">Recorded in 1911.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>There the Old Man travelled about down a river. It was late in the fall. That river began to freeze over. In the morning he was still walking along [that river]. He saw, there was a wolf on the ice, [who] would run and quickly turn around. He would pick up something here and there, and swallow it. The Old Man said: What is he doing? He [the Old Man] ran around out of sight towards him, he came near him, he saw him. What he was picking up and swallowing, were pieces of fresh tallow. [The Old Man] cried, walking towards him [and saying]: Oh, oh, let me do in that way. He was told by [the wolf]: Come on. Old Man, it is not important. When we are hungry, we say in the mornings, where the ice is smooth - then he started off [and] said: Ice must begin to crack, ice must begin to crack, hù+wíʼ, hù+wíʼ. He would just knock fresh pieces of tallow out [of the ice], and then he would quickly turn around and pick up pieces here and there and swallow them. He was told by [the wolf]: We do it only once [a day]. And there the Old Man went. He had gone out of sight. He went on the ice, and then he did, as he was told by [the wolf]. He just knocked pieces of fresh tallow out [of the ice], and then he would quickly <pb n="171"/>turn around and pick up pieces here and there and swallow them. Then he went again. He came again on other ice. Then he again walked over it. lie would keep saying: Ice begin to crack, ice begin to crack. He could not knock out fresh pieces of tallow. He got angry. He was angry jumping up. He then broke through the ice. He was nearly drowned. He had a hard time to get out of the water. And that was another mistake, he made.<note>Cf. Mc Clintock ont 343, Simms tc 287 sq.</note></p>
+    </body>
+  </text>
+</TEI>

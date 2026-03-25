@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Man who used Magic against the Storm</title>
+        <editor role="collector">Waldemar Bogoras</editor>
+        <editor role="narrator">Talʼiʼmak</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NE00634311</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NE00634311</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Bogoras, Waldemar (1913): The Eskimo of Siberia (Memoirs of the American Museum of Natural History, 12,III; Publications of the Jesup North Pacific Expedition, 8,III). Quot. p. 431.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CEE27701">Ungazikmit</name>
+          <date when="1901" type="recorded">Recorded in 1901.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>In the village of Uñiʼsak lived a man and his brother. A heavy storm arose, and the wind would not cease at all. It was impossible to hunt; and half the inhabitants, those that were less strong and enduring, died of starvation. Then the elder brother said to the younger one, "Go out and try to restore quiet in the world." The youth went out, and called into the darkness, "O great Outer World! your neighbor Sea-God is killing us. From mid-ocean bring sea-food for our children!"</p>
+      <p>He entered, and after a while sent his sister-in-law to look at the weather. She entered, and said, "Oh, it is as before, wind and tempest." He went out again. "O great Outer World! your neighbor Sea-God is killing us. Bring from mid-ocean sea-food for our children!"</p>
+      <p>He entered, and after a while sent his sister-in-law to look at the weather. She returned, and said, "It is more quiet now." - "Aha!" He went out again. "O great Outer World! bring from mid-ocean some sea-food for our children!"</p>
+      <p>At last it grew quiet, and the storm was over. Then far out at sea there appeared a little cloud. A walrus's voice was heard roaring out of the cloud. Then the snorting of a thong-seal and the cries of a young ringed-seal were heard. Walrus, thong-seals, and ringed-seals came in great numbers. They landed, and came directly to the houses. Some of the houses were nearly crushed under their weight. All night the people were stabbing them, until the morning. Then all the hunters were quite exhausted. The sea-game went away, but all the storehouses were full of meat of the best quality.</p>
+    </body>
+  </text>
+</TEI>

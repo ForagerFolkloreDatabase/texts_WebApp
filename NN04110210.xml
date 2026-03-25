@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Girl Who Married a Star (Star Husband)</title>
+        <editor role="collector">Frank Alfred Golder</editor>
+        <editor role="narrator">Nicoli Medvednikoff</editor>
+        <editor role="narrator">Mrs. Reed</editor>
+        <editor role="narrator">Corneil Panamaroff</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NN04110210</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NN04110210</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Golder, Frank Alfred (1903): Tales from Kodiak Island. In: The Journal of American Folk-Lore 16(60/61), 16-31, 85-103. Quot. pp. 21-26.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA27722">Koniag Alutiiq</name>
+          <date notBefore="1900" notAfter="1903" type="recorded">Recorded sometime between 1900 and 1903.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>The chief of a very large village had an only daughter whom he never permitted to go outside of her barrabara [native home]. Two servant girls were at her beck and call, and they attended to her wants.</p>
+      <p>One lovely summer day, the earth and sky being clear and blue the air inspiriting, she felt herself irresistibly drawn to the window by the glad sunshine peeping through it, by the joyful shouts of those outside, and by the plaintive notes of the golden-crowned sparrow: and as she stood there, seeing and not seeing, she thought of her own sad life, and wondered why the pleasures of the other people were closed to her. She stood there a long time, and when away, there were tears in her eyes. Her servants were watching her; on noticing it, she sent them away, one for fresh water, and the other after sweet roots. At their departure her imagination and feelings took again control of her. Her past life stood out before her very distinctly, and she groaned when she thought of the numerous proposals of marriage she had received during the last year; for nearly every day one or more men from the neighboring villages came to ask her in marriage from her father. He was unwilling to part with her, especially against her consent; and she, with her very limited knowledge of men and their ways, thought marriage strange and foolish, and rejected all offers.</p>
+      <p>With this subject in her mind, she was interrupted by her servants, who were sent by her father to announce to her that a bidarka with two young men had just arrived to seek her in marriage.</p>
+      <p><pb n="22"/>"Oh! why should I marry? Go, and say to them that I have no desire to marry. I am content to live as I am. Here it is warm. Why should I marry when I am not even allowed to go outside?"</p>
+      <p>One of the servants took the liberty of suggesting that, "One of the fellows is very young and handsome, the other not quite so. You had better marry now."</p>
+      <p>"If he pleases you, marry him. I am satisfied and warm here; and why should I marry?" she curtly replied.</p>
+      <p>"They are waiting for you," the other servant said, "and you may come outside if you like."</p>
+      <p>"Go, bring me the water and roots, and tell them I will not marry." Saying this, she pushed them outside, and, throwing herself on the bed, had a good cry. When the servants returned with roots and water, they found her in such a state that they feared she was ill. They questioned and tried to pacify her, but she paid no attention to them. "What have we done to you that you should be angry with us. It is not our fault that you please all men, and they desire to marry you. If your father finds out your present condition, he will punish us," etc.</p>
+      <p>In the evening she said to the girls, "Go, sleep in the adjoining barrabara; if I need you, I will call you." When they had filled the stone lamp, fixed her bed, and in other ways arranged for her comfort during the night, they went out.</p>
+      <p>Unable to sleep, the girl sat up, making sinew thread; and about midnight she heard some one cutting the intestine window, and a man's voice calling softly,</p>
+      <p>"Chit! chit! chit! chit! look this way." She did not, and went on with her work.</p>
+      <p>"Chit! chit! chit! chit! just look at me once," he pleadingly called. If she heard him, she took no notice of him.</p>
+      <p>"Chit! chit! chit! chit! look at me just once." For the third time she heard the tempter's call. This time she looked up, and beheld a very handsome young man, with a face as white as hers, and she asked him, "Why do you ask me to look at you?"</p>
+      <p>"Come here quick! I wish to marry you," he whispered.</p>
+      <p>"What for?"</p>
+      <p>"Come quick! I am going to marry you. Why spend your days and nights in loneliness here. Come with me and see the world," he coaxingly said.</p>
+      <p>Without more ado she obeyed, and with the aid of her lover escaped through the window, and hurried down to the beach. There a bidarka and her lover's friend were awaiting them, and after stowing her away in the bidarka, they paddled off.</p>
+      <p>It was daylight when they landed, and she was taken to a nice <pb n="23"/>clean barrabara. Here she lived three days, and during that time she was by turns the wife of both. On the morning of the fourth day she was led to a large, open, cold barrabara, and tied up there. It was in the fall of the year, and the cold wind blew through it, and made her shiver with cold. Her food consisted of bare bones. In this cruel and sure way the men hoped to be rid of her.</p>
+      <p>The second morning of her imprisonment, and while the men were away hunting, the girl, cold and hungry, heard some one approaching. "Tuck, tuck, tuck, tuck," it sounded as it drew nearer and nearer until it ceased in the entrance. She raised up the leather door, and a very old, shrunken, shrivelled, and toothless woman, bearing a platter of hot meat, entered and said, "I have brought some meat, for I know you are hungry. Eat fast." The girl, being very hungry, ate as fast as she could, but still not fast enough please the old woman, who continued hurrying her to eat still faster. "Eat faster - they will soon appear - why did you marry them - faster still - they are almost here," she said almost in one breath. When the girl had done eating, the woman cleaned her teeth, that no sign of food should be left on the premises, and hastily snatching up her platter, disappeared as mysteriously as she appeared. "Tuck, tuck, tuck, tuck," floated back faintly, and died out altogether.</p>
+      <p>The old woman did not go too quickly; for the men appeared very soon after. "Still she lives; she does not even change color. Somewhat tougher than her predecessors," they laughingly remarked, and left her. A little later they brought her bones; and the girl went at them as if she were famishing. Noticing that the girl was not the worse from her treatment, and suspecting something was wrong, the men commenced to watch. They would go out a short distance from the shore, and then come right back, and conceal themselves. But during their brief absence the old woman appeared and fed the girl. For several days this spying continued.</p>
+      <p>Very early one morning, just after the men had gone out in their bidarka, the old woman came, with meat, and speaking rapidly, said, "Eat fast - why did you come here - they have starved many girls before you. If you do not wish to die, come with me. I have a son who desires to marry, but cannot get a wife. This is the last time I come to you -the men have discovered, are aware of my visits. If you come with me, the men shall never find you" –</p>
+      <p>"I will go with you," interrupted the girl.</p>
+      <p>In a twinkle the old woman unbound her, and set her in a large basket, which she put on her back. "Now close your eyes tight, and don't open them till I tell you," cautioned the old woman. As they began to move, the girl felt the cold air while they buzzed and <pb n="24"/>whizzed through it. Tiring of keeping her eyes closed, she opened them just a little. "Äi, Äi, Y-ä-h," screamed the old woman, "close them, or we will fall in the water." The noise and whir of the air, as they rushed through it, was so annoying that she began to unclose her eyes for the second time. "Don't open them now; we will soon arrive, and then you may look," pleaded the woman.</p>
+      <p>When they came to a standstill, the girl found herself in front of a large barrabara. The interior was cozy and clean. A cheerful fire was burning, over which were several pots with seal and duck meat. Spreading out a mat in the front part of the room, the old woman begged the girl to be seated; then she brought her a new pair of torbarsars and a sea-otter parka [native dress]. While the girl was dressing, the old woman ran outside for a moment, and on her return said to the girl, "Don’t be scared when you see my son; although his appearance is terrifying, yet he is very harmless." This news had a pensive effect on the girl, for she wondered what she had got into. To distract her from her gloomy thoughts, the old woman placed food, and talked to the girl. Pretty soon she went out again, and hurried back, announcing, "Here comes my son." The girl, already half-frightened, kept her eyes on the doorway, and when, of a sudden, a lot of willow twigs darkened it, she fell back, screaming, "Äi, Äi, Y-ä-h! Äi, Äi, Y-ä-h!" The old woman hastened to her, trying to calm her. "Don't be alarmed," she said; "this is my son; these are some of his hair." She stared at him, doubting her own eyes; for he was one-sided. That side, however, was complete, and had all its members in the usual place, except the eye, which was in the forehead, and shone very brilliantly.</p>
+      <p>"Look at the wife I brought you," the mother called the son's attention to the girl. He turned his one eye on her, and, from the way it winked and sparkled, he was well pleased. Probably because he was embarrassed, or perhaps he thought it wise to leave the two women to themselves for a time, he left the room. When he returned, a little later, with seals and several kinds of ducks, he found the bride looking more cheerful. The marriage was not delayed at all. In the course of a very short time a child was born, a boy, who was the perfect image of his father, and ‘just as pretty,’ as the grandmother said. There was happiness and no lack of cheering light in the family, especially when pretty, one-sided baby awoke and opened his little wee sparkling eye. Mamma, as was natural, vowed it was the brightest baby she had ever seen, and it had more expression in its one eye than other babies had in their two eyes and face together, to which statement grandmother readily agreed.</p>
+      <p>Although a bride of several months, the girl had not yet become well acquainted with her husband and his strange body, as is shown <pb n="25"/>from the following incident: One night being stormy, the husband did not go out as usual, and during the night he asked his wife to scratch his moss-covered head, in which his hair, the twigs, were rooted. Telling him to keep his eye open, so she could see, she commenced the operation with the twigs first. In doing so, she disturbed a mouse, which ran and hid in its hole in the moss. "Äi, Ai, Y-ä-h!" she shrieked, and dropped his head; "there are mice in your head."</p>
+      <p>"Oh, no!" he declared, "they are mere fleas."</p>
+      <p>A year had passed since the happy marriage between the son of the sky and the daughter of the earth took place. The one-sided result of this marriage began to grow and become strong. Motherhood brought with it the desire to see her own parents once more. Permission to do this was granted, and the mother-in-law set about making a basket in which to send her down. When it was done, she called the young mother to the fireplace, around which were four flat rocks, and said, "Raise these rocks, and try and find your father's village." Darkness of night was in the first one; the rosy tints of dawn were visible in the second; a grand sunset filled the third; and in the fourth she recognized the village of her father, wrapped in midday splendor. Then she seated herself in the basket, to which a rope was tied; but, before lowering her, the mother-in-law gave her some advice, "Close your eyes tight, and don’t open them, for if you do you will fall. Should you meet with an obstacle on the way, stamp your foot, and it will disappear. A second obstacle may impede your progress; do likewise, and it too will vanish. When for the third time the basket stops, unclose your eyes, and you will find yourself in the home of your childhood. If it does not please you down there, seat yourself in the basket again, pull on the rope, and I will draw you up."</p>
+      <p>Placing the child in her arms, the old woman lowered away, and after encountering the enumerated obstacles, the young woman saw in front her native village. To the barrabara of her father she directed her footsteps, and, as she drew near, she noticed a grave close by. For when she disappeared so suddenly, her parents, thinking her dead, made a grave for her, probably to take her place [?]. She went in, and when the people there saw her with the queer-looking child in her arms, they ran pell-mell out of there, thinking she returned from the land of the dead.</p>
+      <p>This reception brought tears to her eyes, and, realizing for the first time the great gulf that separated her from her earthly relatives, and that her real home now was with the father of her child, she walked back to the basket, gave the signal, and a little later was welcomed by her mother-in-law and husband, from whom she parted no more, and with whom she is living to this day.</p>
+      <p><pb n="26"/>Her husband is a star. At sunrise each morning he goes to sleep for a few hours; after that he hunts ducks, seals, and other sea animals. If, on his return in the evening, it is cloudy and stormy, he spends the night at home with his family; but if it is clear, he stretches himself out on the sky, and observes the doings of the world below, as any one who takes the trouble to look up can see.</p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>How Raven Got a Good Meal</title>
+        <editor role="collector">John W. Chapman</editor>
+        <editor role="narrator">Stephen Morton</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NN01760400</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NN01760400</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Chapman, John W. (1914): Tenʼa Texts and Tales from Anvik, Alaska. With Vocabulary by Pliny Earle Goddard. Leyden: Brill &amp; New York: Stechert (Publications of the American Ethnological Society, 6). Quot. pp. 40-41.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA28601">Deg Xitʼan</name>
+          <date notBefore="1887" notAfter="1911" type="recorded">Recorded sometime between 1887 and 1911.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>Raven was travelling on a long journey, and he became very hungry. After a while he saw a big fish under the ice, and he made a fire and caught the fish. He put the scales aside; and after he had finished eating, he smeared them all over his parka, to make it look as though he had been doing nothing but catch fish. He went on, and after a long time he came to a big village. He went up into the kashime, and found it full of men. The old men were telling the younger ones to make the fire for the daily bath. So they made the fire; and after the bath, they asked the Raven for the news. He told them how his house stood alone, and how good the fishing was; and when they looked at his parka, they thought that he was telling them the truth. "Come," said he, "men, women, and children, everybody shall go with me to-morrow, and I will give you all the fish that you can carry away." So the next morning they all started out together; but when they had gone some distance, the Raven said, "Sakes alive! I have left my knife in the village!" So the men said to him that he had better go back and get it.</p>
+      <p>"All right," said he, "but you go ahead; and if you get to my house before I catch up with you, go into my cache, and help yourselves to the best fish that there are there." So he left them; and when they were out of sight, he flew back to the village, and went into the caches and ate up all the fish and meat that were there. Then <pb n="41"/>he went into the houses and ate up all the parkas and bed-clothing, and everything else that he found. When the people found that they had been fooled, they came back, and found everything gone. The Raven was flying over the village, and the young men tried to shoot him with their arrows, but no one was able to hit him. There was a poor boy, however, who told his grandmother that he would like to try. So his grandmother made him a little bow and arrow, and he killed the Raven; but all the people in the village died of hunger.</p>
+    </body>
+  </text>
+</TEI>

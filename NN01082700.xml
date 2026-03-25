@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Tales of Caribou-Hunters (#3)</title>
+        <editor role="collector">James S. Mutch</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NN01082700</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NN01082700</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Boas, Franz (1901): The Eskimo of Baffin Land and Hudson Bay. From notes collected by George Comer, James S. Mutch, and E. J. Peck. New York: AMNH (Bulletin of the American Museum of Natural History, 15,I). Quot. pp. 270-271.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA27903">Baffin Island Inuit</name>
+          <date notBefore="1883" notAfter="1899" type="recorded">Recorded sometime between 1883 and 1899.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>Uktowyouakjew was a man of small stature, but of great strength. He lived inland, not far from Qivitung, near a large lake, where he watched for caribou crossing from one side to the other. Then he pursued them in his kayak and killed them. When he was short of blubber, he would go down the river to the coast, and bring up a supply from the seals he had caught in the spring, the blubber of which he bad put up in skin bags. One day, on his return from the sea, he had a bag of blubber tied to his kayak. The river was very rapid, but he was able to make his kayak go right up through the rush of waters. His paddle had holes for handles, not notches like the ordinary paddles.</p>
+      <p>One day three people arrived, - two young men and their mother, Kookalejwak. After a while the older brother tried to seduce Uktowyouakjew's wife. Uktowyouakjew knew it, but he did not remonstrate. He merely said to his wife, "Why should you be content to have me for a husband all the time?" But she warned the brothers, telling them that her husband was very strong, and that he was very angry. But they did not believe that he was a strong man, because he looked so small. Kookalejwak said to him, "You are too small: my sons are much larger than you are. Your muscles are very slight. All you can do is to sit down in front of the lamp and cook seal-meat." Thus she taunted him every day.</p>
+      <p>One day these people were in their kayaks, hunting caribou on the lake. The two brothers were pursuing two caribou. Then Uktowyouakjew jumped into his kayak, and shouted to his wife to bring his paddle. He made his kayak fly as though it had wings, and very soon he overtook the two persons. He shot along right between their kayaks, and was moving so fast that the rush of the water upset them. Then he took the caribou by their antlers, and drowned them by holding their heads under water. He towed them back to the shore, and then helped the brothers {271} out of the water. He cut up his caribou, and said to the old woman, "Your sons look like men when they are in their kayaks. You think no other man is their equal in strength. Here, take some of this tallow." During the night, while Uktowyouakjew and his wife were asleep, the brothers left the place.</p>
+    </body>
+  </text>
+</TEI>

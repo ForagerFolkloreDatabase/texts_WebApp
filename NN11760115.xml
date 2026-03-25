@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Raven Cycle - Raven Tries to Marry a Pincess</title>
+        <editor role="collector">James Teit</editor>
+        <editor role="narrator">Tuu:ʼts ('strong rocks')</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NN11760115</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NN11760115</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Teit, James A. (1919/21): Tahltan Tales. In: The Journal of American Folk-Lore 32(124), 198-250; 34(133/134), 223-253, 335-356. Quot. pp. 210-211.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA28403">Tahltan</name>
+          <date notBefore="1912" notAfter="1915" type="recorded">Recorded sometime between 1912 and 1915.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <note>See RBAE 31 : 578, No. 176 (Tlingit; see Swanton, BBAE 39 : 108).</note>
+      </p>
+      <p>Raven continued his journey south along the seashore, and came to a river where the Mink people lived. These people were very wealthy, and their women were very pretty. Raven wanted to marry the daughter of a wealthy man or chief among them. He made a very large canoe, and got the birds to man it and act as his servants. He sat down in the middle of the canoe with a large hat on. He wanted the people to believe that he was an important man. He sent one of the birds to ask the wealthy chief for his daughter. He told the bird, "Say <pb n="211"/>that you are my son; and if he askes my name, tell him 'Skin-Bag.'" The chief asked the bird what was the name of his father; and he answered, "Skin-Bag." The chief said, "There is no nobleman of that name known to us. Tell your father that my daughter cannot marry a man of low rank." He asked his daughter if she liked her suitor; and she answered, "No."</p>
+      <p>Raven went away, and in a short time returned again in a lager canoe manned by many birds, who pretended they were his slaves. He also had much property in the canoe which he had made, to be given to the chief as presents for his daughter. Raven tried again; but the chief said, "My daughter can marry a nobleman of rank only. Your master cannot tell his rank, and not even his parentage. I do not want his presents, or canoe, or slaves, because he is of low rank and unknown parentage." The girl also said that she did not like him. Raven was persistent, however, and continued to return and ask for the girl. At last the people became tired of him, and drove him away. Raven did not know who his father was, or how he came into the world, perhaps because he left his home when he was so young.</p>
+    </body>
+  </text>
+</TEI>

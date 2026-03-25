@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Legend of the Stone Man</title>
+        <editor role="collector">Roberto Dabbene</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NS03960032</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NS03960032</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Dabbene, Roberto (2025): Two Yahgan and Four Ona Myths. Trans. for the Forager Folklore Database (FFDB Documents). Quot. pp. 3-4.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CSA39001">Yahgan</name>
+          <date when="1902" type="recorded">Recorded in 1902.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>One day a young Indian girl saw a stone of special shape, and she liked it so much that she never left it. Her father, seeing her always cleaning and playing with that stone, became angry and, taking it from her, threw it into the sea, near an island, close to the bay of Ushuaia.</p>
+      <p>The stone did not go to the bottom, but slid down to a small inlet of Nayarino Island, and there it was transformed into a giant whose body was made of stone, but with human hands and feet.</p>
+      <p>This giant hid in the woods of the bay and came out to surprise the passing canoes, killing the men and taking all the women to his wigwam. Once, in one of those canoes that the stone man assaulted, there was a boy, who managed to escape the slaughter, and the giant's women <pb n="67"/>hid him in the vicinity of the wigwam, determined to save him. One day the giant went to gather mushrooms in the bush and got a thorn in his foot. When he returned, he stretched out his leg to his women to have the thorn removed, but they then took advantage of the occasion and, under the pretext of looking for the thorn in the flesh, made a large hole in the sole of his foot, so that the giant could no longer stand up, and spent his days lying in the wigwam. Then, the women decided to get rid of him. They called the child they had hidden and had taken care of, and he, with his harpoon, wounded the stone man in the eye, thus causing his death. The women set fire to the wigwam and burned it with the giant until nothing remained but ashes.</p>
+    </body>
+  </text>
+</TEI>

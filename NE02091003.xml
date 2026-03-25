@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Fox and Wolverine</title>
+        <editor role="collector">Glafira Makarina Vasilevich</editor>
+        <editor role="narrator">Bayaki Nyoturcha</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NE02091003</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NE02091003</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0">CC BY-NC-SA</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Däbritz, Chris Lasse/Gusev, Valentin/Stoynova, Natalia (2024): INEL Evenki Corpus. Version 2.0. Publication date 2024-12-31. Archived at Universität Hamburg. https://hdl.handle.net/11022/0000-0007-FE38-D. In: The INEL corpora of indigenous Northern Eurasian languages. https://hdl.handle.net/11022/0000-0007-F45A-1. Quot. p. s.p..</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CEE15803">Evenki</name>
+          <date when="1930" type="recorded">Recorded in 1930.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>The fox came to a wolverine. The wolverine had cut down a Siberian pine and was shaving the wood to make skis. The fox peeled fat from his  mouth and ate it. The wolverine said: "What are you eating?" "My penis." The  wolverine said: "Yummy?" "Yum, yum!" The woverine gnawed on his penis, gnawed and said: "Ow, ow!", it said "ow" for a long time.  The wolverine died due to this. When it had died, [the fox] turned it around to verify that it had truly died, it  examined if it had truly died. It had stopped breathing, looking. It [=the fox] thought and  said: "Where do I go?" It left along the traces of the wolverine; it walks and walks, there the wolverine's house is seen.  It [the fox] goes to its [the wolverine's] house. The wolverine's children left the house and said: "Daddy, daddy is coming."  The wolverine's children said: "How did you come to be so hunched over?" "I made skis." It entered the wolverine's  house and sat down on the bed. It sat down by the wolverine's wife. It fell asleep; it became night; it  lived spending the night, stayed there until the morning. In the morning it left again, started to walk.  It met an old Russian there. It went along his sledge tracks. It went along the sledge tracks and said: "I will mount the sledge."<note>[DCh]: Not clear why "murdaká»Ëttá»ká»Ë" is in allative case and not in prolative case.</note> It mounted the sledge. The old man was guiding his horse. The fox tore open a box of fishes. It threw the fish out until it was gone. "Old man," it said, "your house can be seen, so I will get down."  It got out of the sledge, went back and started to spread out the fish it had thrown away. It  spread it out, spread it out, defecated there, where it had put the fish, urinated there. The old man  came home, looked for the fish; there was nothing there. He went to the fox and asked: "Did you go to look for  the fish?" "How would I not see it? Look where you went, there is my dung, my urine."  The old man kept asking the fox, then he turned back; he could not find anything.  "Now I will starve", he said. He started to cry. At home there is no food, but there is family.  The fox said: "I'll have a look how he is crying", it went to his house. There are kids, there is is nothing there.  The fox said: "Why do you not do anything, send you children away, for that they walk."  They did not go anywhere. The fox said: "Where did bag [the fish]? Let's go where  you bagged [it]." "I bagged [it] at the lake." They went to the lake together. The lake had more water, it was flooding.  The old man said: "I bagged the fish here. It started flooding after I had bagged [it]."  Spring came. The fox said: "Cross the lake along this trace." The old man went, he [started to]  cross [the lake], he went under.</p>
+    </body>
+  </text>
+</TEI>

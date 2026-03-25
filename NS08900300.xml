@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Tawkxwax and the Mud Wasp</title>
+        <editor role="collector">Alfred Métraux</editor>
+        <editor role="narrator">Pedro</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NS08900300</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NS08900300</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Métraux, Alfred (1939): Myths and Tales of the Matako Indians (The Gran Chaco, Argentinia). In: Ethnological Studies/Etnologiska Studier 9, 1-127. Quot. p. 30.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CSA39401">Wichí</name>
+          <date when="1933" type="recorded">Recorded in 1933.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>Nákwo is a kind of mud wasp which makes his nest with earth. Formerly this mud wasp was a man. When he had gone hunting and left his children at home, Tawkxwax, the trickster, happened to pass by and he ate all Nákwo's children with the exception of one who managed to escape. When Nákwo came back he asked the boy: "Where are your brothers? Who ate them?" The child said, "I know, it was Tawkxwax."</p>
+      <p>Nákwo followed the trail of the Trickster and finally arrived at the place where he was lying asleep near a pool. Nákwo took some clay and stopped Tawkxwax mouth, nose, eyes and penis. He also smeared his fingers with mud. The pitoi bird (witsɂãhót), who was then a man went fishing in the nearby pool. He saw Tawkxwax whose stomach had swollen up. The bird went immediately in search of other birds who had become men too. They all came with axes, but when they tried to cut off the mud, their axes broke off. A big bird (-potsax) [long-legged wading bird, which eats crabs, in Spanish aguara] whose beak is very large tried in his turn, but his axe was not strong enough and broke off. The birds did not know what to do for they no longer had any axes. Then came a very old little bird (with red head and a body of the same color as the owl's) who was armed with a tiny axe, but a solid one. Just as he was opening the anus of Tawkxwax all the accumulated excrement spouted on him and covered him with filth. Since that time this bird is very bad looking and his wings are gray.</p>
+    </body>
+  </text>
+</TEI>

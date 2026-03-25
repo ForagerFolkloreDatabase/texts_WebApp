@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Walloobahl the Bark Lizard</title>
+        <editor role="collector">K. Langloh Parker</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NP07060550</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NP07060550</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Parker, K. Langloh (1898): More Australian Legendary Tales. Collected from Various Tribes. With an Introduction by Andrew Lang. With Illustrations by a Native Artist. London: Nutt &amp; Melbourne: Melville, Mullen &amp; Slade. Quot. pp. 55-56.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CIPD0270">Yuwaalaraay</name>
+          <date notBefore="1856" notAfter="1898" type="recorded">Recorded sometime between 1856 and 1898.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <standOff>
+    <list type="glossary">
+      <item xml:id="GIP4128.035">
+        <gloss>Daen</gloss>
+        <desc>black fellow.</desc>
+      </item>
+      <item xml:id="GIP4128.037">
+        <gloss>Dardurr</gloss>
+        <desc>shelter made of bark.</desc>
+      </item>
+    </list>
+  </standOff>
+  <text>
+    <body>
+      <p>Every day, while the little camp children were playing and their parents were away hunting, a strange little boy used to come to the camp. He was only a little boy about six or seven years old.</p>
+      <p>Every afternoon, after having played for some time with the other children, he would run away from them, go round the different <rs ref="g:GIP4128.037">dardurrs</rs>, and steal food out of them all, taking, anything eatable he could find.</p>
+      <p>When the children saw him thus helping himself, they called out: "Don't touch our mother's things!"</p>
+      <p>He did not heed them, but took what he wanted. The children used to try and get what he took back. But when they came near to him he shot up suddenly taller and taller, far out of their reach. Having thus startled them into leaving him alone, he would escape to his own camp, the whereabouts of which no one knew. At last the parents began to notice how much of their food was taken during their absence, and they said angrily to their children, "You eat all our food."</p>
+      <p>"No," they said, "we do not. It is a little boy who comes while you are away. He comes along that track in the scrub."</p>
+      <p><pb n="56"/>The parents said: "To-morrow we will wait for him, and see if you are telling the truth, for it would be a strange little boy who could steal all the food we miss every day." Accordingly the next day the parents hid themselves in their humpies, instead of going out as usual.</p>
+      <p>The children played about, watching for the little boy; when they saw him coming one of them ran and told the parents.</p>
+      <p>Walloobahl, after playing for a little while as usual, went to the first humpie and sat down, looking round for what he might take. After he had rested a few minutes he helped himself to some food, and was then moving on to the next humpie. But before he had time to go many steps, out the men and women rushed, yelling at him and brandishing boomerangs and boondees, which they soon threw at him. But to their surprise, even as their children had said, up he shot, growing taller and taller, while their weapons fell harmlessly around him. Seizing more they threw another shower at him, aiming higher up, but he grew taller and taller, still unhurt. Then dropping their remaining boomerangs and boondees, they caught hold of their spears and threw these with deadly force at him. As the spears pierced him, Walloobahl fell dead.</p>
+      <p>As they saw him lying there, the <rs ref="g:GIP4128.035">Daens</rs> said: "He was our enemy, stealing our food. No need to bury him. We will only cover him with bark and change our camp."</p>
+      <p>This they did, and long afterwards they saw creep from under the bark a little lizard. And they called it Walloobahl, because they said it must be the spirit of the boy they had killed. And ever since then the little bark lizard has been called Walloobahl.</p>
+    </body>
+  </text>
+</TEI>

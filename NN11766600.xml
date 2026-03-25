@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Ēʼdistā; or, Big-Toad of Chesley River</title>
+        <editor role="collector">James Teit</editor>
+        <editor role="narrator">Tuu:ʼts ('strong rocks')</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NN11766600</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NN11766600</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Teit, James A. (1919/21): Tahltan Tales. In: The Journal of American Folk-Lore 32(124), 198-250; 34(133/134), 223-253, 335-356. Quot. p. 345.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA28403">Tahltan</name>
+          <date notBefore="1912" notAfter="1915" type="recorded">Recorded sometime between 1912 and 1915.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>Formerly gigantic toads lived in some parts of the country. There was one near Teslin Lake, another on the south fork of the Stikine River, and another on Chesley River. Once two [Tlingit or Taku] men were hunting on Chesley River. They camped near a hollow not far from where Big-Toad had his house. They saw a fire running around on the water and along the shore. They said to each other, "What is that?" and one of them proposed that they run away. They tried to run, but were unable to move. One man had presence of mind enough to urinate and to rub the urine over his head and body. Then he became capable of moving, and managed to get away. Soon he saw something like a fire go to where his partner was standing spell-bound, and devour him. He went back to a camp where many people lived, and told them of his escape and of his comrade's death. They said that was Ēʼdistā<note>The name of a gigantic toad said to have inhabited the country in mythological times. These toads lived near streams and lakes, and burrowed in the mud and earth. When any people came near, they ran out and devoured them. See JAFL 32: 221.</note>. They went to Big-Toad's house, and set fires in the woods all around it. Toad ran out to attack them, and was burned to death. After the fires were out, they went back to the place, and found a number of huge bones lying there. The shoulder-blades were as large as the floor of a small cabin.<note>About twelve feet in diameter. Old Indians claim to have seen the bones, but say they are now rotten and covered up with earth and vegetation.</note> The place where this happened is about eleven miles below Chesley Post, above McDonald's Portage.</p>
+    </body>
+  </text>
+</TEI>

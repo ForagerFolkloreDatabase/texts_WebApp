@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Woman Who Married the Black Bear</title>
+        <editor role="collector">James Teit</editor>
+        <editor role="narrator">Tuu:ʼts ('strong rocks')</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NN11765900</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NN11765900</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Teit, James A. (1919/21): Tahltan Tales. In: The Journal of American Folk-Lore 32(124), 198-250; 34(133/134), 223-253, 335-356. Quot. pp. 337-338.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA28403">Tahltan</name>
+          <date notBefore="1912" notAfter="1915" type="recorded">Recorded sometime between 1912 and 1915.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <note>See RBAE 31: 834, 835 (Bellacoola, Haida, River's Inlet, Tlingit, Tsimshian).</note>
+      </p>
+      <p>Some women were coming down a steep side-hill, following one another Indian file. They had been out picking berries all day. The last woman slipped on some bear-excrement and fell. She was angry, and said, "Those dirty black bears defecate on the trail all the time!" Soon afterwards a man caught up with her and offered to carry her berries. She agreed, and went with him. She thought he was leading her to the camp, but he led her away to where he had his den. They entered and sat down. The bear bent his head down, but the woman sat upright. Bear said, "Bend your head forward as I do." She did this, and at once changed into a bear. Now they lay down together to go to sleep. She put one of her hands out of the den. The bear told her not to do this, and she obeyed; but after a while she stretched out her hand again involuntarily.</p>
+      <p>One day her brother was hunting below the den. She knew he was near and below her. She took some snow, kneaded it into a ball, and let it roll down the slope. The snowball hit the toe of her brother's <pb n="338"/>snowshoe. He looked up, and saw what looked like a small hole the hillside. He examined the snowball, and saw that it had been kneaded and bore the marks of fingers. He returned to the camp and told the people. On the following day they went to the den, but found it empty. During the night the bear and the woman had gone off and made a new home near a salmon creek. Here they lived, and the woman bore two children to the bear. After a time the bear told her she might go back to her people and see them, but forbade her to talk to her former husband.<note>Some informants say that the bear was a grizzly, and not a black bear; and the story continues from this point as No. 60. See RBAE 31: 742.</note> On this visit she reverted to her former human form. One time the people made fun of her children because they looked like bears and had long nails. Then she became angry, changed into a bear, and killed many people. Then some hunters killed her and her children.</p>
+    </body>
+  </text>
+</TEI>

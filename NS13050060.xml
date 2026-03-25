@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Origin of Agriculture</title>
+        <editor role="collector">María Alejandra Verna</editor>
+        <editor role="narrator">Pedro Machuqui</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NS13050060</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NS13050060</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Verna, María Alejandra (2026): Six Ese’ejja Myths. Trans. for the Forager Folklore Database (FFDB Documents). Quot. pp. 6-8.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CSA37404">Ese Ejja</name>
+          <date when="1982" type="recorded">Recorded in 1982.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>Once there was a man, Docuei'ai who first made a little chaco [field] <note>Chacos are cultivation plots of approximately 1 or 2 hectares, without any type of fence to prevent intruders from entering. In the area visited, they do not exceed this size due to the physical and economic effort involved in clearing, given the rudimentary agricultural implements used.</note>. Later he said to the other Ese'ejja, "Listen! Why are you sleeping instead of working or making fields for your children?" So all those lazy people that were aná [giant anteaters] went to see how many meters Docuei'ai had cleared to make his field. Once he saw it, aná said: "You have done little Docuei'ai, it is not enough. I will beat you at clearing," commented the anteater. There they all went and some of them worked with hatchet and machete. Many meters aná cleared, he made pampas like this one that is now. He worked so hard all day that he made pampas out of the tall bush. His arm swelled up from so much clearing and then he came out in the shape of an anteater because before he was a person. When Docuoi'ai went to his field he already did not find it, he asked aná where the bush he had cleared was. "It is there," the aná answered him. In the middle of that pampa that aná had made was Docuei'ai's field. As soon as he arrived, those aná set fire to it and burned everything. Docuei'ai, who had been left in the middle of the fire, asked for help because he was already burning. Edósiquiana heard his shouts and went to save the poor brocket, who was his son. "Papa, papa I am burning," shouted Docuei'ai. Edósiquiana got closer and asked, "Who has set you on fire?" "It was the fault of aná, he wanted to kill me," he responded. Edósiquiana lifted him in his arms but he was almost completely burned. It is because of this that Docuei'ai is partially dark and doesn't have much fur. Edósiquiana carried him to a place very far away. An old lady who was the mother of aná was there. This old woman had an earthenware jar with boiling water. Then Docuei'ai asked her, "What is that jar for?" The old woman answered, "To stew the brocket." Docuei'ai thought, "The only brocket is me." "How are you going to do it?" he asked interrogatingly. "I'm going to stew it well," she answered. The old woman sat down to show how she would do it and then Docuei'ai took advantage and pushed her into the pot and covered it until it boiled. When it was well cooked, he placed it on a banana leaf to eat it. He had almost finished his meal when he heard her children arrive, shouting: "Mama, mommy, what are you cooking that smells so tasty?" Several times they shouted but no one answered. Docuei'ai, seeing that they were getting closer and closer, ran to the bush. Again the aná shouted but they still did not hear their mother answer. Then they said: "It was Docuei'ai who has surely eaten our mother." They took their machetes and went to the bush to search for him. They put a trap in the middle of the trail and waited close by for the brocket. A while later the trap caught the Docuei'ai. He wanted to get out and pulled his arm, so it became skinny, like his arm is now. He wanted to free his head, he pulled and his neck became very small and skinny. Indeed he didn't have much meat, so he lay down and stayed like he was dead.</p>
+    </body>
+  </text>
+</TEI>

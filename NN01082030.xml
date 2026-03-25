@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Stories about Adlet (#1)</title>
+        <editor role="collector">James S. Mutch</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NN01082030</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NN01082030</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Boas, Franz (1901): The Eskimo of Baffin Land and Hudson Bay. From notes collected by George Comer, James S. Mutch, and E. J. Peck. New York: AMNH (Bulletin of the American Museum of Natural History, 15,I). Quot. pp. 203-204.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA27903">Baffin Island Inuit</name>
+          <date notBefore="1883" notAfter="1899" type="recorded">Recorded sometime between 1883 and 1899.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>A man and his wife lived among the Iglumiut. They had been travelling about for a long time hunting. Finally they came to a place where there were a great number of huts, but no signs of people. They looked in at the doors of several of the huts, but did not see any one. On the roof of one of the huts was a box which was full of beads, and a few beads were on top of the box. The man put out his hand to take some to look at, and as soon as he touched the box, it broke, and the beads scattered about. The couple went into all the huts, and finally found an old woman. She did not notice them, for she was blind. They saw that her nostrils kept twitching all the time. Suddenly the woman said, "I smell a man." The man said, "We are not going to do you any harm." And the woman shouted, "Merkinook" [this was the name of her son], "two people have come. They are not going to do us any harm." Then she invited the man and his wife to sit down by her side and rest, and again she shouted to her son, "There are two people here, but they will not do us any harm." The visitor told her to stop calling; but she paid no regard to him, and called her son again. Soon he arrived in his kayak, and a great many other people came with him. They were Adlet. They did not wear any shoes. Merkinook {204} was their chief. He went into the hut, and fastened the door on the inside. His people wanted to kill the two strangers. They were howling outside like dogs, and took their whaling-lances and tried to stab the visitors through the window, but Merkinook told them to stop. He broke off with a stone the points of their lances as soon as they pushed them into the house. Finally the people desisted, and went to their huts. Merkinook said to the two strangers, "My people need very much sleep; but when they have rested, we will accompany you on your way home." On the following day all the people arose and went off together with the two visitors. They went on until night came; then they separated, and the Adlet returned home. When the two visitors looked back at the Adlet, they saw them moving very fast, as though a herd of caribou were running. The Adlet were in the habit of cutting out part of their insteps in order to increase their speed.[[See p. 205.]] The old blind woman suggested to the strangers to submit to the operation, because otherwise they might be killed by the people.</p>
+    </body>
+  </text>
+</TEI>

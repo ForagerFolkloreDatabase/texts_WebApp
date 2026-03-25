@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>About the Men from the Firth Visiting the People at the Open Sea-Shorse</title>
+        <editor role="collector"> anonymous</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NN09854180</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NN09854180</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Rink, Henry (1875): Tales and Traditions of the Eskimo. Edinburg/London: Blackwood. Quot. pp. 418-420.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA27908">Kalaallit (West Greenland)</name>
+          <date notBefore="1823" notAfter="1868" type="recorded">Recorded sometime between 1823 and 1868.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>There once lived three brothers at the head of a firth not far from Nook [Goothaab]. They were born firth-people, and never thought of approaching the outer sea-coast. But on learning that great flocks of auks were to be met with at Kangek, at the mouth of the firth, they agreed to make a trip thither. When they were ready for their departure, however, the youngest changed his mind and would not be of the party; so the <pb n="419"/>other two went off by themselves. Arrived at Kangek, they first intended to land at the outermost point, not being aware of the heavy surf setting in upon it. When the men of the place saw them in their trouble, they said to each other, "It is plain the firth-people yonder know nothing about surf; now we will have some fun with them." Meantime the visitors had put back, and were looking for a place nearer the habitations, where the landing was easier; but the men called out to them, "We never land anywhere but at the point yonder: it is rather an awkward thing, and cannot be done without letting the surf roll over you; however, that is the way to do it." The two poor fellows retired abashed; and paddling back to the great breakers outside the cape, they almost doubted their words. However, as the men on shore continued encouraging them, the eldest brother first paddled back, and when at the right distance from shore, he suffered himself to be carried right in upon the rocks by a monstrous wave, while he quickly made fast his oar by his kayak-strings. At the moment the wave broke over him, he had loosened his jacket from the kayak, and took a leap, jumping on shore, where he waited the next roller, which brought in his kayak, which he grasped hold of, at the right moment hauling it up. Not a word was uttered by any of the mockers, who stood in great consternation on seeing this daring act, which no one among them would have been able to accomplish. While the poor visitor was drawing up his kayak the other prepared to land in the same way, and he achieved it with even greater agility and swiftness than the brother. After this the men on shore took a sudden fancy to them, and vied with each other in inviting them to their houses. The elder, who had by this time found out their former intention of mocking them, replied, "Poor worthless fellows like us are little fit to come here; but our younger brother would just be the man for you. However, he had no fancy <pb n="420"/>for coming. In summer, when the mighty glaciers are throwing off the icebergs into the firth, and when the spotted seals appear, we always want to get at them, but we dare not venture out on account of the dreadful surf from the glacier. We only stand watching our brother, when he, heedless of the danger, crosses the firth; so you see that we are not at all the right ones to call in here." Still not a word escaped the others. After having put their kayaks and implements ashore, they entered the houses, and were regaled with auks, which they liked very much. However, they preferred the entrails to the flesh itself, thinking them more like the entrails of gulls, which were their usual food. The day after they went with the men auk-catching, and having loaded their kayaks, they again turned homewards.</p>
+    </body>
+  </text>
+</TEI>

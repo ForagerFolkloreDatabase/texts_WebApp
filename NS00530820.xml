@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Rhea and the Toads Have a Running Competition (version 1)</title>
+        <editor role="collector">Jan-Åke Alvarsson</editor>
+        <editor role="narrator">Celestino Màànhyejas Gómez</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NS00530820</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NS00530820</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+          <p>By courtesy of Jan-Åke Alvarsson.</p>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Alvarsson, Jan-Åke (2026): Selected Myths and Folktales from the 'Weenhayek. Trans. for the Forager Folklore Database (FFDB Documents). Quot. pp. 82-83.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CSA39401">Wichí</name>
+          <date when="1983" type="recorded">Recorded in 1983.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>Now we can tell one more story.</p>
+      <p>They say that the people got together. And they set up a table. And no one was there, but they wanted to make an election so that everyone who wanted to be president, as a government, [could present themselves].</p>
+      <p>And they put a free chair there at that table, a chair where he had to sit. Nobody was sitting there. And they thought, "Let's see, who is it that is going to win?"</p>
+      <p>[And to qualify to be president] they organized a competition, they made the election in the form of a race. Then the rhea made fun of the toads. And the toads said to the rhea, "We can try to run a race, to see who is going to win that chair to be like a president!"</p>
+      <p>Well, the rhea agreed and said, "All right, let's have a competition; let's race!"</p>
+      <p>But in front of the toads he said, "But you all are not going to be able to run. And I run intensely ..."</p>
+      <p>Then a toad answered, "Yes, I think I will be able to ...."</p>
+      <p>"Ah," said the rhea, "you all are just hopping around. How are you going to be able to run?"</p>
+      <p>But the toad [insisted], saying, "Yes, I can run. And now, if you don't believe me, let's try. But I don't know who will win ..."</p>
+      <p>Then the toads [gathered] and began to chat among themselves. There were many toads gathered together. And [among themselves] they said, "Now yes, we are going to do one thing ... Do you know what we are going to do? Now at each stretch one [of us] is going to stand. I am going to stand there first. And when the rhea passes us], well, then one has to jump in front of him and then, [when the rhea passes him], the one who is further ahead has to jump over there [in front of the rhea] and continue ahead, until we reach the chair ..."</p>
+      <p>So between several [toads they divided up the distance] and they say that in each stretch they put one. And when they were ready to play, he who was waiting near the chair, said [to the rhea], "Now yes, we are ready."</p>
+      <p>So the toads started the race with the rhea. And the rhea started to run. But the toad went ahead and hopped far away, for the toad always has that habit of <pb n="83"/>hopping. So he hopped hard, and hopped far, [like running hard]. And first [he was winning] but after a while they say the rhea won.</p>
+      <p>But when the rhea passed one toad, there was another toad already ahead, running (jumping). And when the rhea looked ahead, he said, "Oh, the toad is already over there, how intensely he is running! And how could it be that he seems to have stayed behind?"</p>
+      <p>But the rhea did not realize that the toad [that was now running] was not the same one that had come along with him a moment ago, but was another that had entered [the race] just then. But the [new] toad crossed the rhea's path, strong and already left the rhea far behind. But the rhea kept running, coming closer until [he passed the toad and] also left him behind.</p>
+      <p>[However] when the rhea was approaching [the chair], and he was close, and it seemed that there was [only] one part left, he happened to look ahead [and saw the toad again].</p>
+      <p>"He has already gone over there again? He is ahead? But how is it [possible]? He is running hard!"</p>
+      <p>Then the rhea already started to run even harder. Because at first he did not think the toad was going to run hard. But now he was running very hard - until he was seized by a tremendous tiredness. He felt so tired, until he could not run anymore. Anyway, when he looked ahead [he saw the toad there].</p>
+      <p>"There goes the toad, running hard ... How can it be? So [it seems that] the toad knew how to run hard ..."</p>
+      <p>The rhea was already very tired. And he was walking more and more [slowly] onward. And it happened that as he was arriving, approaching the chair and the table, suddenly [another toad] crossed his path, and when the rhea [was just about to reach] the chair, [to sit down] and thus win the race, the other one passed him, hopped up and sat on the chair.</p>
+      <p>"Haha!" said the toad, "Now I have beaten you!"</p>
+      <p>"But what a thing, toad! Each time you lost, and then each time you came out ahead of me ... How can that be?" asked the rhea.</p>
+      <p>"It is because I ran hard!" said the toad. And he continued, "Now I am the one in charge. Now I am like the government, like the president now."</p>
+      <p>But the people did not agree. [Someone] said, "But why is the toad there? It cannot be that he has won [the race against the rhea]. Ahem! How can it be? But it does not matter, [if it is that] he has won this way, fine, he has won ..."</p>
+      <p>That's how the ancients told it ... That's it. I finish the story.</p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Fox, the Otter, and the Monkey</title>
+        <editor role="collector">Basil Hall Chamberlain</editor>
+        <editor role="narrator">Ishanashte</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NE00880170</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NE00880170</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Chamberlain, Basil Hall (1888): Aino Folk-Tales. With Introduction by Edward B. Tylor. Privately printed for the Folk-Lore Society. Quot. pp. 17-18.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CEE15701">Ainu</name>
+          <date when="1886" type="recorded">Recorded in 1886.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>In very ancient days, at the beginning of the world, there were a fox, an otter, and a monkey, all three of whom lived on the most intimate terms of friendship.</p>
+      <p>One day the fox spoke to the other two as follows: "What do you say to our going off somewhere, and stealing food and treasures from the Japanese?" His two companions having consented, they all went together to a distant place, and stole a bag of beans, a bag of salt, and a mat from the house of a very rich man. When they had <pb n="18"/>come home with their plunder, the fox said: "Otter! you had better take the salt, for it will be useful to you in salting the fish which you catch in the water when you go fishing. Monkey! do you take the mat; it will be very useful for you to make your children dance upon. As for myself, I will take the bag of beans."</p>
+      <p>After this, all three retired to their respective houses; and a little later the otter went to the river to fish. But, as he took his bag of salt with him when he made the plunge, all the salt was melted in a moment, to his great disappointment. The monkey was equally unlucky; for, having taken his mat and spread it on the top of a tree, and made his children dance there, the children fell, and were dashed to pieces on the ground below.</p>
+      <p>The monkey and the otter, enraged by the misfortunes which the fox's wiles had brought upon them, now joined together in order to fight the fox. So the latter took a lot of beans out of his bag, chewed them to a pulp, smeared all his body with the paste, and lay down pretending to be very ill. And when the otter and the monkey came and made to kill him, he said: "See to what a pitiful plight I am reduced! As a punishment for having deceived you, my whole body is now covered with boils, and I am on the point of death. There is no need for you to kill me. Go away! I am dying fast enough." The monkey looked, and saw that the fox seemed to be speaking the truth. So he went testily away, across the sea to Japan. That is the reason why there are no monkeys in the land of the Ainos.</p>
+    </body>
+  </text>
+</TEI>

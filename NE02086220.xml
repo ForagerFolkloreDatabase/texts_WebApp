@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Freaks' Cape (version 1)</title>
+        <editor role="collector">Nina Nikolaevna Bolina</editor>
+        <editor role="narrator">Bolina (née Silkina) Vera Nikolaevna</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NE02086220</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NE02086220</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0">CC BY-NC-SA</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Shluinsky, Andrey/Khanina, Olesya/Wagner-Nagy, Beáta (2024): INEL Enets Corpus. Version 1.0. Publication date 2024-11-30. https://hdl.handle.net/11022/0000-0007-FE1D-C. Archived at Universität Hamburg. In: The INEL corpora of indigenous Northern Eurasian languages. https://hdl.handle.net/11022/0000-0007-F45A-1 Quot. p. s.p..</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CEE15008">Forest Enets</name>
+          <date when="1991" type="recorded">Recorded in 1991.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>Now I will tell about the life of former people. Probably, that's people's life. Then from  this. That's already Enets people well, only when started living together, probably. So, probably.  And by now on the Red (lake). There is the cape of freaks. Now  people say, Dolganny lake. Now the Red, then it was the Red lake.  There is a cape there, the cape of freaks. There long ago. Such people, one-legged people lived.  Say. At some time there. First people would hardly say, two men lived there.  What, they had no wives. They have  no one. Two men lived, they had reindeer. The Red isthmus, on the isthmus of the cape of freaks.  They had reindeer. Their reindeer went about there. Along the cape.<note>[ShA:] Unclear, a break in the recording precedes.</note>As their reindeer come, their antlers are broken.  My God, by whom are broken these reindeer antlers, they said. Both of them wondered. By whom the antlers of our reindeer are broken? And so they go.  So they are broken by someone. But once. One of them almost. It seems, he was a  clairvoyant man. Maybe, he saw in his dream. Maybe. Maybe he  simply understood. Carefully. Carefully where the way of his reindeer was. That cape, when he was going about along the isthmus of the cape. He saw, well, a human. He saw a woman. He went out of the ground, say. She is wearing a red outerwear with tracery.  All her head is decorated with metal. She is carrying a huge copper bucket. Say, she went for water. A true human, human. A girl. Then also.  He lay doggo, lay doggo. He did not do anything with her. She scooped water with a big  bucket. So she hid in the ground. Then, well, let it be so.  He came home, to his brother. He did not say anything to his brother.  He did not say, say, I saw someone like a man, what. (â¦). They have no doors, they have nothing.  It seems, they fit into the ground. â¦ climbed into. He reached home and <note>[ShA:] A false start in the beginning.</note>did not say anything to his brother. He did not say, I saw such, what.  When he went again the next time. That man saw again that woman.  She is again wearing the same clothes. She is wearing a very red outerwear with traceries. All her head is done with metals. Oh, his heart faltered, of course, when he saw a woman.  He went to her carefully, say. That woman scooped water. That woman also saw him. She stopped, say. She looks at that man. And him he goes quietly. He goes, goes, goes carefully. Finally, they one another, well. One of  them is a girl, after all. She understood the man. They stand, stand, speak. They spoke somehow, probably. In any language. They understood one another well in their speech.  Then let it be so. Somehow they, probably, spoke to one another. She left.  That woman. She left, and then the Enets man. It seems, the Enets man  said. Tomorrow I will come here again at the same time. You will go for water again at the same time.  And the other one said, it seems, yes, I'll come. Somehow they understood one  another's words, after all. Maybe she had to turn out into a human, an Enets. Say, the next day <note>[ShA:] A break in </note>again. While he was feeding his reindeer there carefully.<note>the recording precedes.</note> He looks again from the other side so. That woman. Again appeared there.  Again she takes water with this her huge pail. So he grasped her. So carefully. They were there together with the woman for a long time. There are no people that would go out of the ground.  They were there only alone. Probably, they did there some things.  Of course, they were there for a long time. His brother already came home. His brother came home.  Where do you spend all the night? Where would I be, he said, say, to his brother.  I look after the place the reindeer are, after all. By whom the reindeer's antlers are broken.  Of course, I looked at the place the reindeer were. Where would I be? No, that one does not trust.  My brother found something, why is he absent for a long time? The next day he goes again so. The next days he is absent again so for a long time. So at  some time, damn him. After his mate left to the woman. He went after his brother carefully.  His brother already saw that woman. Already, while that woman took water. He approached to her. After they already found one another.  He already was going to grasp her for speaking. She's a beautiful woman, well. So the other one jumped out <note>[ShA:] A break in the recording precedes.</note>crying from the bushes. Grasp her strongly! Hold her strongly! Until I  come. That one so. She once escaped from that man.  She became one-eyed. She became one-handed. Shake the bucket by one hand.  So she left down under the ground crying. That terrible.  The man who cried. So his brother came back again.  After they came home, he, probably did somehow with his mate. Yeah, they quarreled. Of course, they quarrelled. Why did you cry, damn you! I even released the person!  How we suffer! She would still do something for us. I really wanted to grasp a human for  me. What did you cry, what for did you come? For me, he said. Maybe she would make me something. He did somehow with his brother. As for beating, maybe he beat.  As for criticizing, maybe he criticized him. Let it be, and then. A whole day passed.  After a day passed, he went there, there were no exiting people.  That man carefully checked her. The isthmus of that cape. There were no exiting people.<note>[ShA:] The form buzesuobiza is unexpected, buzeÊobiza is expected.</note> Finally, the third day. So he looked at some distance. A huge boat swam away with them, say. A copper boat. Their boat is red. Wearing a red outerwear.<note>[ShA:] A break in the recording </note> So. She entered the read boat. All the people in the<note>precedes.</note> boat swam away, say. It seems, it was a whole one-legged family.  Really a whole family of people. And they swam away in a huge boat. So, to the West. They swam away along the Red (lake). He only saw how they swam away, say.  So see. And then he looks again, there was no boat. It seems as if  they disappeared in the water. Then so. So he came back home again. He said to his brother.  So. How you have spoiled (relationship with) people. Maybe they were people we had to live together.  Why did you cry, damn you? Why did you cry? Maybe the people somehow.  Maybe these were people we had to live with. And now we stayed again alone two of us. How will we live now?  Then, then. The other one said, say. If I am alive.  Something. A person for me would come from any land. I don't know from  what land would he find a person. Themselves they, probably. They were themselves people who appeared from under the ground.  And how did they do without woman? And why wives  for them did not appear? Where from did only men appear? So, now that.  And by now that cape is the cape of the freaks. The cape of the Red lake. Recent years, when we were there.  Long ago, when our parents were still alive. From there, they used to say.  Don't chop the wood, that's a sin. Even to chop the wood. â¦ to that cape. That was an insane man, I don't know. He installed traps there not long ago.</p>
+    </body>
+  </text>
+</TEI>

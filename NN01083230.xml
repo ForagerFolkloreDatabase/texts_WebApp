@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Old Woman and Her Grandchild</title>
+        <editor role="collector">George Comer</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NN01083230</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NN01083230</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Boas, Franz (1901): The Eskimo of Baffin Land and Hudson Bay. From notes collected by George Comer, James S. Mutch, and E. J. Peck. New York: AMNH (Bulletin of the American Museum of Natural History, 15,I). Quot. pp. 323-325.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA27803">Kivallirmiut</name>
+          <date notBefore="1897" notAfter="1901" type="recorded">Recorded sometime between 1897 and 1901.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>A long time ago the people were starving. They went away from their village, leaving an old woman with her grand-daughter behind. As the two were very hungry, the old woman wrought a spell to induce the foxes to come {324} to her house. At first the caribou came. When they heard them coming, the child went out and saw a large herd of caribou. She re-entered and told her grandmother that the caribou had come, and the old woman ordered her to send them away. Next the musk-oxen came. When they heard them coming, the child went out; and when she saw the musk-oxen, she reported to her grandmother, who told her to send them away. Next came the wolves, but they were also sent away. They heard a tramp of more animals. The child went out, and saw a large number of bears. She went in and told her grandmother, who ordered her to send them away. The old woman said, "I want the foxes to come." Again they heard tramping. The child went out to see who was there, and found a great number of wolverines. She told her grandmother, and the old woman ordered her to send them away. Once more they heard a noise, and when the child went out, she saw a great many rabbits. She told her grandmother that the rabbits were outside. The old woman at first thought that she would like to keep them; but when she saw how lean they were, she told the child to send them away. Again they heard a noise, and when the child went out, she saw a great number of foxes. Now she told her grandmother that the foxes were outside. The old woman asked her to invite them in; and when the whole house was full, she shut the door. The old woman took a stick and killed them all.</p>
+      <p>Now they wanted blubber for their lamp. Then the grandmother took the strap from her waist, and made a harpoon and a line out of it. She urinated, and thus melted a hole in the ice, and soon a seal came up, which she harpooned and caught. Now they had plenty of blubber.</p>
+      <p>Now she had all she wanted except a man. Therefore she transformed herself into a man by making a penis out of the bone for trimming the lamp, and by making her testicles out of fire-stones. Then she wanted to go sealing. She transformed her privates into a sledge. Then she defecated, and wiped herself with snow. She transformed the pieces of snow with which she had wiped herself into dogs by throwing {325} them on the ground. She made a kayak out of the tattooing on her forehead, and a paddle out of the tattooing on her cheeks. Then she married the girl, who was soon with child. One day when she was out sealing, a man came to the snow house. When he saw the sledge, he asked, "Who made the sledge?" - "Grandmother made it." - "Who made the dogs?" - "Grandmother." - "Who made the kayak?" - "Grandmother did." - "And who is the father of your child?" - "Grandmother." While the man was in the hut, the grandmother returned from sealing, and, looking through the entrance, she saw the man's legs. Then she was overcome with shame, and dropped down dead. The man wanted to take the young woman home with him, and they sat down on the sledge; but when he whipped the dogs, they were transformed into snow, and the sledge was retransformed into what it had originally been. Then they walked on to the camp. Soon afterwards the young woman died.[[See No. 40, p. 221; No. 54, p. 248.]]</p>
+    </body>
+  </text>
+</TEI>

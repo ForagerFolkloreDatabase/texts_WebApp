@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Raven Cycle - Raven Makes Lakes</title>
+        <editor role="collector">James Teit</editor>
+        <editor role="narrator">Tuu:ʼts ('strong rocks')</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NN11760126</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NN11760126</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Teit, James A. (1919/21): Tahltan Tales. In: The Journal of American Folk-Lore 32(124), 198-250; 34(133/134), 223-253, 335-356. Quot. pp. 219-220.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA28403">Tahltan</name>
+          <date notBefore="1912" notAfter="1915" type="recorded">Recorded sometime between 1912 and 1915.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <note>See BBAE 59 : 304, notes 2 and 3 (Kaska, Kutenai; also Chilula, Huron, Luiseño, Micmac); also Tahltan, p. 23; Lillooet (JAFL 25 : 333, 334); Thompson (JE 8 : 254). - J. A. TEIT.</note>
+      </p>
+      <p>At one time there were no lakes. There were creeks and rivers, but no lakes. Raven wanted to make lakes and put fish in them. He made a depression in the ground for the water to collect in, and a lake began to form. He put fish in the new lake. After a time he returned to see if the depression had filled up, and how large the lake had grown to be. When he came to the place, he found the water all gone and the fish all dead, and in the depression lay a very large man with a great distended belly. He saw the Snipe there running about, and asked him who the man was and what he was doing there. Snipe told him, "He lies there nearly all the time. He is gorged with water, and very seldom gets up." Raven then knew that the man had drunk the lake. He took away Snipe's short bill, and gave him a long, sharp one. He told him, "You must help me. I will pay you. When the man sleeps, you must push your bill through his belly." He did as told. The water ran out until the man was empty and the lake full. Fish were than able to live in the lake again.</p>
+      <p>Raven told Snipe, "Henceforth you will watch the lake. If the water goes down a little, you must run along the shores and keep them damp, then the lake will keep full." This is why the snipe now has a long beak, and why snipes run about on the shores of lakes. Raven took water from the lake, and, filling his mouth, blew it out over the <pb n="220"/>country here and there, thus forming many lakes. This is why lakes and fish may be found all over the country now.</p>
+    </body>
+  </text>
+</TEI>

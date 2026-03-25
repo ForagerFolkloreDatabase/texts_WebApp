@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Cockoo</title>
+        <editor role="collector">Nina Nikolaevna Bolina</editor>
+        <editor role="narrator">Silkina (née Bolina) Mariya Nikolaevna</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NE02086380</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NE02086380</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0">CC BY-NC-SA</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Shluinsky, Andrey/Khanina, Olesya/Wagner-Nagy, Beáta (2024): INEL Enets Corpus. Version 1.0. Publication date 2024-11-30. https://hdl.handle.net/11022/0000-0007-FE1D-C. Archived at Universität Hamburg. In: The INEL corpora of indigenous Northern Eurasian languages. https://hdl.handle.net/11022/0000-0007-F45A-1 Quot. p. s.p..</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CEE15008">Forest Enets</name>
+          <date when="1990" type="recorded">Recorded in 1990.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>And now. I will tell you a tale about the cuckoo. The cuckoo. Its Enets name is "xuÄii." And in  Russian its name is, actually, kukuÅ¡ka. I will tell a tale about the cuckoo.  Once, there was a woman.  She had two children. This woman was sick, she is sick, she is sick. Her two children.  Her children, both were girls. These girls always played, played outside.  Once their mother was screaming from inside the tent. "Children, bring me some water, my mouth is dry!"  These children of hers were still absent. At some point, she might fall asleep, maybe not in her bed.  Then she would scream again. "My children, where did you go, bring me water!"   Still, they were absent. Perhaps a day had passed, maybe two had passed. They  were running outside or they left somewhere. Eventually, the woman despite that she was sick.  She stood up from her bedding. She started rummaging in her corner.  Where hers, well. Let's say, scarping tools, we have it now. She also had scraping tools, of course, she had. She took out her scraping tools. She took out her scythe. Her board  for working with skins. She took her scraping tools as wings for herself. The scythe for her back.  And she used the scraping board as her tail. So, she turned into a cuckoo. So, she  flew out through the flue hole of her home. And she flew away.  Well, her children were playing nearby. They saw their mother, of course. (â¦). "What bird flew out the flue hole of our tent?" Sp, they looked.  Oh, this is their mother that turned into a cuckoo. Oh, crying, they went towards their tent. They took a ladle, maybe, there were buckets. Water thereâ¦ They went for water to the shore of the lake.  They scooped water with the ladle. To the place where their mother flew away. They ran along that path.  They were barefoot, they had no shoes. The older one was carrying the ladle. They were screaming. "Mom, mom, here's your water! We have brought you water!" And the mother was flying. She cried.  "Cuckoo, cuckoo. But now I don't want water! There is a lot of marsh water in front of me.  So, I don't want water. There is a lot of march water in front of me," â she says. This is the tale of a cuckoo. And in Russian it is called kukuÅ¡ka now. Now in the tundra, let's say, marshes.  The moss is not white. The red moss is there. This red moss.  It is, after all, well. Berries, also, grow on it. Similar to cowberries.  There are small, small. Like cowberry, cowberry. Along this red moss. This red moss. That's why â¦ it is red, after all. These are cuckoo's children, the girls.  Their footsteps. That's blood, these are blood drops from their legs, that's why it is red.  Cuckoo's children, it's drops of their blood. Their berries or. Their berries somehow.  That grow along the moss. Or maybe these are drops of their tears, or somehow.</p>
+    </body>
+  </text>
+</TEI>

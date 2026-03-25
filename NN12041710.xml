@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Old Man, the Elk, and the Gophers</title>
+        <editor role="collector">Christiaan Cornelis Uhlenbeck</editor>
+        <editor role="narrator">Joseph Tatsey</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NN12041710</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NN12041710</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Uhlenbeck, Christiaan C. (1912): A New Series of Blackfoot Texts from the Southern Peigans Blackfoot Reservation, Teton County, Montana. With the help of Joseph Tatsey collected and published with an English translation. Amsterdam: Müller (Verhandelingen der Koninklijke Akademie van Wetenschappen te Amsterdam, Afdeeling Letterkunde, NS 13,I). Quot. pp. 171-177.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA31305">Piegan</name>
+          <date when="1911" type="recorded">Recorded in 1911.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>There the Old Man was again travelling about. Just at dark he saw there many elks. Then he cried, walking towards them [and saying]: Oh, oh, let me do in that way. He was told by their chief: Come on, my elder brother, it is not important. We are leading each other [while I, the chief, carry the fire]. The Old Man told the elk: Go on, that I may see you, how you do it. The Old Man himself began to look about this high cliff [for a place to get down]. He found, where he could go down. He was told by them: Come on, now you must take the lead. The two pieces of bark [the fire, mentioned above] were burning. <pb n="172"/>And he started. He was striking thein together, that they might spark. He came to where this bank was highest. He threw the fire down [over the cliff]. From where it was lowest, he himself jumped down. And from another place he came up. He told them: Come on, my younger brothers, just jump from it, it is very funny. Now, why I did not come soon, was that I laughed hard. Over there, where I jumped, the earth is very soft. Then they began to jump. They were nearly all gone. There was, one, it was a doe, she was big with calves. He was told by her: My elder brother, I had better not jump, [for] I might get hurt. He told her: Yes, now go away, that there might be some elks in the future from you.</p>
+      <p>Then he went down. Then he began to put up a lodge [out of trees and leaves]. He had done making a lodge. Then he began to skin all these elks. He then skinned them. Then he had plenty of meat [cut up and hung]. He had tongues for flags. He had done cutting meat [for dried meat]. He was lying on his back in his lodge. There was a coyote, [that] came there. He had his leg tied [with a bandage], he nearly fell on his face [from limping]. He was told by [the coyote]: My elder brother, give me to eat. He told him: Ah, I ought to hit you on the face. He was told by [the coyote]: <pb n="173"/>Come on, my elder brother, give me even burned [staff] to eat. He answered him: We must first run a race together. He was told by [the coyote]: My leg hurts me. Let it not be far. And there they went away [to the place where they would start from]. [The coyote] would say to him: From here, my elder brother. He would answer him: From that ridge over there. And when they came there, he was again told by [the coyote]: From here. He would say to him: Over there from that other ridge. They had got very far. He said to [the coyote]: Now, from here we shall start to run. Then they started to run. The coyote began to bite his leg loose. Then he ran after the Old Man. He then just ran past him. The Old Man then would say: Oh, my younger brother, leave me some of my choice pieces. The coyote had got to that brush-lodge already a long time.</p>
+      <p>He then howled. The wolves and coyotes, the bears, the badgers, the skunks, the mice, all were there complete. Then the coyote ate [all] the good pieces. What the bears ate, was the skimmed grease. The coyote said to the mice: Run up. Those tongues, that is what you must eat. They [all the animals] were about to separate. At last the rabbits came there. They had nothing to eat. They then only greased their shoulders with some <pb n="174"/>of the oil [that was left]. And they [the different animals] ran away separately. Why the hears, the wolves, the badgers, the foxes, the skunks are fat nowadays, is that they ate the Old Man's choice pieces [of meat] and his skimmed grease. The mice are not fat, [because] they ate the tongues. They were helped by the ants to eat [the tongues]. The rabbits got nothing to eat, they only greased their shoulders. There [between their shoulders] is the only place, where they have fat nowadays. That they do not eat meat, is because they did not eat from the Old Man's choice pieces. And when the Old Man came to [his lodge] and entered, he saw that his food was eaten up. He looked up. He said: They did not do it completely. There are those flags of mine [left]. He pulled those tongues down. He would say [each time he was pulling down one of them]: This one is a scarred tongue. He would throw it away. Finally they were all scarred tongues [because the mice and the ants had eaten from them]. He threw them all away.</p>
+      <p>And there he started again. He saw, there were gophers, they were burying each other [in hot ashes]. He went to them crying [and saying]: Oh, oh, let me do in that way. They said to him: Come on, my elder brother, it is not important. He said to them: Come on, bury one another <pb n="175"/>[in the ashes]. When they buried one another, then they [that were buried] would squeal. Then they threw each other out [of the ashes]. They told him: Come on, my elder brother, we will bury you. He was just buried, and then he squealed. He was thrown out. He told them: My younger brothers, because you are many, just let me bury you all at once. They said to him: Yes. They all lay in there. One of them [standing away from the fire] said to him: My elder brother, I am not with them [that means: I don't take part in their play]. And [the Old Man] covered them up. He told that one [that was standing away from the fire]: Just go away, that there will be some gophers from you in the future. Those others kept on squealing. The Old Man then went away to get layers from the red willows [to put the gophers on]. They were cooked. He pulled them from [the fire]. He began to eat them. He ate his fill with good relish.</p>
+      <p>He said: I will just sleep a little. He told his anus [literally: takes-gun-on-both-sides]: Be careful. If some one comes, wake me up. He lay down. After a short while [his anus] made noise. He jumped up. He saw, there was a bird. He said: Ah, for that one he makes noise. Then he slept again. Then he slept soundly. [His anus] kept on making noise. He did not wake up. There came <pb n="176"/>a bob-cat to those gophers. He ate them all. Then he went away. And [the Old Man] woke up. When he looked, [then he saw, that] all his food was eaten up [literally: all my foods are eaten up]. lie said to his, an us: I told you, that you should be careful. Now all my food is eaten up. And he followed the bob-cat, who was lying on a flat rock. He caught him. He said to him: Now I have you, there is nothing to prevent me from killing you. He made plenty of fire [i.e. a big fire]. He began to knock his [the bob-cat's] face back. And he stretched out bis belly, and he stretched out his hind-legs too. That is why they [the bob-cats] are long-legged, and long-bodied, [and] short-faced. He would throw him in the fire. He [the bob-cat] would just jump over [the fire]. He only scorched his [the bob-cat's] fur yellow. That is why the bob-cats are yellow nowadays. He told him: In that way you will look in the future. When you run, if people say to, you "You have left your fringes behind", then you must stop [literally: then stop].</p>
+      <p>And he went to that fire, he had made. He wiped his anus with a fire-stick. When the burned place began to hurt, he would hold his hind-part to the side, from where the wind blew. He was saying: Let it blow harder. After a short while the wind blew [harder]. He began <pb n="177"/>to be carried by the wind. He would tear up the roots of what he caught hold of. A long time he was carried about by the wind. He caught hold of birches. [Hanging] on those he was blown about by the wind. After a long while the wind stopped blowing. He got up [from "the place where he lay, when the wind had stopped]. He said to them [the birches]: I was happy, being blown about, they had to be there [that means: if you had not been there, I might b6 happy still, being blown about]. He took out his knife. He cut notches in them. He told them: In that way you will look in the future. That is why the birches now look, as if there were notches cut in them. And that is all.<note>Cf. Grinnell blt 155 sq. 158. 171 sqq., Wissler-Duvall mbi 25 sqq. 27 sqq. 38 sq., Mc Clintock ont 338 sqq. 340 sq., Dorsey-Kroeber ta 60. 61 sq. 69, Simms tc 285, Jones ft 284 sqq., Lowie a 111. 113. 115 sq. 127, Lowie ns 274.</note></p>
+    </body>
+  </text>
+</TEI>

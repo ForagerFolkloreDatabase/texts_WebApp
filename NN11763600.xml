@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Story of Goʼnexhaʼtca, the Snail</title>
+        <editor role="collector">James Teit</editor>
+        <editor role="narrator">Tuu:ʼts ('strong rocks')</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NN11763600</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NN11763600</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Teit, James A. (1919/21): Tahltan Tales. In: The Journal of American Folk-Lore 32(124), 198-250; 34(133/134), 223-253, 335-356. Quot. pp. 229-230.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA28403">Tahltan</name>
+          <date notBefore="1912" notAfter="1915" type="recorded">Recorded sometime between 1912 and 1915.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <note>See Tlingit (BBAE 39 : 151).</note>
+      </p>
+      <p>Many people were living at a place called Cītēʼ. Among them was a little girl of the Raven phratry who found a snail and made a pet of it. She wrapped it up, nursed it, and played with it, just as little girls do with dolls. It grew in size. When the girl grew up, she dug a hole under her seat and kept the snail there. She always talked to it just as one speaks to a baby; and, as a mother does, she put it to her breasts. At last it drew milk, and grew rapidly in lenght and bulk. The hole became too small for it; and it bored underground with its sharp tail. It bored underneath her parents' house, and up trough a vessel holding olachen-oil, and drank all the oil. Now it grew to an enormous size. With great rapidity it bored from one house to another, until it reached the last house of the village. In every house it bored a hole upwards, and drank all the oil that was stored there. When the people went to their oil-vessels,they found them empty, and wondered what had taken their oil. The snail lay with its head in the hole below the girl's bed. Whenever the girl went into her room, she at once opened the hole, called it pet names, fondled it, and called it "my little boy" and by other endearing terms. She also sang cradle-songs to it, and composed songs out of love for it. Sometimes her mother asked her what she was doing; and she answered, "I am just fooling, and playing with a doll I have."</p>
+      <p>Towards the end of the period of her puberty training, she went from house to house doing work for people, - sewing, and making robes and moccasins. Her mother became suspicious. One day, when the girl was absent, she went to her daughter's bed and examined the place. She found below the bed a pit like a cellar. On opening it, the snail opened its mouth wide. She closed the pit quickly, ran out, and told her husband and sons. On the following day they sent the girl to the farthest house of the village. Then they prepared to attack the snail with spears and knives. The snail, when attacked, wriggled so much, that the ground burst in a number of places. At these places they cut through its body. After a while they killed it, and then covered up the places where the ground had been rent. The girl heard the commotion, and surmised that something had happened. However, the people of the house in which she was said nothing, and did not appear to be alarmed. When she reached home, she hurried <pb n="230"/>to the hole where her pet was, and saw that it was dead. She reproached her brothers, saying, "Why did you kill your nephew? I was rearing something for you to make you powerful and strong." She wept much, singing, "Oh, my little boy! Oh, his little feet! Oh, his little eyes, his little teeth, his ears, his nose, his mustache, his little hands! " She cried long, and would not be comforted. At last her mother broke down, and gave vent to her grief; then her brothers became affected, and joined in the crying; then her father, and finally all the people. The girl sang her cradle-songs while weeping. She cut her hair, and all the people did the same; and thus they mourned for their dear dead relative the snail. Because the girl suckled the snail, the women of the Raven phratry now have large breasts. Because the girl cried and sang, people now sing mourning-songs when a relative dies. Because the girl cut her hair, the people followed her example, and now cut their hair when a relative dies.</p>
+    </body>
+  </text>
+</TEI>

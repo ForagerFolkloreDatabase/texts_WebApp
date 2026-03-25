@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Woman Who Transformed Herself into a Bear</title>
+        <editor role="collector">James S. Mutch</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NN01082510</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NN01082510</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Boas, Franz (1901): The Eskimo of Baffin Land and Hudson Bay. From notes collected by George Comer, James S. Mutch, and E. J. Peck. New York: AMNH (Bulletin of the American Museum of Natural History, 15,I). Quot. pp. 251-252.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA27903">Baffin Island Inuit</name>
+          <date notBefore="1883" notAfter="1899" type="recorded">Recorded sometime between 1883 and 1899.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>Quite a number of Eskimo live at Nugumiut during the winter, but at other seasons they move camp to a place more suitable for hunting, or where they can be nearer their game.</p>
+      <p>There is a tradition concerning an old woman who had been left alone at this place with her grand-daughter, a young girl about six years old. The old woman's son and his wife had moved to another place, where they lived all by themselves. The old woman and her grand-daughter searched the huts for something to eat. At last they found a piece of bear-skin from close to the lips of the bear. There was no flesh on it.</p>
+      <p>One day the grandmother said to the girl, "We will go away and try to find your father's and mother's hut." They went on, but the girl soon grew tired. They rested awhile. Then the old woman said to the girl, "Go on ahead. Do not be afraid. If you should meet a bear, walk up to it and sit on its back."</p>
+      <p>The girl went on. When she was out of sight, her grandmother transformed herself into a bear, which followed the girl. When the girl saw it, she stopped, and the bear walked up to her. She sat down on its back, and they travelled on in the direction of the place where the girl's father and mother lived. At dark the bear reached the ground-ice. The girl slipped off from the bear's back. Then the bear spoke, and said, "When you are with your father and mother in their house, tell them that I should like to come inside during the night, as it is cold on the ice at night." When the girl had gone, the bear resumed the form of the old woman.</p>
+      <p>The child went to her mother's porch and said, "Grandmother has come. May she come in during the night, for {252} it is very cold outside?" The girl's father refused admittance to his mother. Then the child went back to the old woman, who asked her, "What did your father say?" - "He said 'Don't come here,'" replied the child. The grandmother told the girl to go up and tell him that her grandmother wanted to come in for a drink. The father said, "No, she shall not come in here." The girl went back to her grandmother and told her what the father said. The old woman replied, "Tell him that grandmother is hungry and wants to come in." The girl obeyed; but her father replied, "She shall not come in here." The girl went and told her grandmother, who whipped her with a small piece of rope, and thus transformed her into a bear. She also transformed herself into a bear. Then they both went up to the hut and broke into it. The man tried to kill the bears, first with his lance, then with his spear, and finally with his knife; but all his weapons broke, and the bears killed both him and his wife.</p>
+    </body>
+  </text>
+</TEI>

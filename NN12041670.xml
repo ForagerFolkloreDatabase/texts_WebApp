@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Men and the Women</title>
+        <editor role="collector">Christiaan Cornelis Uhlenbeck</editor>
+        <editor role="narrator">Joseph Tatsey</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NN12041670</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NN12041670</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Uhlenbeck, Christiaan C. (1912): A New Series of Blackfoot Texts from the Southern Peigans Blackfoot Reservation, Teton County, Montana. With the help of Joseph Tatsey collected and published with an English translation. Amsterdam: Müller (Verhandelingen der Koninklijke Akademie van Wetenschappen te Amsterdam, Afdeeling Letterkunde, NS 13,I). Quot. pp. 167-169.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA31305">Piegan</name>
+          <date when="1911" type="recorded">Recorded in 1911.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>The men and the women of the ancient Peigans did not live about together in the beginning. The women lived about on the Porcupine hills [literally: Porcupine-tails] and made buffalo-corrals. Their lodges were fine. Their clothes were cow-skins. Their moccasins were of the same. They tanned the buffalo-hides, those were their robes. They would cut the meat in slices. In summer they picked berries. They used those [berries] in winter. Their lodges all were fine inside. And their things were just as fine. One was the chief of the women. That one led them about. And that one led them to make buffalo-corrals.</p>
+      <p>Now, the men were living about in the south. They were very poor. They made corrals. They had no lodges. They wore raw-hides [of buffalo] and antelope-hides for robes. They wore [the hide around] the gamble-joint of the buffalo for moccasins. They did not know, how they should make lodges. They did not know, how they should tan the buffalo-hides. They did not know too, how they should cut dried meat, [or] how they should sew their clothes. After a long while their chief told them: Let us look for the women. One useful thing of theirs were their <pb n="168"/>[the men's] bows and arrows. They had [also] flint-knives. Those were the things, they had. And they went north over that way. They came to the Porcupine hills. There they stayed about. Then they found out, where the women were camping.</p>
+      <p>Their [the men's] chief Wolf-robe told them: Over there on that hill we shall sit in sight of those women. Then they came there. It was on the river, that the women were camped. Their [the women's] chief told them: Over there near the corral are the men sitting in sight. All these women were cutting meat. Their chief did not take off the clothes, she was cutting the meat with. They were told by her: I shall go up there first. I shall take my choice [from them]. When I come back, you will go up one by one. Now we will take husbands. Then she started up. Then she went up to all these men. She asked them: Which is your chief? [The men said:] This one here, Wolf-robe. She told him: Now we will take you for husbands. And then she walked to that Wolf-robe. She caught him. Then she started to pull him up. Then he pulled back. Then she let him loose. He did not like her clothes. Then she went back down. Then she entered her lodge. Then she began to dress up. When she came out again, there was no such fine-looking woman [as she was]. <pb n="169"/>Then she went up again. She got near the men. Wolf-robe jumped up already. She then walked away from him. And then he went in front of her. Then she went away from him again. It was another man, that that woman caught. Then she took him down to their [the women's] lodges. They came there. She said to him: Here is your- lodge.</p>
+      <p>She told all these women: Now begin to go up. That one, that is very tall, [called] Wolf-robe, that is the Old Man. Don't take him for husband. And bring all those others down. That Wolf-robe would come in front of every one of these women, that came there. They would just walk away from him. [The women] would bring the others down. All these men were taken down. And there that Wolf-robe was standing up alone. He was told by that chief-woman: Turn into a pine-tree, right there where you stand. He got angry. He commenced to knock down that buffalo-corral. And then he turned into a pine-tree. And now till this day that buffalo-corral is still there, just as he knocked it down. And he himself there turned into a pine-tree. In that wav all these men and all these women came to be together. And that is what I know about them.<note>Cf. Wissler-Duvall mbi 21 sq. 39, Mc Clintock ont 346 sq. 440, Lowie a 105 sq. Cf. also Dorsey-Kroeber ta 105 sqq.</note></p>
+    </body>
+  </text>
+</TEI>

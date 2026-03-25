@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Sturgeon Skin</title>
+        <editor role="collector">Irina Petrovna Sorokina</editor>
+        <editor role="narrator">Silkina (née Suslova) Darya Alekseevna</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NE02086500</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NE02086500</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0">CC BY-NC-SA</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Shluinsky, Andrey/Khanina, Olesya/Wagner-Nagy, Beáta (2024): INEL Enets Corpus. Version 1.0. Publication date 2024-11-30. https://hdl.handle.net/11022/0000-0007-FE1D-C. Archived at Universität Hamburg. In: The INEL corpora of indigenous Northern Eurasian languages. https://hdl.handle.net/11022/0000-0007-F45A-1 Quot. p. s.p..</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CEE15008">Forest Enets</name>
+          <date when="1974" type="recorded">Recorded in 1974.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>Sturgeon Skin. There lived an old woman with two sons. Her youngest son was a fool. Her eldest son  was intelligent. Her eldest son wore a sturgeon skin instead of a lining under his fur coat.  He called himself Sturgeon Skin. One day Sturgeon Skin's mother went for water. She wanted to  scoop some water, and then a skier came from behind. The skier said: "Wait for me, I'll just put my  hands in the water." Then he put his hands into the water.  He took his hands out of the water. On his fingers, he took out five nelmas and five sturgeons.  He put these fishes on the ice. He said: "If Sturgeon Skin does the same as me, then let him come to visit me  tomorrow." The old woman filled her buckets with water and went home.  In the evening, her son came. The old woman said: âThe Selkup skier said: if your son does the same as me,  let him come to visit me.â. The old woman told him about the arrival of the  skier. They slept one night. The next morning, Sturgeon Skin went to the water, put his hands into the ice  hole. He took out five nelmas and five sturgeons. He put it on the ice to  freeze it. Then he left. He went along the ski traces of the Selkup skier.  Walking like that, he reached the forest. He sees that Selkup skier is torn into two parts.  Two of its parts on two sides of the tree are gone. Then they got back together again.<note>[ShA:] The syntax looks rather strange.</note>Sturgeon Skin thinks: "And I can also be torn into two parts." He goes forward again. He sees that  Selkup skier left his leg. Sturgeon Skin goes forward again. The Selkup skier left his other leg.  Sturgeon Skin still goes forward. A hand remained from the Selkup skier.   âSturgeon Skin still goes forward. After some time, the Selkup skier left his other hand.  Sturgeon Skin always goes forward. He sees that the Selkup skier has left his torso.  Only his head was left, jumping. He reached the tent. There was one blade of grass  near the tent. His skis are dangling on one blade of grass. Then his skis entered the tent themselves.  Sturgeon Skin also entered the tent. An old man and an old woman are sitting in the tent. An eagle sits on the head of the old  man, a hawk sits on the head of the old woman. There was a girl in the tent. Sturgeon Skin looks to the other side. There are riders on the other side. The Selkup skier said: "Skis are  necessary." After a while, the old woman began to move, ski noses appeared out of her mouth.  He put on his skis and said: "I need to bring you some meat."  After a while, a man appeared and brought a reindeer. He put the reindeer he had brought, and said: âOne has to cut this  reindeer.â. The old woman took a knife, poked her old man with a knife.  The old man began to cut the reindeer. The Selkup skier said: âSturgeon Skin, so that you donât eat meat alone, bring yourself a friend from the outside.â.  Sturgeon Skin went outside. Sturgeon Skin  only thinks, says to himself: âWho will I take as a friend to eat meat, who looks like my friend.â.  He looks here and there. Looking like this, he saw a reindeer caravan. The reindeer of the caravan are all white. A woman is sitting behind the reindeer. The woman stopped. He led the woman by her hand into  the tent. They sat down to eat raw meat. He took the woman as his wife. Sturgeon Skin went home with his wife.</p>
+    </body>
+  </text>
+</TEI>

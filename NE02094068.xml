@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A Stolen Wife</title>
+        <editor role="collector">Konstantin Nikolaevich Rychkov</editor>
+        <editor role="narrator">unidentified</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NE02094068</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NE02094068</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0">CC BY-NC-SA</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Däbritz, Chris Lasse/Gusev, Valentin/Stoynova, Natalia (2024): INEL Evenki Corpus. Version 2.0. Publication date 2024-12-31. Archived at Universität Hamburg. https://hdl.handle.net/11022/0000-0007-FE38-D. In: The INEL corpora of indigenous Northern Eurasian languages. https://hdl.handle.net/11022/0000-0007-F45A-1. Quot. p. s.p..</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CEE15803">Evenki</name>
+          <date notBefore="1910" notAfter="1919" type="recorded">Recorded sometime between 1910 and 1919.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>Two persons came. They stole a man's wife. He, the man, was not in the yurt [at home]. They got into his boat and sailed away. They put the woman in the centre [of the boat]. One of them sat down <note>[StN]: 1) də (with vowel harmony!) corresponds to the Russian da, 2) ja = əjə 'go downstream' ((unknown))</note>facing backwards. They sailed away by boat. The wife is not there when the husband returns. He walked around the headland <note>[StN]: 1) In the manuscript, Кочӓˊwо looks like A, not O! 2) INCEP - meaning((unknown)) 3) jandʼarən - ((unknown)) -n AND instead of -nə((unknown)) why 3sg?</note>on the mountain, came behind the headland and saw her swimming downstream. One is at the bow with his back turned, the other is sitting at the stern [the rear] and the woman is sitting in the middle. He cuckoos: "Thimble â cuckoo! Crossbar <note>[StN]: puruli -- ??</note>[on the crossbar] â cuckoo! Turn â cuckoo! Behind the grey [resin] â cuckoo!" His wife says, "The boat is leaking!"<note>[StN]: ašin - poss 3sg or n-stem?</note> She drilled a hole in the bottom plank of the boat and said, "The boat is leaking! Dock here! I'll get the larch resin [resin]!" They docked.  And she climbed up the little mountain, she climbed up.<note>[StN]: urukičan = urakičin % яр, %хребет((unknown)) -kičan - DIM? (cf. mukdi-kičan below) 	take off? put on? loko2- (S) 'надевать унты' (Vasilevich 1958)</note> On the stump she took off her lapty [her clothes/shoes] and hung them up. And she ran to her husband. And the men are waiting there in the boat.They wait in the boat and say, "How can you dig for larch resin for so long? Quicker!" She doesn't say a <note>[StN]: -matči- ((unknown))</note>word. One [of the men] says, "What is she doing for so long? Why is she standing around for so long? Go out and see what she's doing". The other one goes out. He came there, to the stump:  the shoe was still on, but she was gone.</p>
+    </body>
+  </text>
+</TEI>

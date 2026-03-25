@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Adventrures of Tcikápis (Albany Version)</title>
+        <editor role="collector">Alanson Skinner</editor>
+        <editor role="narrator">Willie Archibald</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NN10581020</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NN10581020</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Skinner, Alanson (1911): Notes on the Eastern Cree and Northern Saulteaux. New York: AMNH (Anthropological Papers of the American Museum of Natural History, 9,I). Quot. pp. 102-103.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA28030">Eastern Cree</name>
+          <date when="1909" type="recorded">Recorded in 1909.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>[While their parents were being devoured by brown bears, Tcikápis and his sister escaped by climbing a tall tree where they could not be seen.]</p>
+      <p>Tcikápis and his sister lived beside a lake. One day the sister told him not to go out on a tree leaning over the water, but Tcikápis shot a bird and it fell into the water. In order to get it Tcikápis climbed out on the tree to reach it and was devoured by a fish. By and by, his sister missed him and <pb n="103"/>suspecting that the fish had eaten him she caught it with a hook. When she went to cut it up, Tcikápis cried, "Slowly, slowly, or you will cut me." When Tcikápis was released he said to her, "Don't scrape the [fish] some off the top of my head and my upper lip, and the people who come later will have hair there,"</p>
+      <p>The next day, Tcikápis was hunting, he heard a noise and came home. His sister cried out, "It is the bears who killed our parents, don't go." Tcikápis went, however, and killed the bears. He found his mother's braid of hair in one. He burned the carcasses.</p>
+      <p>Tcikápis went out again the next day. Again, he heard a noise and returned. His sister said to him, "Don't go out, it is the noise made by giant women scraping beaver skins. The next day, Tcikápis went out and saw the giant women at work. He shot a "Whisky Jack" [Canada jay] and dressed in its skin and flew about. He stole the grease the women had scraped off the skins. The giant women knew it was Tcikápis, and one of them knocked him down with her scraper which she threw at him and killed him. Then they threw him into a kettle of boiling water and laughed as he whirled round and round. Tcikápis was not really dead, however. Suddenly, he jumped out and scalded the people all to death.</p>
+      <p>Next day, Tcikápis heard the giant men netting [chiseling] beaver under the ice. He made himself very small and went to them. The giants asked him to pull out a giant beaver by the tail, expecting him to be pulled in and drowned; he, however, succeeded, much to their surprise. Tcikápis opened the sinew lining of his bow and put the beaver there. The giants shouted to him to bring it back, but he refused.</p>
+      <p>He gave the beaver to his sister to cook. While he was skimming the grease to eat from the pot where the beaver was boiling, the giants came with their war spears, to harpoon him, stabbing through his tent. Tcikápis had a round, flat shell of spoon shape, he put it on his back and covered himself. The giants entered his wigwam but they couldn't break the shell although they knew very well that Tcikápis was under it. Then they threatened to take away his sister if he didn't come out, but he did not budge. They burned the tent and took away his sister.</p>
+      <p>When they had gone, Tcikápis came out and strung his bow and followed them. He came up to them when they were crossing a swamp or muskeg. He said to his arrow, "Don't fall on those that are short, fall only on the tall ones." He fired the arrow which destroyed the giants but did not harm his sister.</p>
+      <p>Next day, Tcikápis went out again. He found a fine path. He went home and told his sister. She said, "That is the path where the sun walks over night." Tcikápis got some string from his sister and made a snare. <pb n="104"/>In the morning, when the sun came along it was caught. There was no daylight the next day, Tcikápis didn't know what to think, but at last he got up and made the fire. Then he told his sister he had caught the sun. As it would not do to have perpetual darkness, Tcikápis called all the animals together to release the sun by cutting the string. He asked the smaller animals to try first, thinking that they would be least apt to be burned. First he tried the ermine [weasel] but he was burned to death. At last he tried the shrew who succeeded in releasing the sun.</p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>War Between the Quileute and Clatsop</title>
+        <editor role="collector">Franz Boas</editor>
+        <editor role="narrator">Charles Cultee</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NN00942710</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NN00942710</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Boas, Franz (1894): Chinook Texts. Washington: Government Printing Office (Bulletin of the Bureau of American Ethnology, 20). Quot. pp. 271-274.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CNA29302">Lower Chinook</name>
+          <date notBefore="1890" notAfter="1891" type="recorded">Recorded sometime between 1890 and 1891.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>A youth at Clatsop was sent to bathe at Nakōt¡āʼt. After five days he returned, going along the beach. In the evening he approached Clatsop and came around the point. Then he looked landward and saw many canoes lying side by side. "Where did these canoes come from?" he thought; "I will turn back." He was going to turn back, then many people pursued him. The beach was full of people. He looked in the direction where he wanted to go. Now there also the people went down to the beach. They cut him off and he was surrounded. They all held spears in their hands. They threw the spears at him. He jumped up and they missed him, the spears passing below him. "Ha, ha!" said the people. They threw their spears again and aimed higher. He stooped and they missed him, the spears passing above him. Again the people said "Ha, ha!" Now he jumped right through them and escaped. They pursued him. They threw spears at him, but he jumped high. He escaped and arrived at Clatsop. The youth had no mother and no father; they were dead. He lived with his grandfather. Now it was evening when he came back to Clatsop. The Tillamook stood there and were dancing. "What are you doing?" he said. "Take your arrows. We shall be attacked. The beach is full of people. Make yourselves ready." "Eia, he lies," said the people. "He wanted to see the ghosts and became frightened." Then the youth said to his grandfather, "Take your blanket. Let us go inland and hide ourselves." Then he and his grandfather went inland to hide. Now the Tillamook danced. At midnight they lay down. When the dawn of the day approached, an attack was made on the village. The <pb n="274"/>Tillamook who slept outside were all killed. Now they attacked the houses. Only a few were killed in the upper half of the town, when the people awoke. The Clatsop awoke. Now the [enemy retired and] carried away the children. The Quileute carried away many boys. Now a person ran up the river to inform the people at Konōʼpē. Now he told them what had happened; they took their arrows and ran down the river. The Quileute took away the nets. Now the people fought, and the Quileute were driven away. One half of them were killed. Then [the dead ones] were carried into the canoes and they launched their canoes. Part they left on the shore.</p>
+      <p>The Clatsop took those canoes and launched them. They went into the canoes of the Quileute and pursued them. They shot their arrows at them. Then the Quileute threw a boy into the water. They struck him on his head and he was drowned. They threw another one into the water and struck him on his head. He swam, and the Clatsop took him into their canoe when they reached him. Thus many boys were thrown into the water. Part survived and part were drowned. Now they passed Point Canby. The Clatsop pursued them on the open sea. Now only three or four men survived in each canoe, and a few canoes only were left. Then the chief of the Clatsop said, "We will return. We have killed a great many." Now the Clatsop returned and the Quileute went home. They arrived at Quenaiult. Their canoes were full of corpses. They placed them upright and put on their hats. Then the survivors went ashore, where they were fed by the Quenaiult. The Quileute ate. Now the Quenaiult carried food to their relatives to the canoes. Behold, they were dead! The Quileute had lied because they were ashamed [that so many of their number had been killed].</p>
+    </body>
+  </text>
+</TEI>

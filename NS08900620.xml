@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Woman and the Dogs (version 1)</title>
+        <editor role="collector">Alfred Métraux</editor>
+        <editor role="narrator">Pedro</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NS08900620</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NS08900620</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Métraux, Alfred (1939): Myths and Tales of the Matako Indians (The Gran Chaco, Argentinia). In: Ethnological Studies/Etnologiska Studier 9, 1-127. Quot. pp. 62-63.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CSA39401">Wichí</name>
+          <date when="1933" type="recorded">Recorded in 1933.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>Formerly there was a woman who lived by herself and went hunting with her dog as a companion. One day the people of her village noticed that she was pregnant and as she was not married they wondered if she had taken her dog as a husband. She gave birth to a dog. After a while she had another baby dog and people knew that the dog was her husband. Instead of killing her dogs she suckled and raised them as though they were real children. After they were grown their mother took them to hunt and showed them which animals to catch. The dogs could not speak but they understood perfectly what their mother said. She told them to leave the spotted animal, the tiger, alone. They must not approach the peccaries, nor the majal, [the two species of Dicotyles] for they were very dangerous. They could kill deer but if they happened to meet a puma they were not to follow him to the trees, but wait for the hunters. She also told them that when they followed an armadillo they had better not bite his nose or he would curl himself into a ball. Neither were they to attack the aguara guasu (Canis Azarae) nor the tapir. Care was necessary when attacking an ant-eater and a certain kind of coati. With the tiger-cats they were to take the same precautions as those taken with the puma and not follow it. It they should meet with a fox, who was very much like themselves they might fight him but if after a little while they found him to be stronger, they must grab him by the throat. They could kill with impunity all kinds of armadillos, turtles and a variety of small fox. They were to be cautious regarding deer. Females could be attacked but the males with horns were very dangerous. They were to be careful with the iguanas as <pb n="63"/>their bites were dangerous to dogs. Snakes should not be attacked.</p>
+      <p>One day the woman sent her children hunting. They killed a tapir. When they returned they were hungry so their mother skinned the tapir and fed them the meat, as she took good care of them.</p>
+      <p>As her sons were excellent hunters a man came to the woman and asked her if she would let them accompany him on a hunt. The woman was very fond of her children and as she knew hunting was dangerous, she sent her nephew along with them. The nephew was old and experienced. Time passed and the dogs did not return. Finally one of them appeared and when the woman asked him where his brother was he did not answer, saying only "is, is, is." ("All right").</p>
+      <p>He told his mother that the jaguar had killed his brother for the fun of it, he had not eaten him. Some men killed the jaguar and gave the woman its flesh which she ate. She made a pimpim (drum) and she sang for two years. After two years she had ceased thinking of her son, but she always accompanied her dogs on the hunt for fear they would be killed.</p>
+    </body>
+  </text>
+</TEI>
