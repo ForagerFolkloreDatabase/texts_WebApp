@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Night Spirit</title>
+        <editor role="collector">Patience Epps</editor>
+        <editor role="narrator">Mateus Goes</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NS04459647</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NS04459647</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+          <p>Note that the CC licence only applies to the XML file. Users should also cite the original source of the text.</p>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Epps, Patience: Hup Collection of Patience Epps. In: The Archive of the Indigenous Languages of Latin America (AILLA), ailla.utexas.org. PID Collection: 1461. Quot. pp. 1-6 (PID19647).</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CSA35913">Hupda</name>
+          <date when="2004" type="recorded">Recorded in 2004.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>I'll tell the one about being up at night, shooting game with a blowgun at night. He went blowgun-hunting, blowgun-hunting. Blowgun-hunting, in the morning he went ... out there he lost his way. Out there, having lost his way, night having fallen, having groped around in the dark, he went to sleep among some big buttress roots [of a large tree]. Having gone to sleep in the buttress roots, having broken and gathered leaves, and stacked them tightly [over the buttress root to make a roof], there inside he sat. Then in the middle of the night a spirit arrived where he was, wanting to eat him. So he [spirit] hit on the buttress [to alert] the man, toy! [buttress drum noise], cæ̃jʼ! [sound of axe falling through the leaf roof]. His axe fell down to the one who was sitting inside. Then the man went groping around and grabbed it, that axe. With that, the spirit went groping around [outside, looking for it]. Groping around, groping around, groping around, until he groped and found the person. "Who's there?" he said. "It's me," said the man. Then "show me your forehead [face]," he [spirit] said. He [man] had killed capuchin monkeys [with blowgun], two of them. So he showed the monkey's face to the spirit. "Your eyes are like mine," he [spirit] said. Then "cut off some of your flesh for me," he said. [He was a] spirit! "All right", he [man] said; he had a small knife, and having cut off the turtle's hand [he had a turtle as well as the monkeys; some reference to turtle being equivalent to the spirit's axe?] he pushed it out to the spirit. "Quick, send me out another one!" he said. He cut off another, and another, and another, [the turtle's feet/hands]. Then as it ran out he sent it out [i.e. the last piece]. When it [turtle] ran out, he started on the monkey. He sent out the monkey's paw. And again. He sent out another one, gave it, and cut off another one. With that, having split open [the monkey] and pulled out its liver, split it open, split it open with his small knife, he took out the monkey's liver. Then he sent that out to the spirit. It's belly, apparently the belly had already run out, [so he sent] the liver. Then the liver was gone, so he split another open; the person, in order to give the spirit something to eat.</p>
+      <p>As he was doing thus, the day arrived, it was dawn. It was all gone, that which had been his game, that which had been the person's game. In giving it to the spirit. So, "mine's all gone!" Now it's your turn!" he said. So now that spirit, "send me out your small knife!" he said. So then the person sent out his knife. "How did you do it?" he [spirit] said. "Here, at the liver, stick in your knife right where your liver is and split [yourself] open!" he said, the person, to that spirit. "All right", he said, that spirit, and stuck in the knife and split himself open, mmm! pam! [sound of falling over], he died. The spirit died. While he lay there dead, the person returned home, back to his wife. He told his wife to cook the monkey. "All right," she said, and went to cook it. As she was cooking, he said to his wife, "a spirit nearly ate me!" he said. "I just experienced something awful!" he said. "A spirit nearly ate me!" he said. "The game, with this one's liver I escaped!" he <pb n="5"/>said.</p>
+      <p>Mmm [noise of traveling], the next day he returned to look. [The spirit] was lying there. The spirit's corpse. But his eyes were not dead and lay looking. Mmm [traveling noise], after some time had passed, after a week had passed he went back to see again. He still lay there. Now a pokeweed ['deer-leaf'] plant was growing out of his liver. Pokeweed. It was red pokeweed. It was pokeweed. It was red, growing out of the spirit's liver. White [= fresh, green leaves] pokeweed, really nice [to eat]! Red pokeweed was growing out of that spirit's liver.</p>
+      <p>After than, he went to look again, a week later. This time, there was an imbaúba tree [Cecropia sp., lit. 'coca-salt-tree'], an imbaúba tree growing up, there, next to the pokeweed plant. Like the imbaúba trees here [gesturing nearby]. That imbaúba tree, it's just like salt [powdered leaves have salty taste].</p>
+      <p>Two weeks later [he went back again]! When the imbaúba tree was this big [gestures] he went back to see again. He [spirit] lay there. "You're just lying there rotting!" [the man] said. So, rubbing his machete against the imbaúba tree [to gauge where to cut], he cut it! Tǝk [cutting sound]! Waa [growing sound - apparently it only grew when he cut it, instead of falling down?]. "You're bringing me back to life, sleep-visitor!" he [spirit] said. He called him 'sleep-visitor'. "How can I repay you, what do you want?" he said. "I'll give you an arrow," he said. [When the person] shot it, pæn! inambu birds were stuck all along the length of the arrow [like a skewer]. "Hey, this is great, I want this!" he said. In just one shot, he had a whole jirau full of smoking game. Moreover, the spirit stayed with him; it was the spirit of his [dead] affinal relative.</p>
+      <p>So he went shooting a lot [with the magic arrow]. He carried on shooting a lot; "to others, to your relatives, say nothing [about this arrow]," [the spirit] told him. "I won't leave you," he said [but if you tell, you'll die]. He [spirit] took him [man] to another town, on a drinking day. He had said in his heart [i.e. thought to himself], "I'd like to drink caxiri!" he'd think, "beer, beer." [The spirit heard his inner thoughts]; "All right, you want to drink?" he [spirit] said,[beer] in a big cuia, in a cuia this big he [spirit] brought [beer] to him. Tam! he brought and gave it to him [to drink]. Going to another village, the same; going to another village, the same; going to another village, the same, he always did [thus]. Then he [spirit] would help him [man] go fishing. "Come on, let's go fishing, affinal relative, sleep-visitor," he'd always say ...</p>
+      <p>So, he provided him with drink. He went fishing for fish. For traira fish. For traira, big ones. "Pull out the hair!" [b/c for the man the spirit's 'fish' are actually jaguars], he said, "scrape off the scales!". "Scrape the scales, pull out the hair! sit and watch [how I do it]!" They were jaguars, the spirit's traira, jaguars, little jaguars. Right at midnight, the big ones came, big traira. Those he would fish. At this point, the person was clinging [in fear] to his affinal relative, like this [to his back]. Then the spirit lifted one up by the teeth [he accidentally? stuck his finger in its mouth; the fish bit the end of his finger, and he lifted it up]. "I'm lifting it up by the teeth," he said. It hung [from spirit's hand] by his claw, by the jaguar's claw [the equivalent to the fish's teeth]. "Have you scraped off all the scales yet?" he said, [but the person] was dropping the scales all around like this [in the wrong way]. "I just did it for you [to show you], thus!" he said, and he pulled all the <pb n="6"/>scales off quickly [sound of scales falling off]. [The scales] were just barely stuck on for him [the spirit; i.e. easy to remove]. "Go, cook it for us. Go bring a pot," he said. [The person] went searching all around in vain. It was a termite's nest, a termite's nest, the spirit's pot! A big termite's nest, this big [gestures]. A hard termite's nest! With this he cooked their food.</p>
+      <p>Having lit a fire, having cooked the food, they went up from the river toward their house. Until they returned. Having returned, they went to another town. There they did likewise. There, the one who had given life to the spirit, while drunk, he spoke to them [other people]. "That one gave me an arrow," he said. In revenge/payment for this, the spirit took him, took his heart. Having taken it, that one, having buried his body, having become a shadow [spirit] his heart stayed by him, by the spirit. So, there he [man's spirit] stayed there with him [spirit], for a long time ... He fished for him, he fished with timbo for him, they lived thus [as before]; bait worms he dug for him, thus. He lived well, with him [spirit]. One dry season, one rainy season, he stayed there, with the spirit.</p>
+      <p>Then, he went to that [next] town, and it was the same. There he did the same, for the same number of dry seasons [years]. He provided him with food, he grew used to [the spirit's food]. He [spirit] took him off, until! there, he provided him with beer, thus they lived. He took him to drink at another house, and another house, he took [caused to be provided?] their food for him, their quinhapira for him, thus he always did, the spirit! As for the people, those who lived there, they didn't see him [because he was a spirit]. Right through the middle of the house he would lug it all out. "Here is beiju, [here is] what meat there is," thus the spirit [would say as he] brought it out. There it ends, Pattie.</p>
+    </body>
+  </text>
+</TEI>

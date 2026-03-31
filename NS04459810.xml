@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Star-Hole Story</title>
+        <editor role="collector">Patience Epps</editor>
+        <editor role="narrator">Henrique Monteiro</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NS04459810</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NS04459810</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+          <p>Note that the CC licence only applies to the XML file. Users should also cite the original source of the text.</p>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Epps, Patience: Hup Collection of Patience Epps. In: The Archive of the Indigenous Languages of Latin America (AILLA), ailla.utexas.org. PID Collection: 1461. Quot. pp. 1-8 (PID19810).</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CSA35913">Hupda</name>
+          <date when="2003" type="recorded">Recorded in 2003.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>It was that Star-Hole, those Star Hollows, they used to be people, on this earth. Thus it was, a snake killed them, that one, he was of this land. He killed each of them ...  [to Americo: That one's {cigarette lighter} all gone; just a little is left.] So another descended, was killed; another, another, thus! That’s how it was, that one; the hearth, like the one that you lit earlier, above the hearth. A jirau ... [Americo: Father can tell you the tale! I'm going back ... I'll be right back.] it kept going like this... put another up, and another, and another, and another, thus! Those who had been people, the Star-Hole children. So, he smoked each of them over the fire. Then another man, that snake, that old snake, that one that was killing us, <pb n="2"/>it killed him [in turn] ...</p>
+      <p>So then a man killed the snake. He put b’ob bark on himself [on his hand]. Wrapped around many times [to make a thick sheath], he put it on. The snake's hole was big, long! In the creek, a small creek like this one, in the creek he [snake?] had sunk the end of a hollow log. "You all grab the fish," she said, "I'll poke with the stick [into the hollow log] to send them out to you," she said, the snake's daughter! [to trick the men into falling victim to the snake]. So when she poked them, each time, him [?], that snake, he bit each of them, that one who lived in the hollow log.</p>
+      <p>A long time [it went thus] ... he did in all the people, he did this to all the people, and then another man came. B’ob, b’ob ... maybe you haven't seen tree ... you haven't seen it ... thus he did, wrapped up his hand. His hand was inside like this [gestures]. His hand covered, "send them on!" he kept saying, "send them on!" "Right here, grab it!" she [Snake's daughter] said. He grabbed the snake's head and pulled it, pulled another [snake], pulled another, pulled another, <pb n="3"/>another! For those, to pay back for his smoking of the Star-Hole children, for him, thus they killed those snakes. Smoke fell on them [Jovino: in their eyes, so that they could not close them, and thus would become more brilliant?] those ones that are like this in the sky, the Star-Hole ones, those who are up high. These used to be, used to be here in this land, they climbed up and stayed.</p>
+      <p>So ... having said "what happened?" she went crying up from the river. Their mother, the snakes' mother. Thus it was, thus it was with them, apparently, these snakes, this world, here in this forest ... here those that kill us live, they cause much pain/sickness. They cause sickness. Thus it began, this one [story of the snake].</p>
+      <p>Then he, for them, another man made a blessing for each of them, he blessed. Having blessed, smoke-leaf, pineapple-wash plant, that one that maybe you haven't seen, he picked them [all]. Having blessed, he made blessing-smoke for them, caused them to descend [from the jirau, by smelling the smoke], made those who had been smoking on the jirau descend. So, "you all come bathe and wash," <pb n="4"/>he said, he sent them all to the river. That's how it came about, that they went up to the sky [through being blessed], those one, the Star-Hole ones. They were once people. They climbed up there to stay.</p>
+      <p>[PLE: And the snake?] The snake. They killed it ... the Star-Hole ones. All these, all the others, Bone-Son made them ... the one above us, Jesus made them, those, the others.</p>
+      <p>In the beginning, it happened like this, it was like this that the igapó rains [began], so as to have water [in the igapó], it was they themselves that created it ... um ... the Star-Hole ones, that go [across the sky] in the rainy season .... From the beginning, the igapó rains [were there], the lords of the igapó, from the beginning. In the beginning Bone-Son left them there, the high, the high one, he left them. He left all of them. He left, he left them, he left those lords of the rainy season. <pb n="5"/>In the beginning it was like this... Right now, it's the Armadillo Rain time. After this comes the one I spoke of, the snake.</p>
+      <p>[Is it there, in the stars?] It's there! It's there. They [appear] here in this land/region, having gone, they climb back up. Thus, they [appear] like this, while having not been here before, during the rain period, then gone again, in this region. They go across this world. Thus, going, after going across this world again, they come from here [gestures to eastern horizon], come up from downriver. There they climb up. That's how it happens.</p>
+      <p>There all of them [are], armadillo too, the same with him, the same with snake, um, the same with the jaguar rain-period. the jaguar rain ... That other one, crossed like this [+] it hangs up high, crossed like this, it's the woodworking tool! Here, those star-hole children, is the jirau they were smoked on. The fish jirau is another one that goes [across the sky]. That fish jirau was also the snake's smoking-jirau. It's the lords of the igapó rains that go. Those that had been people, <pb n="6"/>they are now lords of the rains. So they all fled up [to the sky], up there! It's all these, the lords of the igapó rains. These rainy-season ones go, armadillo, snake, jaguar, fish jirau, woodworking tool, otter. I'm talking about those ones that eat fish in the river, otters. [Shriek of otter] They're big! Their head is like this [gestures] ... big, I say! [Those fish, theirs ... ] In the days of the igapó rain, the otter rain. The days he goes! Going about eating fish, they go until the headwaters of the river. Another river, another river. Then, having descended [in the sky] until he disappears, here he climbs back up again, high [in the other side of the sky]. It goes like this, they come back again ... the same with the jaguar, the same with the armadillo. Then that um, star-hole, when the snake igapó-rain goes again, in this land the snakes appear again. Those that kill people. Here a man died. A snake killed him. Right there [gestures to area in village] it bit him, there! <pb n="7"/>Here he bit him, over there ...</p>
+      <p>[PLE: When are the cɔ̃hdehs?] During the rainy season! One after another, they go! One group after another goes, those igapó rains, those ones, those igapó rain-lords.</p>
+      <p>All the igapo rains go down [below the horizon], São João goes, comes [to stay]. The SJ [holiday] they hold goes.</p>
+      <p>It's been like this since the beginning, SJ gone, after SJ, having rained, it [the rain] breaks [stops]. The dry season will begin, the one in which they make the roças ... It goes like this. Thus the Ancestors told it; these are the words of the Ancestors. Thus, so that there you all will know, I'm telling it to you. That's how it happens, having said it, you all will know. That's how we began, in the beginning, like this <pb n="8"/>we would be separated, it went like this. I know it all! With my heart I myself know, all the way to the land where you all live. I know it all ... all this ... the created ones, their coming back [upriver to live here], having told [this]. I know it all, about the land where you all live ... Everything, having told about the travels of the Ancestors, I know it all ...</p>
+    </body>
+  </text>
+</TEI>

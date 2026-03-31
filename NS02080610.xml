@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>[Flood Myth]</title>
+        <editor role="collector">Augusto Enéas Morosini Borba</editor>
+        <editor role="narrator">anonymous</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NS02080610</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NS02080610</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>No English source available. Quot. pp. 61-62.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CSA40903">Héta</name>
+          <date when="1899" type="recorded">Recorded in 1899.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>In ancient times, there was a heavy rain, which flooded the lands where we lived. One of our own who was swimming, already very tired, saw the top of a palm tree emerging from the waters; he approached it, grabbed a branch that, being dry, broke off and he continued swimming supported by the branch; at dusk he saw another palm tree, he approached it and took hold of a green branch and climbed it and settled down on the branches, and he stayed there for many days suffering from hunger and cold; then the palm fruits began to ripen and he ate them and fed on them. One day, in the distance, he heard the song of the sapacurú [a kind of ibis found in our rivers] approaching him. "Stay firm there, I'll bring land so you can climb down." After a while a saracúra landed on the branches of the palm tree, and seeing him there said to him: "Near here there is land, why don't you go there?" - "I can't. I'm too weak: if I let go of the palm tree, I'll die for sure." Then the saracúra said: "I am going <pb n="62"/>to look for land." And it and the sapacurú brought earth in their beaks and spread it over the water, which dried up. In the places where the sapacurú let go of the earth, as its beak was larger, the earth was elevated forming mountains. Before this rain, the land we dwelt on was flat; and the water disappeared, and he descended from the palm tree, and lived off of the fruits and roots of the trees; but he was alone among the other animals that were not like him. One day the sapacurú said to him: "Why don't you go look for a partner? In the large cove of the lagoon there are many. Make a raft, get on it and I'll send the ducks to take you to where the young women of the other people are." And the next morning, the ducks took the raft with him inside in tow. On the edge of the lagoon many young women were bathing; they saw the raft, they ran to the beach in fright; one of them threw herself into the water and swam towards the raft; Arriving there, he held her in his arms and the ducks dragged the raft to his landing. The other girls told their people what had happened, and they went in pursuit of the fugitives, but could not catch up with them. The Aré married the girl, they had children; but when we meet other people they always fight with us. This is why we live separately and as if lost in the woods. Alone, naked, living off the game we catch in our snares and traps, we cultivate nothing so that others don't discover us, and because we satisfy ourselves with the fruits of the earth, the mate and the tobacco that grows naturally everywhere. We walk around naked because we don't know how to cover up and, besides, the climate here is warm and good.</p>
+    </body>
+  </text>
+</TEI>

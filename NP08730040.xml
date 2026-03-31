@@ -4,8 +4,8 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>The Little Bush Child</title>
-        <editor role="collector">Walter E. Roth</editor>
+        <title>Wáritájina (The Fish-Eater)</title>
+        <editor role="collector">Otto Siebert</editor>
         <editor role="narrator">unidentified</editor>
         <funder>Deutsche Forschungsgemeinschaft</funder>
         <principal>
@@ -19,15 +19,15 @@
       </titleStmt>
       <publicationStmt>
         <authority xml:id="FFDB">The Forager Folklore Database</authority>
-        <idno type="FFDB">NS11513260</idno>
-        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NS11513260</idno>
+        <idno type="FFDB">NP08730040</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NP08730040</idno>
         <availability status="free">
           <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
         </availability>
         <date when="2026">2026</date>
       </publicationStmt>
       <sourceDesc>
-        <bibl>Roth, Walter E. (1915): An Inquiry into the Animism and Folk-Lore of the Guiana Indians. In: Thirtieth Annual Report of the Bureau of American Ethnology, 1908-1909. Washington: Government Printing Office, 103-386. Quot. p. 326.</bibl>
+        <bibl>Siebert, Otto (2025): Two Dieri Myths. Trans. for the Forager Folklore Database (FFDB Documents). Quot. pp. 4-5.</bibl>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
@@ -49,15 +49,15 @@
     <profileDesc>
       <settingDesc>
         <setting>
-          <name type="culture" key="CSA36701">Warao</name>
-          <date notBefore="1906" notAfter="1913" type="recorded">Recorded sometime between 1906 and 1913.</date>
+          <name type="culture" key="CIPL0170">Dieri</name>
+          <date notBefore="1864" notAfter="1910" type="recorded">Recorded sometime between 1864 and 1910.</date>
         </setting>
       </settingDesc>
     </profileDesc>
   </teiHeader>
   <text>
     <body>
-      <p>A long time ago it was customary for a woman, when she yearned for a child, to wander about in the forest until she found one. It so happened that a certain woman, Yaburawáko, in going to her field found a little child on the road - a pretty boy he was - and she brought him home. She minded him, and he had sense enough to call her "Mama." By and by, however, the child got mischievous, and made her vexed. She said, "You have really nothing to do with me; so why should you annoy me?" The husband remonstrated with her, expressing himself to her somewhat as follows: "You must not be angry with the child, but must mind him carefully." She continued, however, to be cross with the boy, and finally ill-treated him. "I am not going to be bothered with you any more," she exclaimed. "You have nothing to do with me. You are not mine. You don't belong to me." With this, the child disappeared, whereupon the husband said: "Well, he's gone now, but he will come back again, and this time enter your body, and you will have trouble enough to get rid of him." Sure enough, after a time the child did enter her womb, and, oh! the trouble and the pains she suffered before she was delivered of him. Women ever since have borne children in this manner just because Yaburawáko was so unkind to the little bush child.</p>
+      <p>Kíllawíllina, going from Pando to Pírigúndi and carrying a firebrand, saw the old Pírigúndi man Wáritájinína eating raw fish. Kíllawíllina called out to him and exhorted him to not eat raw anymore, but cooked. Grabbing him, he cleaned his tongue and gave him cooked fish. Again he exhorted him to always only eat cooked [food]. Since then Wáritájinína has also only eaten cooked fish.</p>
     </body>
   </text>
 </TEI>

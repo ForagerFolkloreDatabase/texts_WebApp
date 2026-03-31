@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Felling the Water Tree</title>
+        <editor role="collector">Patience Epps</editor>
+        <editor role="narrator">Manuel Dias</editor>
+        <funder>Deutsche Forschungsgemeinschaft</funder>
+        <principal>
+          <persName>Katja Mellmann</persName>
+          <persName>Michelle Scalise Sugiyama</persName>
+        </principal>
+        <respStmt>
+          <resp>XML template, digitization architecture, and automated inline tagging</resp>
+          <persName>Jan Jokisch</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority xml:id="FFDB">The Forager Folklore Database</authority>
+        <idno type="FFDB">NS04459621</idno>
+        <idno type="URLWeb">https://oracleapex.com/ords/r/ffdb/ffdbwa/narrative-ds?p1010_n_id=NS04459621</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0">CC BY</licence>
+          <p>Note that the CC licence only applies to the XML file. Users should also cite the original source of the text.</p>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Epps, Patience: Hup Collection of Patience Epps. In: The Archive of the Indigenous Languages of Latin America (AILLA), ailla.utexas.org. PID Collection: 1461. Quot. pp. 1-5 (PID19621).</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Text digitized for use in the Web App of the Forager Folklore Database.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="q" matchPattern=".*" replacementPattern="https://www.wikidata.org/wiki/$1">
+          <p>URIs using the <code>q</code> prefix are <name ref="q:Q43649390">Wikidata Q
+                        identifiers</name> and refer to the respective entries on <orgName ref="https://www.wikidata.org/">Wikidata</orgName>.</p>
+        </prefixDef>
+        <prefixDef ident="g" matchPattern=".*" replacementPattern="#$1">
+          <p>Private URIs using the <code>g</code> prefix are pointers to the respective
+                        lemmas in the FFDB collection of glossaries. Glossaries were taken from the
+                        original text source.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="culture" key="CSA35913">Hupda</name>
+          <date when="2002" type="recorded">Recorded in 2002.</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>Bone-Son chopped down the Water-Tree, long ago, it's said. Because there was no water. His food that he had [prepared], his buried vacú, he took his food supplies. So having said "We have no water"... Big! It was big, apparently, that water tree. Having made a platform, he cut just one time; it was thin! [the wood surrounding the water inside]. He cut, cut, cut.</p>
+      <p>Then, to his mother's son, to his [Cǝw's] brother, "Go sit and wait in the canoe," he said [in vain], while he would chop. Having said "I'll do that, Cǝw," he tried to jump into the canoe, did little Ceʔwéwʼ. So at the moment the tree fell, he jumped! did KT [Cǝw]... After him, he [Ceʔwewʼ] jumped following, thus he fell piercing into the water, tapuh! He fell into a water snake's mouth. There he stayed for a long time! [Cǝw] was so high above us, right up under [the sky], here he rubbed his head [on the bottom of the sky-rock] and so became bald. <pb n="2"/>With his cane he pushed [the sky] up high [to where it is now].</p>
+      <p>He was in his canoe a long time. For about a year he stayed there, and the water did not dry up. Tired of sitting there, he sent the water-roach down into the water ... He [Cǝw] sent him down to see the fruits, whether there were any ripe fruits. Vacú, vapisuna fruits, they were. So he just stayed in the canoe, on the water. Just under the sky he stayed.</p>
+      <p>Just a little [water] had gone down, had dried up. Having dried, because it had dried up [a little], he looked out and saw some fruits. Big clumps of vacu! Vapisuna, dark and ripe. Then, a sneeze, coming from [sticks] perched on the water. "Bring the canoe Cǝw! Bring the canoe Cǝw!" said [one] perched on a branch, a little frog they call [bʼej-cɔcɔh]. Could this be little person? he said, dangling [the frog from his fingers] and looking at it. "Achoo! Achoo! You found me, Cǝw!" he said. There was no night, there was always day in those times, no night, no sun or moon! [So food ran out fast because no one slept at night.] So Bone-Son made the sun/moon! This night one [moon], this day one [sun], he made. As the water went down, <pb n="3"/>then, upriver, at the headwaters, a type of dam [they call it], he pushed it upstream, through the water, in order to push all the fish upstream. There was nothing! Then those jaguars, poisonous snakes, sauva ants, he put them into his canoe. His food, when he would go out [of his boat], for him to eat. When the water had all dried, he made people [Pedro: because he was tired of making animals and didn't want to make anymore]. So, because the water had gone down, Bone-Son made people, so that we would come to exist, he made [people]. Thus he made [them], he made people, so that they would come from the river's mouth. There the water-tree split, maybe sliding forward in its fall, [that is why there is] big water, over there. Having finished this, finished making people, he [i.e. the newly-created people] came, the Created One. The Created Ones came. Noah, maybe [Pedro: from the evangelicals] built a canoe. A big one! Noah built and built on it, that canoe.</p>
+      <p>[From here on Pedro, Sabino say this is biʔid ʔɨd [deals with the origin] and difficult to understand.] Having finished the canoe, they came, inside the house [=boat], under water, they came. The ones who would live here in this land. It was the earth [?], <pb n="4"/>this land, when it dried up, what was left became rock [earth?]. Rock, rock ... so that there would be rapids. He made it all, Bone-Son. Inside his house, the Created One's house, having seen inside the person's house [=boat?], having come inside the house/boat, he [Created One] came in the canoe. How many [groups] would they be? How will they all be? he said. [Untranslatable] he said, with this, accompanied by his friends, accompanied by his relatives, he came. [We Hupdʼǝh] came first. You! You [White people] came after us! You know [to me]? You all came after us! It [canoe] went there, going looking for the way, the Creation Canoe. This distance [gestures] it came and stopped, scraping the bottom [as it ran aground], The nose of the boat remained, and the rest of the boat returned. Thus the old ones used to say, the old ones. Having finished, in this land, where we [?] would exist, he made [again].</p>
+      <p>[Here spell language winds down.] After this he made the sun/moon, Bone-Son. The night one, the day one, he made the day one. "You be here, I'll stay over here," he said, they said to each other [Cǝw and Seʔwewʼ are <pb n="5"/>dividing up their territory]. Thus maybe the night moon, here it appeared. Here it climbs us, look there! Just like that.</p>
+      <p>[Spell language starts again.] Coming inside the house/boat, in the water-peoples' house/boat, as it was the peoples' boat, people were born, with this [boat?] he brought them, he brought them. With this he brought them, with this he brought them. The people, those who were our affinal relatives, stayed there, they stayed there, our affinal relatives. You [i.e. me as a Cɔkwʼǝt Nɔgʼod Tæh member] stayed there yourself! [were left downstream, in vain b/c came up here]. The Toucan's Beak Clansmen landed/stayed there. The Water Foam Clansmen stayed there also. There Mih [i.e. Herma] would be, on that side. That other group also went. Titi-Monkey Bone Clansmen they call them. Mmm, that's it, Pattie. Titi-Monkey Bone Clansmen. Play it [recording] back to me!</p>
+    </body>
+  </text>
+</TEI>
