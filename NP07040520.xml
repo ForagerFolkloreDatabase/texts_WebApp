@@ -55,20 +55,40 @@
       </settingDesc>
     </profileDesc>
   </teiHeader>
+  <standOff>
+    <list type="glossary">
+      <item xml:id="GP0704.012">
+        <gloss>Birrahlee</gloss>
+        <desc>baby.</desc>
+      </item>
+      <item xml:id="GP0704.028">
+        <gloss>Bunbundoolooey</gloss>
+        <desc>brown flock pigeon.</desc>
+      </item>
+      <item xml:id="GP0704.053">
+        <gloss>Dunnia</gloss>
+        <desc>wattle.</desc>
+      </item>
+      <item xml:id="GP0704.056">
+        <gloss>Euloo marah</gloss>
+        <desc>large tree grubs. Edible.</desc>
+      </item>
+    </list>
+  </standOff>
   <text>
     <body>
-      <p>The mother Bunbundoolooey put her child, a little boy Bunbundoolooey, who could only just crawl, into her goolay. Goolay is a sort of small netted hammock, slung by black women on their backs, in which they carry their babies and goods in general. Bunbundoolooey, the pigeon, put her goolay across her back, and started out hunting.</p>
-      <p>When she had gone some distance she came to a clump of bunnia or wattle trees. At the foot of one of these she saw some large euloomarah or grubs, which were good to eat. She picked some up, and dug with her yam stick round the roots of the tree to get more. She went from tree to tree, getting grubs at every one. That she might gather them all, she put down her goolay, and hunted further round.</p>
-      <p>Soon in the excitement of her search, she forgot the goolay with the child in it, and wandered away. Further and further she went from the Dunnia clump, never once thinking of her poor birrahlee, or baby. On and still on she went, until at length she reached a far country.</p>
-      <p>The birrahlee woke up, and crawled out of the goolay. <pb n="53"/>First he only crawled about, but soon he grew stronger, and raised himself, and stood by a tree. Then day by day he grew stronger and walked alone, and stronger still he grew, and could run. Then he grew on into a big boy, and then into a man, and his mother he never saw while he was growing from birrahlee to man.</p>
-      <p>But in the far country at length one day Bunbundoolooey, the mother, remembered the birrahlee she had left.</p>
-      <p>"Oh," she cried, "I forgot my birrahlee. I left my birrahlee where the Dunnias grow in a far country. I must go to my birrahlee. My poor birrahlee! I forgot it. Mad must I have been when I forgot him. My birrahlee! My birrahlee!"</p>
-      <p>And away went the mother as fast as she could travel back to the Dunnia clump in the far country. When she reached the spot she saw the tracks of her birrahlee, first crawling, then standing, then walking, and then running. Bigger and bigger were the tracks she followed, until she saw they were the tracks of a man. She followed them until she reached a camp. No one was in the camp, but a fire was there, so she waited, and while waiting looked round. She saw her son had made himself many weapons, and many opossum rugs, which he had painted gaily inside.</p>
-      <p>Then at last she saw a man coming towards the camp, and she knew he was her birrahlee, grown into a man. As he drew near she ran out to meet him, saying:</p>
-      <p>"Bunbundoolooey, I am your mother. The mother who forgot you as a birrahlee, and left you. But now I have come to find you, my son. Long was the journey, my son, and your mother was weary, but now that she sees once <pb n="54"/>more her birrahlee, who has grown into a man, she is no longer weary, but glad is her heart, and loud could she sing in her joy. Ah, Bunbundoolooey, my son! Bunbundoolooey, my son!"</p>
+      <p>The mother <rs type="animal" ref="g:GP0704.028">Bunbundoolooey</rs> put her child, a little boy <rs type="animal" ref="g:GP0704.028">Bunbundoolooey</rs>, who could only just crawl, into her goolay. <shift feature="apartmyth"/>Goolay is a sort of small netted hammock, slung by black women on their backs, in which they carry their babies and goods in general. <shift feature="diegesis"/><rs type="animal" ref="g:GP0704.028">Bunbundoolooey</rs>, the <rs type="animal">pigeon</rs>, put her goolay across her back, and started out hunting.</p>
+      <p>When she had gone some distance she came to a clump of <rs type="plant">bunnia or wattle trees</rs>. At the foot of one of these she saw some large <rs type="animal" ref="g:GP0704.056">euloomarah or grubs</rs>, which were good to eat. She picked some up, and dug with her yam stick round the roots of the <rs type="plant">tree</rs> to get more. She went from <rs type="plant">tree</rs> to <rs type="plant">tree</rs>, getting <rs type="animal">grubs</rs> at every one. That she might gather them all, she put down her goolay, and hunted further round.</p>
+      <p>Soon in the excitement of her search, she forgot the goolay with the child in it, and wandered away. Further and further she went from the <rs type="plant" ref="g:GP0704.053">Dunnia</rs> clump, never once thinking of her poor <rs ref="g:GP0704.012">birrahlee</rs>, or baby. On and still on she went, until at length she reached a far country.</p>
+      <p>The <rs ref="g:GP0704.012">birrahlee</rs> woke up, and crawled out of the goolay. <pb n="53"/>First he only crawled about, but soon he grew stronger, and raised himself, and stood by a <rs type="plant">tree</rs>. Then day by day he grew stronger and walked alone, and stronger still he grew, and could run. Then he grew on into a big boy, and then into a man, and his mother he never saw while he was growing from <rs ref="g:GP0704.012">birrahlee</rs> to man.</p>
+      <p>But in the far country at length one day <rs type="animal" ref="g:GP0704.028">Bunbundoolooey</rs>, the mother, remembered the <rs ref="g:GP0704.012">birrahlee</rs> she had left.</p>
+      <p>"Oh," she cried, "I forgot my <rs ref="g:GP0704.012">birrahlee</rs>. I left my <rs ref="g:GP0704.012">birrahlee</rs> where the <rs type="plant" ref="g:GP0704.053">Dunnias</rs> grow in a far country. I must go to my <rs ref="g:GP0704.012">birrahlee</rs>. My poor <rs ref="g:GP0704.012">birrahlee</rs>! I forgot it. Mad must I have been when I forgot him. My <rs ref="g:GP0704.012">birrahlee</rs>! My <rs ref="g:GP0704.012">birrahlee</rs>!"</p>
+      <p>And away went the mother as fast as she could travel back to the <rs type="plant" ref="g:GP0704.053">Dunnia</rs> clump in the far country. When she reached the spot she saw the tracks of her <rs ref="g:GP0704.012">birrahlee</rs>, first crawling, then standing, then walking, and then running. Bigger and bigger were the tracks she followed, until she saw they were the tracks of a man. She followed them until she reached a camp. No one was in the camp, but a fire was there, so she waited, and while waiting looked round. She saw her son had made himself many weapons, and many opossum rugs, which he had painted gaily inside.</p>
+      <p>Then at last she saw a man coming towards the camp, and she knew he was her <rs ref="g:GP0704.012">birrahlee</rs>, grown into a man. As he drew near she ran out to meet him, saying: </p>
+      <p>"<rs type="animal" ref="g:GP0704.028">Bunbundoolooey</rs>, I am your mother. The mother who forgot you as a <rs ref="g:GP0704.012">birrahlee</rs>, and left you. But now I have come to find you, my son. Long was the journey, my son, and your mother was weary, but now that she sees once <pb n="54"/>more her <rs ref="g:GP0704.012">birrahlee</rs>, who has grown into a man, she is no longer weary, but glad is her heart, and loud could she sing in her joy. Ah, <rs type="animal" ref="g:GP0704.028">Bunbundoolooey</rs>, my son! <rs type="animal" ref="g:GP0704.028">Bunbundoolooey</rs>, my son!"</p>
       <p>And she ran forward with her arms out, as if to embrace him.</p>
-      <p>But stern was the face of Bunbundoolooey, the son, and no answer did he make with his tongue. But he stooped to the ground and picked therefrom a big stone. This swiftly he threw at his mother, hitting her with such force that she fell dead to the earth.</p>
-      <p>Then on strode Bunbundoolooey to his camp.</p>
+      <p>But stern was the face of <rs type="animal" ref="g:GP0704.028">Bunbundoolooey</rs>, the son, and no answer did he make with his tongue. But he stooped to the ground and picked therefrom a big stone. This swiftly he threw at his mother, hitting her with such force that she fell dead to the earth.</p>
+      <p>Then on strode <rs type="animal" ref="g:GP0704.028">Bunbundoolooey</rs> to his camp.</p>
     </body>
   </text>
 </TEI>

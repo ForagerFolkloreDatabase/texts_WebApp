@@ -61,6 +61,18 @@
         <gloss>Boomerang</gloss>
         <desc>a curved weapon used in hunting and in warfare by the blacks ; called Burren by the Narran blacks.</desc>
       </item>
+      <item xml:id="GP0704.018">
+        <gloss>Borah</gloss>
+        <desc>a large gathering of blacks where the boys are initiated into the mysteries which make them young men.</desc>
+      </item>
+      <item xml:id="GP0704.062">
+        <gloss>Gooeea</gloss>
+        <desc>warriors.</desc>
+      </item>
+      <item xml:id="GP0704.087">
+        <gloss>Maimah</gloss>
+        <desc>stones.</desc>
+      </item>
       <item xml:id="GP0704.100">
         <gloss>Morilla or Moorillah</gloss>
         <desc>pebbly ridges.</desc>
@@ -69,18 +81,22 @@
         <gloss>Nullah nullah</gloss>
         <desc>a club or heavyheaded weapon.</desc>
       </item>
+      <item xml:id="GP0704.123">
+        <gloss>Waywah</gloss>
+        <desc>worn by men, consisting of a waistband made of opossum's sinews with bunches of strips of paddy melon skins hangingfrom it.</desc>
+      </item>
     </list>
   </standOff>
   <text>
     <body>
-      <p>The blacks had all left their camp and gone away to attend a borah. Nothing was left in the camp but one very old dog, too old to travel. After the blacks had been gone about three days, one night came their enemies, the Gooeeays, intending to surprise them and kill them.</p>
-      <p>Painted in all the glory of their war-paint came the Gooeeays, their hair tied in top-knots and ornamented with feathers and kangaroos' teeth. Their waywahs of paddy, melon, and kangaroo rat skins cut in strips, round their waists, were new and strong, holding firmly some of their <rs ref="g:GP0704.016">boomerangs</rs> and woggoorahs, which they had stuck through them.</p>
-      <p>But prepared as they were for conquest, they found only a deserted camp containing naught but one old dog. They asked the old dog where the blacks were gone. But he only shook his head. Again and again they asked him, and again and again he only shook his head. At last some of the black fellows raised their spears and their <rs ref="g:GP0704.100">moorillahs</rs> or <rs ref="g:GP0704.108">nullah-nullahs</rs>, saying:</p>
+      <p>The blacks had all left their camp and gone away to attend a <rs ref="g:GP0704.018">borah</rs>. Nothing was left in the camp but one very old <rs type="animal">dog</rs>, too old to travel. After the blacks had been gone about three days, one night came their enemies, the <rs ref="g:GP0704.062">Gooeeays</rs>, intending to surprise them and kill them.</p>
+      <p>Painted in all the glory of their war-paint came the <rs ref="g:GP0704.062">Gooeeays</rs>, their hair tied in top-knots and ornamented with feathers and kangaroos' teeth. Their <rs ref="g:GP0704.123">waywahs</rs> of paddy, melon, and kangaroo rat skins cut in strips, round their waists, were new and strong, holding firmly some of their <rs ref="g:GP0704.016">boomerangs</rs> and woggoorahs, which they had stuck through them.</p>
+      <p>But prepared as they were for conquest, they found only a deserted camp containing naught but one old <rs type="animal">dog</rs>. They asked the old <rs type="animal">dog</rs> where the blacks were gone. But he only shook his head. Again and again they asked him, and again and again he only shook his head. At last some of the black fellows raised their spears and their <rs ref="g:GP0704.100">moorillahs</rs> or <rs ref="g:GP0704.108">nullah-nullahs</rs>, saying: </p>
       <p>"If you do not tell us where the blacks are gone, we shall kill you."</p>
-      <p><pb n="51"/>Then spoke the old dog, saying only: "Gone to the borah."</p>
-      <p>And as he spoke every one of the Gooeeays and everything they had with them was turned to stone. Even the waywahs round their waists, the top-knots on their heads, and the spears in their hands, even these turned to stone. And when the blacks returned to their camp long afterwards, when the borah was over, and the boys, who had been made young men, gone out into the bush to undergo their novitiate, each with his solitary guardian, then saw the blacks, their enemies, the Gooeeays, standing round their old camp, as if to attack it. But instead of being men of flesh, they were men of stone - they, their weapons, their waywahs, and all that belonged to them, stone.</p>
-      <p>And at that place are to be found stones or mayamahs of great beauty, striped and marked and coloured as were the men painted.</p>
-      <p>And the place of the mayamah is on one of the mounts near Beemery.</p>
+      <p><pb n="51"/>Then spoke the old <rs type="animal">dog</rs>, saying only: "Gone to the <rs ref="g:GP0704.018">borah</rs>."</p>
+      <p>And as he spoke every one of the <rs ref="g:GP0704.062">Gooeeays</rs> and everything they had with them was turned to stone. Even the <rs ref="g:GP0704.123">waywahs</rs> round their waists, the top-knots on their heads, and the spears in their hands, even these turned to stone. And when the blacks returned to their camp long afterwards, when the <rs ref="g:GP0704.018">borah</rs> was over, and the boys, who had been made young men, gone out into the bush to undergo their novitiate, each with his solitary guardian, then saw the blacks, their enemies, the <rs ref="g:GP0704.062">Gooeeays</rs>, standing round their old camp, as if to attack it. But instead of being men of flesh, they were men of stone - they, their weapons, their <rs ref="g:GP0704.123">waywahs</rs>, and all that belonged to them, stone.</p>
+      <p><shift feature="epimyth"/>And at that place are to be found stones or <rs ref="g:GP0704.087">mayamahs</rs> of great beauty, striped and marked and <rs type="color">coloured</rs> as were the men painted.</p>
+      <p>And the place of the <rs ref="g:GP0704.087">mayamah</rs> is on one of the mounts near <placeName>Beemery</placeName>.</p>
     </body>
   </text>
 </TEI>
