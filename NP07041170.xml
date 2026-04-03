@@ -59,27 +59,35 @@
     <list type="glossary">
       <item xml:id="GP0704.016">
         <gloss>Boomerang</gloss>
-        <desc>a curved weapon used in hunting and in warfare by the blacks ; called Burren by the Narran blacks.</desc>
+        <desc>a curved weapon used in hunting and in warfare by the blacks; called Burren by the Narran blacks.</desc>
       </item>
       <item xml:id="GP0704.112">
         <gloss>Oolah</gloss>
         <desc>red prickly lizard.</desc>
       </item>
+      <item xml:id="GP0704.122">
+        <gloss>Wayambeh</gloss>
+        <desc>turtle.</desc>
+      </item>
+      <item xml:id="GP0706.014">
+        <gloss>Boondee</gloss>
+        <desc>club-headed weapon.</desc>
+      </item>
     </list>
   </standOff>
   <text>
     <body>
-      <p><rs type="animal" ref="g:GP0704.112">Oolah</rs>, the lizard, was out getting yams on a Mirrieh flat. She had three of her children with her. Suddenly she thought she heard some one moving behind the big Mirrieh bushes. She listened. All of a sudden out jumped Wayambeh from behind a bush and seized <rs type="animal" ref="g:GP0704.112">Oolah</rs>, telling her not to make a noise and he would not hurt her, but that he meant to take her off to his camp to be his wife. He would take her three children too and look after them. Resistance was useless, for <rs type="animal" ref="g:GP0704.112">Oolah</rs> had only her yam stick, while Wayambeh had his spears and boondees. Wayambeh took the woman and her children to his camp. His tribe when they saw him bring home a woman of the <rs type="animal" ref="g:GP0704.112">Oolah</rs> tribe, asked him if her tribe had given her to him. He said, "No, I have stolen her."</p>
-      <p>"Well," they said, "her tribe will soon be after her; you must protect yourself; we shall not fight for you. You had no right to steal her without telling us. We had a young woman of our own tribe for you, yet you go and steal an <rs type="animal" ref="g:GP0704.112">Oolah</rs> and bring her to the camp of the Wayambeh. On your own head be the consequences."</p>
-      <p>In a short time the <rs type="animal" ref="g:GP0704.112">Oolahs</rs> were seen coming across the <pb n="118"/>plain which faced the camp of the Wayambeh. And they came not in friendship or to parley, for no women were with them, and they carried no boughs of peace in their bands, but were painted as for war, and were armed with fighting weapons.</p>
-      <p>When the Wayambeh saw the approach of the <rs type="animal" ref="g:GP0704.112">Oolah</rs>, their chief said: "Now, Wayambeh, you had better go out on to the plain and do your own fighting; we shall not help you."</p>
-      <p>Wayambeh chose the two biggest boreens that he had; one he slung on him, covering the front of his body, and one the back; then, seizing his weapons, he strode out to meet his enemies.</p>
+      <p><rs type="animal" ref="g:GP0704.112">Oolah</rs>, the <rs type="animal">lizard</rs>, was out getting <rs type="plant">yams</rs> on a <rs type="plant">Mirrieh</rs> flat. She had three of her children with her. Suddenly she thought she heard some one moving behind the big <rs type="plant">Mirrieh bushes</rs>. She listened. All of a sudden out jumped <rs type="animal" ref="g:GP0704.122">Wayambeh</rs> from behind a <rs type="plant">bush</rs> and seized <rs type="animal" ref="g:GP0704.112">Oolah</rs>, telling her not to make a noise and he would not hurt her, but that he meant to take her off to his camp to be his wife. He would take her three children too and look after them. Resistance was useless, for <rs type="animal" ref="g:GP0704.112">Oolah</rs> had only her yam stick, while <rs type="animal" ref="g:GP0704.122">Wayambeh</rs> had his spears and <rs ref="g:GP0706.014">boondees</rs>. <rs type="animal" ref="g:GP0704.122">Wayambeh</rs> took the woman and her children to his camp. His tribe when they saw him bring home a woman of the <rs type="animal" ref="g:GP0704.112">Oolah</rs> tribe, asked him if her tribe had given her to him. He said, "No, I have stolen her."</p>
+      <p>"Well," they said, "her tribe will soon be after her; you must protect yourself; we shall not fight for you. You had no right to steal her without telling us. We had a young woman of our own tribe for you, yet you go and steal an <rs type="animal" ref="g:GP0704.112">Oolah</rs> and bring her to the camp of the <rs type="animal" ref="g:GP0704.122">Wayambeh</rs>. On your own head be the consequences."</p>
+      <p>In a short time the <rs type="animal" ref="g:GP0704.112">Oolahs</rs> were seen coming across the <pb n="118"/>plain which faced the camp of the <rs type="animal" ref="g:GP0704.122">Wayambeh</rs>. And they came not in friendship or to parley, for no women were with them, and they carried no boughs of peace in their hands, but were painted as for war, and were armed with fighting weapons.</p>
+      <p>When the <rs type="animal" ref="g:GP0704.122">Wayambeh</rs> saw the approach of the <rs type="animal" ref="g:GP0704.112">Oolah</rs>, their chief said: "Now, <rs type="animal" ref="g:GP0704.122">Wayambeh</rs>, you had better go out on to the plain and do your own fighting; we shall not help you."</p>
+      <p><rs type="animal" ref="g:GP0704.122">Wayambeh</rs> chose the two biggest boreens that he had; one he slung on him, covering the front of his body, and one the back; then, seizing his weapons, he strode out to meet his enemies.</p>
       <p>When he was well out on to the plain, though still some distance from the <rs type="animal" ref="g:GP0704.112">Oolah</rs>, he called out, "Come on."</p>
-      <p>The answer was a shower of spears and <rs ref="g:GP0704.016">boomerangs</rs>. As they came whizzing through the air Wayambeh drew his arms inside the boreens, and ducked his head down between them, so escaped.</p>
+      <p>The answer was a shower of spears and <rs ref="g:GP0704.016">boomerangs</rs>. As they came whizzing through the air <rs type="animal" ref="g:GP0704.122">Wayambeh</rs> drew his arms inside the boreens, and ducked his head down between them, so escaped.</p>
       <p>As the weapons fell harmless to the ground, glancing off his boreen, out again he stretched his arms and held up again his head, shouting, "Come on, try again, I'm ready."</p>
       <p>The answer was another shower of weapons, which he met in the same way. At last the <rs type="animal" ref="g:GP0704.112">Oolahs</rs> closed in round him, forcing him to retreat towards the creek.</p>
       <p>Shower after shower of weapons they slung at him, and were getting at such close quarters that his only chance was to dive into the creek. He turned towards the creek, tore the front boreen off him, flung down his weapons and plunged in.</p>
-      <p>The <rs type="animal" ref="g:GP0704.112">Oolah</rs> waited, spears poised in hand, ready to aim <pb n="119"/>directly his head appeared above water, but they waited in vain. Wayambeh, the black fellow, they never saw again, but in the waterhole wherein he had dived they saw a strange creature, which bore on its back a fixed structure like a boreen, and which, when they went to try and catch it, drew in its head and limbs, so they said, "It is Wayambeh." And this was the beginning of Wayambeh, or turtle, in the creeks.</p>
+      <p>The <rs type="animal" ref="g:GP0704.112">Oolah</rs> waited, spears poised in hand, ready to aim <pb n="119"/>directly his head appeared above water, but they waited in vain. <rs type="animal" ref="g:GP0704.122">Wayambeh</rs>, the black fellow, they never saw again, but in the waterhole wherein he had dived they saw a strange <rs type="animal">creature</rs>, which bore on its back a fixed structure like a boreen, and which, when they went to try and catch it, drew in its head and limbs, so they said, "It is <rs type="animal" ref="g:GP0704.122">Wayambeh</rs>." <shift feature="epimyth"/>And this was the beginning of <rs type="animal" ref="g:GP0704.122">Wayambeh</rs>, or <rs type="animal">turtle</rs>, in the creeks.</p>
     </body>
   </text>
 </TEI>

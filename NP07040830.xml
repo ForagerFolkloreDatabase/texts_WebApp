@@ -55,16 +55,32 @@
       </settingDesc>
     </profileDesc>
   </teiHeader>
+  <standOff>
+    <list type="glossary">
+      <item xml:id="GP0704.005">
+        <gloss>Bibbee</gloss>
+        <desc>woodpecker, bird.</desc>
+      </item>
+      <item xml:id="GP0704.045">
+        <gloss>Deereeree</gloss>
+        <desc>willy wagtail.</desc>
+      </item>
+      <item xml:id="GP0704.057">
+        <gloss>Euloo wirree</gloss>
+        <desc>rainbow.</desc>
+      </item>
+    </list>
+  </standOff>
   <text>
     <body>
-      <p>Deereeree was a widow and lived in a camp alone with her four little girls. One day Bibbee came and made a camp not far from hers. Deereeree was frightened of him, too frightened to go to sleep. All night she used to watch his camp, and if she heard a sound she would cry aloud: "Deereeree, wyah, wyah, Deereeree," Sometimes she would be calling out nearly all night.</p>
-      <p>In the morning, Bibbee would come over to her camp and ask her what was the matter that she had called out so in the night. She told him that she thought she heard some one walking about and was afraid, for she was alone with her four little girls.</p>
-      <p>He told her she ought not to be afraid with all her children round her. But night after night she sat up crying: "Wyah, wyah, Deereeree, Deereeree."</p>
-      <p>At last Bibbee said! "If you are so frightened, marry me and live in my camp. I will take care of you." But Deereeree said she did not want to marry. So night after night was to be heard her plaintive cry of "Wyah, wyah, <pb n="84"/>Deereeree, Deereeree." And again and again Bibbee pressed her to share his camp and marry him. But she always refused. The more she refused the more he wished to marry her. And he used to wonder how he could induce her to change her mind.</p>
-      <p>At last he thought of a plan of surprising her into giving her consent. He set to work and made a beautiful and many coloured arch, which, when it was made, he called Euloowirree, and he placed it right across the sky, reaching from one side of the earth to the other. When the rainbow was firmly placed in the sky, and showing out in all its brilliancy, of many colours, as a roadway from the earth to the stars, Bibbee went into his camp to wait. When Deereeree looked up at the sky and saw the wonderful rainbow, she thought something dreadful must be going to happen. She was terribly frightened, and called aloud: "Wyah, wyah." In her fear she gathered her children together, and fled with them to Bibbee's camp for protection.</p>
-      <p>Bibbee proudly told her that he had made the rainbow, just to show how strong he was and how safe she would be if she married him. But if she would not, she would see what terrible things he would make to come on the earth, not just a harmless and beautiful roadway across the heavens, but things that would burst from the earth and destroy it.</p>
-      <p>So by working on her mixed feelings of fear of his prowess, and admiration of his skill, Bibbee gained his desire, and Deereeree married him. And when long afterwards they died, Deereeree was changed into the little willy wagtail who may be heard through the stillness of the summer nights, crying her plaintive wail of "Deereeree, wyah, wyah, Deereeree."</p>
-      <p><pb n="85"/>And Bibbee was changed into the woodpecker, or climbing tree bird, who is always running up trees as if he wanted to be building other ways to the sky than the famous roadway of his Euloowirree, the building of which had won him his wife.</p>
+      <p><rs type="animal" ref="g:GP0704.045">Deereeree</rs> was a widow and lived in a camp alone with her four little girls. One day <rs type="animal" ref="g:GP0704.005">Bibbee</rs> came and made a camp not far from hers. <rs type="animal" ref="g:GP0704.045">Deereeree</rs> was frightened of him, too frightened to go to sleep. All night she used to watch his camp, and if she heard a sound she would cry aloud: "<rs type="animal" ref="g:GP0704.045">Deereeree</rs>, wyah, wyah, <rs type="animal" ref="g:GP0704.045">Deereeree</rs>." Sometimes she would be calling out nearly all night.</p>
+      <p>In the morning, <rs type="animal" ref="g:GP0704.005">Bibbee</rs> would come over to her camp and ask her what was the matter that she had called out so in the night. She told him that she thought she heard some one walking about and was afraid, for she was alone with her four little girls.</p>
+      <p>He told her she ought not to be afraid with all her children round her. But night after night she sat up crying: "Wyah, wyah, <rs type="animal" ref="g:GP0704.045">Deereeree</rs>, <rs type="animal" ref="g:GP0704.045">Deereeree</rs>."</p>
+      <p>At last <rs type="animal" ref="g:GP0704.005">Bibbee</rs> said: "If you are so frightened, marry me and live in my camp. I will take care of you." But <rs type="animal" ref="g:GP0704.045">Deereeree</rs> said she did not want to marry. So night after night was to be heard her plaintive cry of "Wyah, wyah, <pb n="84"/><rs type="animal" ref="g:GP0704.045">Deereeree</rs>, <rs type="animal" ref="g:GP0704.045">Deereeree</rs>." And again and again <rs type="animal" ref="g:GP0704.005">Bibbee</rs> pressed her to share his camp and marry him. But she always refused. The more she refused the more he wished to marry her. And he used to wonder how he could induce her to change her mind.</p>
+      <p>At last he thought of a plan of surprising her into giving her consent. He set to work and made a beautiful and <rs type="color">many coloured</rs> arch, which, when it was made, he called <rs ref="g:GP0704.057">Euloowirree</rs>, and he placed it right across the sky, reaching from one side of the earth to the other. When the rainbow was firmly placed in the sky, and showing out in all its brilliancy, of many <rs type="color">colours</rs>, as a roadway from the earth to the stars, <rs type="animal" ref="g:GP0704.005">Bibbee</rs> went into his camp to wait. When <rs type="animal" ref="g:GP0704.045">Deereeree</rs> looked up at the sky and saw the wonderful rainbow, she thought something dreadful must be going to happen. She was terribly frightened, and called aloud: "Wyah, wyah." In her fear she gathered her children together, and fled with them to <rs type="animal" ref="g:GP0704.005">Bibbee</rs>'s camp for protection.</p>
+      <p><rs type="animal" ref="g:GP0704.005">Bibbee</rs> proudly told her that he had made the rainbow, just to show how strong he was and how safe she would be if she married him. But if she would not, she would see what terrible things he would make to come on the earth, not just a harmless and beautiful roadway across the heavens, but things that would burst from the earth and destroy it.</p>
+      <p>So by working on her mixed feelings of fear of his prowess, and admiration of his skill, <rs type="animal" ref="g:GP0704.005">Bibbee</rs> gained his desire, and <rs type="animal" ref="g:GP0704.045">Deereeree</rs> married him. And when long afterwards they died, <rs type="animal" ref="g:GP0704.045">Deereeree</rs> was changed into the little <rs type="animal">willy wagtail</rs> who may be heard through the stillness of the summer nights, crying her plaintive wail of "<rs type="animal" ref="g:GP0704.045">Deereeree</rs>, wyah, wyah, <rs type="animal" ref="g:GP0704.045">Deereeree</rs>."</p>
+      <p><pb n="85"/>And <rs type="animal" ref="g:GP0704.005">Bibbee</rs> was changed into the <rs type="animal">woodpecker</rs>, or <rs type="animal">climbing tree bird</rs>, who is always running up <rs type="plant">trees</rs> as if he wanted to be building other ways to the sky than the famous roadway of his <rs ref="g:GP0704.057">Euloowirree</rs>, the building of which had won him his wife.</p>
     </body>
   </text>
 </TEI>

@@ -55,11 +55,23 @@
       </settingDesc>
     </profileDesc>
   </teiHeader>
+  <standOff>
+    <list type="glossary">
+      <item xml:id="GP0704.029">
+        <gloss>Bunnyyarl</gloss>
+        <desc>flies.</desc>
+      </item>
+      <item xml:id="GP0704.132">
+        <gloss>Wurranunnah</gloss>
+        <desc>wild bees.</desc>
+      </item>
+    </list>
+  </standOff>
   <text>
     <body>
-      <p>The Bunnyyarl and Wurrunnunnah were relations, and lived in one camp. The Wurrunnunnah were very hardworking, always trying to gather food in a time of plenty, to lay in a store for a time of famine. The Bunnyyarl used to give no heed to the future, but used to waste their time playing round any rubbish, and never thinking even of laying up any provisions. One day the Wurrunnunnah said, "Come out with us and gather honey from flowers. Soon will the winter winds blow the flowers away, and there will be no more honey to gather."</p>
-      <p>"No," said the Bunnyyarl, "we have something to look to here." And off they went, turning over some rubbish and wasting their time, knowing whatever the Wurrunnunnah brought they would share with them. The Wurrunnunnah went alone and left the Bunnyyarl to their rubbish. The Wurrunnunnah gathered the flowers and stored the honey, and never more went back to live <pb n="107"/>with the Bunnyyarls, for they were tired of doing all the work.</p>
-      <p>As time went on the Wurrunnunnah were changed into little wild bees, and the lazy Bunnyyarls were changed into flies.</p>
+      <p>The <rs type="animal" ref="g:GP0704.029">Bunnyyarl</rs> and <rs type="animal" ref="g:GP0704.132">Wurrunnunnah</rs> were relations, and lived in one camp. The <rs type="animal" ref="g:GP0704.132">Wurrunnunnah</rs> were very hardworking, always trying to gather food in a time of plenty, to lay in a store for a time of famine. The <rs type="animal" ref="g:GP0704.029">Bunnyyarl</rs> used to give no heed to the future, but used to waste their time playing round any rubbish, and never thinking even of laying up any provisions. One day the <rs type="animal" ref="g:GP0704.132">Wurrunnunnah</rs> said, "Come out with us and gather honey from <rs type="plant">flowers</rs>. Soon will the winter winds blow the <rs type="plant">flowers</rs> away, and there will be no more honey to gather."</p>
+      <p>"No," said the <rs type="animal" ref="g:GP0704.029">Bunnyyarl</rs>, "we have something to look to here." And off they went, turning over some rubbish and wasting their time, knowing whatever the <rs type="animal" ref="g:GP0704.132">Wurrunnunnah</rs> brought they would share with them. The <rs type="animal" ref="g:GP0704.132">Wurrunnunnah</rs> went alone and left the <rs type="animal" ref="g:GP0704.029">Bunnyyarl</rs> to their rubbish. The <rs type="animal" ref="g:GP0704.132">Wurrunnunnah</rs> gathered the <rs type="plant">flowers</rs> and stored the honey, and never more went back to live <pb n="107"/>with the Bunnyyarls, for they were tired of doing all the work.</p>
+      <p>As time went on the <rs type="animal" ref="g:GP0704.132">Wurrunnunnah</rs> were changed into little <rs type="animal">wild bees</rs>, and the lazy <rs type="animal" ref="g:GP0704.029">Bunnyyarls</rs> were changed into flies.</p>
     </body>
   </text>
 </TEI>
