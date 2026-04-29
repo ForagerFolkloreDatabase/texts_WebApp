@@ -4,9 +4,9 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>An Ainu Legend of the Large Trout</title>
+        <title>An Ainu Legend of the Large Trout (A Big Fish)</title>
         <editor role="collector">John Batchelor</editor>
-        <editor role="narrator">unidentified</editor>
+        <editor role="narrator">Penri</editor>
         <funder>Deutsche Forschungsgemeinschaft</funder>
         <principal>
           <persName>Katja Mellmann</persName>
@@ -27,7 +27,7 @@
         <date when="2026">2026</date>
       </publicationStmt>
       <sourceDesc>
-        <bibl>Batchelor, John (1888/90/93): Specimens of Ainu Folk-Lore. In: Transactions of the Asiatic Society of Japan 16(2), 111-150 [Legends I-VII]; 18(1), 25-85 [Legends VIII-IX]; 20(2), 216-227 [Legends X, XI, XII]. Quot. pp. 120-121.</bibl>
+        <bibl>Batchelor, John (1888/90/93): Specimens of Ainu Folk-Lore. In: Transactions of the Asiatic Society of Japan 16(2), 111-150; 18(1), 25-85; 20(2), 216-227. Quot. pp. 120-121.</bibl>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
@@ -50,7 +50,7 @@
       <settingDesc>
         <setting>
           <name type="culture" key="CEE15701">Ainu</name>
-          <date notBefore="1882" notAfter="1888" type="recorded">Recorded sometime between 1882 and 1888.</date>
+          <date notBefore="1877" notAfter="1888" type="recorded">Recorded sometime between 1877 and 1888.</date>
         </setting>
       </settingDesc>
     </profileDesc>
